@@ -1,0 +1,194 @@
+326
+
+νῦν ἐκλείπει· ἐκ δὲ τούτου τὸ καθόλου ἂν ἐγένετο·
+ἐΩσπ :p οὖν λέγομεν, τὸ τί ἐστιν εἰδέναι ταυτό ἐστι
+καὶ διαὶ τί ἐστιν. Τοῦτο δ ἦ ἁπλῶς καὶ μη τῶν
+ὑπαρχόντων τι, ἦ τῶν ὑπαρχόντων, οἷον ὅτι δύο
+ὀρθαί· ἦ ὅτι μεῖζον ἦ ἔλαττον. “Ovi μεν οὖν πάντα
+τοὶ ζητούμενα μέσου ζήτησίς ἐστι, δῆλον.
+
+SYNOPSIS. — 1. Argumentum et divisio huius secundi libri. -
+2. Aequalis in scientiis est numerus quaestionum et eorum quae
+sciuntur: de rebus enim quaerimus ut de ipsis sciamus quae a
+nobis ignorantur. Et quia quatuor· sunt quae de rebus sciuntur,
+ideo quatuor sunt de rebus quaestiones in scientiis, nempe quia,
+propter quid, an sit et quid sit res. Ad has quaestiones reducitur
+quidquid est quaeribile vel scibile. - 3. Declarantur quaestiones
+quae possunt referri ad enunciationes compositas. Et primo quoad
+quaestionem quia.— 4. Deinde quoad quaestionem propter quid,
+quae sequitur quaestionem quia est, seu an sit secundum quid. -
+5. Declarantur quaestiones quae possunt referri ad enunciationes
+simplices. Et primo quoad quaestionem an sit, seu quia est sim-
+pliciter, ad quam sequitur quaestio quid est.- 6. Coordinantur
+praefatae quaestiones, quae hoc habent commune quod quae-
+
+“determinare de principiis eius. Est
+autem duplex principium demon-
+strativi syllogismi, scilicet medium
+eius et primae propositiones indemonstrabiles. Di-
+
+ 
+
+'Codd- exc 1³0 viditur ergo liber iste in duas partes. in prima ³¹²,
+
+oqr: inp. parte.
+
+· Partes om. sr.
+
+“ Lect. seq.
+
+¹ noo om. enim.
+o: proponit.
+
+determinat de cognitione medii ιιι demonstrationi-
+bus3 in secunda, de cognitione primarum proposi-
+tionum0‘3 ibi. De princzpiis autem qualiterfiunt co-
+gnita* etc. Quia enimin primo libro Ρ habitum est *²¹*
+quod omnis doctrina et omnis disciplina fit ex prae-
+existenti cognitione3 in demonstrationibus autern
+cognitio conclusionis acquiritur per aliquod medium
+et per primas propositiones indemonstrabiles; re-
+siduum erat investigare qualiter ista innotescant.
+
+Prima autem pars dividitur ιιι duas partes *· .in
+prima, investigat quid sit medium 111 demonstra-
+tionibus; in secunda parte inquirit quomodo illud
+medium nobis innotescat; ibi· Quomodo autem
+quod quid est ostenditur * etc.
+
+Quia vero medium ιιι demonstrationibus assu-
+mitur ad aliquid innotescendum de quo poterat
+esse dubitatio vel quaestio, ideo circa primum
+duo facit: primo enim* ‚ ponit numerum quaestio-
+num; secundo, ex ipsis quaestionibus investigat
+propositum, ostendens qualiter———ffi— quaestiones perti-
+
+α) De cognitione primarum etc.- Haec secunda pars huius secundi
+libri incipit lectione xx, quae etiam est ultima. Hinc de hac parte, hoc est
+de medio demonstrationis, deque eius cognitione, universus pene est
+secundus liber Posteriorum analyticorum.—- -Ει notet novitius quaein prin—
+cipio huius lectionis dicuntur, duo nempe esse principia demonstrationis,
+scilicet propositiones immediatas et per se notas, et medium; sed non
+eodem modo et sub eadem ratione. Nam propositiones immediatae sunt
+principia demonstrationis, quia sunt quodammodo causae efficientes con—
+clusionis demonstratae, et eam proinde virtualiter continent; eo ferme
+modo quo effectus, antequam producatur, in sua causa virtualiter con-
+tinetur (Cf. lib. 1, lect. 111, ιι. ι). At medium non causa efficiens est ullo
+modo, sed formalis. Sicut enim omnes quaestiones (de quibus dicitur
+ιι. 2) ordinantur ad unam quaestionem quid εει res; ita omnia media
+quaesita reducuntur ad medium quod quid εει, scilicet ad quaerendam
+quidditatem seu essentiam rei scitae, ut probatur ιι. 8 et seqq„ atque
+iterum dicitur in principio lectionis sequentis. Quidditas autem seu es-
+sentia non esstcit rem, cuius est essentia, sed constituit: constitutivum
+autem rei est causa, seu melius ratio formalit- rei ipsius.
+
+β) Quia enim etc.·- B: Quia enim ut in primo libro5 CDEFHIKN
+OST: ut in principio libri: G: in principio huius 1ibri5 L: in (marg.
+
+POSTERIORUM ANALYTICORUM LIB. II
+
+enim est quod nunc deficit; ex his autem universale
+utique factum est. Sicut igitur diximus, quod quid est
+scire idem est et propter quid est. Hoc autem aut est
+simpliciter, et non eorum quae insunt aliquid3 aut quae
+insunt, ut quoniam duo recti sunt, aut quoniam maius,
+aut quoniam minus est. Quod quidem igitur omnia quae
+quaeruntur, medii quaestio sint, manifestum est.
+
+runt medium (hoc est rationem eius de quo quaeritur); non qui-
+dem formaliter sub ratione medii, sed concomitanter sub ratione
+communi cur ita res se habet. — 7. Quaestiones quia est et si
+est differunt sicut in parte et simpliciter· quia prima quaerit de
+esse tali seu secundum quid, altera autem de esse simpliciter. -
+8. Probatur quod ιιι omnibus quaestionibus quaeritur medium vel
+an sit, sicut in quaestione quia et si εει,· νει quid sit, sicut in
+quaestionibus propter quid et quid. Nam in omni quaestione
+scientifica quaerimus scire.- sed scire non habetur nisi quando
+cognoscitur causa, quae est ratio et medium rei scitae. - 9. Du-
+bium incidens de medio quod est definitio passionis.— 10. Con-
+firmatur ratio facta exemplo ex rebus sensibilibus duct0.- 1 1. Re-
+spondetur tacitae obiectioni: et concluditur quod in omnibus
+quaestionibus scientificis est quaestio medii.
+
+neant ad medium demonstrationum* ;ibi: Quaeri--
+mus autem cum quaeramus* etc. - C’irca primurn
+tria facit: primo, enumerat quaestiones; secundo,
+manifestat compositas quaestiones; ibi: Cum qui-
+dem enim utrum hoc * etc.; tertio, simplices; ibi:
+Quaedam autem alio modo* etc.
+
+2. Dicit ergo primo quod aequalis est numerus
+quaestionum eteorum* quae sciuntur. Cuius ratio·
+est, quia scientia est cognitio per demonstrationem
+acquisita. Eorum autem oportet per demonstra-
+tionem cognitionem acquirere ⁷, quae ante fuerint
+ignota. et de his quaestiones facimus, quae igno-
+ramus. Unde sequitur quod ea quae quaeruntur
+sint aequalia numero his quae sciuntur. Quatuor
+autem sunt quae quaeruntur, scilicet quia, propter
+quid, εἰ εει et quid est.- ad quae quatuor reduci
+potest quidquid est quaeribile vel scibile. Dividit
+
+autem in I T opzcorum quaestiones sive ⁸²* proble- ζ
+
+mata ahter ln quatuor, quae omnla comprehen-
+
+duntur sub una harum* quaestionum, quae dicitur ·
+quaestio quia. Non enirn ibi * intendit nisi de ·
+
+quaestionibus ad quas dialectice * disputatur.
+
+3. Deinde curn dicit: Cum quidem enim utrum
+hoc etc. ,manifestat propositas quaestiones, et primo
+compositas. Ad cuius evidentiam considerandum.
+est quod, curn scientia non sit nisi veri* , verum
+autern significetur* solum per enunciationem **,
+oportet solam enunciationem esse scibilem, et per
+
+aman. praemitt. ut) principio, et om.11·bri,· M: ut ἰη principio primi
+1ibri; Q. in principio 1ἰὸνί.- Placet lectio cod. M, in principt'o primi
+libri. —- Legimus infra cum cod. L: ct omnis disciplina (P et alii codd. om.
+omnis) ex lib. 1, lect. 1, n. 9. —Praeterea codd. (exc. DG) habent, et adopta-
+mus, acquiritur per etc.; P: accipitur, G: comparatur.— Deriique codd.
+omnes. qualiter ista innotescant (G, notescunt„ P. cognoscantur.
+
+γ) Cognitionem acquirere etc. —-L: accipere.- -Codd. (exc. Τ). ante
+suerum,- Τ. ante juerant Demonstratio, ut alibi diximus(lib. 1, lecnw,
+not. π), est instrumentum quod non ex conditione rei scitae, sed ex
+conditione mentis nostrae requiritur. Si enim intellectus noster, ut ia-
+tellectus angelicus, per simplicem intuitionem res cognosceret, non ἰιι-
+digeret ratiocinio, sicut et non indigent angeli. Ratiocinatio autem ideo
+instituitur, quia cognito principio, ignoratur conclusio quae virtute ιιι
+principio continetur, et quae in actum nostrae cognitionis deducitur per
+ipsam ratiocInationem, hoc est per applicationem principiorum ad oon·
+elusionem, quam scire volumus. Recte ergo dicitur quod oportet per
+demonstrationem acquirere cognitionem eorum quae ante fuerint igno-
+rata (Cf. P. 1, qu. xW, artic. vn, qu. mu, artic. ιιι; 1 Contra Gens,
+cap. ινιι; QQ. Dispp. De ueritate, qu. xv rDe ratione superiora· ει inse-
+riori, artic. 1).
+
+roo: dauon·
+ειναιίοιιιε.
+
+sssum. 6.
+
+⁸ Num. 3.
+' Num. 5.
+
+1: em· o: εἰσ
+
+· L: et.
+
+n: tatarum.
+uu οιιι. ibt.
+
+‘ Dialect. om. ι..
+
+‘.Ct' 1 Pernen,
+lect. m, not. t.
+
+ϊιιοι signifi-
+catur.
+
+leci-'viu ,inffa-
+

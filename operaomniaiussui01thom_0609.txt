@@ -1,0 +1,200 @@
+CAP. XIII, LECT. XXV
+
+tinet propter quid. Sicut patet de medicina et geo-
+metria. Non enim subiectum medicinae sumitur
+sub subiecto geometriae, sicut subiectum perspe-
+ctivae3 sed tamen ad aliquam conclusionem, in
+medicina consideratam, applicabilia sunt principia
+geometriae. Sicut quod vulnera circularia tardius
+sanentur, medici est scire quia, qui hoc experitur ⁶,
+sed propter quid scire est geometrae, ad quem
+
+last-Praeterea nt: et (1 om. et) ad aliam propter quid. Τὸ pertinet
+om. etiam ab aliis codicibus, exc. H.
+
+σ) Scire quia, qm· hoc experitur. - Cod. S om. quia‚· B marg. habet
+quia, ac non, qui hoc, legit, sed per hoc (et marg. add. quod) experi-
+tun-Codices (exc. GK): sed propter quid est scire geometrae.
+
+τ) Fit demonstratio per causam remotamffiQuantum intersit phi-
+losophum cognitio demonstrationum propter quid et quia, earumque
+inter se discriminis et vis in quaestionibus dirimendis, abunde ex hucus-
+que dictis constat. Operis propterea pretium esse existimo, si de omnibus
+demonstrandi modis schema exhibeatur, quo veluti uno intuitu novitius
+pernoscat quae ad hanc rem pertinent. Ex his non difficile erit cogno-
+scere sensum intentum a s. Thoma in verbis, quibus hanc lectionem
+absolvit.
+
+SCHEMA
+
+Ι. {Demonstratio a priori.
+Demonstratio a. posteriori.
+
+Illa procedit a‘causis ad effectus, hoc est, assumit ut principium cau-
+sam effectus demonstrandi, qui propterea in conclusione infertum-ex
+¹ opposito, demonstratio a posteriori assumit ut principia effectus, et ex
+
+illis causam in conclusione infert.
+
+n, {nemon-trotio propter quid.
+ι Demonstratio quia.
+
+Haec est prima subdivisio demonstrationis a priori, quam diximus
+ense ex causis, seu principiis rei demonstratae. Causa enim assumpta
+ut principium, aut talis est ut convertatur cum effectu, aut secus. In
+prima hypothesi habetur causa immediata seu proxima, et demonstratio
+a priori erit propter quid ‚¹ in secunda hypothesi est causa remota, ει
+demonstratio a priori erit quia. ·- Ex: Est animal rationale ‚· ergo est
+risibile. Risibilitas ariimali rationali tribuitur, ut causae cuius est pro-
+prietas; sed sicut omne animal rationale est risibile, ita, omne risibile
+est animal rationale. Servata ergo natura causalitatis, causa ista con-
+vertitur cum effectu; est igitur causa proxima (quatenus ipsa posita vel
+ablata, ponitur vel aufertur effectus), et demonstratio est a priori et
+propter quid.-· Exemplum aliud: Est animal ; haec emisa non infert ef-
+fectum: ergo est risibile. Attamen ex negatione eiusdem musae scilicet:
+Non est anima1; infertur legitime et necessario negatio effectus, nempe:
+Ergo non est risibile. Videlicet ex causa remota (animal), si talis est
+ut non nisi in virtute sit causa effectus, concluditur negative, ex eius
+negatione, effectus ( risibilitas )‚· sed ex eius affirmatione effectus non
+concluditur affirmative. Demonstratio igitur est a priori, sed quia, non
+propter quid.—Consulto dixi, si talis est etc„ ob dicenda infra n. lv.
+
+propter qnid tantum.
+Demonstratio propter qnid causae et esse effectus,
+
+Demonstratio propter quid causae effectus, seu
+m
+{ seu propter quid et simpliciter.
+
+Ab Aristotele implicite tradi hanc divisionem demonstrationis propter
+quid, affirmat Caietanus in 1 Foster„ cap. 1111 (ἓ Tria demonstrationum
+genera etc. - Circa divisionem etc.‚ fol. 59, col. 3), quamv Averroes
+explicite ponit in Prologo ad suos Comm. in libros Phssicorum Aristo-
+telis, et Comment. xm in lib. 11 eiusdem operis, nec non Comment. xxxv
+in 11 lib. De caelo et mundo. Video, exempli gratia, eclypsim lunae,
+et quaero causam seu propter quid eclypsis. ,Cum dicitur mihi quod
+haec causa sit interpositio terrae inter solem et lunam, assignatur de-
+monstratio propter quid eius quod quaero. At non quaero an sit (esse)
+eclypsis (eam enim oculis cerno), sed quare (causam) sit; et demon-
+stratio ostendit non quidem esse seu existentiam eclypsis, sed eius cau-
+sam. Haec demonstratio propter quid ostendens causam, non autem esse
+effectus, dicta est ab Averroe demonstratio propter quid tantum-*De-
+monstratio autem propter quid, ostendens non solum causam sed etiam
+esse effectus, didtur ab eodem Averroe propter quid et absoluta. Si,
+e. g., ego nescirem triangulum habere tres angulos aequales duobus
+rectis, mathematicus mihi quod ignoro demonstraret per demonstra-
+tionem, qua et ostenderet esse tres angulos-trianguli aequales duobus
+rectis, et illius esse causam assignaret. Tali modo demonstrandi maxime
+umntur mathematici.- Ratio huius divisionis ab ipso Averroe assigna-
+tur: ‹Declaratum est in logicis, inquit, quod demonstrationes sunt, in
+a· quibus itur ex notiori ad latentius. Si igitur notius fuerit posterius,
+
+239
+
+pertinet cognoscere quod circulus est figura sine
+angulo. Unde partes circularis vulneris ⁴* non ap-
+propinquant sibi, ut possint de facili coniungi.
+
+Sciendum autem est quod illa '¹‘ differentia quia ·
+
+et propter quid, quae est secundum diversas scien-
+tias, continetur sub altero praedictorum * modo-
+rum, scilicet quando fit demonstratio per causam *
+remotam τ.
+
+s demonstrationes erunt quia; ct si notius fuerit prius et latentius fuerit
+» suum esse et sua causa notior, erit demonstratio absoluta, quae dat
+› causam et esse; et si latentius fuerit causa rei quam suum esse,
+» erit demonstratio propter quid tantum ι (ln ιι De caelo et mundo,
+Comm. xxxv.—·Venetiis 1489, sine num. pagg.).
+
+ne praedicationis.
+Demonstratio ει priori per causam remotam ratio-
+
+Demonstratio a priori per eausam remotam ratio-
+lv
+i ne positionis vel ordinis.
+
+Dictum est paulo supra quod demonstratio a priori quia εει per cau-
+sam remotam; causa autem remota, ut in superiori lectione not. β di-
+ximus, vel est talis ratione praedicationis, vel ratione ordinis seu positio·
+nis. Prima est ordinis logici, quatenus se habet quasi genus ad effectus
+speciei ; et ideo, sicut genus nonnisi contractum per differentiam speci-
+ficam est talis species ‚ ita causa remota nonnisi contracta per talem dif-
+ferentiam est causa effectus specifici. Praeterea sicut genus requiritur ad
+constituendam speciem, ut pars potentialis (Cf. I Per-ih„ lect. vm, not ν),
+ita requiritur sub eadem ratione causa remota ad effectum speciei. Αι-
+tamen sicut genus non convertitur cum specie et ideo affirmato genere
+non sequitur affirmatio speciei, sed affirmata specie sequitur affirmatio
+generis; ita est de causa remota ratione praedicationis respectu effectus
+specifid, qui propterea non est sine ipsa, sed non est ab ipsa.
+
+At causa remota ratione positionis vel ordinis longe differt a causa
+remota ratione praedicationis. Haec enim numquam potest esse pro-
+prie causa; alia vero est causa effectus: contrahitur per differentiam
+causa remota ratione praedicationis, et ideo a differentia est formaliter
+effectus3 determinatur causa remota ratione positionis ab aliquo, quod
+tamen non est differentia, sed est aliquid quod vel ab ipsa procedit et
+quo indiget ad causandum, vel est conditio quaedam materialis Sit exem-
+plum primi casus: Omnis substantia spiritualis agit ex libero arbitrio.
+Substantia spiritualis non agit ex se, sed mediantibus facultatibus, in-
+tellectu scilicet et voluntate. Attamen facultates istae sunt a substantia
+spirituali, neque sunt eius differentiae sed necessariae resultantiae. Hinc
+convertitur: Omne quod agit ex libero arbitrio est substantia spiri-
+tualis. Consequenter demonstratio liberi arbitrii ex substantia spirituali,
+est demonstratio propter quid, licet ex causa remota ratione ordinis vel
+positionis. Exemplum aliud sit illud quod affert s. Thomas de vulnere
+circulari, quod sit haud facile sanabile. Circulus neque ratione sui, neque
+ratione alicuius imaginariae differentiae est sanabilis3 neque vulnus est
+differentia contrahens circulum ad determinatam speciem: non enim
+specie sed sola materia differunt circuli aurei, argentei etc. Ergo si vul-
+nus circulare est difficile sanabile, hoc attributum convenit circulari ra-
+tione materiae, hoc est vulneris. Quocirca cum dicitur: Vulnus est cir—
+culare; ergo est difficile sanabile, est demonstratio a priori propter
+quid, et est demonstratio qua assignatur non quidem causa contracta
+per differentiam, sed causa in determinata materia existens-
+
+Hanc divisionem demonstrationis a priori non levis momenti esse
+existimo in scientiis, ut ex differentiis patebit quae existunt inter unam
+et aliam demonstrationem, hoc est inter unum et alium modum causandi.
+
+Prima differentia. Effectus causae remotae contrahendae per diffe-
+rentiam ut effectus habeatur, non emanat formaliter nisi a causa infe-
+riori, hoc est a causa contracta3 et solummodo radicaliter est a causa
+remota, eo modo quo proprietates specierum radicaliter sunt a gene-
+ribus, et tanto magis radicaliter quanto magis genera distant a specie in-
+feriori.- Ex opposito effectus causae remotae ratione ordinis vel positionis
+vere et formaliter emanat ab ipsa causa3 et revera esse difficile sana-
+bile (in exemplo allato) est vere et formaliter effectus naturae circularis
+huius materiae, nempe vulneris.
+
+Altera differentia. Resolutio scientifica effectus in suam causam non
+oportet ut fiat in causam remotam, a qua radicaliter solummodo est:
+si enim quaeratur cur aliquid respiret, sufficit ut dicatur, quia habet
+pulmonem, in hypothesi quod pulmo esset causa immediata respirandi.-
+At quoties agitur de effectu causae remotae ratione ordinis, ad illam de-
+bemus pervenire, si ipsius effectus volumus scire propter quid.. Non
+enim datur vera ratio cur vulnus circulare tardius sanetur, nisi assi-
+gnando naturam circularem vi cuius vulnus non habet partes, quae fa-
+cilius possint uniri, neque assignatur ultima ratio liberi arbitrii nisi as-
+surgendo ad substantiam spiritualem, a qua est ratio indifferentiae iudicii
+intellectus, et electionis voluntatis.
+
+Tertia differentia. Causa remota contrahenda per differentiam non
+assumitur in demonstratione affirmativa; in negativa autem assumitur,
+sed non facit cognoscere nisi quia effectus.- Contra causa remota vel
+ratione medii, vel ratione materiae determinatae, assumitur in demon-
+stratione affirmativa, et facit cognoscere propter quid; ut patet ex dictis
+
+⁸ o male: circula-
+res,· Η om. utrq.
+
+acoznnfflusr t
+ista. ·
+
+“Codd. - r: di-
+ctorum.
+
+⁸ Lect. praeced .
+τ
+

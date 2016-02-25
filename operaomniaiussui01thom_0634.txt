@@ -1,0 +1,242 @@
+⁴ Codd.: utrum
+si.
+
+· Codd.. exon.-
+P: est in parte. -
+G: alia mulla.
+
+⁴¹ Codd., exc.co.-
+r: praedicetur.
+
+’Codd.- A: or-
+ainata ‚· ru om.-
+Cf. text.
+
+⁶ Cum hoc om.a.
+
+'¹' Codd.· r: pos-
+sunt.
+
+ῑ
+
+264
+
+et C de I, et 1 de B. Est ergo quaestio: utrum
+necesse sit hic ⁰ descendendo stare, aut contin-
+gat in infinitum ire?
+
+9. Et ostendit consequenter differentiam harum
+duarum quaestionum, quia in prima quaestione
+quaerebatur: si '¹‘ aliquis incipiat a particularissimo
+subiecto, quod nulli inest per modurn quo totum
+universale inest parti ²¹⁸, sed alia insunt ei, utrum
+contingat procedere in infinitum ascendendo?-
+Secunda vero quaestio est: si aliquis incipiat ab
+universalissimo praedicato, quod praedicatur '⁸ de
+aliis sicut totum universale de parte, et nihil hoc
+modo praedicatur de illo, utrum contingat descen-
+dendo procedere in infinitum?
+
+io. Tertio, ibi: Amplius media etc., movet ter-
+tiam quaestionem ex parte medii termini. Et in
+hac quaestione supponuntur duo extrema deter-
+minata *, scilicet universalissimum praedicatum,
+et particularissimum subiectum3 et quaeritur curn
+hoc ⁵, utrum possint *³* esse infinita media: puta,
+si A sit universalissimum praedicatum, et C sit
+particularissimum subiectum, et inter A et C sit
+medium B, et inter A et B iterum sit aliud ¹,
+et similiter inter Β et C, et horum etiam medio-
+rum sint alia media, inter ipsa scilicet et extrema,
+tam ascendendo quarn descendendo. Est ergo
+quaestio ³: utrum hoc possit procedere in infini-
+tum, aut hoc sit impossibile?
+
+11. Deinde cum dicit: Est'autem hoc inten-
+dere etc., ostendit ad quid tendant huiusmodi
+
+' quaestiones; in quo declaratur quod huiusmodi
+
+· c: quaecunque.
+
+quaestiones pertinent ad materiam, de qua nunc
+agitur, scilicet ad demonstrationes. Dicit ergo quod
+intendere inquisitioni veritatis λ in istis quaestioni-
+bus idem est ac si quaeratur, utrum demonstra-
+tiones procedant in infinitum, vel ascendendo vel
+descendendo. Ascendendo quidem, ita quod quae-
+libet * propositio, ex qua demonstratio procedit, sit
+
+θ) Necesse sit hic descendendo etc. - P: necesse sit hoc in C de-
+scendendo etc. Codd. BCDEILMNQRST: necesse sit hic, et omnes omit-
+tunt in C. — Sit syllogismus supradictus: A est B; C est A; ergo C
+est B. Si C ita est subiectum Β, ut sit etiam praedicatum alterius
+
+‘subiecti D, fieri potest syllogismus: D est C; E est D; E est C. Quod
+
+si E non est solummodo subiectum, habebitur F est E, etc. Ergo aut
+necesse est stare in ultimo subiecto, puta G, quod ita est subiectum
+de quo cetera praedicantur, ut nullius alterius subiecti possit esse prae-
+dicatum, aut per F est E, per G est F, per Η est G, etc.‚ est abire in
+infinitum X. Et haec est secunda quaestio. Dicitur autem processus iste
+descensivus ob rationem oppositam illi, quae fuit assignata quoad pro—
+cessum ascensivum. Hic enim quaeritur de ultimo subiecto, quod in
+affirmativis est infra, seu minus universale quam praedicatum. Suppo-
+nitur autem in hac quaestione dari ultimum praedicatum, quod ita sit
+praedicatum, ut non sit subiectum.
+
+ι) Iterum sit aliud etc.- Codd. CS om. iterum. Cum codd„ exc. CR,
+legimus aliud; P: aliquod5 GH: aliud medicum 0: aliqui& R om.
+Absurde Α legit tertia loco τοῦ iterum,· 1: utrum; T: interim.—- Prae—
+terea O om. seq. similiter.-P: mediorum sunt a1ia; T: sicut alia.- 1310:
+scilicet extrema,- G vero om. et extremm- Denique A: utrum hie possit
+procedi in ete-P: aut impossibile sit hoc,· quae verba R om„ sicut
+M om. hoc.
+
+κ) Est ergo quaestio etc.-Medius terminus est unus ex tribus re-
+quisitis ad syllogismum, et ideo de ipso etiam eadem quaestio movetur.
+Complicatior autem videtur haec tertia quaestiO, quia medius terminus
+bis sumitur: attamen, quia in una praemissarum est subiectum et in
+altera praedicatum, aliquam analogiam praeseferre videtur curn praece-
+dentibus. Sit syllogismus: A est B; C est A; C est Β. Si B in maiori
+non inest immediate τῷ A, et A non inest immediate τῷ C, alia media
+sunt assumenda, puta D, E, quae erunt inter primum medium A et
+extrema Β, C. Videlicet: ι’, D est 133 A eat D; A est 13.-2·, E est A;
+C est E; C est Α. supposito ergo in prioribus quaestionibus quod ste·
+tur in universalissima praedicato et particular-inimo subiecto, quaeritur
+
+POSTERIORUM ANALYTICORUM LIB. Ι
+
+demonstrabilis per aliam priorem demonstratio-
+nem; et hoc est quod subiungit, et si est*dem0n-
+stratio omnis, idest cuiuslibet propositionis. Quod
+quidam existimantes, circa principia erraverunt, ut*
+dicitur in IV Metaphysicae *. Descendendo autem,
+si ex qualibet* propositione demonstrata ἴῃ* contin-
+gat iterum ad aliam demonstrationem posteriorem
+procedere. Et hoc est unum membrfim dubitatio-
+nis, si demonstrationes in infinitum procedunt ²¹⁸,
+vel descendendo vel ascendendo. Aliud autem
+membrum dubitationis est, si demonstrationes
+ad*invicem terminantur, ita scilicet quod una de-
+monstratio confirmetur per aliam ascendendo, et
+ex una demonstratione procedat alia descenden-
+do, et hoc usque ad aliquem terminum.
+
+12. Deinde cum dicit: Similiter autem dico ete,
+ostendit quod praedictae dubitationes habent lo-
+cum etiarn in demonstrationibus negativis, quia
+demonstratio negativa oportet quod utatur pro-
+positione affirmativa, in qua subiectum conclu-
+sionis contineatur sub medio, a quo * praedica-
+tum conclusionis removeatur. Secundum ergo
+quod est ascensus et descensus in affirmativis,
+oportet quod sit ascensus et descensus in nega-
+tivis syllogismis, et propositionibus; ut puta si
+conclusio demonstrativi syllogismi sit, nullum C
+est A, et accipiatur sicut medium B, a quo A re-
+moveatur *. Est ergo primo considerandum utrum
+A removeatur a B primo, sive immediate, aut sit
+aliquod* medium accipere, a quo primo removea-
+turA quam a *¹ B, puta si prius removeatur ab 1 *³¹2
+quod oportet universaliter praedicari de B; etiterum
+erit considerandum utrum A removeatur ab ali-
+quo per prius quam ab 1⁹, scilicet a T, quod
+praedicatur universaliter de Ι. Ita ergo et * in his
+potest * procedi in infinitum in removendo, ut
+semper sit aliquid * accipere, a quo per prius re-
+moveatur, vel oportet alicubi stare μ.
+
+,ἶ
+
+utrum D sit ultimum medium Α-Β, et Ε ultimum medium G-A; vel
+sint alia et alia semper media, puta F ‚ G, Η, etc„ et sic in infinitum X.
+Est tertia quaestio. Processus iste est simul ascensus et descensus,
+secundum quod medium praedicatur in una praemissarum, et in altera
+subiicitur. ·
+
+λ) Quod intendere etc.— Cod. A: quod inquisitio veritati„ CDET:
+quod intendere inquisitionem veritatis; 1: quod intend. ad acquisitio-
+nem νει-4 M: quod intend. acquisitionem ver.,· Q: quod attendere in
+quaestionem ver.
+
+p.) lea ergo et in his etc.-Non abs re erit transcribere quae in hunc
+locum Aristotelis habet b. Albertus Magnus in 1 Poster„ Tract. ιν, Cap. rx,
+ed. cit. pag. 579: ι Similiter autem est, inquit, in negativis propositionibus
+ι et syllogismis quantum ad tertiam quaestionem, quae est de medii„
+› quia quantum ad extrema est dissimile. Extrema enim ι superiori de-
+» scendendo non negantur, sed praedicantur de inferioribus; et ideo non
+s quaeritur an extrema in negativis sint infinita? Sed quaeritur an media
+» infinita sint? Ut si dicam quod A inest omni B; et iterum A sit in
+› alio priori, ut si hoc sit C, quod sit in omni l: quia sicut est in affir-
+ι mauvis, quod id secundum se inest, quod non inest per aliud medium
+» (Cf.1ect. xxvr, n. 5, seqq.); ita est quod id secundum se negatur, quod
+ι non habet aliud superius propter quod negetur de alio. Sicut si dicam
+» quod homo non est linea, quia linea non est animal3 et non est animal,
+³ quia non est animatum et non est animatum, quia non est substantia.
+z Et namque in his quaeritur, utrum infinita sunt in quibus sic non
+› inest inferiori, quia negatur a superium aut statur in aliquo, ι quo sicut
+ι supremo immediate negatur et gratia sui ipsius, ita quod non per uliud,
+ι a quo sicut priori negetur? Unde quidam libri habent sic. Et si A
+2 non inest in Β, nulli autem primo, aut erit aliquid infra, cui priori non
+» inest, ut si est proprium C quod in B est omni, et iterum hoc in alio
+ι etiam priori, ut si C est quod est in omni 13 et namque aut infinita
+ι sunt quibus non inest prioribus, aut statur? Et haec litera melior est,
+› et est translatio Ioannis a graeco facta, sicut uanslntio Boethii.»
+
+loannes, de quo hic explicitam mentionem facit b. albertus, e graeco
+
+’· Est ex codd.
+Ῑεέχεῑ. cis-r. - cd
+
+' Codd. - r: sicut.
+
+⁶ Comm. s. Th.
+lect. xv et xvr. -
+Ed. Did. lib. 111,
+cap. vi, nn. ι et 2,
+et cap. vn, n. 8.
+
+⁸ Codd. - 1²: ali-
+
+ua.
+
+q· anxa et s. m.
+n: demonstrati—
+va,- οε mediata.
+⁴* ABlLuN: proce-
+dant; o: proce-
+der-ent.
+
+'mx ab; ο om.
+
+aiii·c'0¹3‘.1².‘2‘⁹2'i⁰si
+quo.
+
+'⁸ codd. (ue. eu
+nul: removetur.
+
+'amarunt-¹³:
+
+im'iffit:
+5!OE ·
+
+cm τ om. a.
+⁸· Co d.. exc. p
+:om-r: a C,- c:
+ab A.
+
+¹ Codd. - r: ab
+aliie, scu.
+
+τοι quod. ·
+
+0153? &¹:515 ὲ
+mov.
+
+· mma ex
+
+codd.. ue. ι.
+
+ί*
+

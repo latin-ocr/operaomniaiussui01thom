@@ -1,0 +1,202 @@
+ 
+
+· asc omittunt ee-
+cundum conse-
+quentiam.
+
+CAP. x, LECT. 11
+
+dum quam expositionem attenditur similitudo et
+dissimilitudo secundum consequentiam * affirmati-
+varum ad negativas. Unde dicit: Quarum, scilicet
+quatuor praemissarum, duae quidem, scilicet af-
+firmativae, quarum una est simplex et alia infi-
+nita, se habebunt secundum consequentiam ad
+
+Haec interpretatio non est ad propositum, quia Aristoteles non lo-
+quitur hic de propositionibus affirmativis aut negativis simpliciter vel
+secundum quid, sed de ordine (κατὰ τὸ στοιχοῧν) propositionum ad
+invicem secundum consequentiam.
+
+Interpretatio Ammonii.
+
+PARs PmnA.- Duae propositiones infiniti praedicati se habent ad pro-
+positiones finitas, sicut ad istas se habent propositiones pri—
+vativae, ita scilicet ut a) ad affirmativam finitam consequa-
+tur tum propositio negativa infiniti praedicati, tum negativa
+privativa; et viceversa β) negativa finita sequatur tum ex
+affirmativa infiniti praedicati tum ex affirmativa privativa.
+
+scm-:m Ι.
+
+„3 α
+ll
+
+rm Αιπιιᾼ. - Duae vero minime, nempe α) ad infinitam affirmativam
+sequitur negativa finita, sed non sequitur affirmativa priva-
+tiva; item β) negativa infinita sequitur ex affirmativa finita,
+
+sed non sequitur ex negativa privativa. idest duae finitae
+
+non se habent ad infinitas secundum consequentiam, sicut
+ad infinitas se habent privativae.
+
+Homo est iustus;
+ergo
+Homo non est non iustus.
+
+Homo est iustus;
+ergo
+Homo non est iniustus,
+
+β
+
+Homo est non iustus;
+ergo
+Homo non est iustus.
+
+Homo est iniustus 3
+ergo
+Homo non est iustus.
+
+scm-:MA 11.
+
+α
+
+1 Homo est non iustus;
+sequitur: ergo
+Homo non est iustus ;
+sed ex
+2 Homo est non iustus;
+non sequitur: ergo
+Homo est iniustus.
+
+β
+
+Homo est iustus;
+sequitur: ergo
+
+Homo non est non iustus ;
+sed ex
+
+2 Homo non est iniustus;
+non sequitur
+
+Homo non est non iustus.
+
+Interpretatio Porphyrii, Boethii et ε. nomae.
+
+Pm rmus.- Duae quidem scilicet affirmativae (finita et infinita) se
+habent secundum consequentiam ad affirmationem et nega-
+tionem, ut scilicet α) ad affirmativam simplicem sequatur
+negativa infinita , et β) ad affirmativam infinitam sequatur
+negativa simplex seu finita.-Et similiter est de privativis
+ad finitas propositiones quoad ordinem consequendi.·
+
+SCHEMA Ι.
+
+ι Homo est iustus ;
+ergo
+Homo non est non iustus-
+2 Homo est iustus ;
+ergo-
+Homo non est iniustus.
+
+83
+
+affirmationem et negationem; ut scilicet ad unam
+affirmativam sequatur alterius negativa. Nam ad
+affirmativam simplicem sequitur negativa infinita:
+et ad affirmativam infinitam sequitur negativa
+simplex. Duae vero, scilicet negativae, minime,
+idest non ita se habent ad affirmativas, ut sellicet
+
+1
+2 Ξ
+Pius ALTERA.- Duae vero minime, scilicet negativae non ita se habent
+ad affirmativas, ut scilicet ex illis sequantur affirmativae,
+sicut ex affirmativis sequuntur negativae.· Et similiter est
+de finitis et de privativis.
+1
+2 Ξ
+Homo est iniustus.
+1 ι Homo non est non iustus (sive, Non est homo non iustus);
+non sequitur: ergo
+2 Ξ
+
+Homo est iustus
+Theodorus Waitz, praemissis quae in superiori nota ε transcripsi-
+mus, ita immediate prosequitur: α Res sic se habet κατῶ τό στοι-
+οῑίν, secundum seriem, quarn illae enunciationes faciunt, hoc est, κατ’
+ακολουθὶαν, secundum ordinem, quo altera alteri consequitur eaque con-
+tinetur. Iam in Analyticss (Prioribus, cap. ultim.) hoc tradit. Sit A τὸ εἶναι
+ἴσον, Β τὸ μὴ εἶναι ισον, Γ τὸ εἶναι μή ἴσον, Δ τὸ μὴ εἶναι μὴ ἴσον. ln his
+igitur B consequens est τοῦ Γ, et Δ consequens τοῦ Α. Deinde docet,
+si γ sit τὸ ειναι ἄνισον et δ τὸ μὴ εἶναι ἄνισον, item esse B conse-
+quens τοῦ γ, et ὂ consequens τοῦ· A: est igitur quod nostro loco dicit
+τὰ μὲν δύο (Γ et Δ) πρὸς τὴν κατάφασιν (A) καὶ ἀπόφασιν (Β) ἔξει
+κατα τὸ στοιχοῦν namque B consequens est τοῦ Γ, et Δ consequens
+τοῦ A) ὡς αἱ στερησεις (γ et δε nam etiam B consequens est τοῦ· ,
+et δ consequens τοῦ· Α). Ut signis mathematicis utar, est proportio 11:
+B=Y= B et A: A=3= A. Nam ut Γ est antecedens τοῦ Β, sic etiam γ
+(ἠ στέρησις) est antecedens τοῦ Β, et ut Δ est consequens τοῦ· A, sic
+etiam ὃ (ἡ στέρησις) est consequens τοῦ Α. Addit τὰ δὲ δύο oli: nam
+A et B non eamdem rationem habent ad A et Γ, quam habent δ et γ
+ad A et P, quod ut demonstremus non opus est.» Expositionem ergo
+Ammonii sequitur Waitz, cuius eadem verba in conclusione sunt, ac ea
+quae habet s. Thomas in fine n. 1¹3 sed magis placet expositio Por-
+phyrii quia simplicior et magis conveniens litterae Aristotelis.
+Etenim Ammonius legit Aristotelem hoc modo: α Quare quatuor
+erunt illae, quarum duae quidem ad affirmationem et negationem sese
+habent secundum consequentiam, ut privationes; duae vero minime »
+nempe, duae vero non sese habent secundum consequentiam ut priva-
+tiones (Cf. op. cit. De interpret. sect. 111, ξ. ι, fol. 25, col. 2). - S. Thomas
+cum Porphyrio et Boethio legit: α Quare quatuor erunt illae, quarum duae
+quidem ad affirmationem et negationem sese habent secundum consequen-
+tiam ut privationes; duae vero minime ²> nempe, duae vero non sese
+habent secundum consequentiam ad affirmationem et negationem. - Ari-
+stoteles autem sese remittit ad librum Priorum analyticorum. Porro lib. 1,
+cap. ult„ Aristoteles probat quod α) ex affirmatione praedicati finiti sequi-
+tur negatio praedicati infiniti; sed β) ex negatione praedicati infiniti non
+valet consequentia ad affirmationem praedicati finiti. Insuper probat quod α)
+ex affirmatione pmedicati infiniti sequitur negatio praedicati finiti3 sed β)
+non sequitur affirmatio infiniti praedicati ex negatione praedicati finiti. Ad-
+dit: Similiter autem se habent et privationes ad categorias hac dispositione:
+Ομοὶως δ’ἕχουσι καὶ αἱ στερήσεις πρὸς τὰς κατηγορίας ταύτῃ τῇ θέσει
+(loc. cit. n. 7). Supra ostendit quod negativae propositiones consequuntur
+ex affirmativis, sed quod affirmativae non consequuntur ex negativis. Di—
+cendo igitur Aristoteles: Similiter, 'Op-oium, se habent privationes ad
+categorias, πρὸς τὰς κατηγορίας, vult inter simplices et privativas propo—
+sitiones in ordine ad consequentiam vel non consequentiam, eamdem
+legem vigere, quae data est quoad finitas et infinitas, ut scilicet ex affir-
+mativis sequantur negativae, sed ex negativis non sequantur affirmativae.
+Dilucide ac solide hac de re in 1 Priorum, cap. ultim„ et in 11 Peri herm„
+cap. ι, agit Sylvester Maurus ‚ qui interpretationi s. Thomae adhaeret,
+
+β
+
+Homo est non iustus;
+ergo
+Homo non est iustus.
+
+Homo est iniustus;
+ergo
+Homo non est iustus.
+
+SCHEMA 11.
+
+α
+
+Homo non est iustus (sive, Non est homo iustus);
+non sequitur: ergo
+Homo est non iustus (sive, Est homo non iustus).
+
+Homo non est iustus;
+non sequitur: ergo
+
+(sive, Est homo iustus).
+
+Homo non est iniustus3
+non sequitur-:ergo
+Homo est iustus.
+

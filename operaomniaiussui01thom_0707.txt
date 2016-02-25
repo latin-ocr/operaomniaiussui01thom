@@ -1,0 +1,217 @@
+⁸ codd. - 1³: de-
+bet.
+
+· Est om. ami-2
+ms.
+
+¹ &dunecan
+afflet. - ι. om.
+
+¹ 'nr-¹: praedeca-
+
+'rsx δαείη·-
+oeeuna: α om.
+“nt-3⁸12
+
+ 
+
+CAP. lv, LECT. 111
+
+logismus sit, qui concludit quod quid est, oportet
+esse talem habitudinem terminorum eius, ut omnes
+ad invicem convertantur.
+
+6. Deinde cum dicit: At vero et si A in eo
+quod quid est etc., ostendit quid debeat ’²‘ habere
+syllogismus praedictus, ex eo quod concludit id
+quod praedicatur in eo quod quid est ἢ Et dicit
+quod oportet hoc modo syllogismum procedere,
+ut maior extremitas, quae est A, praedicetur in eo
+quod quid de medio ⁷, quod est B; et B similiter
+praedicetur in eo quod quid de minori extremi-
+tate² quae est C; et sic concluditur quod A prae-
+dicetur de C in eo quod quid est.
+
+7. Deinde cum dicit: Si vero aliquis non ac-
+cepit sic duplicans etc., ostendit quod praedictus
+modus syllogizandi requiratur. Et dicit quod si
+aliquis non ita accipiat * terminos duplicans, idest
+observans duas conditiones praedictas, vel potius
+accipiens quod quid est ex ‘duabus partibus, non
+sequitur ex necessitate quod A‘praedicetur ⁸ de C
+in eo quod quid est. Sed et si ex una ’¹‘ tantum
+parte praedictae *² conditiones observentur, non
+sufficit ad propositum δ. Etsi *² enim detur quod A
+praedicetur de B in eo quod quid est, non propter
+hoc sequitur quod praedicetur in eo quod quid de
+quibuscunque praedicatur B qualitercunque *. Et
+sic sequitur quod ex utraque parte oporteat acci-
+pere quod quid est: ita scilicet quod non solum A
+sit quod quid est ipsius B, sed etiam ipsum B
+sit quod quid est ipsius C ‘, tanquam convertibi-
+liter et in eo quod quid praedicatum.
+
+8. Deinde cum dicit: Si igitur quod quid est et
+quod quid erat esse ς etc., ducit ad inconveniens:
+quia‘r si, sicut ostensum est, ex utraque parte inve-
+nitur non solum praedicari aliquid in eo quod
+quid, sicut genus praedicatur de specie, sed etiam
+quod ex utraque ⁰ parte sit quod quid erat esse,
+quod significat definitio, sequitur quod quid erat
+
+γ) Quod quid de medio etc. - HL et s. m. K: quod quid est de
+medio. ln hac formula, est modo additur a P et omittitur a codd.; modo
+codd. habent et P omittit. Ad significationem nil addit, nil prorsus detrahit.
+Unde ex hac parte potest addi et potest omitti. S. Thomas, ut ex codd. et
+editionibus coniici potest, modo quod quid, modo quod quid est habuit.
+—- N et s. m. A: et medium B similiter.- HKL et s. m. A: quod quid est de
+minori.— Codd., exc. BEFI: et sic concludetur,· E: concluderetur. — BF 1:
+
+praedicatur de C. -Codd.‚ exc. HLOQ: in eo quod quid, om. est.
+
+ὃ) Non sufficit ad propositum. —- In numero superiori Aristoteles
+dixit quod, si syllogismus concludit quod quid est, debet habere duas
+conditiones: nempe 1⁰, quod maior extremitas (A) sit quod quid est,
+seu definitio termini medii (B), hoc est definiti ; 2', quod medius ter-
+minus (B), hoc est definitum, sit quod quid est, seu definitio minoris
+extremitatis (C). Scilicet: B (definitum) est A (definitio) ; C (definitum)
+est B (definitio); C (definitum) est A (definitio). ln quo syllogismo ha-
+betur quod definitio (A) definitionis (B in minori), est definitio definiti
+(C). Quod vero haec deberet esse forma argumentandi ad concluden-
+dum quod quid est, probat Aristoteles in hoc nuru. 7 hac ratiocina-
+tione. Ponarnus, inquit, quod syllogismus non ita reduplicetur ut B sit A
+et C sit B in sensu mox explicato, habemus istos syllogismos: 1¹¹, B
+est A; C est B; C est A. Ex suppositione quod B non sit quod quid
+est τοῦ C, sed aliud praedicatum, licet per se conveniens, non potest
+concludi quod A sit quod quid est τοῦ C. Similiter 2¹¹¹, A est B; C
+est A; C est B: si supponatur quod A est quod quid est τοῦ· C, sed
+quod B non est quod quid est τοῦ· Α in maiori, concludi nequit quod
+Β sit quod quid est τοῦ· C. Stat ergo quod in syllogismo concludente
+quod quid est (si hoc sit possibile, n. 5), maior extremitas debet esse
+quod quid est medii, et medium debet esse quod quid est minoris extre-
+mitatis.—-Dicitur‚ si est possibile: in sequenti enim numero demonstratur
+inconveniens. talis modus syllogizandi: quia nempe est petitio principii.
+
+ε) Quod quid est ipsius C etc. — P orn. quid, quod adiecimus ex
+codd. -‹ I om. ipsius. -Legimus cum codd., exc. M: tanquam converti-
+biliter; P om. tanquam; M: scilicet tanquam convertib. — Loco et in
+eo, FI legunt: cum eo, G: ideo, HQ: in eo.
+
+Opp. D. Tnoms Τ. Ι.
+
+337
+
+esse prius fuisse in medio termino; idest quod
+medius terminus sit quod quid erat esse minoris
+extremitatis: et ita supponitur quod oportebat pro—
+bare, scilicet quidditatem ipsius C.
+
+9. Deinde cum dicit: Et omnino si est mon-
+strare quid etc., manifestat quod dixerat in ter-
+minis. Puta si volumus monstrare quid est homo,
+sit C, idest minor extremitas, homo; A vero, idest
+maior extremitas, sit quod quid est hominis, puta
+animal bipes, vel aliquid aliud ’²‘ huiusmodi. Si ergo
+hoc oporteat per syllogismum probari, necesse
+est quod * definiatur aliquod medium, scilicet B,
+de quo omni* A praedicetur-3 et ad hoc medium
+pertinebit quaedam alia media definitio, quae sci-
+licet erat definitio minoris extremitatis. Unde se-
+quetur ⁸⁵ quod hoc etiam medium sit quod quid
+est hominis. Et ita qui sic syllogizat, accipit sup-
+ponendo id quod oportebat* ostendere, scilicet
+quod B sit quod quid erat esse hominis.
+
+10. Deinde cum dicit: Oportet autem in dua-
+bus etc., manifestat quomodo hoc inconveniens
+sequatur * ex praemissis. Et circa hoc tria facit.
+Primo, ostendit modum ¹ quo convenienter hoc
+manifestetur. Et dicit quod id quod dictum est,
+oportet considerare in duabus propositionibus,
+quae sint primae et habeant terminos immediate
+sibi inhaerentes. Possibile enim esset per plures
+propositiones hoc ostendere, ex quibus plures syl-
+logismi constarent3 vel etiam esset* possibile duas
+solas propositiones accipiendo, accipere eas me-
+diatas. Sed quia oportet semper reducere ²³² ad
+duas primas immediatas, ideo, ut brevior'et ex—
+peditior sit consideratio, assumamus * a principio
+tales propositiones *, et sic maxime poterit mani-
+festari propositum.
+
+11. Secundo, ibi: Qui quidem itaque per con-
+versionem etc., proponit quod intendit; et dicit,
+concludens ex praemissis, quod illi qui volunt de-
+
+ζ) Si igitur quod ⁸quid est et quod quid erat esse. —- Duo ista, τὸ
+τί ἐστι καὶ τὸ τί ἠν εἶναι, hoc loco ut distincta exhibet Aristoteles (et
+ita in sua expositione s. Thomas); sed quandoque ad idem significandum
+usurpat. ‹ Aristoteles, inquit Lincolnzknsis, quandoque sumit hanc ap-
+» pellationem quod quid est pro omni definitione generaliter; quandoque
+» pro definitione materiali, et quod quid erat pro definitione formali»
+» (ln 11 Foster„ cap. 11, fol. 31, col. 2. - Cf. s. Th. in lV Sentent„ Dist. nr,
+qu. 1. artic. 1, quaest. 1). Etiam s. Thomas in lect. seq. n. 5, loquitur de
+eo quod praedicatur in eo quod quid est, et de eo quod ostendit quod
+quid erat esse, idest quod demonstrat essentiam rei. Infra, lect. 1x‚n. 6,
+dicit per quod quid erat esse nominari causam formalem, additque hanc
+esse rationem significantem quod quid est (cf.1ect. v, n. 7, seqq). Et
+in Opusc. De ente et essentia, cap. 1, ait: « Quia illud per quod res
+› constituitur in proprio genere vel specie est quod significamus per
+ι definitionem indicantem quid est res, inde est quod nomen essentiae a
+ιι philosophis in nomen quidditatis mutatur. Et hoc est quod Philoso-
+» phus in septimo Metaphysicae frequenter nominat quod quid erat esse,
+› idest hoc per quod aliquid habet esse quid. » - S. loannes Damascenus
+tum genus tum speciem vocat quid est, τί ἐστι (Dialectica, capp. vr,
+1x et x. Ed. Lequien.).- Haec monuimus ad cautelam: nam utraque for-
+mula promiscue sumitur, et quando opus est, distinctione utimur. Tren-
+delenburg in 1 De anima, pag. 160, Ed. cit., de huiusmodi formulis disserit,
+sed ea remittimus ad Metaphysicam (Cf. lib. vn, Comm. s.Thomae lect.i11).
+
+η) Ad inconveniens: quia si etc.—L: ad inconv. quod qu1'a si etc.;
+F ponit si ante ex; cet. codd., exc. CH: quia si sicut. - Admittimus
+in textu si auctoritate codd.; quae particula, omissa a P per errorem
+typogr„ requiritur ex contextu orationis.
+
+θ) Quod ex utraque parte etc. —- ABHQT om. quod ‚- AHL orn. parte.-
+AC erronee: quod aliquid erat esse: et erronee H: esse, aliquod signi-
+
+ficat; F1: sit quod quid est esse.
+
+ι) Ostendit modum etc.—- G: ostendit medium quomodo conveniunt
+hoc manifestetur; F: quo inconveniens hoc ostenderam et ostendetur
+etiam 1; BQ: manifestatur. P. modum quo hoc convenienter. Cet. codd.
+ut in textu.
+
+43*
+
+:³ ⁴22411'1111 omoetrm
+
+'aaz uteac: quod
+assumatur.
+
+· cu: omne, sed
+erronee. Cf. text.
+
+⁸ Arci-runco: se-
+quitur; o: seque·
+retur.
+
+⁸ Codd. - 1²: opor-
+tebit.
+
+* Codd., exe. no
+No.- p: sequitur,-
+ο 2 sequetur.
+
+ι
+
+“ Codd. - 1²: esse.
+
+⁸ Codd. -Pt de—
+ducere.
+
+⁸ n: accipiamus.
+
+⁸ Ncrnpe imme-
+diatas.
+

@@ -1,0 +1,157 @@
+'Ed- c et 1526.
+promitur.
+
+106
+
+proprie non videntur compos‘tionem ipsam. Quia modi-
+ficari proprie dicitur al'quid, quando redditur aliquale, non
+quando fit secundum suam substantiam. Compositio au-
+tem quando dicitur vera, non aliqualis propon‘tur *, sed
+quod est: nihil enim aliud est dicere, Socratzm currere est
+verum, quam quod composino cursus curn Socrate est. Et
+similiter quando est falsa, nihil aliud dicitur, quam
+quod non est: nam nihil aliud est dicere, Socratem cur-
+rere est falsum, quam quod compositio cursus curn Socrate
+nou est. Quando vero compositi0 dicitur possibilis aut
+contingens, iam non ipsam esse, sed ipsam al'qualem
+esse dicimus: cum s³quidem dicitur, Socratsm currere est
+possibile, non substantificamus compositionem cursus cum
+Socrate, sed qualificamuffi asserentes illam esse possibilem.
+Unde Aristoteles hic modos proponens, veri et falsi
+nullo modo meminit, licet infra verum et non verum in-
+ferat, propter causam ibi assigna‘ndam.
+
+4. Et quia enunciatio modalis duas in se continet corn—
+positione5‚ alteram inter partes dicti, alteram inter di-
+ctum et modum, intelligendum est eam compositionem
+modificari, idest, quae est inter partes dicti, non eam quae
+est inter modum et dictum. Quod sic perpendi potest.
+Huius enunciationis modalis, Socratem esse album est possi-
+bile, duae sunt partes; altera est, Socratem esse album, altera
+est, possibile. Prima dictum vocatur, eo.quod est id quod
+dicitur per eius indicativam, scilicet, Socrates est affbus: qui
+enim profert hanc, Socratas est albus, nthil aliud dicit nisi
+Socratem esse album: secunda vocatur modus, eo quod
+modi adiectio est. Prima compositionem quandam inse
+continet ex Socrate et albo; secunda pars primae opposita,
+compos‘tionem aIIquam sonat ex dicti compositione et
+modo. Prima rursus parS, licet omnia habeat propria, sub-
+iectum scilicet, et praedicatum, copulam et compositio-
+nem, tota tamen subiectum est modalis enunciationis; se-
+cunda autem est praedicatum. Dicti ergo compositio su-
+biicitur et modificatur in enuncIatione modali. Qui enim
+dicit, Socratem esse album est possibile, non significat qualis
+est coniunctio possibilitatis cum hoc dicto, Socratem esse
+album, sed insinuat qualis sit compositio partium dicti
+inter se, scilicet albi cum Socrate, scilicet quod est
+compositio possibiliS. Non dicit igitur enunciatio modalis
+aliquid inesse, vel non inesse, sed dicti potius modum
+enunciat. Nec proprie componit secundum significatum,
+quia compositionis non est compositio, sed rerum corn-
+positioni modum apponit. Unde n³hil aliud est enuncia-
+tio modalis, quam enunciatio dicti modificativa.
+
+5. Nec propterea censenda est enunciatio plures mo-
+dalis, quia omnia duplicata habeat: quoniam unum mo-
+dum de unica compositione enunciat, licet illius compo·
+sitionis plures sint partes. Plura enim illa ad dicti com-
+positionem concurrentia, veluti plura ex quibus fit unum
+subiectum concurrunt, de quibus dictum est supra quod
+enunciationis unitatem non impediunt. Sicut nec cum
+dicitur, domus est alba, est enunciatio multipleX‚ licet
+domus ex multis consurgat partibus.
+
+6. Merito autem est, post enunciationes de inesse, de
+modalibus tractandum, quia partes naturaliter sunt toto
+prioreS, et cognitio totius ex partium cognitione dependet;
+et specialis sermo de his est habendus, quia proprias habet
+difficultates. Notavit quoque Aristoteles in textu multa.
+Horum ordinem scilicet, cum dixit: His vero detarminatis etc.;
+modos qui et quot sunt, cum eos expressit et inseruit3
+variationem eiusdem modi, per affirmationem et negatio-
+nem, cum dixit: Possibile et non possibile, contingens et
+non contingens ; necessitatem cum addidit: Habsnt enim
+multas dubitationes proprias etc.
+
+7. Deinde cum dicit: Nam si eorum etc„ exequitur
+tractatum de oppositione modalium. Et circa hoc duo
+
+PERI HERMENEIAS LIB. ΙΙ
+
+facit: primo, movendo quaestionem arguit ad partes; se-
+cundo, determinat veritatem; ibi: Contingit autam '⁸‘ etc. Est
+autem dubitatio: an in enunciationibus modalibus fiat con-
+tradictio negatione apposita ad verbum dicti, quod dicit
+rem: an non, sed potius negatione apposita ad modurn qui
+qualificat. Et primo, arguit ad partem affirmativam, quod
+scilicet addenda sit negatio ad verbum; secundo, ad partem
+negativam, quod non apponenda sit negatio ipsi verbo;
+ibi: V idztur autem * etc.
+
+8. Intendit ergo primo tale argumentum; si comple-
+xorum contradictiones attenduntur penes esse et non esse
+(ut patet inductive in enunciationibus substantivis de se-
+cundo adiacente et de tertio, et in adiectivis)‚ contradictio-
+nesque omnium hoc modo sumendae sunt, contradictoria
+huius, possibile esse, erit, possibile non esse, et non illa, non
+possibile esse. Et consequenter apponenda est negatio ver-
+bo, ad sumendam oppositIOnem in modalibus. Patet con-
+sequentia, quia cum dicitur, possibile esse, et, possibile
+non esse, negatio cadit supra esse. Unde dicit: Nam si
+eorum, quae complectuntur, idest complexorum, iilae sibi in-
+viczm sunt oppositae contradictiones, qua: secundum esse vel
+non esse disponuntur, idest in quarum una affirmatur esse,
+et in altera negatur.
+
+9. Et subdit inductionem, inchoans a secundo adia-
+cente: ut‚ eius enunciationis quae est, esse hominem, idest,
+homo est, negatio est, non esse hominem, ubi verbum ne—
+gatur, idest, homo non est; et non est eius negatio ea quae
+est, esse non hominem, idest, non homo est: haec enim
+non est negativa, sed affirmativa de subiecto infinito,
+quae simul est vera cum illa prima, scilicet, horno est.
+
+10. Deinde prosequitur inductionem in substantivis de
+tertio adiacente: ut, eius quae est, esse album hominem,
+idest, ut, illius enunciationis, homo est albus, negatio
+est, non esse album hominem, ubi verbum negatur, idest,
+homo non est albus; et non est negatio illius ea, quae
+est, esse ‘non album hominem, idest, homo est non al-
+bus. Haec enim non est negativa, sed affirmativa de prae-
+dicato infinito. - Et quia istae duae affirmativae de prae-
+dicato finito et infinito non possunt de eodem verificari,
+propterea quia sunt de praedicatis oppositis, posset ali·
+quis credere quod sint contradictoriae; et ideo ad hunc
+errorem tollendum interponit rationem probantem quod
+hae duae non sunt contradictoriae. Est autem ratio ta-
+lis. Contradictoriorum talis est natura quod de omnibus
+aut dictio, idest affirmatio aut negatio verificatur. Inter
+contradictorIa siquidem nullum potest inveniri medium;
+sed hae duae enunciationes, scilicet, est homo albus, et,
+est homo non albus, sunt contradictoriae per se; ergo sunt
+talis naturae quod de omnibus altera verificatur. Et sic,
+cum de ligno sit falsum dicere, est homo albus, erit
+verum dicere de eo, scilicet ligno, esse non album ho-
+minem, idest, lignum est horno non albus. Quod est rm-
+nifeste falsum: lignum enim neque est homo albus, neque
+est homo non albus. Restat ergo ex quo utraque est
+simul falsa de eodem, quod non sit inter eas contradictio.'
+Sed contradictio fit quando negatio apponitur verbo.
+
+11. Deinde prosequitur inductionem in enunciatio-
+nibus adiectivi verbi, dicens: Quod si hoc modo, scilicet
+supradicto, accipitur contradictio, et in quantiscunque
+enunciationibus esse non ponitur explicite, idem faciesque-
+ad oppositionem sumendam, id quod pro esse -dicitur (id-
+est verbum adiectivum‚ quod locum ipsius esse tenet,
+pro quanto, propter eius veritatem in se inclusam, copu-
+lae officium facit), ut eius enunciationis quae est, homo
+ambulat, negatio est, non ea quae dicit, non homo ambu-
+lat (haec enim est affirmativa de subiecto infinito), sed
+negatio illius est, homo non ambulat; sicut et in illis de
+verbo substantivo, negatio verbo addenda erat. Nihil enim
+
+· Num. 14,
+
+“ Num. 13.
+

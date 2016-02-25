@@ -1,0 +1,109 @@
+114
+
+cedenti textu et in isto. Ibi enim accipit ipsum in com-
+muni, ut sequitur ad necessarium hic videtur accipere
+ipsum specialiter pro possibili ad utrumlibet, quia dicit
+quod possibile est simul potens esse et non esse.
+
+Et ad hoc dicendum est quod uniformiter usus est
+possibili. Nec eius verba obstant: quoniam et de possibili
+in communi verum est dicere quod potest sibi utrun-
+que accidere, scilicet, esse et non esse: tum quia quid-
+quid verificatur de suo inferiori, verificatur etiam de suo
+superiori, licet non eodem modo; tum quia possibile in
+communi neutram contradictionis partem sibi determinat,
+et consequenter utranque sibi advenire compatitur, licet
+non asserat potentiam ad utranque partem, quemadmo-
+dum possibile ad utrunque.
+
+17. Secundum motivum ad idem, correspondens tacitae
+obiectioni antiquorum quam supra exclusit, addit cum sub-
+dit: Hoc enim verum est etc. Ubi notandum quod Aristoteles
+sub illa maiore adducta pro antiquis (scilicet, convertibi-
+liter se consequentium contradictoria se mutuo conse-
+quuntur), subsumit minorem: sed horum convertibiliter se
+sequentium in tertio ordine (scilicet, non possibile esse et
+necesse non esse), contradictoria sunt, possibile esse et non
+necesse non esse (quoniam modi negatione eis opponun-
+tur)·, ergo istae duae (scilicet, possibile esse et non necesse
+non esse) se consequuntur et in primo locandae sunt or-
+dine. Unde motivum tangens ait: Hoc enim, quod dictum
+est, verum est, idest verum esse ostenditur, et de necesse non
+esse, idest, et ex illius, scilicet, non necesse non esse, oppo-
+sita, quae est, necesse non esse. Vel, hoc enim, scilicet, non
+necesse non esse,verum est, scilicet, contradictorium illius
+de necesse non esse. Et minorem subdens ait: Haec enim,
+scilicet, non necesse non esse, fit contradictio eius, quae
+convertibiliter sequitur, non possibile esse. Et explanans
+hoc in terminis subdit. Illud enim, non possibile esse,
+quod est caput tertii ordinis, sequitur hoc de impossibili,
+scilicet, impossibile esse, et haec de necessario, scilicet, ne-
+cesse non esse, cuius negatio seu contradictoria est, non
+necesse non esse. Et quia, caeteris paribus, modus negatur,
+et illa, possibile esse, est (subauditur) contradictoria illius,
+scilicet, non possibile; igitur ista duo mutuo se conse-
+
+PERI HERMENEIAS LIB. 11
+
+quuntur, scilicet, possibile esse, et, non necesse non esse,
+tamquam contradictoria duorum se mutuo consequentium.
+18. Deinde cum dicit: Sequuntur enim etc., ordinat
+omnes consequentias modalium secundum opinionem
+propriam; et ait quod, hae contradictiones, scilicet, de ne-
+cessario, sequuntur illas de possibili, secundum modum
+praedictum et approbatum illarum de impossibili. Sicut
+enim contradictorias de possibili contradictoriae de impos-
+sibili sequuntur, licet conversim; ita contradictorias de pos-
+sibili contradictoriae de necessario sequuntur conversim:
+licet in hoc, ut dictum est, dissimilitudo sit quod, con-
+tradictoriarum de possibili et impossibili similiter est di-
+ctum, contradictorIarum autem de possibili et necessario
+contrarium est dictum, ut in sequenti videtur figura:
+
+CONSEQUENTIAE ENUNCIATIONUM MODALIUM SECUNDUM
+QUATUOR ORDINES AB ARISTOTELE POSITAE ET ORDINATAE.
+
+Primus Ordo Secundus Ordo
+
+Possibile est non esse
+Contingens est non esse
+
+Non impossibile est non esse.
+Non necesse est esse
+
+Contingens est esse
+Non impossibile est esse
+
+Possibile est esse u
+Non necesse est non esse
+
+Tertius Ordo Quartus Ordo
+
+Non possibile est esse
+Non contingens est esse
+Impossibile est esse
+Necesse est non esse
+
+Non possibile est non esse
+Non contingens est non esse
+Impossibile est non esse
+Necesse est esse
+
+ 
+
+ 
+
+Ubi vides quod nulla est inter Aristotelem et anti-
+quos differentia, nisi in duobus primis ordinibus quoad
+illas de necessario. Praepostero namque situ usi sunt
+antiqui, eam de necessario, quae locanda erat in primo
+ordine, in secundo ponentes, et eam quae in secundo po-
+nenda erat, in primo locantes. Et aspice quoque quod
+convertibiliter se consequentium semper contradictoria se
+consequi ordinavit. Singulis enim tertii ordinis singulae
+primi ordInis contradictoriae sunt; et similiter singulae
+quarti ordinis singulis, quae in secundo sunt, contradi-
+ctoriae sunt. Quod antiqui non observarunt.
+
+ 
+

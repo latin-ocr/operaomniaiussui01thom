@@ -1,0 +1,117 @@
+ 
+
+CAP. 111, LECT. vl11
+
+· u: circu1. ut fieri talis syllogismus circularis, 'per quem ³⁸ utra-
+
+utraque.
+
+υ
+
+que praemissarum concludatur, nisi sumantur tres
+termini aequales, idest convertibiles ¹³. Quod ex hoc
+patet. Oportet enirn ex conclusione , et altera
+
+1. ΑΑ(Α); ... 2. AE(E); -Ᾰ 3. A1(1); - 4. ΑΟ(Ο); —- 5. ΕΕ(Ε); -
+6. ΕΑ(Ε); -7, ΕΙ(Ο); - 8. E0(0); -9. ll(l); — ιο. 1A(1);-11. 1E(O);—-
+ια. 10(0); -- 13. 00(0); — 14. 0A(0); - 15. 0E(0); - 16. 01(0).
+
+Non est possibile aliam praemissarum dispositionem praeter istas
+sexdecim excogitare. Sed haec ipsa dispositio praemissarum secundum
+earum affirmationem et negationem, universalitatem et particularitatem,
+fieri potest tum in prima figura, cum medius terminus subiicitur in ma-
+iori et praedicatur in minori,- tum in secunda figura, quando nempe
+medius terminus praedicatur in utraque praemissa, tum denique in tertia
+figura, quando in utraque praemissa medius terminus subiicitur. Ergo
+syllogismus modis octo, et quadraginta fieri potest. Quibus si addas,
+iuxta quosdam philosophos, sexdecim modos quartae figurae, seu primae
+indirectae, in qua medius terminus praedicatur in maion' et subiicitur
+in minori, modi syllogismi possibiles erunt sexaginta quatuor. Et dico
+possibiles, nam, ut in logica docetur, modi, quibus ad tramites legum
+syllogismi legitima conclusio infertur, sunt tantummodo novemdecim ex
+sexaginta quatuor recensitis: nempe quatuor in prima figura, quatuor in
+secunda, sex in tertia, et quinque in prima figura indirecta, hisce ver-
+siculis a scholasticis comprehensi:
+
+(r'flgil--barbara, celarent, darii, ferio. - (¹⁸ fig. indir.) baralipton‚
+
+celantes, dabitis, fapesmo, srisesomomm—
+(a'flg.) cesare, camestres, festino, baroco. - (3¹ fig.) darapti, fela-
+pton, disamis, datisi, bocardo, ferison.
+
+Ratio huius numeri est, quia nullus syllogismus est possibilis qui
+non sit in aliqua figura: nam in omni syllogismoedebet esse comparatio
+exn-emotum cum-medio; comparatio autem et dispositio sunt ipsa figura.
+Quaelibet autem figura suas habet leges. quas supra adduximus et de-
+claravimus. Vi igitur harum legum expungendi sunt in prima figura
+syllogismi non habentes maiorem universalem aut minorem affirma-
+tivam3 in secunda figura syllogismi affirmativi aut cum maiori par-
+ticulari; in tertia figura syllogismi cum minori negativa, aut conclu-
+dentes universaliter. Praeterea in qualibet figura expungendi sunt syl-
+logismi ex duabus praemissis sive negativis sive particularibus , iuxta
+communes syllogismi legem- Hinc legitimi modi concludendi in prima
+figura, ex sexdecim possibilibus, sunt solummodo quatuor, in secunda
+item quatuor, in tertia sex, in quarta figura galenica, seu in prima in-
+directa, quinque.
+
+Quibus declaratis, ad syllogismum circularem est redeundum. ln hac
+igitur tertia ratione dicitur quod si omnia possent circulariter demon-
+strari (ut omnia dicantur sciri per demonstrationem) necesse soret ut
+
+171
+
+praemissarum conversa , concludere reliquam:
+sicut dictum est. Non autem potest utraque prae-
+missarum converti, curn utraque sit universalis
+affirmativa, nisi in terminis convertibilibus.
+
+omnia essent convertibilia. Atqui falsum est omnia esse convertibilia.
+Ergo falsum est‘omnia posse circulariter demonstrari.-Nota quod vis
+argumenti est in vocabulo omnia: quaedam enim esse convertibilia et
+ideo demonstrari circulariter posse conceditur et ostenditur.
+
+Posita terminorum convertibilitate ex eorum inter se adaequatione,
+conceditur in prima figura posse fieri syllogismum circularem apparen-
+ter. Ad quod affertur exemplum a s. Thoma: Omne animal rationale
+est risibile etc. Diximus posse fieri syllogismum apparenter circularem.
+Nam, ut supra probavimus, (not. β) in secundo syllogismo (omnis ho-
+mo em), et in tertio (omne risibile etc.), variatur genus demonstratio-
+nis, quia in primo syllogismo est demonstratio propter quid, in aliis
+vero est demonstratio quia.- Notandum deinde quod syllogismus in
+exemplum adductus est in primo modo, nempe in barbara. Ratio est
+quia, ut infra dicitur a s. Thema, etiam supposita convertibilitate ter-
+minorum, nec in prima figura syllogismus circularis fieri potest, per
+quem utraque praemissarum concludatur, nisi in primo ruodo, in quo
+solo concluditur universalis affirmativa. Et revera in secundo et quarto
+modo cum una praemissarum sit negativa, et negativa proinde sit con-
+clusio, valet quoad istos modos ratio, quam affert s- Thomas pro cir-
+culari syllogismo in secunda figura. Contra vero tertium modum, imo
+contra etiam quartum urgetur ratio s.Thomae quoad syllogismos cir-
+culares in tertia figura, quippe qui concludunt particulariter sicut modi
+tertiae figurae.
+
+ln secunda figura una praemissarum est affirmativa, sed altera nega-
+tiva, et negativa propterea conclusio. Ex. g.: Nullus asinus est homo5
+omne animal rationale est homo ,¹ nullus asinus est animal rationale.
+Ergo per syllogismum circularem, in cuius maiorem assumatur conclu-
+sio, nempe propositio negativa, non potest concludi, iuxta octavam regu-
+lam syllogismi, praemissa affirmativa, quae est una praemissarum prio-
+ris syllogismi. Patet ergo quod si affirmativa praemissarum sit probanda,
+alia sumenda sunt principia (Cf. praeced. not. σ).
+
+Denique in tertia figura una praemissarum saltem debet esse uni-
+versalis (quia ex duabus particularibus non concluditur), et conclusio,
+ut dictum est, debet esse particularis. Si ergo sumatur haec conclusio
+ut praemissa ad circulariter syllogizandum, non potest concludi illa prae-
+missarum, quae ernecessitate est universalis. Proindeque nec in tertia
+figura possunt omnia circulariter demonstrari. “
+
+υ) Nisi sumantur tres termini aequales, idest convertibiles, sicut
+in indicato syllogismo: Omne animal rationale mortale est risibile ,⁴ in
+quo tres termini homo, animal —rationale-mortale et risibile, sunt
+aequales, quia idem valet homo, ac animal rationale—mortale, ac
+animal mortale—risibile,· et ideo unus loco alterius sumi potest: quod
+est esse ad invicem convertibiles.
+
+ 
+

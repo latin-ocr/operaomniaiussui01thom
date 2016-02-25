@@ -1,0 +1,232 @@
+ 
+
+α
+
+’Λυωῑσικοαεε et
+mortale, et ita
+infra, non tamen
+uniformiter.
+
+⁸ Codd.-r·: ¹erf—
+go. — ’Ν omittit
+reesa, ω,-
+quam mator syl-
+ὶοὲἐὲῗὲῑ - 1. 0...
+
+W: a: sequi-
+r ergo quoil‘³
+strata
+
+’ἓξυωιιιοκεπ r:
+
+' codd. (exc. Λή..-
+³2² ἔοῗῗ-’ῒίιῗς
+talis est.
+
+'t
+
+CAP. III, LECT. VIII
+
+et altera praemissarum conversa α concluditur re-
+liqua. Sicut ¹si fiat talis syllogismus: Omne animal
+rationale mortale*est risibile‚· omnis homo est ani-
+mal rationale mortale,· ergo omnis homo est ri-
+sibilis:- assumatur autem ³⁸ conclusio tanquam prin-
+cipium *, et adiungatur ei minor conversa, hoe
+modo: Omnis homo est risibilis; omne animal ra-
+tionale mortale est homo; sequitur quod ³³⁸, omne
+animal rationale mortale sit '²¹' risibile.- quae erat
+maior primi syllogismi.
+
+3. Ostendit autem Aristoteles Ρ per tres ratio-
+nes quod non contingit circulariter demonstra-
+re ³¹². Quarum prima est **. In circulari syllogismo
+idem fit et principium et conclusio ⁷. Principium
+autem demonstrationis est prius et notius conclu-
+sione: ut supra ostensum est. Sequitur ergo quod
+
+a) Altera- praemissarum conygrsa. Conversio propositionis, ut indi-
+cavimus in synopsi, est eius inversio, ita nempe, ut (nota bene) retenta
+eius veritate, praedicatum fiat subiectum, et subiectum fiat praedicatum.
+Sit haec propositio: Omnis homo est animal ; convertitur hoc modo:
+Aliquod animal est homo. Sit haec altera: Nullus homo est asinus‚·
+conversa propositio est: Nullus asinus est homa—Prima propositio in
+conversione amittit universalitatem, quia id exigit praedicatum (animal)
+propositionis affirmativae ; non enim homo est omne animal, sed ali-
+quod animal. - Altera vero retinet in conversione suam universalitatem,
+quia universaliter seu distributive sumitur praedicatum in propositione
+negativa: sicut enim verum est quod nullus homo est asinus, ita verum
+eet quodnullus asinus est homo.
+
+β) Ostendit autem Aristoteles. lta codd„ excepto N: ostendit autem
+Philosophus-codices tamen ABGl habent, ostendit ergo Aristoteles.-
+Ed. Plana: ostendit autem per etc.
+
+Novitius, antequam rationes istas percurrat, praenoscat quae in omni
+demonstratione sunt elementa, et ex quo eapite repugnet circularis de-
+monstratio optime intelligat. Duo igitur sunt distinguenda in demon-
+stratione, nempe rga demonstrata, et ipsa demonstratio seu natura syl-
+logismi demonstrativi, quo res demonstratur: et ex utroque capite
+proveniunt conditiones necessario requisitae ad demonstrationem.- Et-
+enim ex· parte regam requiritur necessario connexio terminorum: narn
+ideo conclusio infertur, quia cum praemissis connexa est; in praemissis
+autem termini conclusionis (qui maior et minor extremitas syllogismi
+dicuntur) cum medio termino assumpto comparantur, et aut utrique
+connectuntur, ut in affirmativis conclusionibus, aut unus connectitur
+medio, alter vero non, ut in negativis. Requiritur secundo, ut in de-
+monstrationibus simpliciter seu propter quid procedatur a causa ad
+effectum, et ideo a notioribus secundum naturam ad minus nota; in
+demonstrationibus autem quia proceditur ab effectibus ad causam et a
+notioribus quoad nos ad notiora secundum naturam—Ex parte autem
+demonffuationis necesse est in omni demonstratione ut procedatur ex
+notiori us nobis, sive illa sint etiam secundum se et quoad naturam
+notiora, sive non (Cf. lect. 1v, n. 16). ·
+
+Cum ergo ad rationem demonstrationis circularis requiratur neces-
+
+. sario ut conclusio flat praemissa, et praemissa fiat conclusio, quaestio
+
+moveri potest utrum circularis demonstratio repugnet conditionibus re-
+quisitis ad demonstrationem consideratam vel ex parte rei, vel ex parte
+demonstrationis, vel ex utraque parte. At formaliter loquendo circularis
+demonstratio expendenda est ex secundo capite, nempe ex parte di-
+scursus demonstrativi, cuius est, ut diximus, procedere ex notioribus
+nobis; consequenter quaerere formaliter utrum circularis demonstratio sit
+possibilis, idem est ac quaerere utrum conclusio possit notior nobis fieri
+
+“ quam praemissa, et simul utrum praemissa nobis notior sit quam con-
+
+· clusio. Nempe in ipsa positione quaestionis apparet impossibilitas de-
+
+monstrationis circularis, ut infra in prima ratione dicitur.
+
+Sed quid dicendum de demonstratione circulari, considerata demon-
+stratione ex parte rei? Respondeo quod quoties adhibetur demonstratio,
+in quacunque materia fiat, non potest praescindi ab eius conditione es-
+sentiali, nempe ut sit syllogisticus processus a notioribus nobis. Ergo
+ex hoc capite manet semper impossibilitas demonstrationis circularis.
+Hinc in demonstratione propter quid proceditur a causa notiori nobis
+ad minus notum; ergo minus notum demonstratum non potest fieri
+praemissa, per eamdem demonstrationem propter quid, quin fiat ma-
+gis notum nobis quam id quod prius· assumptum est ut magis nobis
+notum quam conclusio: quod repugnat. Similiter in demonstratione quia
+proceditur a principio non magis noto in se sed quoad nos; ergo quod
+concluditur non potest assumi ut quid magis notum quoad nos ad con—
+cludendum ipsum principium assumptum, quin simul dicatur aliquid esse
+quoad nos simul et sub eodem respectu magis et minus notum. Demum
+in connexione terminorum inter se in conclusione, et in praemissis cum
+medio, prius est nobis cognita connexio extremorum cum medio, quam
+eorum connexio inter se; at si possibilis foret demonstratio circularis,
+connexio extremorum inter se magis esset nota nobis quam eorum con-
+nexio cum medio. Quod etiam repugnat. Manifestum est ergo quod in
+
+167
+
+idem sit prius et posterius respectu unius et eius-
+dem, et notius et minus notum. Hoc autem est
+
+impossibile. Ergo impossibile est circulariter de-
+monstrare.
+
+4. Sed posset ⁶ aliquis dicere quod idem potest ”
+
+esse prius et posterius alio et alio modo, scilicet
+ut hoc sit prius· quoad noS, et illud sit prius sim-
+pliciter ⁸. Sicut singularia sunt priora quoad nos,
+et posteriora simpliciter; universalia vero e con-
+verso ζ. Hoc autern modo inductio facit notum, sci-
+
+licet* altero modo a demonstratione. Nam demon· ·
+
+stratio procedit ex prioribus simpliciter: inductio
+autem ex prioribus quoad nos *. - Sed si sic
+fieret demonstratio circularis, ut scilicet primo
+concluderetur ’¹‘ ex prioribus simpliciter, postea vero
+ex prioribus quoad nos; sequeretur quod non
+
+omni demonstratione circulari semper offenditur absurditas vi conditionis
+requisitae ad processum demonstrativum, si circulatio fiat formaliter.
+nempe sub eodem respectu.
+
+Quod consilio et non casu dico. Quaecunque enim hucusque pro-
+bavi supponunt in circulatione servari idem demonstrationis genus: nam
+si mutetur demonstratio aut ei aliquid admisceatur, possibilis est in-
+versio demonstrationis, quae tamen non proprie sed improprie dicitur
+circularis. Sit iste syllogismus: Omne animal rationale est risibile5
+omnis homo est animal rationale ,· ergo omnis homo est risibilis. Optime
+concluditur: Omnis homo est risibilis ,· omne animal rationale est homo ,-
+ergo omne animal rationale est risibile. Quae conclusio est princi—
+pium prioris syllogismi. OptimuS, inquam, est iste processus, sed non
+est circularis nisi quoad apparentiam, quia primus syllogismus est de-
+monstratio propter quid; alter vero est demonstratio quia. Ratio enim
+risibilitatis est in homine ex animali rationali quasi ex causa propria
+et formali (et hoc assumitur in priori syllogismo): ideo enim homo
+est risibilis quia est animal rationale; et consequenter prius et magis
+notum quoad se est, animal rationale est risibile, quam, homo est
+risibilis. Ergo in altero syllogismo, assumendo ut principium, omnis
+homo est risibilis, assumitur id quod secundum se est posterius, et
+prius notum non quoad naturam, sed quoad nos, et ideo mutatur
+prima argumentatio propter quid, in argumentationem quia,· et non
+verificatur circulatio.
+
+Quae omnia ut paucis complectamur dicimus. Demonstratio circu-
+laris, attenta natura syllogismi demonstrativi, est impossibilis, quia
+est impossibile ut idem secundum idem sit nobis magis et minus notum.
+
+. Attentis autem rebus demonstratis demonstratio circularis uniformis, re-
+
+tento nempe eodem demonstrationis genere, est pariter impossibilis,
+quia semper verificatur idem secundum idem assumi ut magis et minus
+notum nobis; sed est possibilis quandoque circularis demonstratio dif-
+formis, variato nempe aut immutato genere demonstrationis: quo in
+casu non proprie sed improprie habetur circulatio, apparens nempe et
+non realis. Dixi quandoque quia non semper fieri cum veritate potest
+circulatio: requiritur enim convertibilitas, ut probatur infra n.7 et seq„
+quae in omnibus non potest haberi (Cf. hac de re Alb. Magn. in IPoster.‚
+tract..11, cap. v1, et in ll Priorum, tract. 11 per totum.-Dominic. a Flan-
+dria in 1 Foster„ qu. xm, artic. 1 et 2.-Caietan. in 1 Foster.. cap. xm,
+ξ. Circa secundam conclusionem etc.—Sylvest. Maur. in 1 Foster„ cap. m,
+et in 11 Priorum, cap. v et seqq.)
+
+γ) Idem fit et principium et conclusio. Est lectio codd. CDLMQST,
+et etiam ABEGHKNOR: idem sit principium et conclusio.— P: idem
+fit conclusio et principium,· 1: idem est etc. ut Piana.
+
+δ) Sed posset etc. Est lectio codd.—- P: sed potest. - Amanuensis
+cod. L mendose scribit: sed posset esse prius et notius alio et alio
+modo scilicet etc. ,
+
+ε) Scilicet ut hoc sit prius etc.-1ta codd„ exc. B, qui legit: sicut
+quod hoc sit prius quoad nos et id sit prius simpliciter.-Edit. Piana:
+scilicet ut hoc sit prius quoad nos et illud sit posterius simpliciter.
+Non posterius sed prius legendum est curn codd.: nam s. Thomas in
+hac obiectione opponit illud quod est prius relative, seu quoad nos so-
+lummodo, ad illud quod est prius absolute, seu ex natura sua et sim-
+pliciter. Quod et exemplo singularium et universalium declaratur. Susti-
+neri posset lectio Piana si haberet: scilicet ut hoc sit prius quoad nos
+et posterius simpliciter.
+
+ζ) Sicut singularia etc. Novitius in his ac similibus legendis sciat
+ex mente s. ‘rhomae semper distinguere cognitionem sensitivam et co-
+gnitionem intellectivam; ac deinde intelligat, quod semper inculcat An-
+gelicus, singularia esse priora, seu prius cognita a nobis, sed cognitione
+sensitiva; universalia esse prius a nobis cognita, sed cognitione intelle-
+ctiva. Et quia cognitio nostra intellectiva praesupponit cognitionem sen·
+sitivam, quia ab illa originem aliquo modo ducit3 ideo sumpta in nobis
+cognitione in genere, prout nempe complectitur tum intellectivam tum
+sensitivam, dicendum est quod singularia sunt prius a nobis cognita
+quam univer-salim ut hic affirmatur a s. Thema (Cf. supra lect. ι, in nota ρ,
+et lect. iv, n. 16).
+
+ε
+
+ζ
+
+,ωουαιιιικοακ
+ετ. - ru: sed.
+
+· Cf.lect.1, n. 11.
+
+{n demonstrare
+ur.
+

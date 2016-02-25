@@ -1,0 +1,154 @@
+52 PERI HERMENEIAS LIB. I
+
+*LECTIO UNDECIMA
+
+DE OPPOSITIONE INTER PROPOSITIONES UNIVERSALES
+ET PARTICULARES DEQUE MODO QUO SE HABENT AFFIRMATIO
+ET NEGATIO OPPOSITAE AD VERUM ET FALSUM
+
+Ἀντικεϊσθαι μὲν οὖν κατάφασιν ἀποφάσει λέγω ἁντιφα-
+τικῶς τήν τὸκαθόλου σημαίνουσαν τῷ αὐτῷ ὅτι οὗ
+καθόλου, οἷον πᾶς ἄνθρωπος λευκός· οὐ πᾶς ἄνθρωπος
+λευκός· οὐδεὶς ἄνθρωπος λευκός· ἔστι τις ἄνθρωπος
+λευκός.
+
+Ἐναντίως δὲ τήν τοῦ καθόλου κατάφασιν, καὶ τήν τοῦ
+καθόλου ἀπόφασιν, οἷον πᾶς ἄνθρωπος λευκός, οὐδεὶς
+ἄνθρωπος λευκός, πᾶς ἄνθρωπος δίκαιος, οὐδεὶς ἄν-
+θρωπος δίκαιος.
+
+Διὰ ταύτας μὲν οὐχ οἷόντε ἅμα ἀληθεῖς εἶναι, τοὶς δὲ
+ἀντικειμένας αὐταῖς ἐνδέχεταί ποτε ἐπὶ τοῦ αὑτοῦ
+ἅμα ἀληθεῖς εἶναι· οἷον οὐ πᾶς ἄνθρωπος λευκός, καὶ
+’ἐστι τις ἄνθρωπος λευκός. q
+
+”Οσαι μὲν οὖν ἀντιφάσεις τῶν καθόλου· εἰσὶ καθόλου,
+ἀνάγκη τήν ἑτέραν ἀληθῆ εἶναι, ἢ ψευδῆ. Καὶ ὅσαι
+ἐπὶ τῶν καθ’ ἕκαστα, οἷον ἔστι Σωκράτης λευκός,
+οὐκ ἔστι Σωκράτης λευκός.
+
+’Ὅσαι δὲ ἐπὶ τῶν καθόλου μέν, μή καθόλου δέ, οὐκ ἀεὶ
+ἡ μὲν ἀληθής, ἡ δὲ ψευδής· ἅμα γάρ ἀληθές ἐστιν
+εἰπεῖν, ὅτι ἔστιν ἄνθρωπος λευκός, καὶ ὅτι οὐκ ἔστιν
+ἄνθρωπος λευκός· καὶ ’ἑστιν ἀνθρωπος καλός, καὶ οὐκ
+ἔστιν ἄνθρωπος καλός.
+
+Ei. γάρ αἰσχρός, καὶ οὗ καλός· καὶ εἰ γίνεταί τι, καὶ
+οὐκ ἐ’στι.
+
+Δόξειε δ’ ἂν ἐξαίφνης ἄτοπον εἶναι διαὶ etl φαίνεσθαι
+σημαίνειν τὰ οὐκ ἔστιν ἄνθρωπος λευκός ἅμα καὶ
+ὅτι οὐδεὶς ἄνθ ωπος λευκός· τὸ δὲ οὔτε ταύτὸν ση-
+μαίνει, οὔθ’ ἁμα, ἐξ ἀνάγκης.
+
+SYNOPSIS. — 1. Argumentum textus· 2. Propositiones parti-
+culares, proprie loquend0‚ non sunt oppositae, quia ex modo
+seu vi enunciationis non habent quod affirmatio et negatio sint
+de eodem subiecto.-3. Suppositis requisitis ad rationem oppo-
+sitionis (lect.1x, nn. 8 et 9), oppositio inter propositionem univer-
+salem et particularem est oppositio contradictoria3 et ideo tales
+propositiones dicuntur contradictoriae.- 4. Ratio est quia contra-
+dictio est solummodo remotio affirmationis per negationem3 uni·
+versalis autem affirmativa removetur per solam negationem par-
+ticularis; et particularis affirmativa removetur solum per univer-
+salem negativam. - 5. Hinc contradictio non admittit medium,
+quia inter affirmationem et negationem non datur medium3
+sed contrarietas admittit medium, quia inter extreme distantes
+propositiones universales dantur propositiones particulares. -
+
+ 
+
+'¹ Codd. - im: hic
+nunc.
+
+„ indefinitas, hic ⁴· determinat de oppo-
+sitione enunciationum comparando universales ad
+particulares *. Circa quod considerandum est *¹*
+quod potest duplex oppositio in his notari: una qui—
+dem universalis ad particularem, et hanc primo
+tangit; alia vero universalis ad universalem, et
+hanc tangit secundo; ibi: Contrariae vero etc. *
+2. Particularis vero affirmativa et particularis
+negativa, non habent proprie loquendo oppositio-
+nem, quia oppositio attenditur circa idem subie-
+ctum; subiectum autem particularis enunciationis
+est universale particulariter sumptum, non pro
+
+· Cf.1ect.x.n.17.
+“ Atacem: notan-
+dum est.
+
+· Infra n. 5..
+
+'¹‘ Opponi itaque dico affirmationem negationi contradicto· · ch- c. vn.
+rie, quae universaliter significat, ei quae non universa-
+liter; ut, omnis homo albus est, non omnis horno albus ’
+est; nullus homo albus est, quidam homo albus est.
+
+contrarie vero universalem affirmationem et universalem
+
+negationem; ut, omnis homo iustus est, nullus homo
+1ustus est.
+
+Quocirca has quidem impossibile est simul esse veras;
+his vero oppositas, contingit aliquando in eodem; ut,
+non omnis homo albus est, et quidam homo albus est.
+
+Quaecumque igitur contradictiones universalium sunt uni-
+versaliter, necesse est alteram esse veram vel falsam.
+Et quaecumque in singularibus sunt; ut, Socrates albus
+est, non est Socrates albus.
+
+Quaecumque autem universalium non universaliter, non
+haec quidem semper vera est, illa vero falsa; simul
+enim verum est dicere, quoniam est homo albus, et,
+non est homo albus, et quoniam est homo pulcher, et,
+non est homo pulcher.
+
+Si enim foedus est, non est pulcher, et si fit aliquid, non-
+dum est.
+
+Videbitur autem subito inconveniens esse, idcirco quoniam
+videtur significare, non est homo albus, simul etiam
+quoniam nullus homo est albus; hoc autem neque
+idem significat, neque simul necessario sunt.
+
+6.Ergo propositiones contrariae non possunt esse simul verne,
+quia contraria mutuo se expellunt; sed tamen earum contradi-
+ctoriae, nempe media, quae sunt propositiones particulares,
+possunt esse simul verae, quia, ut dictum est, proprie loquendo
+non opponuntur. - 7. Propositiones contradictoriae nequeunt
+esse simul verae, nequeunt esse simul falsae; sed una earum
+est necessario vera, altera est necessario falsa. —8. Propositio-
+nes indefinitae licet apparenter contradictoriae, tamen revera
+tales non sunt vi propositionum, quamvis hoc contingat esse
+vi materiae seu subiecti, cui essentialiter praedicatum debet
+convenire aut non convenire· 9. Solvitur obiectio.—1o. Ex vi
+propositionis veritas et falsitas in propositionibus indefinitis
+est sicut in propositionibus particularibus-11. Excluditur du·
+bitatio.
+
+aliquo determinato singulari, sed indeterminate
+pro quocumque *; et ideo, cum de universali par-
+ticulariter sumpto aliquid affirmatur vel negatur,
+ipse modus enunciandi non habet quod affirma-
+tio et negatio sint de eodem: quod requiritur ad
+oppositionem affirmationis et negationis, secun-
+dum praemissa *.
+
+3. Dicit ergo primo quod enunciatio, quae uni-
+versale significat, scilicet universaliter, opponitur
+contradictorie ei, quae non significat universaliter
+sed particulariter, si una earum sit affirmativa,
+altera vero sit negativa '¹ (sive universalis sit affir- ·
+mativa et particularis negativa, sive e converso “); (ιὶἕὲᾙῖ ,ζ’ξιζ
+ut cum dicitur, omnis homo est albus, non omnis ἕὲα ἰιι-ἷῗέ””’“’
+homo est albus: hoc enim quod dico, non omnis,
+
+' Cf. lect. praee.y
+n. ¹3·
+
+· Lect. tx, n. 8.
+
+· Aac: et atem
+

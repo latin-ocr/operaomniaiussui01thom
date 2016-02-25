@@ -1,0 +1,170 @@
+110
+
+PERI HERMENEIAS LIB. 11
+
+LECTIO DECIMA
+
+(ΕΔΜ). Cusum lect. vin)
+
+DE PROPOSITIONUM MODALIUM CONSEQUENTIIS
+
+Καὶ αἱ ἀκολουθήσεις δὲ κατά λόγον γίνονται οὕτω τι-
+θεμένοις τῷ μὲν γάρ δυνατὸν εἶναι τό ἑνδέχεσῐέαι
+εἶναι, καὶ τοῦτο ἐκείνῳ ἀντιστρέφειζκαὶ τό μή ἀὸύ-
+νατον εἶναι καὶ τὸ μή ἀναγκαῖον εἰναι· τῷ δὲ δυ-
+νατὸν μή εἶναι καὶ ἐνδεχόμενον μή εἶναι vj) μή ἀναγ-
+καῖον μη εἶναι καὶ τὸ οὐκ ἀδύνατον μή εἰναι, τῷ δὲ
+μή δυνατὸν εἶναι καὶ μή ἐνδεχόμενον εἰναι τὸ ἀναγ-
+καῖον μή εἶναι καὶ τὸ ἀδύνατον εἶναι, τῷ δέημῆ δυ-
+νατὸν μή εἶναι, καὶ μή ἐνδεχόμενον μῇ εἰναι τό
+ἀναγκαῖον εἶναι καὶ τὸ ἀδύνατον μή εἰναι. Θεω-
+ρείσθω δὲ ἐκ ἧς ὑπογραφῆς ὠς λέγομεν,
+
+οὐ δυνατὸν εἶναι.
+
+οὐκ ἐνδεχόμενον εἶναι.
+ἀδύνατον εἶναι.
+ἀναγκαῖον μή εἶναι.
+
+δυνατὸν εἶναι,
+ἐνδεχόμενον εἶναι,
+οὐκ ἀδύνατον εἶναι,
+οὐκ ἀναγκαῖον εἶναι,
+
+οὐ δυνατὸν μή εἶναι.
+οὐκ ἐνδεχόμενον μη εἶναι.
+ἀδύνατον μή εἶναι.
+ἀναγκαῖον εἶναι.
+
+δυνατὸν μή εἶναι,
+ἐνδεχόμενον μή εἶναι,
+οὐκ ἀδύνατον μή εἶναι,
+οὐκ ἀναγκαῖον μή εἰναι,
+
+Τὸ μὲν οὖν ἀδύνατον καὶ οὐκ ἀδύνατον τῷ ἐνδεχομένῳ
+καὶ δυνατῷ καὶ οὐκ ἐνδεχομένῳ καὶ μή δυνατῷ ἀκο-
+λουθεῖ μὲν ἀντιφατικῶς, ἀντεστραμμένως δέ· τῷ μὲν
+γάρ δυνατὸν εἶναι ἡ ἀπόφασις τοῦ ἀδυνάτου ἀκο-
+λουθεῖ, τῇ δὲ ἀποφάσει ἡ κατάφασις. Τῷ γάρ ού
+δυνατὸν εἶναι τὸ ἀδύνατον εἶναι· κατάφασις γάρ το
+ἀδύνατον εἶναι, τὸδ’ οὐκ ἀδύνατον εἶναι ἀπόφασις.
+
+Τό δ’ ἀναγκαῖον πῶς, ὀπτέον. Φανερόν δή ὅτι οὐχ οὕ-
+τως ἔχει, ἀλλ’ αἱ ἐναντίαι ἕπονται· αἱ δ’ ἀντιφά-
+σεις χωρίς
+
+οὐ γοίρ ἐστιν ἀπόφασις τοῦ ἀνάγκη μή εἶναι τὸ οὐκ
+ἀνάγκη εἶναι· ἐνδέχεται γάρ ἀληθεύεσθαι ἐπὶ τοῦ
+αὐτοῦ ἀμφοτέρας· τὸ γάρ ἀναγκαῖον μή εἶναι οὐκ
+ἀναγκαῖον εἶναι.
+
+Αἴτιον δὲ, τοῦ μή ἀκολουθεῖν τὸ ἀναγκαῖον ὁμοίως τοῖς
+ἑτέροις, ὅτι ἐναντίως *td ἀδύνατον τῷ ἀναγκαίῳ
+ἀποδίδοται, τὸ αὐτὸ δυνάμενον. Εἰ γάρ ἀδύνατον
+εἶναι, ἀναγκαῖον τοῦτο οὐκ εἶναι, ἀλλά μή εἶναι·
+εἰ δὲ ἀδύνατον μή εἶναι, τοῦτο ἀνάγκη εἶναι· ὥστε
+εἰ ἐκεῖνα ὁμοίως τῷ δυνατῷ καὶ μή, ταῦτα ἐξ ἐναν-
+τίας, ἐπεὶ οὐ σημαίνει γε ταύτὸν τό τε ἀναγκαῖον
+καὶ τὸ ἀδύνατον, ἀλλ’ ὥσπερ εἴρηται, ἀντεστραμ-
+
+μένως. 1
+
+Ἡ ἀδύνατον οὕτως κεῖσθαι τοὶς τοῦ ἀναγκαίου ἀντιφα-
+σεις; τὸ μὲν γάρ ἀναγκαῖον εἶναι δυνατὸν εἶναι· εἰ
+γάρ μή, ἦ ἀπόφασις ἀκολουθήσει· ἀνάγκη γάρ ἦ φά-
+ναι ἦ ἀποφάναι· ὥστ’ εἱ μή δυνατὸν εἶναι, ἀδύνατον
+εἶναι· ἀδύνατον ἄρα εἶναι τὸ ἀναγκαῖον εἶναι, ὅπερ
+ἄτοπον. ‘And μην τῷ γε δυνατὸν εἶναι τό οὐκ ἀδυ-
+νατον εἶναι ἀκολουθεῖ, τούτῳ δὲ τό μή ἀναγκαῖον
+εἶναι· ὥστε συμβαίνει τὸ ἀναγκαῖον εἶναι μή ἀναγ-
+καῖον εἶναι, ὅπερ ἄτοπον.
+
+Ἀλλά μην οὐδὲ τὸ ἀναγκαῖον εἶναι ἀκολουθεῖ τῷ δυνα-
+τὸν εἶναι, οὐδὲ τὸ ἀναγκαῖον μη εἶναι· τῷ μὲν γάρ
+ἄμφω ἐνδέχεται συμβαίνειν, τούτων δὲ ὁπότερον ἀν
+ἀληθὲς ἢ, οὐκέτι ἔσται ἐκεῖνα ἀληθῆ. ’Ἀμα γάρ δυ-
+νατὸν εἶναι καὶ μὴ εἶναι· εἰ δ’ ἀνάγκη εἶναι ἦ μή
+
+* consequentiae vero secundum rationem fiunt cum ita
+ponuntur illam enirn quae est, possibile esse, sequitur
+illa quae est, contingit esse, et haec illi convertitur, et,
+non impossibile esse et non necessarium esse; illam
+vero quae est, possibile non esse, et, contingens non
+esse, ea quae est, non necesse non esse, et, non impos-
+sibile non esse: illam autem quae est, non possibile
+esse, et, non contingens esse, ea quae est, necessarium
+non esse, et impossibile esse: illam vero quae est, non
+possibile non esse, et, non contingens non esse, ea quae
+est, necesse est esse, et, impossibile non esse. Conside-
+retur autem ex subscriptione quemadmodum dicimus:
+
+Possibile est esse,
+Contingens est esse,
+
+Non impossibile est esse,
+Non necessarium est esse,
+
+Non possibile est esse.
+Non contingens est esse.
+Impossibile est esse.
+Necessarium est non esse.
+
+Possibile est non esse, Non possibile est non esse.
+Contingens est non esse, Non contingens est non esse.
+Non impossibile est non esse, Impossibile est non esse.
+Non necessarium est non esse, Necessarium est esse.
+
+Hae igitur, impossibile, et, non impossibile, eam quae est,
+contingenS, et possibile, et non contingens, et non possi-
+bile sequuntur quidem contradictorie, sed conversim.
+Eam enirn quae est, possibile esse, negatio impossibilis
+sequitur, quae est, non impossibile esse: negationem
+vero affirmatio. Illam enim, non possibile esse, ea quae
+est, impossibile esse: affirmatio enim est, impossibile
+esse; non impossibile vero, negatio.
+
+Necessarium autem quemadmodum se habeat, consideran-
+dum est. Manifestum est autem quod non eodem modo
+se habet, sed contrariae sequuntur, contradictoriae au-
+tem sunt extra.
+
+Non enim cst negatio. eius, quae est, necesse non esse,
+ea quae est, non necesse esse: contingit enim veras esse
+utrasque in eodem: quod enim est necessarium non
+esse, non est necessarium esse.
+
+Causa autem huius est, cur non sequitur necessarium cae-
+teris similiter: quoniam contrarie, impossibile esse, ne—
+cessario redditu'r idem valens. Nam quod impossibile
+esse, necesse hoc non quidem esse, sed potius non
+esse: quod vero impossibile non esse, hoc necessarium
+esse. Quare si illa similiter sequuntur possibile, et, non
+possibile: haec ex opposito: quoniam non significant
+idem necessarium et impossibile; sed (ut dictum est)
+conversim.
+
+Aut certe impossibile est sic poni necessarii contradictiones.
+Nam quod necessarium est esse, possibile est esse: nam
+si non, negatio consequetur: necesse est enirn aut affir-
+mare, aut negare. Quare si non possibile est esse, im-
+possibile est esse. Igitur impossibile est esse quod ne·
+cesse est esse: quod est inconveniens. At vero illam
+quae est, possibile esse, non impossibile esse, sequitur:
+hanc vero, ea quae est, non necessarium est esse; quare
+contingit quod necessarium esse, non necessarium esse:
+quod est inconveniens,
+
+vero neque necessarium esse, sequitur eam quae est,
+
+possibile esse, neque ea quae est, necessarium non esse.
+
+Illi enim utraque contingit accidere: harum autem utra—
+
+libet vera fuerit, non erunt illa vera: simul enirn possi-
+
+bile esse, et, non esse. Si vero necesse esse, vel non esse,
+
+At
+
+⁸ Cap. xm.
+

@@ -1,0 +1,168 @@
+⁹ Cod d. — P: est.
+
+⁴ Codd. lexc. ,ι
+
+ΒΕ ) 2 nunc.
+α
+“ Num. 4.
+
+204
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+LECTIO DECIMASEPTIMA
+
+DEMONSTRATIO PROCEDIT NON EX COMMUNIBUS, SED
+EX PROPRIIS PRINCIPIIS REI DEMONSTRATAE
+
+Ἐπεὶ δὲ φανερόν ὅτι ἕκαστον ἀποδεῖξαι οὐκ ἔστιν ἀλλ’
+ἦ ἐκ τῶν ἑκάστου ἀρχῶν, ἂν τό δεικνύμενον ὑπάρχῃ
+ᾖ ἐκεῖνο, οὐκ ’ἐστι τό ἐπίστασθαι τοῦτο, ἂν ἐξ ἀλη-
+θῶν καὶ ἀναποδείκτων δειχθῇ καὶ ἀμέσων.
+
+Ἔστι γοὶρ οὕτω δεῖξαι, ὥσπερ Βρύσων τόν τετραγωνι-
+σμόν. Κατὰ κοινόν τε γάρ δεικνύουσιν οἱ τοιοῦτοι
+λόγοι, ὃ καὶ ἑτέρῳ ὑπάρῖει· διὸ καὶ ἐπ’ ἄλλων ἐφαρ-
+μόττουσιν οἱ λόγοι οὐ συγγενῶν. Οὐκοῦν οὔχ ᾗ ἐκεῖνο
+ἐπίσταται, ἀλλά κατά συμβεβηκός· οὐ γάρ ἂν ὲφή -
+μοττεν ἡ ἀπόδειξις καὶ ἐπ’ ἄλλο γένος. Ἓκαστον ’
+ἐπιστάμεθα μή κατά συμβεβηκός, ὅταν κατ’ ἐκεῖνο
+γινώσκωμεν καθ’ ὃ ύπάρχει, ὲκ τῶν ἀρχῶν τῶν ἑκεί-
+νου ᾔ ἐκεῖνο, οἷον τὸ δυσὶν ὀρθαῖς ἴσας ἔχειν, ᾧ ύπσίρ-
+χει καθ’ αὐτὸ τὸ εἰρημένον, ἑκ τῶν ἀρχῶν τῶν τού-
+του. “Qu-‘r’ εἰ καθ’ αὐτὸ κάκεῖνο ὑπάρχει ᾧ ὑπάρχει,
+ἀνάγκη τὸ μέσον ἐν τῇ αὐτῇ συγγενείᾳ εἶναι.
+
+Ei. δὲ μή, ἀλλ’ ὠς τά ἁρμονικοὶ δι’ ἀριθμητικῆς. Τά δέ
+
+”“ τοιαῦτα δείκνυται μὲν ὡσαύτως, διαφέρει δέ· τό
+μὲν γάρ ὅτι ἑτέρας ἐπιστήμης (τὸ γάρ ύποκείμενον
+γένος ἕτερον), τὸ δέ διότι τῆς ἄνω, ἧς καθ’ αὐτοὶ
+τοὶ πάθη ἐστίν. ’Ὥστε καὶ ἐκ τούτων φανερόν ὅτι οὖκ
+ἔστιν ἀποδεῖξαι ἁπλῶς, ἀλλ’ ἦ ἑκ τῶν ἑκάστου ἀρ-
+χῶν. Ἀλλά τούτων αἱ ἀρχαὶ ἔχουσι τό κοινόν.
+
+Εἰ δὲ φανερὸν τοῦτο, φανερόν καὶ ὅτι οὐκ ἔστι τοὶς
+ἑκάστου ἰδίας ἀρχάς ἀποδεῖξαι· ἔσονται γοὶρ ἐκεῖναι
+ἁπάντων ἀρχαί, καὶ ἐπιστήμη ἦ ἐκείνων κυρία
+πάντων.
+
+Καὶ ἀρ ἐπίσταται μᾶλλον ὁ ἑκ τῶν ἀνώτερον αἰτίων
+εἰ ὥς· ἐκ τῶν προτέρων γάρ οἶδεν, ὅταν ἐκ μή αἱ-
+τιατῶν εἰδῇ αἰτίων. ”Ωστ’ εὶ μᾶλλον οἶδε, καὶ μά-
+λιστα· κᾶν ἐπιστήμη ἐκείνη εἴη, καὶ μᾶλλον καὶ μά-
+λιστα. ,
+
+Ἠ δ’ ἀπόδειξις οὐκ ἑφαρμόττει ἐπ’ ἄλλο γένος, ἀλλ’
+ἦ ὠς εἴρηται αἱ γεωμετρικαὶ ἐπὶ τοὶς μηχανικὰς ἦ
+όπτικάς, καὶ αἱ ἀριθμητικαὶ ἐπὶ τοὶς ἀρμονικοίς.
+
+ΞΥΝορςιε. - 1. Argumentum lectionis: non sufficit ad hoc
+quod aliquid sciatur, quod demonstratio procedat ex veris et
+immediatis, sed requiritur quod sit ex propriis. - 2. Probatur:
+nam si demonstratio non sit ex principiis propriis rei demon—
+stratae, haec non per se, sed per accidens sciri solummodo potest.
+— 3. Solvitur dubitatio et confirmatur thesis. - Cum passio insit
+subiecto propter medium, scientia inferior, quae de proprio subie-
+cto demonstrat passionem per medium superioris scientiae, co-
+gnoscit de ipso subiecto non propter quid, sed tanturn quia. -
+
+ἵ monstratio non procedit* ex principiis
+ἡ extraneis; hic * autem ostendit quod
+' ³ non procedit ex communibus '‘. Et
+circa hoc duo facit: primo, ostendit propositum;
+secundo, inducit quandam conclusionem ex dictis;
+ibi: Si autem hoc est ²* etc. Circa primum tria fa-
+cit Ρ. Primo, proponit intentum dicens quod, quia
+
+ 
+
+α) Quod non procedit ex communibus-ita P cum codd. ABG. —
+Alii codices: quod nec (ΕΚ, non) ex principiis communibus (No,
+{rizzziis omnibus) procedit. Non apparet ratio mutandi lectionem
+
+*Quoniam autem manifestum est quod unumquodque de-
+monstrare non est, ised aut ex unoquoque principiorum,
+si id quod demonstratur sit secundum quod est illud,
+non est scire hoc quidem, si ex veris et indemonstra-
+bilibus monstretur et immediatis.
+
+Est enim sic monstrare, sicut Bryso tetragonismum. Se-
+cundum commune enim demonstrant rationes huius-
+modi et quod alteri inest, unde et in aliis conveniunt
+hae rationes, non tantum proximiS. Non itaque secundum
+quod illud est scit, sed secundum accidens; non enim
+convenit demonstratio et in aliud genus. Unumquod-
+que autem scimus secundum accidens, cum secundum
+illud non cognoscimus, secundum quod est ex principiis
+illius, in quantum illud est, ut duobus rectis aequales
+habere cui inest per se, quod dictum est, ex principiis
+ipsius. Quare si per se et illud inest, cui inest, necesse
+est medium in eadem proximitate esse.
+
+Si vero non, sed sicut harmonica per arithmeticam, huius-
+modi demonstrantur quidem similiter, sed differunt.
+Ipsum enim quia alterius quidem scientiae est (subie-
+ctum enim alterum genus est), sed propter quid supe-
+rioris est, cuius per se passiones sunt. Quare ex his
+manifestum est, quod non sit demonstrare unumquod—
+que simpliciter, sed secundum quod ex uniuscuiusque
+principiis est. Sed horum prinpria habent commune.
+
+Si autem hoc, manifestum est quod non est uniuscuius-
+que principia monstrare: erunt enim illa omnium prin-
+cipia, et scientia illorum propria omnibus.
+
+Et namque scivit magis intelligens ex superioribus causis3
+ex prioribus enim scivit, cum non ex causatis sciat
+causas· Quare si magis scivit et maxime, et scientia ina
+
+’ erit et magis et maxime.
+
+⁸ Cap. rx.
+Text. 23.
+
+754 37
+7 πνοῇ
+
+i
+
+Mari?
+
+Sed demonstratio non convenit in aliud geum, sed aut‘sssst 23
+
+sicut dictum est geometricae in mechanicas vel machi—
+nativas aut speculativas, et arithmeticae in harmonicas.
+
+Principia propria particularium scientiarum habent aliquid com-
+mune prius eis. —4. Non est uniuscuiusque scientiae demonstrare
+principia sua propria: haec enim possunt probari per communia
+
+omnium principia, quae ut sibi propria considerat philosophia pri· ·
+
+ma, seu metaphysica.- 5. Ergo philosophia prima, quae considerat
+principia communia, ex quibus probantur principia immediata
+aliarum scientiarum, his omnibus scientiis praeeminet. — 6. De-
+monstratio non procedit ex uno in aliud genus, nisi sicut dictum
+est (n. 3) quod scientia superior procedit ad scientias inferiores.
+
+manifestum est quod non contingit unumquod-
+
+que per unumquodque demonstrare, sed '¹ oportet ·
+
+quod demonstratio fiat ex unoquoque principio-
+rum, hoc modo, quod id quod demonstratur sit
+
+secundum quod est illud, idest, oportet quod prin·
+
+cipia demonstrationis insint per se ei, quod de-
+monstratur; si, inquam, ita est, non sufficit, ad hoc
+quod aliquid sciatur, quod demonstretur ex veris
+
+β) Tria facin- Pinna: duo facin et, duo facit, legunt prim· manu
+codd. GK; sed lectio corrigitur secunda manu in tria jacit, sicut alii
+omnes codices legunt, et legendum est, ut patet ex hoc et duobus nu-
+meris sequentibus, Primo... Secundo... Tertio. ·
+
+a: ei.
+

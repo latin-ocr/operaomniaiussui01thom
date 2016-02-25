@@ -1,0 +1,133 @@
+Boethius.
+
+122
+
+ritur quae harum sit contraria; quamquam sciamus quod
+non utraque sed una earum est secundum quam fit con-
+trarietas. - Tertio modo, potest legi dividendo hanc par-
+ticulam, Et si est una, ab illa sequenti, secundum quam
+contraria est; et tunc prima pars expressive, secunda vero
+dubitative legitur3 et est sensus: quaeritur quae harum
+falsarum contraria est verae, non solum si istae duae
+falsae inter se differunt in consequendo, sed etiam si
+utraque est una, idest alteri indivisibiliter unita, quaeritur
+secundum quam fit contrarietas. Et hoc modo exponit
+Boethius, dicens quod Aristoteles apposuit haec verba
+propter contraria immediata, in quibus non differt con-
+trarium a privativo. Inter contraria enim mediata et im-
+mediata haec est differentia, quod immediatis a privativo
+«contrarium non infertur. Non enim valet, corpus colorabile
+est non album, ergo est nigrum: potest enim esse rubrum.
+In immediatis autem valet; verbi gratia: animal est non
+sanum, ergo infirmum; numerus est non par, ergo impar.
+Voluit ergo Aristoteles exprimere quod nunc, cum quae-
+rimus quae harum falsarum, scilicet negativae et affirma-
+tivae contrarii, sit contraria affirmativae verae, quaerimus
+universaliter sive illae duae falsae indivisibiliter se sequan-
+tur, slve non.
+
+8. Deinde cum dicit: Nam arbitrari, prosequitur hanc
+secundam quaestionem. Et circa hoc quatuor facit. Primo,
+declarat quod contrarietas opinionum non attenditur penes
+contrarietatem materiae, circa quam versantur, sed potius
+penes oppositionem veri vel falsi; secundo, declarat quod
+non penes quaecunque opposita secundum veritatem et
+falsitatem est contrarietas opinionum; ibi: Si ergo boni etc.;
+tertio, determinat quod contrarietas opinionum attenditur
+penes per se primo opposita secundum veritatem et fal-
+sitatem tribus rationibus; ibi: Sed in quibus primo falla-
+cia etc.; quarto, declarat hanc determinationem inveniri
+in omnibus veram; ibi: Manifestum est igitur etc.
+
+Dicit ergo proponens intentam conclusionem, quod
+falsum est arbitrari opiniones definiri seu determinari de-
+bere contrarias ex eo quod contrariorum obiectorum sunt.
+Et adducit ad hoc duplicem rationem. Prima est: opi-
+niones contrariae non sunt eadem opinio; sed contrario-
+rum eadem est fortasse opinio; ergo opiniones non sunt
+contrariae ex hoc quod contrariorum sunt. - Secunda est:
+opiniones contrariae non sunt simul verae; sed opiniones
+contrariorum, sive plures, sive una, sunt simul verae
+quandoque; ergo opiniones non sunt contrariae ex hoc
+quod contrariorum sunt.- Harum rationum, suppositis
+maioribus, ponit utriusque minoris declarationem simul,
+dicens: Boni enim, quoniam bonum est, et mali, quoniam
+malum est, eadem fortasse opinio est, quoad primam. Et
+subdit esse vera, sive plures sive una sit, quoad secun-
+dam. Utitur autem dubitativo adverbio et disiunctione,
+quia non est determinandi locus an contrariorum eadem
+sit' opinio, et quia aliquo modo est eadem et aliquo modo
+non. Si enim loquamur de habituali opinione, sic eadem
+est; si autem de actuali, sic non eadem est. Alia siqui-
+dem mentalis compositio actualiter fit, concipiendo bo-
+num esse bonum, et alia concipiendo malum esse malum,
+
+ 
+
+PERI HERMENEIAS LIB. II
+
+licet eodem habitu utrunque cognoscamus, illud per se
+primo, et hoc secundario, ut dicitur IX Metaphysicae. -
+Deinde subdit quod ista quae ad declarationem mino-
+rum sumpta sunt, scilicet bonum et malum, contraria
+sunt etiam contrarietate sumpta stricte in moralibus,
+ac per hoc congrua usi sumus declaratione. Ultimo in-
+ducit conclusionem. Sed non in eo quod contrariorum
+opiniones sunt, contrariae sunt, sed magis in eo quod
+contrariae, idest, sed potius censendae sunt opiniones
+contrariae ex eo quod contrarie adverbialiter, scilicet con-
+trario modo, idest vere et false enunciant, Et sic patet
+pnmum. >
+
+9. Si ergo boni etc. Quia dixerat quod contrarietas opi-
+nionum accipitur secundum oppositionem veritatis et fal-
+sitatis earum, declarat modo quod non quaecunque se-
+cundum veritatem et falsitatem oppositae opiniones sunt
+contrariae, tali ratione. De bono, puta, de iustitia, quatuor
+possunt opiniones haberi, scilicet quod iustitia est bona,
+et quod non est bona, et quod est fugibilis, et quod est
+non appetibilis. Quarum prima est vera, reliquae sunt
+
+falsae. Inter quas haec est diversitas quod, prima negat ,
+
+idem praedicatum quod vera affirmabat; [secunda affirmat
+
+aliquid aliud quod bono non inest; tertia negat id quod ⁷
+
+bono inest, non tamen illud quod vera affirmabat. Tunc
+sic. Si omnes opiniones secundum veritatem et falsita-
+tem sunt contrariae, tunc uni, scilicet verae opinioni non
+solum multa sunt contraria, sed etiam infinita: quod est
+impossibile, quia unum uni est contrarium. Tenet con-
+sequentia, quia possunt infinitae imaginari opiniones fal-
+sae de una re, similes ultimis falsis opinionibus adductis,
+affirmantes. scilicet ea quae non insunt illi, et negantes
+ea quae illi quocunque modo coniuncta sunt: utraque
+namque indeterminata esse et absque numero constat.
+Possumus* enim opinari quod iustitia est quantitas, quod
+est relatio, quod est hoc et illud; et similiter opinari quod
+iustitia non sit qualitas, non sit appetibilis, non sit ha-
+bitus. Unde ex supradictis in propositione quaestionis,
+inferens pluralitatem falsarum contra unam veram, ait:
+Si ergo est opinatio vera boni, puta iustitiae, quoniam est
+bonum; et si est etiam falsa opinatio negans idem, scili-
+cet, quoniam non est quid bonum; est vero et tertia opi-
+natio falsa quoque, affirmans aliquid aliud inesse illi, quod
+non inest nec inesse potest, puta, quod iustitia sit fugi-
+bilis, quod sit illicita; et hinc intelligitur quarta falsa
+quoque, quae scilicet negat aliquid aliud ab eo quod vera
+opinio affirmat inesse iustitiae, quod tamen inest, ut puta
+quod non sit qualitas, quod non sit virtus; si ita inquam
+est, nulla aliarum falsarum ponenda est contraria opinioni
+verae. Et exponens quid demonstret per ly aliarum, sub-
+dit: Neque quaecumque opinio opinatur esse quod non est,
+ut tertii ordinis opiniones faciunt: neque quaecunque opi-
+nio opinatur non esse quod est, ut quarti ordinis opiniones
+significant. Et causam subdit: Infinitae enim utraeque
+sunt, et quae esse opinantur quod non est, et quae non esse
+quod est, ut supra declaratum fuit. Non ergo quaecun-
+que opiniones oppositae secundum veritatem et falsita-
+tem contrariae sunt. Et sic patet secundum.
+
+aaa 0¹
+

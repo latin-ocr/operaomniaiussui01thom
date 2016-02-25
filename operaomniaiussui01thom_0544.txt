@@ -1,0 +1,159 @@
+174
+
+rationalis,··-3. homo est bonus,·—-4. homo est rationalis. Priores duae
+propositiones habent vi renunciationis eandem universalitatem; duae
+vero posteriores νί enunciationis sunt indefinitae. Sed si a modo enun-
+ciationis ad rem enunciatam procedamus, manifestum est quod in prima
+propositione licet dicatur quod praedicatum (bonus) conveniat omni sup-
+posito seu subiecto (omnis homo), tamen secundum rem non ‚convenit;
+ex opposito licet in quarta propositione non dicatur praedicatum (ratio-
+naliSJ convenire omni subiecto (homo), tamen secundum rem convenit;
+in secunda propositione dicitur praedicatum (rationalis) convenire omni
+subiecto (omnis homo), cui etiam convenit secundum rem; denique in
+tertia propositione neque secundum modum enunciandi, neque secun-
+dum rem praedicatum (bonus) convenit omni supposito (homo). Hinc
+triplex universalitas in propositionibus; 1. secundum modum enunciandi
+et non secundum rem; 2. secundum rem et non secundum modum
+enunciandi; 3. secundum modum enunciandi et secundum rem.
+
+Quae cum ita sint, iam patet dici de omni non uno semper sumi
+sensu. Scholastici bifariam illud dividebant, et aliud prioristicum, aliud
+posterioristicum dicebant. Prioristicum illud est, quod s. Thomas dicit
+definitum ab Aristotele in libro Priorum, nempe est quando praedicatum
+inest quidem cuilibet eorum quae continentur sub universali subiecto
+propositionis, sed ad 'noc dici de omni sufficit et requiritur necessario
+universalitas suppositorum seu subiectorum secundum modum enun-
+ciandi tantum (ut in prima propositione omnis dicit ex modo enun-
+ciandi omnes homines), non autem secundum rem, neque secundum uni-
+versalitatem temporis⁷ ut de se patet.—-Posterioristicum autem dici de
+omni est illud quod in hac lectione definitur ab Aristotele et exponitur
+a s. Tboma, scilicet quando praedicatum inest omnibus quae continentur
+sub subiecto universali, et non in quibusdam quidem sic et in quibus-
+dam non, nec aliquando sic et aliquando non, sed omnibus , per se
+et semper. Unde ad ipsum requiritur necessario suppositorum univer-
+salitas secundum rem et universalitas temporum.
+
+Notat Dominicus a Flandria quod Aristoteles hic incipit libri primi
+Posteriomm secundum tractatum, in quo summatim determinat de his,
+quibus demonstrator dirigitur, et quibus utitur in demonstratione, inter
+quae primum recenset dici de omni. Praemisit autem quod demonstra-
+tio est ex necessariis et ad necessaria, quia demonstratio est syllogismus
+sciendalis, hoc est faciens scire (Cf. supra lect. 1v); quod autem vere
+scitur, impossibile est aliter se habere; et ideo demonstrator (qui a dia-
+lectico distinguitur) debet assumere principium et quod universaliter ve-
+rum sit, et quod verum sit secundum universalitatem suppositorum et
+temporum, ut dictum est de dici de omni posterioristico.
+
+Verum quae diximus de universalitate suppositorum et temporum
+quoad dici de omni posterioristico sunt caute accipienda. Etenim haec
+propositio: Deus est actus purus, recte assumitur a demonstratore, et
+est principium ex quo innumeras theologicas veritates s. Thomas de-
+monstrat ; et quia esse actum purum per se inest Deo, est illa propo-
+sitio etiam de omni, iuxta tradita a s· Doctore n. 3. Sed cum in Deo
+non sint partes subiectivae (non genus, non species, non individua spe-
+cierum), non videtur quod illa propositio sit de omni.- Praeterea Deus
+non mensuratur tempore; et ideo praecitatae propositioni deest univer—
+salitas temporum.— Non ergo videtur recta definitio assignata de dici de
+omni, curn tamen ex recta huius principii applicatione pendeat, saltem
+ex magna parte, efficacitas demonstrationum nostrarum et totius scien-
+tiae humanae.
+
+Notandum est ergo quod suppositorum universalitas, de qua supra
+dictum est, potest esse vel positiva et actualis. vel negativa et virtualis.
+Positiva et actualis est quando subiectum habet revera partes subiecti-
+vas (cf. l. Periti„ lect. 1, n. 7), quibus ideo omnibus et singulis tribuitur
+praedicatum quod subiecto universali convenit- Negativa et virtualis,
+quando subiectum partes subiectivas non habet (ut in Deo est), et quia
+non habet, recte dici potest quod nulla sit pars subiecfiva, cui prae-
+dicatum non conveniat3 at si possent dari huiusmodi partes, omnibus
+idem praedicatum conveniret.—-Similiter est dicendum de universalitate
+temporum. Alia est positiva et actualis, alia negativa et virtualis. Posi-
+tiva et actualis est quando in omni tempore praedicatum tribuitur par-
+tibus subiectivis alicuius universalis; negativa et virtualis quando nullum
+est tempus in quo praedicatum subiecto non conveniat, et si darentur
+tempora, in quibuslibet tribueretur. Et hinc est quod, ut notat b. Alber-
+tus Magnus, Aristoteles definiens dici de omni posterioristicum, nega-
+tive expressit universalitatem, inquiens, non in quodam sic et in quo-
+dam non, nec aliquando sit: et aliquando non (ln 1 Foster„ tract. 11, cap.
+vn, pag. 535, Opp. tom. 1).
+
+Addit praeterea Caietanus quod universalitas temporis sive positiva
+
+POSTERIORUM ANALYTICORUM LIB. 1
+
+sive negativa, quam significat dictum de omni, non oportet quod intel-
+ligatur pro omni tempore simpliciter et absolute, sed pro omni tempore
+relative, nempe pro omni tempore quo tale praedicatum habet ex na-
+tura sua quod insit tali subiecto: non enim illud tantum dicimus sem-
+piternum quod numquam cessat, sed etiam illud (quamvis relative) quod
+infallibiliter suo tempore invenitur, spectatis legibus naturae, sicut di-
+cimus quod infallibiliter eveniunt ortus et occasus solis'. Hinc etiam
+omnia ista naturalia in demonstrationibus assumuntur, et sunt conclu-
+sionum demonstrativamm obiecta, quamvis constantiam legum natura-
+lium subaudiant, quae nonnisi necessitatem hypotheticam habent, neces-
+sitatem nempe quae pendet a libera Dei voluntate ordinante et conser-
+vante naturae leges. Quapropter dici de o'mni posterioristicum exigit
+universalitatem suppositorum propter formam syllogismi, et insuper
+exigit universalitatem temporis propter materiam seu obiectum syllo-
+gismi demonstrativi, quod esse debet necessarium, ut dictum est, et
+ideo immutabile et perpetuum. Ergo ex hoc secundo capite talis debet
+esse necessitas, qualis requiritur a materia demonstrationis: non enim
+materia seu obiectum est propter demonstrationem, sed demonstratio
+est propter obiectum (Cf. supra, lect. ιν, n. 9 not. π). Quia igitur ·et
+de naturalibus datur scientia, et ideo demonstratio, et illa universali-
+tatem absolutam non patiuntur, sed solummodo relativam; dicendum
+videtur quod dici de omni primo et principaliter dicat universalitatem
+temporis simpliciter, sed admittit etiarn universalitatem temporis, pro
+tempore quo tale praedicatum inest namra sua subiecto (Cf. infra
+lect. xvi, n. 8. -Albem Magn. loc. cit. — Caietan. in 1 Foster„ cap. lv,
+ξ. Circa definitionem de omni etc.). Manifestum tamen est quod no-
+bilior et efficacior est scientia, cuius obiectum universalitatem temporis
+simpliciter habet: extra enim istam non datur nisi universalitas quae-
+dam proportionalis.
+
+Aliud principium syllogismi demonstrativi circumfertur, nempe: nota
+notae est nota rei ipsius ‚· repugnans notae repugnat rei ipsiu-Nota au-
+tem, inquit Trendelenburg, nihil fere aliud valet quam praedicatum
+(Hementa logices Aristoteleae. —Annotata‚ g. 23, pag. 93.—l··]d. octava.-
+Berolini 1878). Sit syllogismus: Animal est sensitivum5 homo est animal,-
+homo est sensitivus. Quia sensitivum est praedicatum seu nota subiecti
+(animal) in maiori, et hoc subiectum est praedicatum seu nota subie-
+cti (homo) in minori ; ideo nota seu praedicatum maioris (sensitivam)
+est in conclusione nota seu praedicatum subiecti minoris (homo) ; homo
+est sensitivus. Ex hoc principio verissimo putat Kant, cui consentit
+Trendelenburg (Op. et loc. cit.), perspicue inferri dictum de omni et
+nullo, quod dictum propterea, inquit, assumi potest ut principium in
+ratiocinationibus rationalibus in genere, et in categoricis in specie
+(Logique, vers. Tissot, cap. m, §- 63, pag. 202. Paris 1840).-Verum,
+quamvis in principio dictum de omni inveniatur principium alterum, nota
+notae etc., altius tamen repeti existimo principium Aristotelicum. Nam,
+ut in exemplo supra adducto videre est, ideo sensitivum dicitur de lto-
+mine, quia in maiori dicrum est de animali, quod in minori est nota
+seu praedicatum hominis. At si quaeratur cur sensitivum dici debeat
+de homine ex eo quod in maiori dicitur de animali, respondetur quia
+animal est genus, sub quo in minori ponitur contineri homo; et quid-
+quid dicitur de omni dicitur de omnibus contentis sub illo. Nempe
+principium nota notae infertur a priori ex dicto de omni.- Quod si
+quoad formam consideretur principium nota notae etc. magis convenire
+videtur cum altero principio: Quae sunt eadem uni tertio, sunt eadem
+inter se.- quod potius quam materiam, respicit formam syllogismi, seu
+comparationem extremorum cum medio. At principium dici de omni
+directe materiam et intimam naturam syllogismi tangit: quatenus scilicet
+universale subiectum cum universalitatem suppositorum complectatur,
+istis competit quidquid de subiecto illo affirmari potest, hoc est tangit
+ordinem naturae universalis ad partes suas subiectivas. Quem quidem
+ordinem syllogismus demonstrativus sequitur: nam de eiua namra eet
+ut ab universalioribus ad minus universalia procedat3 praefatum autem
+ordinem non videtur indicare principium, Nota notae etc. .
+
+Ultimo loco quaeri potest cur Aristoteles non fecerit mentionem de
+eodem principio in sensu negativo, nempe de dici de nullo. quod regit
+syllogismos negativae conclusionisi-Respondeo quod oppositorum ea-
+dem est ratio, ut fert commune adagium3 et ideo ex his quae dicta
+sunt de principio affirmativo, facile est statuere naturam, conditiones et
+divisiones principii negativi, dici de nullo. — Addit Dominicus a Flandria
+quod Aristoteles in hoc libro determinat de demonstratione affirmativa
+ostensiva ‚ quae semper utitur propositionibus de diei deomni, et ideo
+nullam hic facit mentionem de principio negativo dici de nullo, de quo
+egit in libro Priorum (ln 1 Foster„ qu. xxv, amc. 2).
+

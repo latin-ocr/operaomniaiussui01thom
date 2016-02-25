@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaiussui01thom/operaomniaiussui01thom_0055.png"; bbox 0 0 2548 4192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 955 1569 1649 1623">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 955 1569 1649 1623">
+     <span class='ocr_line' id='line_1_1' title="bbox 955 1569 1649 1623; baseline 0.001 -2"><span class='ocrx_word' id='word_1_1' title='bbox 955 1569 1649 1623; x_wconf 87' lang='lat' dir='ltr'><strong>IIIIIIIIIIII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 313 1741 2287 1881">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 313 1741 2287 1881">
+     <span class='ocr_line' id='line_1_2' title="bbox 313 1741 2287 1881; baseline -0.001 -27"><span class='ocrx_word' id='word_1_2' title='bbox 313 1744 614 1855; x_wconf 84' lang='lat' dir='ltr'>DIVI</span> <span class='ocrx_word' id='word_1_3' title='bbox 695 1741 1363 1854; x_wconf 76' lang='lat' dir='ltr'>THOMAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 1436 1742 2287 1881; x_wconf 72' lang='lat' dir='ltr'>AQUINATIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 761 1980 1841 2047">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 761 1980 1841 2047">
+     <span class='ocr_line' id='line_1_3' title="bbox 761 1980 1841 2047; baseline -0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 761 1981 1303 2047; x_wconf 83' lang='lat' dir='ltr'>APPAR&#39;ATUS</span> <span class='ocrx_word' id='word_1_6' title='bbox 1353 1980 1841 2046; x_wconf 83' lang='lat' dir='ltr'>GENERALIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1057 2173 1543 2189">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1057 2173 1543 2189">
+     <span class='ocr_line' id='line_1_4' title="bbox 1057 2173 1543 2189; baseline 0 2003"><span class='ocrx_word' id='word_1_7' title='bbox 1057 2173 1543 2189; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

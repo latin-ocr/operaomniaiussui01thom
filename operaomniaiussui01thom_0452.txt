@@ -1,0 +1,202 @@
+'¹ Cf. n. praeced.
+
+82
+
+sit homo iniustus. - Affirmativa vero simplex in
+minus est quam negativa infinita: quia quod non
+sit homo non iustus potest dici non solum de
+homine iusto, sed etiam de eo quod penitus non
+est homo. - Similiter etiam negativa privativa in
+plus est quam negativa infinita. Nam, quod non
+sit homo iniustus, potest dici non solum de ho-
+mine habente habitum iustitiae, sed de eo quod
+penitus non est homo, de quorum quolibet potest
+dici quod non sit homo non iustus: sed ulterius
+potest dici de omnibus hominibus, qui nec ha-
+bent habitum iustitiae neque habent habitum in-
+iustitiae.
+
+10. His igitur visis, facile est exponere prae-
+sentem litteram hoc modo. Quarum, scilicet
+quatuor enunciationum praedictarum, duae qui-
+dem, scilicet infinitae, se habebunt ad affirma-
+tionem et negationem, idest ad duas simplices,
+quarum una est affirmativa et altera negativa, se-
+cundum consequentiam, idest in modo conse—
+quendi ad eas, ut privationes, idest sicut duae
+privativae: quia scilicet, sicut ad simplicem affir-
+mativam sequitur negativa infinita, et non con-
+vertitur (eo quod negativa infinita est in plus *),
+ita etiarn ad simplicem affirmativam sequitur ne-
+gativa privativa, quae est in plus, et non con-
+vertitur. Sed sicut simplex negativa sequitur ad
+infinitam affirmativam, quae est in minus, et non
+
+κ) Ita etiam negativa simplex etc.—Codd. ACD: ita etiam ad ne-
+gatiuam simplicem sequitur privativa affirmativa.-B habet lacunam,
+omittit enirn: ita etiam negativa, usque ad non convertitur inclusive.-
+Pianam lectionem refert cod. E: ita etiam simplex negativa sequitur
+privativam affirmationem quae est minimus (sic corrupte pro in minus).
+Venetae edd. stant cum Piana et cum veritate: falsa enim est lectio
+quam exhibent tres praecitati codices. Nam imprimis sententia Ammonii
+est quod propositiones infinitae se habent ad simpliceS, sicut ad istas se
+habent privativae. Unde ad affirmativam simplicem sequuntur negativa
+infinita et negativa privativa; e converso autem negativa simplex sequitur
+tum ad affirmativam infinitam, tum ad affirmativam privativam. Porro
+haec proportio Ammonii destruitur si admittatur lectio codd. ACD. Patet
+etiam falsum esse quod ad negativam simplicem sequatur privativa af-
+firmativa; sed oppositum verum est. Non valet enim illatio: homo non
+est iustus (negativa simplex); ergo homo est iniustus: et ratio assi-
+gnata est in superiori numero. At recte arguitur: homo est iniustus
+<affirmativa privativa); ergo homo non est iustus.
+
+λ) Non ita se habent. Ita codd—Plana autem: ita se habent, sed
+erronee. Exponit enim s. Thomas ex Ammonio illud,m1'nime‚ introductum
+a Philosopho, nempe quod propositiones simplices non ita se habent
+ad propositiones infinitas, sicut ad eas se habent propositiones privativae.
+
+μ) Simplicior et magi-3 conveniens litterae Aristotelis est etc. Prae-
+stat ob oculos iterum ponere textum Aristotelicum controversum et ad-
+dere schemata diversarum eius interpretationum, quas S. Thomas expo-
+suit. Textus est: α Quare quatuor erunt illae (duae nempe propositiones
+» simplices, seu finitae, quia finiti praedicati, duae vero infinitae, seu
+» infiniti praedicati.—- Cf. seq. n. 13), quarum duae quidem ad affir-
+» mationem et negationem sese habent secundum consequentiam, ut
+>³ privationes3 duae vero minime. »
+
+Interpretatio Her-mini.
+
+PAns pruma. —Duae quidem infiniti praedicati, inquit, se habent ad af-
+firmationem et negationem finitarum propositionum, sicut ad
+eas se habent propositiones privativae: quatenus sciliceta) ex
+finita affirmativa sequitur negativa infiniti praedicati, sicut se-
+quitur negativa privativa: et similiter β) negativa finita sequitur
+tum ex affirmativa infinita, turn ex affirmativa privativa. Hinc
+
+SCHEMA 1.
+α
+
+ι Fin. affirm. Homo est iustus ;
+ergo
+
+Negativ. infin. Homo non est non iustus.
+
+2 Fin. affirm. Homo est iustus;
+ergo
+
+Negativ. privat. Homo non est iniustus.
+
+PERI HERMENEIAS LIB. 11
+
+convertitur; ita etiam negativa simplex “sequitur
+ad privativam affirmativam, quae est in minus,
+et non convertitur. Ex quo patet quod eadem est
+habitudo in consequendo infinitarum ad simplices
+quae est etiam privativarum.
+
+ιι. Sequitur, duae autem, scilicet simplices,
+quae relinquuntur, remotis duabus, scilicet infi-
+nitis, a quatuor praemissis, minime, idest non
+ita se habent λ ad infinitas in consequendo, sicut
+privativae se habent ad eas; quia videlicet, ex
+una parte simplex affirmativa est in minus quam
+negativa infinita, sed negativa privativa est in plus
+quam negativa infinita: ex alia vero parte, ne-
+gativa simplex est in plus quam affirmativa infi-
+nita, sed affirmativa privativa est in minus quam
+infinita affirmativa. Sic ergo patet quod simplices
+non ita se habent ad infinitas in consequendo,
+sicut privativae se habent ad infinitas.
+
+12. Quamvis autem secundum hoc littera Phi—
+losophi subtiliter exponatur; tamen videtur esse
+aliquantulum expositio extorta. Nam littera Phi-
+losophi videtur sonare diversas habitudines non
+esse attendendas respectu diversorum; sicut in
+praedicta expositione primo accipitur similitudo
+habitudinis ad simplices, et postea dissimilitudo*
+habitudinis respectu infinitarum. Et ideo‘ simpli-
+cior et magis conveniens litterae Aristotelis μ est
+expositio Porphyrii quam Boethius ponit; secun-
+
+ι
+2 ἓ
+Pal-<s amana. - Duae vero minime, nempe negativa infiniti subiecti non
+
+sequitur ad affirmativam finitam, nec negativa finita sequitur
+ad affirmativam infiniti subiecti.
+
+23
+
+Merito reiicitur haec interpretatio, quia transit ab infinitate
+praedicati ad infinitatem subiecti.
+
+β
+
+Affirm. infin.
+Negativ. fin.
+Affirm. priv.
+
+Negativ. fin.
+
+Homo est non iustus 3
+ergo
+Homo non est iustuS.
+
+Homo est iniustus;
+Δ ergo
+Homo non est iustus.
+
+scut-:MA u.
+Affirmat. fin.
+
+Negativ. infin. subiecti
+Affirmat. infin. subiecti
+
+Homo est iustus3
+non sequitur: ergo
+Non homo non est iustus.
+
+Non homo est iustus 3
+non sequitur: ergo
+
+Negat. fin. Homo non est iustus.
+
+Interpretatio aliorum
+ex Ammonio.
+
+Pans pamm-Duae propositiones infiniti praedicati se habent ad pro-
+positiones finitas, quoad speciem affirmationis et negationis,
+sicut ad istas se habent pro ositiones privativae; quatenus
+nempe propositio infinita rmativa, non secus ac affirma-
+tiva privativa, est affirmatio non simpliciter sed secundum
+quid3 et similiter infinita negativa et negativa privativa aunt
+negationes secundum quid, et non simpliciter.
+
+Pans amum-Duae vero minime, nempe propositio finita affirmativa
+
+est sti-mpliciter affirmati03 et negativa finita est simpliciter
+nega ιο.
+
+sent-:MA
+
+1 Homo est iustus
+Homo est non iustus
+Homo est iniustus
+
+( affirmativa sinpliciter
+§firmamina secundum quid
+2 Homo non est iustus
+
+Homo non est non iustus
+= Homo non est iniustus
+
+( negativa simpliciter
+ξ ”motivae secundum quid
+
+’.Ακι- ιιι 3ιήιρ-
+‘'mis-,Pi sinu-
+st.
+
+&iffi-¹3¹⁸·
+

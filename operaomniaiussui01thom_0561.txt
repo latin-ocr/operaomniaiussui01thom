@@ -1,0 +1,221 @@
+dit.
+
+“ u: nisi ex ne-
+
+cen.
+⁸ Num. ιο.
+
+. *code-maim.
+
+CAP. vl, LECT. xm
+
+hoc duo facit: primo, ostendit quod conclusio
+necessaria non potest sciri ex principiis non ne-
+
+'cm-snec-osten· cessariis; secundo *, quod licet non possit sciri ne-
+
+cessarium ex* non necessariis, tamen syllogizari
+potest; ibi: Cum quidem igitur conclusio ’ etc. -
+Primum ostendit duabus rationibus, quarum pri-
+ma* talis est. Si quis non habeat rationem pro-
+
+*cc supra n. 3, pter quid * ostendentem, non efficitur sciens, etiarn
+
+not. l..
+tt
+
+'⁸ u: ostensum.
+·” Lect- tv..
+
+demonstratione habita ⁷³: quia scire est causam
+rei cognoscere, ut supra dictum* est **. Sed ra-
+tio, quae infert conclusionem necessariam ex non
+necessariis principiis, non ostendit propter quid.
+Quod exemplificat in * terminis communibus. Po-
+natur enim quod haec conclusio sit necessaria:
+Omne C est A »⁹3 et demonstretur per hoc rne-
+dium B, quod non sit necessarium medium, sed
+contingens, puta quod haec propositio sit contin·
+gens, Omne ³* B est A, vel Omne C est B, aut
+utraque3 constat quod per hoc medium contingens,
+quod estB, non potest sciri de conclusione ne-
+
+ζ cessaria, quae est, Omne C est Α, propter quid ³².
+
+Quod sic probatur. Remota causa propter quam
+est aliquid, oportet quod removeatur effectus3
+
+π) Etiam demonstratione habita. lta Plana et codd. ABCDEGIKLNOQ
+Rs'r, nisi quod (exc. B) loco habita, legunt adhibita, sicut Β ponit in de-
+monstratione, loco etiam demonstratione,· et CNS: autem. —- Sed cod. H
+legit: nisi demonstratio adducta5 et M: absque demonstratione adhi-
+bita. Quae est lectio e diametro opposita praecedenti, sed quae tamen
+contradicit iis quae immediate sequuntur, nempe exemplo quod ponitur de
+demonstratione per medium contingens. Nec te moveat quod demon-
+
+stratio sit syllogismus faciens scire: nam revera talis est demonstratio '
+
+proprie dicta, non autem demonstratio apparens, qua utuntur dialectici,
+qui videntur scientes et non sunt, et contra quos probat Aristoteles
+conclusionem necessariam seu demonstrativam non posse sciri nisi ex
+principiis necessariis. ·- Amanuensis autem cod. C loco ponendi imme-
+diate minorem argumenti (sed ratio quae insert etc.) redit distractus
+ad numerum praecedentem, et congerit hoc loco quae ibidem, ut iam
+notavimus, omiserat, ac prosequitur: sciendum autem quod sophistae...
+non sunt autem. Secundo (corrupte loco, sed ; omittit autem, ratio quae)
+insert conclusionem necessariam etc.
+
+ρ) Ponatur enim quod haec conclusio sit necessaria: omne C est A.
+Ita PHR3 alii codd.: ponatur... omne A est C ‚· et infra: omne B est C.·-·
+Supponitur in adducto exemplo iste syllogismus: omne B est A‚· sed,
+omne C est B: ergo, omne C est A. - Vel: omne Β est C; sed, omne A
+est B,-.ergo, omne A est C. —- Sunt syllogismi in barbara, hoc est in
+primo modo primae figurae syllogisticae (Cf. lect. vm, not. ρ et τ). Ρο-
+sito autem quod vel maior vel minor, vel utraque praemissa sit con-
+tingens, conclusio, quae tota pendet ex antecedenti tanquam ex sua
+
+. unica causa, non poterit non esse contingens. Etenim remota causa etc.-
+
+Infra codd. CM: quod sic probat quod, remota causa etc.; G: quod
+sic probatur. Quia remota causa etc.; alii codices (exc. R): quod sic
+
+probat. Quia remota causa.
+
+ο) Si aliquis nunc nescit etc. ·- In re intricata amanuenses implican-
+
+> tur. ·- Codd. ABDEGIKLMQSTt si aliquis nunc nescit,· H: nescit ali-
+
+quid nunc κει-ἅ,- N: nescit rem aliquam ‚· R: rem nescit.- ABDELM
+NOT: idest non desiit; K: idest non desinit ‚¹ C: idest non desierit;
+HS: idest non deserit. —· ADEILNOQRT et secunda manu C, post
+verba, salva re: idest etiam; BS et prima manu C: idest et ‚⁸ K: et
+etiam.- DEKLORT et prima manu Li res (L sec. mam, re) scita non
+corrupta ,· H: quod non sit res corrupta ‚· A: res est scita non cor-
+rupta ,· M: res ipsa non sit corrupta: N: res scita non corrupta sit ;
+C prima manu: res ita non corrupta,- secunda manu: res scita non
+corrupta5 S prima-manu: re scita non corrupta ,¹ secunda manu: res
+scita non corrupta sit.- Codd., exc. H: et iterum,· M omitt. iterum. —-
+Codd., exc. CKMQR: quod etiam neque prius scivit5 C prima manu:
+quod non neque prius scivit,· secunda manu: quod ipse neque prius
+sentit,- K: quod et neque prius scivit,· M: quod neque prius scivit ‚·
+Q: etiam quod neque prius sciuit,· R: etiam quod prius nescivit.·-·P:
+si aliquis nunc non scit... idest non desit esse... idest re scita et non
+corrupta, iterum ipse... quod etiam ipse non prius scivit. Adoptavi-
+mus lectionem, quae vera nobis visa est, et pro se habet codd. aucto-
+ritatem, nempe: si aliquis nunc nescit... idest non desiit esse... idest
+etiam re scita non corrupta, etiterum ipse... quod etiam neque prius
+scivit. ·
+
+τ) Unus modus est quando excidit α mente eius ratio per quam
+prius sciebat. Scire hic sumitur non pro quacumque cognitione conclu—
+sionis, sed pro cognitione rei scitae per suam causam. Hinc cognitio
+
+causae conclusionis, hoc est nexus conclusionis cum principiis, in quibus ”
+
+191
+
+sed hoc medium cum sit contingens, contingit*
+removeri, conclusionem autern removeri non con-
+tingit cum sit necessaria; relinquitur ergo quod
+non potest sciri conclusio necessaria per medium
+contingens.
+
+9. Secundam rationem ponit; ibi: Amplius si etc.,
+quae talis est. Si aliquis nunc nescit ⁰, cum ta-
+men habeat eandem rationem, quarn prius habuit,
+et salvatus est, idest non desiit esse, salva re, idest
+
+etiarn re scita non corrupta, et iterum ipse non est
+
+oblitus; manifestum est quod etiam neque prius
+scivit. In hoc autem Philosophus innuit quatuor
+modos, quibus aliquis amittit scientiam, quarn
+prius habuit. Unus modus est quando excidit a
+mente eius ratio, per quam prius sciebat⁷.—Alius
+modus ’¹‘ est per corruptionem ipsius scientis. -
+Tertius * per corruptionem ipsius rei scitae, sicut si
+sciam te sedere, dum sedes, te non sedente, haec
+
+scientia perit ⁰. Quartus est per oblivionem. Unde
+nullo istorum modorum existente, si aliquis modo
+
+nesciat aliquid, nec prius scivit P. Sed ille, qui habet
+conclusionem necessariam per medium contin-
+gens, corrupto medio contingenti, nescit, medio
+
+virtualiter continetur et in quibus actu videtur cum per syllogismum in-
+fertur, est causa et unica causa scientiae eiusdem conclusionis. Subtracta
+autem quocumque modo causa perit effectus, si, ut in casu nostro accidit,
+existentia effectus dependeat ab existentia causae. Ergo semota ratione
+scientiae, scientia excidit. - ldem dicatur si per falsam aliam rationem
+mens decipiatur et in oppositum incidat errorem veritati contrarium (Cf.
+s. Th. 1-·11, qu. Lm, artic. ι).
+
+Alius modus est per corruptionem ipsius scientis. Scientia est in
+potentia intellectiva animae rationalis quae est incorruptibilis. Unde non
+videtur quomodo, uti asseritur in hoc secundo modo, scientia possit
+amitti per corruptionem scientis.—-Ad hoc respondetur imprimis, quod
+propositio intelligi potest in sensu hypothetico, scilicet, si accidat cor-
+ruptio ipsius scientis: hac enim hypothesi constituta, manifestum est
+quod, pereunte subiecto cognoscente, perit ipsa scientia. — Responde-
+tur secundo quod quamvis scientia nostra principaliter sit in intellectu,
+secundario tamen et quasi ut in materia causae nostrarum cognitionum
+est in sensibus, tum quia ex sensibilibus, quae a sensu dantur, est
+quodammodo origo nostrarum cognitionum, tum quia intellectus noster
+imaginatione et phantasmatibus utitur, quoties actualiter aliquid intelli-
+git. Vires autem sensitivae, quia sunt compositi animati, corrumpi pos-
+sunt (ut patet in phreneticis et amentibus); et hinc, ex consequenti,
+redundat deordinatio in intellectum, non quasi ipse corrumpatur sive per
+se sive per accidens, sed quia corrumpuntur eius, ut ita dicam, auxiliaria
+sensibilia (Cf. s. Th. loc. cit.).
+
+Tertius modus per corruptionem ipsiu rei scitae. Id accidit quan-
+do obiecta cognitionum sunt contingentia (unde et signanter de contin-
+genti exemplum affertur), non autem quando sunt necessaria et incor-
+ruptibilia (quorum est scientia proprie dicta), aut contingentia quidem,
+sed secundum illud quod habent de necessario (Cf. Per-im, lect. xm,
+not. γ).
+
+Quartus denique modus amittendi scientiam est per oblivionem.
+
+υ) Sicut si sciam te sedere etc. Plana magis videtur haec lectio codd.
+quam Piana: sicut si scientia scit te sedente, dum sedes, te non se-
+dente, periit. —- Secundam partem nostrae lectionis (dum sedes etc.) omnes
+codices habent. Primam autem partem non habent codd. CHM, quorum
+duo tamen neque cum Piana consentiunt. C prima manu: sic sint scien-
+tia‚· secunda manu: sicut si sit scientia de te sedere etc-3 H legit curn
+Piana3 M: ut si sit scientia de te sedente.
+
+φ) Si aliquis modo nesciat aliquid etc.—P: si aliquis nullo modo
+sciat aliquod etc. Quae lectio vix ac ne vix quidem sustineri potest. An-
+gelicus enim hoc modo argumentatur. Quatuor sunt modi quibus amitti
+potest scientia de aliqua re. Ergo si aliquis modo nesciat aliquid, cuius
+scientia non amisit ullo ex quatuor recensitis modis, signum certum est
+quod sicut modo nescit, ita et prius nescivit. Atqui ille qui habet conclusio-
+nem necessariam per medium contingens, corrupto medio, nescit illam
+conclusionem, quin tamen ullus modus quo scientia amittitur existat (quia
+eamdem rationem per quam prius sciebat, habet; et salvatus est, nempe
+sciens non est corruptus; et salva est res, seu non est corrupta res
+scita3 neque est oblitus conclusionis scitae). Ergo neque ante corruptio-
+nem medii contingentis illam ipsam rem scivit. Lectio igitur codicum: si
+aliquis modo nesciat, est adoptanda. — Infra etiam post verba, et tamen
+eamdem rationem habet, addimus ex codicibus, et salvus est, quae
+omittuntur a Piana. Verba enim illa significant unum ex quatuor modis,
+quibus potest scientia amitti, et quos, pro argumentationis perspicuitate,
+recenset s. Thomas.
+
+' n: potest.
+
+τ
+
+“ Codd. (exc. u)
+omitt. modus.
+
+*Tertiusexcodd.
+(παι-υς o: tertius
+est.,· ru: aliut.
+
+υ
+
+‘i'
+

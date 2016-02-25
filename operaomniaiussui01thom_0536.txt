@@ -1,0 +1,161 @@
+W)
+
+¹ ιε habetur.
+
+166
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+LECTIO OCTAVA
+
+ALTER ERROR EXCLUDITUR OSTENDENDO QUOD NON
+CONTINGIT CIRCULARITER DEMONSTRARE
+
+Κύκλῳ δ’ ὅτι ἀδύνατον ἀποδείκνυσθαι ἁπλῶς, δῆλον,
+εἴπερ ἑκ προτέρων δεῖ τήν ἀπόδειξιν εἶναι καὶ γνω-
+
+ριμωτέρων· ἀδύνατον γάρ ἐστι τοὶ αὐτοὶ τῶν αὐτῶν
+
+ἅμα πρότερα καὶ ὕστερα εἶναι, εἰ μὴ τὸν ἕτερον
+τρόπον, οἷον τοὶ μὲν πρὸς ἡμᾶς τά δ’ οἱπλῶς, ὅνπερ
+τρόπον ἡ ἐπαγωγὴ ποιεῖ γνώριμον. Εἰ δ’ οὕτως, οὐκ
+ἄν εἴη τὸ ἁπλῶς εἰδέναι καλῶς ὡρισμένον, ἀλλὰ διτ-
+τόν· ἦ οὐχ ἁπλῶς ἠ ἑτέρα ἀπόδειξις γινομένη ἐκ
+τῶν ἡμῖν γνωριμωτέρων.
+
+Συμβαίνει δὲ τοῖς λέγουσι κύκλῳ τήν ἀπόδειξιν εἶναι
+οὗ μόνον τὸ νῦν εἰρημένον, ἀλλ’ οὐδὲν ἄλλο λέγειν
+ἦ ὅτι τοῦτ’ ἔστιν εἰ τοῦτ’ ἔστιν· οὕτω δὲ πάντα
+ῥᾴδιον δεῖξαι. Δῆλον δ’ ὅτι τοῦτο συμβαίνει τριῶν
+ὅρων τεθέντων· τὸ μὲν γοὶ διαὶ πολλῶν ἦ δι’ ὀλίγων
+ἀνακάμπτειν φάναι οὐδὲν Ξιαφέρει, δι’ ὀλίγων δ’ ἢ
+δυοῖν.
+
+1 .- ν s r 1 ’ς ι Ι ι
+
+‘'Ox-<zv γαρ του A οντος εξ αναγκης ῃ το Β, τουτου δε
+τὸ Γ, τοῦ A ὄντος ἔσται το Γ.
+
+Εἰ δή τοῦ A ὄντος ἀνάγκη τό Β εἶναι, τούτου δ’ ὄντος
+τό A (τοῦτο γάρ ἦν τὸ κύκλῳ), κείστω τὸ A, ἐφ’
+οὗ τὸ Γ. Τὸ οὖν τοῦ Β ὄντος τὸ A εἶναι λέγειν ἐστὶ
+τὰ Γ εἶναι λέγειν, τοῦτο δ’ ὅτι τοῦ Α ὄντος τὸ Γ
+ἔστί· τὰ δὲ Γ τῷ A τὸ αὐτό. ’Ὥστε συμβαίνει λέγειν
+τούς κύκλῳ φάσκοντας εἶναι τήν ἀπόδειξιν οὐδὲν
+ἓτερον πλὴν ὅτι τοῦ A ὄντος τὸ A ἐστίν. Οὕτω δὲ
+πάντα δεῖξαι ῥᾴδιον.
+
+Οὐ μὴν ἀλλ’ οὐδὲ τοῦτο δυνατόν, πλὴν ἐπὶ τούτων ὅσα
+ἀλληλοις ἕπεται ὥσπερ τά ἴδια. Ἐνός μὲν οὖν κειμέ-
+νου, δέδεικται ὅτι οὐδέποτ’ ἀνάγκη τι εἶναι ἕτερον
+(λέγω δ’ ἑνός, ὅτι οὔτε ὅρου ἑνὸς οὔτε θέσεως μιᾶς
+τεθείσης), ἐκ δύο δὲ θέσεων] πρώτων καὶ ἐλαχίστων
+ἐνδέχεται, εἴπερ καὶ συλλογίσασθαι. Ἐοὶν μὲν οὖν τό
+τε A τῷ Β καὶ τῷ Γ ἕπηται, καὶ ταῦτ’ ἀλλήλοις
+καὶ τῷ A, οὕτω μὲν ἐνδέχεται ἐξ ἀλλήλων δεικνύναι
+πάντα τοὶ αἰτηθέντα ἑν τῷ πρώτῳ σχήματι, ὠς δὲ-
+δεικται ἒν τοῖς περὶ συλλογισμοῦ. Δέδεικται δὲκαὶ
+ὅτι ἑν τοῖς ἄλλοις σχήμασιν ἦ οὗ ίνεται συλλογι-
+σμὸς ἦ οὒ περὶ τῶν ληφθέντων. Tui. {s μή ἀντικατη-
+γορούμενα οὐδαμῶς ἐστι δεῖξαι κύκλῳ. ’Ὦστ’ ἐπειδὴ
+ὀλίγα τοιαῦτα ἑν ταῖς ἀποδείξεσι, φανερὸν ὅτι κενόν
+τε καὶ ἀδύνατον τό λέγειν ἐξ ἀλλήλων εἶναι τὴν
+
+ἀπόδειξιν καὶ διαὶ τοῦτο πάντων ἐνδέχεσθαι εἶναι
+
+ἀπόδειξιν.
+
+ΞΥΝοΡεῐε. - ι. Argumentum lectionis. — 2. Circularis syllo-
+gismus est quando ex conclusione et altera praemissa conversa
+(hoc est, converso eius praedicato in subiectum, et subiecto in
+praedicatum) concluditur reliqua praemissarum.-· 3. Probatur primo
+non posse circulariter demonstrari: quia secus idern esset simul
+prius et posterius, notius et minus notum respectu unius et
+eiusdem: quod est impossibile. —4. Solvitur quaedam dubitatio.—
+Demonstratio ex qua est scire procedit a prioribus quoad se,
+seu simpliciter; inductio a prioribus quoad nos.- 5. Ergo syllo-
+gismus dialecticus potest aliquo sensu esse circularis (quia non a
+certis et notioribus absolute et quoad se, sed a probabilibus et
+a magis notis relative et quoad nos procedit), non autem de-
+
+» J— omnis scientia est ⁹ per demonstra-
+t '‘¹“ tionem, hic excludit aliam, osten-
+
+ 
+
+* Circulo quoque quod impossibile sit demonstrare simpli-
+s citer, manifestum est, si quidem ex prioribus oportet
+demonstrationem esse et notioribus; impossibile est enim
+eadem sibi ipsis simul priora et posteriora esse, nisi altero
+modo, ut haec quidem ad nos, illa autem simpliciter,
+quo certe modo facit inductio notum. Si autem sic est,
+non erit utique scire simpliciter bene determinatum, sed
+dupliciter, aut non simpliciter altera demonstratio fit
+
+ex nobis notioribus.
+
+Accidit autem dicentibus circulo demonstrationem esse,
+non solum quod nunc dictum est, sed nihil aliud di-
+cere, quarn quoniam hoc est, si hoc est; sic autem
+facile est demonstrare omnia. Manifestum autem est,
+quod hoc accidit tribus terminis positis: per multos
+enim aut per paucos reflectere nihil differt, per paucos
+autern aut per duos. μ
+
+Cum enim sit A, ex necessitate est B; hoc autem cum sit,
+erit C; cum igitur A sit, ex necessitate erit C.
+
+Si igitur cum sit A, necesse est B esse; hoc autem cum
+sit, erit A (hoc enirn erat circulo); ponatur A, in quo
+est C. B igitur cum sit, A esse dicere, est ipsum C
+dicere; hoc autern est quoniam cum sit A, est C; sed C
+cum A idem est. Quare accidit dicere circulo dicen-
+tes esse demonstrationem, nihil alterurn nisi curn sit A,
+est A. Sic autem omnia demonstrare leve.
+
+At vero nec boc possibile est, nisi in his quaecunque al-
+ternatim se consequuntur, sicut sunt propria. Uno qui—
+dem posito, ostensum est quod nequaquam est aliquid
+esse alterum (dico autem uno, quoniam neque termino
+uno neque propositione una proposita), ex duabus au-
+tem propositionibus primis et minimis contingit siqui-
+dem syllogizare. Si igitur et A ipsi B et C inhaereat,
+et haec ad invicem et ipsi A, sic quidem contingit ex
+alterutris monstrare omnia quaesita in prima figura,
+sicut ostensum est in his, quae de syllogismo sunt.
+Ostensum autem est quod in aliis figuris aut non fit
+syllogismus aut non de acceptis. Non autem aequaliter
+
+⁴ Seq. c. 111 et
+
+Text. 6.
+
+praedicantia nequaquam est monstrare circulo. Quare, ·
+
+quoniam pauca huiusmodi in demonstrationibus sunt,
+manifestum est, quod vanum quidem est et impossibile
+dicere ex his quae sunt ad invicem esse demonstratio·
+nem et propter hoc omnium contingere demonstratio-
+nem esse.
+
+monstratio, seu syllogismus demonstrativus.- 6. Probatur 'secundo
+impossibilitas circularis demonstrationis ex eo quod probaretur
+
+‘idem per idem: quod non est demonstratio; quia tali modo
+
+non acquiritur scientia. —7. Denique, si omnia possent demon-
+strari demonstratione circulari, sequeretur quod omnia ad se invi-
+cem essent convertibilia. Quod tamen non est—8. Quod autem
+oporteret in demonstratione circulari omnia esse convertibilia
+secundum positionem adversariorum, probatur ex eo quod omnis
+syllogismus est ex tribus terminis et duabus propositionibus ad
+minus.- 9. Percurrendo syllogismos in prima, secunda et tertia
+figura ostenditur etiam in convertibilibus non omnia posse circula-
+riter demonstrari nisi, aliquo sensu, in primo modo primae figurae.
+
+dens quod non contingit circulariter demon—
+strare.
+
+2. Ad cuius evidentiam sciendum est quod cir-
+cularis syllogismus dicitur, quando ex conclusione
+

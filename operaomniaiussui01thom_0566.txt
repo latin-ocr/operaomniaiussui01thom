@@ -1,0 +1,172 @@
+196
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+LECTIo DECIMA'QUINTA
+
+DEMONSTRATIO NON POTEST TRANSIRE DE UNO
+AD ALIUD GENUS EXTRANEUM
+
+Οὐκ. ἄρα ἔστιν ἐξ ἄλλου γένους μεταβάντα δεῖξαι, οἱον
+τὸ γεωμετρικὸν ἀριθμητικῇ.
+
+Τοία γάρ ἐστι τά ἐν ταῖς ἀποδείξεσιν, ἓν μὲν τό ἀπο-
+
+⁴ δεικνύμενον τὸ συμπέρασμα· τοῦτο δ’ ἐστὶ τὸ ὑπάρ-
+χον γένει τινὶ καθ’ αὐτό· ἓν δὲ τά ἀξιώματα· ἀξιώ-
+ματα δ’ ἐστὶν ἐξ ὦν· τρίτον τὸ γένος τὸ ὑποκείμε-
+νον, οὗ τά πάθη καὶ τά καθ’ αὐτοὶ συμβεβηκότα
+δηλοῖ τ’) ἀπόδειξις.
+
+Ἐξ ὠν μέν οὖν ἡ ἀπόδειξις, ἐνδέχεται τοὶ αὐτοὶ εἶναι·
+ὠν δὲ τὸ γένος ἕτερον, ὥσπερ ἀριθμητικῆς καὶ γεω-
+μετρίας, οὐκ ἔστι τήν ἀριθμητικήν ἀπόδειξιν ἐφαρ-
+μόσαι ἐπὶ τοὶ τοῖς μεγέθεσι συμβεβηκότα, εὶ μή τά
+μεγέθη ἀριθμοί εἰσι· τοῦτο δ’ ὠς ἑνδέκεται ἐπί τι-
+νων, ὕστερον λεχθήσεται. Ἡ δ’ οἱ ιθμητικῆ ἀπόδειξις
+ἀεὶ ἔχει τὸ γένος περὶ ὃ ἡ abroget-fite, καὶ αἱ ἄλλαι
+ὁμοίως.
+
+’Ὥστε ’ἢ άπλῶς ἀνάγκη τὸ αὐτὸ εἶναι γένος ἦ πῇ, εἰ
+μέλλει η ἀπόδειξις μεταβαίνειν. ’Ἄλλως ’δ’ ὅτι ἀδύ-
+
+-νατον, δῆλοψ
+
+ἐκ. γάρ τοῦ αὐτοῦ γένους ἀνάγκη τά ἄκρα καὶ τοὶ μέσα
+εἶναι. Εἰ γάρ μή καθ’ αὐτά, συμβεβηκότα ἔσται.
+
+Διά τοῦτο τῇ γεωμετρίᾳ οὐκ. ἔστι δεῖξαι ὅτι τῶν ἐναν-
+τίων μία ἑπιστημη, ἀλλ’ οὐδ’ ὅτι οἱ δύο κύβοικύ-
+βος· οὐδ’ ἄλλῃ ἐπιστήμῃ τὸ ἐτέρας, ἀλλ’ ἦ ὅσα
+οὕτως ἔχει πρὸς ἄλληλα ὥστ’ εἶναι θάτερον ὑπὸ
+θάτερον, οἷον τα ὅπτικά πρὸς γεωμετρίαν καὶ τά
+ἁρμονικοὶ πρὸς ἀριθμητικήν.
+
+Οὐδ’ εἴ τι ὑπάρχει ταῖς γραμμαῖς μή ᾖ γραμμαὶ καὶ
+’ᾗ ἐκ τῶν ἀρχῶν τῶν ἰδίων, οἷον εἰ καλλίστη τῶν
+γραμμῶν ’ἡ εὐθεῖα ἦ εἱ ἐναντίως ἔχει τῇ περιφε-
+ρείᾳ· οὗ γάρ ’ᾗ τὸ ἴδιον γένος αὐτῶν, ὑπάρχει, ἀλλ’
+ᾗ κοινόν τι.
+
+SYNOPsts. — 1. Argumentum et divisio textus. - 2. Demon-
+stratio est ex his quae sunt per se3 ergo in demonstratione non
+potest fieri transitus ex uno genere in aliud genus; nempe de-
+monstratio est ex propriis.— Quod est thesis et argumentum le-
+ctionis. υ 3. Praenotamen de necessariis ad demonstrationem, quae
+tria sunt: xum, conclusio continens in se id quod inest per se
+alicui generi3 zum, dignitates ex quibus demonstratio procedit;
+3⁰⁰¹, genus subiectum, cuius proprias passiones et per se acci-
+dentia demonstratio ostendit. -4. Dignitates communes sunt
+omnibus demonstrationibus; sed principia uni scientiae imme-
+diata, non sunt communia aliis scientiis, quarum subiectum est
+
+' nn: ostendit.
+
+ 
+
+¹ est ex principiis propriis, non extra-
+neis, neque ex communibus. Et dividitur in duas
+partes: in prima, ostendit quod demonstratio pro-
+cedit ex propriis principiis; in secunda, determi-
+unmumsm-p: nat quae sint * principia propria et quae commu-
+⁸¹⁴'¹“ nia; ibi: Difficile a‘utem * etc. Prima in duas: in
+
+⁸ Lect. xvm.
+
+prima, ostendit quod demonstratio non procedit*
+· Codd. om. ο- ex principiis extraneis; in secunda, ostendit* quo'd·
+
+stendit.
+
+non procedit ex principiis communibus; ibi: Quo-
+
+α) Dicit ergo primo etc. —- Codd. (exc. H): dicit ergo primo : ex quo
+demonstratio est ex his quae sunt per se, ergo manifestum etc. ; H:
+
+*Non ergo est ex alio genere descendentem demonstrare,
+ut geometricum in arithmeticam.
+
+Tria enim suntin demonstrationibus: unum quidem quod
+demonstratur, conclusio; hoc autem est, quod inest ali-
+cui generi per se: unum autern dignitates; dignitates
+autem sunt, ex quibus demonstratio est: tertium au-
+tem genus subiectum, cuius passiones, et per se acci-
+dentia ostendit demonstratio.
+quibus igitur demonstratio fit, contingit eadem esse;
+quorum autem genus alterum est, sicut arithmeticae
+et geometriae, non est arithmeticam demonstrationem
+convenire in magnitudinibus accidentia, nisi magnitu-
+dines numeri sint; hoc autem quemadmodum contingit
+in quibusdam, posterius dicetur. Sed arithmetica de-
+monstratio semper habet genus, circa quod fit demon-
+stratio, et aliae similiter.
+
+Quare aut simpliciter necesse est genus idern esse, aut sic,
+si debet demonstratio descendere. Aliter autem impos-
+sibile esse manifestum est:
+
+ex eodem enim genere necesse est ultima et media esse.
+Si namque non sunt per se, accidentia erunt.
+
+Propter hoc geometriae non est monstrare quod contra-
+riorum eadem est scientia, sed neque quod duo cubi
+cubus sit unus; neque scientiae alterius, quod alterius
+est: sed aut quaecumque sic se habent ad invicem quod
+sit alterum sub altero, ut perspectiva ad geometriam,
+et ut consonantia ad arithmeticam.
+
+Neque si aliquid inest lineis non secundum quod lineae
+sunt, et non in quantum ex principiis propriis sunt, ut si
+
+Ex
+
+pulcherima linearum recta est, aut si contrario se habet
+circulari3 non enim secundum quod proprium genus
+ipsorum est, sed in <mantum commune quoddam est.
+
+diversi generis, nisi forte subiectum unius scientiae contineatur
+sub subiecto alterius. - 5. Principiorum et conclusionum est idem
+genus aut simpliciter aut secundum quid. - Quid sit idem genus
+simpliciter respectu diversorum, quid idem genus secundum
+quid.-6. Probatur quod ex principiis unius scientiae non con-
+cluditur aliquid in alia scientia, quae non sit sub ea posita: quia
+oportet media et extrema demonstrationis esse eiusdem generis.-
+7. Corollarium primum. Nulla scientia demonstrat aliquid de
+subiecto alterius scientiae, nisi agatur de scientiis quarum una
+est sub alia-8. Corollarium alterum. Scientia de proprio su-
+biecto non probat nisi accidentia eiusdem generis cum subiecto.
+
+niam autem manifestum est ³⁸ etc. Prima in duas:
+in prima *, ex praemissis ostendit quod demon-
+stratio non est ex principiis extraneis; in secunda,
+ex praemissis etiam ostendit quod demonstratio-
+nes non sunt de '⁸ rebus corruptibilibus, sed de
+sempiternis3 ibi: Manifestum autem etsi sint propo-
+sitiones * etc. Circa primum tria facit: primo, pro-
+ponit intentum; secundo, probat propositum *3 ibi:
+Tria enim sunt* etc.; tertio,c0ncludit intentum; ibi:
+Propter hoc geometriae * etc.
+
+2. Dicit ergo primo quod, ex quo demonstratio
+est ex his quae sunt per se, manifestum“ est quod
+
+dicit ergo primo quod, ex quo demonstrationes sunt ex his, quae sunt
+per se, ergo manifestum etc.
+
+⁸ Cap. vu.
+Text. 20.
+
+· Lat. xm.
+
+⁸¹ Codd. - γε In
+prim eain.
+
+’ ητα-.- Cf. lect.
+κη. n. ι.
+
+⁸ Lect- neq.
+‘Privatam-nt.
+· Num. 3.
+
+· Num. 7.
+

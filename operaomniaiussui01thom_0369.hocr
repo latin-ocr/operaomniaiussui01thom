@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaiussui01thom_0369.png"; bbox 0 0 2548 4192; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 513 1761 2069 1848">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 513 1761 2069 1848">
+     <span class='ocr_line' id='line_1_1' title="bbox 513 1761 2069 1848; baseline 0.001 -4"><span class='ocrx_word' id='word_1_1' title='bbox 513 1761 935 1845; x_wconf 85' lang='lat' dir='ltr'>LIBROS</span> <span class='ocrx_word' id='word_1_2' title='bbox 1006 1762 1263 1845; x_wconf 86' lang='lat' dir='ltr'>PERI</span> <span class='ocrx_word' id='word_1_3' title='bbox 1327 1763 2069 1848; x_wconf 83' lang='lat' dir='ltr'>HERMENEIAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1098 1980 1480 2031">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1098 1980 1480 2031">
+     <span class='ocr_line' id='line_1_2' title="bbox 1098 1980 1480 2031; baseline 0.003 -2"><span class='ocrx_word' id='word_1_4' title='bbox 1098 1980 1480 2031; x_wconf 91' lang='lat' dir='ltr'><strong>EXPOSITIO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1323 2203 1640 2206">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1323 2203 1640 2206">
+     <span class='ocr_line' id='line_1_3' title="bbox 1323 2203 1640 2206; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 1323 2203 1640 2206; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 945 2198 1320 2218">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 945 2198 1320 2218">
+     <span class='ocr_line' id='line_1_4' title="bbox 945 2198 1320 2218; baseline 0 1974"><span class='ocrx_word' id='word_1_6' title='bbox 945 2198 1320 2218; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

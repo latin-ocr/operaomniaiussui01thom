@@ -1,0 +1,165 @@
+266
+
+POSTERIORUM ANALYTICORUM LIB. I.
+
+LECTIO TRIGESIMASECUNDA
+
+DUBITATIO QUAE EST DE PROCESSU IN INFINITUM IN MEDIIS
+REDUCITUR AD DUBITATIONEM QUAE MOVETUR DE EXTREMIS. ITEM
+DUBITATIO QUAE EST DE PROCESSU IN INFINITUM
+IN DEMONSTRATIONIBUS NEGATIVIS REDUCITUR AD DUBITATIONEM
+QUAE EST DE AFFIRMATIVIS
+
+Ὀτι μὲν οὑν τά μεταξὺ οὑκ ἐνδέχεται. ἄπειρα εἶναι, εἰ
+ἐπὶ τὸ κάτω καὶ τὸ ἄνω ’ίστανται αἱ κατηγορίαι,
+δῆλον. Λέγω δ’ ἄνω μέν τήν ἐπὶ τὸ καθόλου μᾶλλον,
+κάτω δὲ τήν ἐπὶ τὸ κατά μέρος.
+
+Ei γάρ τοῦ A κατηγορουιιένου κατά τοῦ Ζ ἄπειρα τά
+μεταξύ, ἐφ’ ὢν Β, δῆλον ὅτι ἐνδέχοιτ’ ἂν ὥστε
+καὶ &red τοῦ Α ἐπὶ τὸ κάτω ἕτερον ἑτέρου κατηγο-
+ρεῖσθαι εἱς ἄπειρον (πρὶν γάρ ἐπὶ τὸ Ζ ἐλθεῖν, ἄπειρα
+τά μεταξύ) καὶ ἀπὸ τοῦ Ζ ἐπὶ τὸ ἅνω ἄπειρα, πρὶν
+ἐπὶ τὸ Α ἐλθεῖν. ‘'Qu-‘r’ εἰ ταῦτα ἀδύνατα, καὶ τοῦ A
+καὶ Ζ ἀδύνατον ἄπειρα εἶναι μεταξύ.
+
+Οὑδέ γάρ εἴ τις λέγοι ὅτι τοὶ μέν ἐστι τῶν A Β ἐχόμενα
+ἀλλήλων ὥστε μὴ εἶναι μεταξύ, τά δ’ οὑκ ἔστι λα-
+βεῖν, οὐδέν διαφέρει. “Ὸ γάρ ἂν λάβω τῶν Β, ἔσται
+πρὸς τὸ A ἦ πρὸς τὸ Ζ ἦ ἄπειρα τά μεταξύ ἦ οὕ.
+
+'An’ οὑ δή πρῶτον ἄπειρα, εἴτ’ εὑθὺς εἴτε μη εὑθὺς,
+
+οὐδέν διαφέρει· τά γάρ μετά ταῦτα ἄπειρά ἐστιν.
+
+Φανερόν δὲ καὶ ἐπὶ τῆς στερητικῆς ἀποδείξεως ὅτι στή-
+σεται, εἴπερ ἐπὶ τῆς κατηγορικῆς ἵσταται ἐπ’ ἀμ-
+φότερα. 1Ἐστω γάρ μή ἐνδεχόμενον μήτε ἐπὶ τό ἄνω
+ἀπὸ τοῦ ὑστάτου εὶς ἄπει ον ἰε’ναι (λέγω δ’ ὑστα-
+τον ὃ αὐτὸ μὲν ἄλλῳ μηδενὶ ὑπάρχει, ἐκείνῳ δέ
+ἄλλο, οἷον τὸ Ζ) μήτε ἀπὸ τοῦ πρώτου ἐπὶ τὸ ὕστα-
+τον (λέγω δέ πρῶτον ὃ αὑτὸ μὲν κατ’ ἄλλου, κατ’
+ἐκείνου δὲ μηδὲν ἄλλο)· εὶ δή ταῦτ’ ἐστί, καὶ ἐπὶ
+τῆς ἀποφάσεως στήσεται.
+
+Τριχῶς γάρ δείκνυται μή ὑπάρχον. ’“Η γάρ ᾧ μέν τό Γ,
+τὸ Β ὑπάρχει παντί, ᾤ δὲ τὸ Β, οὐδενὶ τὸ A. Τοῦ
+μὲν τοίνυν Β Γ, καὶ ἀεὶ τοῦ ἑτέρου διαστήματος,
+ἀνάγκη βαδίζειν εὶς ἄμεσα· κατηγορικὸν γάρ τοῦτο
+τὸ διάστημα. Τὸ δ’ ἕτερον δῆλον ὅτι εἱ-ἆλλῳ οὐχ
+ὑπάρχει προτέρῳ, οἷον τῷ Δ, τοῦτο δεήσει τῷ Β
+παντὶ ὑπάρχειν. Καὶ εὶ πάλιν ἄλλῳ τοῦ Δ προτέρῳ
+
+, ⁴
+
+ουχ ὑπάρχει, ἐκεῖνο δεήσει τῷ Δ παντὶ ὑπάρχειν..
+
+Ὣστ“ ἐπεὶ ἡ ἐπὶ τὸ κάτω ἵσταται ὁδός, καὶ ἡ ἐπὶ τὸ
+ἄνω στήσεται, καὶ ἔσται τι πρῶτον, ᾧ οὑχ ὑπάρχει,
+
+Πάλιν εἰ τὸ μὲν Β παντὶ τῷ A, τῷ δὲ Γ μηδενί, τὸ A
+τῷ Γ οὐδενὶ ὑπάρχει. Πάλιν τοῦτο εἱ δεῖ δεῖξαι,
+δῆλον ὅτι ἦ διά τοῦ ἄνω τρόπου ’δειχθήσεται ’ὃ διαὶ
+τούτου ἦ τοῦ τρίτου. '0 μὲν οὑν πρῶτος εἴρηται,ςὸ
+δὲ δεύτερος δειχθήσεται. Οὕτω δ’ ἂν δεικνυοι, οἷον
+ὅτι τό Δ τῷ μεν Β παντὶ ὑπάρχει, τῷ δὲ Γ οὐδενί,
+αἱ ἀνάγκη ὑπάρχειν τι τῷ Β. Καὶ πάλιν εἱ τοῦτο
+τῷ Γ μή ὑπάρξει, ἄλλο τῷ Δ ὑπάρχει, ὃ τῷ Γ οὑχ
+ὑπάρχει. Οὑκοῧν ἐπεὶ τὸ ὑπάρχειν ἀεὶ τῷ ἀνωτέρω
+ἵσταται, στήσεται καὶΙ *td μή ὑπάρχειν.
+
+Ὀ δὲ τρίτος τρόπος ἦν· εἰ τὸμὲν A τῷ Β παντὶ ὑπάρ-
+χει, vd δὲ Γ μή ὑπάρχει, οὑ παντὶ ὑπάρχει τὸ Γ
+ᾧ τὸ A. Πάλιν δὲ τοῦτο ἢ διαὶ τῶν ἄνω εἰρημένων
+ἦ ὁμοίως δειχθήσεται. Ἐκείνως μέν δή ἵσταται, εἰ
+δ’ οὕτω, πάλιν λη’ψεται τὸ Β τῷ Ε ὑπάρχειν, ᾦ τὸ Γ
+
+ἠ παντὶ ὑπάρχει. Καὶ τοῦτο πάλιν ὁμοίως. Ἐπεὶ
+δ’ ὑπόκειται ἵστασθαι καὶ ἐπὶ τὸ κάτω, δῆλον ὅτι
+στήσεται καὶ τὸ Γ οὑχ ὑπάοχον.
+
+Φανερόν δ’ ὅτι καὶ ὲοὶν μή μιᾷ ὀ ᾧ δεικνὺηται ἀλλά πά-
+σαις, 6τὲ μὲν ὲκ τοῦ πρώτου σχήματος, ὁτὲ δὲ ἐκ
+τοῦ δευτέρου ἥ τρίτου, ὅτι καὶ οὕτω στήσεται· πε-
+περασμέναι γάρ εἰσιν αἱ ὁδοί, τά δὲ πεπερασμένα
+πεπερασμενάκις ἀνάγκη πεπεράνθαι πάντα. ’Ότι μὲν
+οὑν ἐπὶ τῆς στερήσεως, εἴπερ καὶ ἐπὶ τοῦ ὑπάρχειν,
+ἵσταται, δῆλον.
+
+* Quod quidem igitur non contingit media infinita esse, si
+in sursum et deorsum stent praedicamenta, manifestum
+est. Dico autern sursum quidem quod in universale
+magis est, deorsum autem quod in particulare.
+
+Si enirn A praedicante de C infinita sunt media, in quibus
+est B, manifestum est quod contingit utique ut ab A
+in deorsum alterum de altero praedicari contingit in in-
+finitum (antequam enim in C veniat, infinita sunt me-
+dia), et a C in sursum infinita, antequam in A veniat.
+Quare si haec impossibilia sunt, et ipsius A et C im-
+possibile est infinita esse media.
+
+Neque enim si aliquis dicat, quod haec quidem, quae sunt
+A B C, habita sunt ad invicem, ut et non sint media,
+illa vero non esse accipere, nihil differt. Quodcunque
+enim utique accipio eorum quae sunt B, erunt ad A, aut
+ad C, aut infinita media aut non. A quo iam sunt pri-
+mum infinita, sive statim, sive non statim, nil differt:
+quae enim sunt post haec, infinita sunt.
+
+* Manifestum est autem et in privativa demonstratione quo· ·
+
+niam statur, si quidem in praedicativa statur in utris-
+que. Sit ab ultimo enim non contingens neque in sur-
+sum ab eo, in quo statur, in infinitum ire (dico autem
+in quo statur, quod ipsum quidem in alio nullo est,
+sed in illo aliud, ut Z); neque a primo in id, quod
+est in ultimum (dico autem primum, quod ipsum qui-
+dem de alio, sed de illo nullum aliud); si igitur hoc
+erit, et in negatione stabitur.
+
+Tripliciter enim demonstratur non esse. Aut in quo qui-
+dem est C, B inest omni, sed in quo B, nulli inest A.
+Ipsius quidem igitur C B, et semper alterius spatii,
+necesse est ire in immediata: praedicativa enim haec
+, est distantia. Sed alterum manifestum est, quod si in
+alio non est priori, ut in D, hoc indigebit in omni B
+esse. Et si iterum in alio ipso D priore non fuerit, il-
+lud indigebit in omni D esse. Quare, quoniam deorsum
+statur, et quae estin sursum stabitur, et erit quoddam
+principium, in quo non erit.
+
+Iterum si B quidem in omni A, in C autem nullo, A in C
+nullo erit. Iterum, si haec oportet demonstrare, mani-
+festum est quoniam aut per superiorem modum de-
+monstrabitur, aut per hunc, aut per tertium. Primus
+quidem igitur dictus est; secundus autem demonstra-
+bitur. Sic autem utique demonstratur, ut D in B omni
+est, in C autem nullo, si necesse est aliquid esse in B.
+Iterum, si hoc in C non erit, aliud vero in D est, quod
+in C non est. Igitur quoniam esse semper in sursum
+stat, stabit et non esse.
+
+Tertius autem est: si A in B omni insit, C veroin nullo
+sit, non in omni sit C, in quo est A. Iterum autem hoc
+aut per superius dicta, aut similiter demonstrabitur. Illo
+autem modo statur; si vero sic est, iterum accipietur B
+in E esse, in quo C non in omni E. Et hoc iterum
+similiter. Quoniam autem concessum est 'stare etin
+deorsum, manifestum est quod stabit et in C quod
+non est.
+
+Manifestum autem est quoniam, et si non una via demon-
+straretur sed omnibus, aliquando quidem ex prima fi-
+gura, aliquando vero ex secunda aut tertia, quoniam
+et sie stabitur: finitae enim sunt viae; finita autem
+finite multoties sumpta necesse est finiri omnia. Quod
+quidem igitur in privatione, si quidem et in esse, statur,
+manifestum est.
+
+⁴* Cap. xx.
+Seq. text. 34.
+
+Cap. ιω.
+seq. text. 34.
+

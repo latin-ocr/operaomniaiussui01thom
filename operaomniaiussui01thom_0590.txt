@@ -1,0 +1,242 @@
+· Lect. xv.
+ὃ
+
+““ Codd. (exc. ccl:
+neque medic. ,- o:
+et medicin.
+
+‘Codd. -rrprimo
+ostend. - cer-ons :
+sint propriae.
+
+'⁸ Ut non recte
+om. DEGHILMOQR
+ες et ita infra cum
+Aac, sed exc. L,
+ante conclus.
+
+⁸ a: sec. ostendit,-
+κς sec. autem. . .
+n: in quantum
+conclusiones.
+
+· Num. seq.
+
+¹ Circa ex codd.,
+exc. Β.
+
+'In ex codd., exc.
+cn.
+
+{Codd. (exc. armi:
+m.
+
+' esr: dem. ali-
+quid. — Vel ex
+codd.
+
+Ἐἰ ex codd..exc.
+anm u: sibu aa
+hab. lacun.
+
+· Codd. - p: et di-
+cit.
+
+220
+
+autem scientia sunt propriae propositiones, ex qui-
+bus fit syllogismus: ostensum est enim quod quae-
+libet scientia ex propriis procedit *3 ergo in qua-
+libet scientia est propria interrogatio ⁸. Non ergo
+quaelibet interrogatio est geometrica„vel * medi-
+cinalis; et sic de aliis scientiis.
+
+3. Sciendum tamen est quod interrogatio aliter
+est in scientiis demonstrativis et aliter est in dia—
+lectica. In dialectica enirn non solum interrogatur
+de conclusione, sed etiam de praemissis: de quibus
+demonstrator non interrogat, sed ea sumit quasi
+per se nota, vel per talia principia probata; sed
+interrogat tantum de conclusione ε. Sed cum eam
+demonstraverit, utitur ea, ut propositione ζ, ad
+aliam conclusionem demonstrandam.
+
+4. Deinde cum dicit: Sed ex quibus ete., osten-
+dit * quae interrogationes sunt propriae unicuique
+scientiae. Et primo, in quantum assumuntur ut*
+propositiones, ex quibus demonstrator procedit3
+secundo ³⁵, in quantum sumuntur ut conclusiones;
+ibi: Et de his quidem * etc. Dicit ergo primo quod
+interrogationes geometricae sunt ex quibus de-
+monstratur aliquid circa illa, de quibus est geo-
+metria, aut circa * illa, quae demonstrantur ex
+principiis eiusdem geometriae3 sicut illa, ex qui-
+bus demonstratur aliquid in speculativa scientia,
+
+idest in ’¹‘ perspectiva, quae procedit ex principiis·
+
+geometriae. Et quod dictum est de geometria, in-
+telligendum est de ²⁸ aliis scientiis: quia scilicet
+propositio, vel interrogatio dicitur proprie alicuius
+scientiae, ex qua demonstratur *¹ vel in ipsa 'scien—
+tia, vel in scientia ei * subalternata.
+
+5. Deinde cum dicit: Et de his quidem ratio-
+nem ete., notificat geometricam interrogationem,
+prout est conclusio, dicens* quod de interroga-
+tionibus geometricis ponenda est ratio, demon-
+
+δ) Ergo in qualibet scientia etc. — Est lectio codd., exc. G. — PG:
+ergo in qualibet scientia sunt propriae interrogationes. - Lectio Piana
+conformior est praemissis numero 1 ε in qualibet scientia sunt propriae
+interrogationes etc.; sed obest lectio sere unanimis codicum, quae etiam
+conformior est textui Aristotelis: secundum unamquamque scientiam erit
+interrogatio scibilis, ἐρώτημα ἐπιστημονικόν. -ΑΚ; ergo etiam in etc.;
+BEHLMQ: ergo et in. Placet haec ultima lectio.
+
+Sed circa conclusionem ipsam occurrit dubium, seu, ut placet Ca-
+ietano, dubitatiuncula. Etenim Aristoteles in praecedenti capite docuit
+quod demonstrator non utitur interrogationibus, quas dixit esse proprias
+dialecticae; si autem in demonstratione, ex qua habetur scientia, non
+sunt interrogationes, nec interrogatio erit in qualibet scientia. Aristoteli
+autem consentit s. Thomas (cf. lect. v, n. 4, et lect. praee, n. 6). Verum
+huic dubio solvendo satis superque sunt ea quae ipsemet Angelicus decla-
+rat n. sequenti de interrogatione in scientiis demonstrativis et in dialectica.
+
+Vix denique opus est novitium admonere interrogationem dici geo-
+metricam vel medicinalem ete., quatenus est de rebus ad geometriam,
+vel ad medicinam etc. pertinentibus (Cf. lect. seq.).
+
+ε) Sed etiam de praemissis etc. - Codices, exc. G: sed etiam de
+praemissis: de quibus demonstrator non interrogat, sed ea (l, ea quae
+et sumit additur s. rn.) sumit K, assumit, et om. ea‚· O om. sed ea su-
+mit} quasi per se nota vel per talia (ANOST , alia ; K omitt.) principia
+pro ata; sed interrogat tantum etc. (L omitt. tantum). lgitur codices
+omnes unanimiter habent lectionem (paucis exceptis et notatis), quarn
+adoptamus ab eorumdem codd. auctoritate coacti. PG: sed etiam de prae-
+missis. Demonstrator autem non interrogat de praemissis, sed sumit
+(G, sunt) quasi per se notas (G, nota), vel per alia principia probat
+(G, vel talia principia probata); sed interrogat solum etc.
+
+ζ) Sed cum eam...‚ utitur ea, ut propositione etc. —Codd.‚ exc. G:
+Sed cum eam...utitur ea ut propositione (R, sicut alia propositione;
+B om. ut propositione) ad aliam conclusionem demonstrandam (A, pro-
+bandam); PG: Et cum eam...‚ sicut alia propositione ad demonstran-
+dum aliquam (G om. aliquam) aliam conclusionem. — Conclusio demon-
+strata est altera pars enunciationis, seu contradictionis; altera autem pars
+enunciationis dicitur propositio (cf. lect. ν, n. 3); et ideo demonstrator,
+postquam demonstraverit conclusionem, ea utitur ut propositione, quasi
+
+POSTERIORUM ANALYTICORUM LIB. Ι
+
+strando scilicet veritatem ipsarum ex principiis
+geometricis et conclusionibus, quae per illa * prin-
+cipia demonstrantur. Non enirn cuiuslibet demon-
+strationis geometricae ratio redditur ex primis
+geometriae principiis, sed interdum ex his quae
+per prima principia sunt conclusa. Interrogationum
+autem *, quae semper sunt conclusiones in de-
+monstrativis scientiis, ratio reddi potest* in eis-
+dem, sed principiorum ratio non potest reddi *
+a geometra, secundum quod geometra est. Et si-
+militer est in aliis scientiis. Nulla enirn scientia
+probat sua principia '¹, secundum quod ostensum
+est supra ὓ. Dicit autem, secundum quod geometra
+est, quia contingit in aliqua scientia probari prin-
+cipia illius scientiae, in quantum illa '¹‘ scientia as-
+sumit principia alterius scientiae ⁰; sicut geometra
+probat sua principia secundum quod assumit for-
+mam philosophi primi, idest metaphysici.
+
+6. Deinde curn dicit: Neque omnem interro-
+gationem ete., ostendit quod in qualibet scientia
+sunt propriae responsiones et disputationes. Et
+primo quod sint propriae responsiones; secundo,
+quod sint propriae disputationes; ibi: Si autem
+disputat* etc. Dicit ergo primo, quod ex praedictis
+patet quod non contingit unumquemque scientem
+de qualibet quaestione interrogare ⁴. Unde etiam
+patet quod non contingit de quolibet * interro-
+gato respondere: sed solum de his quae sunt
+secundum propriam scientiam: eo quod ad eam—
+dem scientiam pertinet interrogatio et responsio.
+
+7. Et quia ex interrogatione et responsione fit
+disputatio, consequenter ostendit ¹ quod in qua-
+libet scientia est propria disputatiO, dice-ns quod
+si disputet geometra cum geometra, secundum
+quod geometra, idest de his quae ad geometriam
+pertinent, manifestum est quod bene procedit
+
+principio syllogismi, ad aliam conclusionem demonstrandam. Secus est de
+dialectico: conclusio enim dialectica, quia infertur ex sola enunciatione, ad
+
+· Codd.-reniso:
+ipsa.
+
+· anni: ergo.
+
+¹ o: debet.
+
+⁴* Codd. (excmlz
+pann a: raho
+
+reddi non potest
+semper a geom.
+
+⁷1
+⁸ Lect. xvm, ¹¹·3·
+
+{saia ¹¹² ἐἶ’
+
+· Νιιιιι. seq.
+
+· ammom: de
+omni int.
+
+utramque partem contradictionis se habente, probabilis, non certa αις .
+
+proindeque non potest assumi ut propositio, sed solummodo ut enunciafio,
+et ad aliud dialectice seu probabiliter inferendum (Cf. lect.v‚n.4, not. ὃ).,
+η) Pr0bat sna principia.— lta codices omnes (exc. R, qui habet la-
+
+cunam). - P: probat sua prima principia,- quae eet lectio bona, sed ,
+
+non praeferenda lectioni codd. Etenim principia sua, quae nulia scien-
+tia probat, non sunt nisii principia prima illius scientise3 alia vero, quae
+assumuntur ut principia probata in unaquaque scientia, non sunt nisi prin-
+cipia in sensu relativo (Cf. cit. lect. xvm ). - lnfra legimus cum codd. AB
+
+nriiLMNOer: Dicit autem,- 1²: Et dicit sec.; cEx: Dicit secundani. -
+
+om. tum autem, tum et,· R habet lacunam. Ἴ ¹
+θ) Illa scientia assumit principia etc. - Codices ABCDEHKMNQQ
+ST: illa scientia assumit (ΑΒ, sumit) ea quae sunt· alterius scientiae,⁴
+
+quibus consentit cod. L: illa scientia assumit ea qnae atterius scientiae ,
+
+sunt... ABDEIKLMNT et marg. S: sicut si geometr-cu BDIKLMNQQ
+
+ST: probet. -Denique in fine huius numeri codd., uno excepto G, omn-¹ v
+
+tunt verba: idest metaphysici: G: primi philosophi a metaphysica( A
+lect. praec„ n. 5 et not. φ). ‚-
+
+ι) scientem de qualibet quaestione interrogare.— Ood. Az sactenten't'le‘
+qualibet etc.; eod. H: de qualibet interrogatione respondere, σαι. ςρρἀ
+omittunt sequens etiam, seu legunt: Unde patet ete-Lectio cod. H bis
+exhibet secundam partem textus Aristotelis: neque secundum ete., omiu-
+prima parte.
+
+κ) Consequenter ostendit etc.·-Haec verba usque ad pria αἱφα-
+tatio inclusive omittuntur a codd. CDGHKLMNQ et p. m. S 3imo Loffindt
+etiam verba sequentia, dicens quod si, et habet, non disputet, sed 1³⁴·
+sputat. Dicens omittitur etiam a B, et codd. GflxM habent, dicit. -·
+Verum omissio praedictorum codd. est mendum. Altera mim pm
+huius lectionis est de responsionibus et de disputationibus, utdseitur n. ις
+de responsionibus autem dictum est ἠ. praecedenti; de disputationibus
+consequenter ostendit in hoc numero. Expedlta est ergo iecdo P, quam
+ceteri codices habent. — Cod. 1 infra omittit mendose verba, secundum
+quod geometra ‚- ABCDELQST: secundum quod est geometr-m HNR:
+secundum quod geometra est. Ο habet lacunam.
+

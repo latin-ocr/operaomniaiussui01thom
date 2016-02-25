@@ -1,0 +1,163 @@
+· A: ostendit.
+
+⁸ Num. 4.
+
+258
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+LECTIO TRIG‘ESIMA
+
+DE IGNORANTIA SIMPLICIS NEGATIONIS
+
+Φανερόν δὲ καὶ ὅτι, εἴ τις ἀἴσθησις ἐκλέλοιπεν, ἀνάγκη * Manifestum autem est, et si aliquis sensus defecerit, neces· ι Canum.
+
+καὶ ἐπιστήμην τινα ἐκλελοιπέναι, ἦν ἀδύνατον λα-
+βεῖν,
+
+se est et scientiam aliquam deficere, quam impossibile
+est accipere:
+
+εἴπερ μαγθοίνομεν ἢ ἐπαγωγῇ ἢ ἀποδείξει. Ἔστι δ’ ’ἡ siquidem addiscimus aut per inductionem, aut per demon-
+
+μὲν απόδειξις ἐκ των καθόλου, ἢ δ’ ἐπαγωγή εκ
+τῶν κατα μέρος· ἀδύνατον δὲ τοὶ καθόλου θεωρῆσαι
+μὴ δι’ ἐπαγωγῆς, ἐπεὶ καὶ τοὶ ἐξ ἀφαιρέσεως λεγό-
+μενα ἔσται δι’ ἐπαγωγῆς γνώριμα ποιεῖν, ὅτι ῦπαρ-
+χει ἑκάστῳ γένει ἔνια, καὶ εἰ μή χωρισταί ἐστιν, ’ᾗ
+τοιονδὶ ἕκαστον. Ἐπαχθῆναι δὲ μή ἔχοντας αἴσθησιν
+ἀδύνατον. Τῶν γαρ καθ’ ἕκαστον ἡ αἴσθησις· οὗ γαρ
+ἐνδέχεται λαβεῖν αὐτῶν τήν ἐπιστήμην· οὔτε γάρ
+ὲκ τῶν καθόλου ἄνευ ἐπαγωγῆς, οὔτε δι’ ἐπαγωγῆς
+ἄνευ τῆς αἰσθήσεως.
+
+ΞῩΝοΡεῐε. - 1. Argumentum et divisio textus. - 2. ignorantia
+negationis ex necessitate est in carente facultate obiecti cogno-
+scitiva. — 3. Differentia inter carentem facultate cognoscendi et
+eam non exercentem, respectu ignorantiae negationis, - 4. Est
+duplex modus acquirendi scientiam , per demonstrationem et per
+inductionem: illa ex universalibus, ista ex singularibus procedit.
+- 5. Universalia, ex quibus demonstratio p'rocedit, non sunt no-
+bis nota‚ nisi per inductionem. - 6. Ergo homines carentes sensu
+
+’- syllogismum hic determinat de igno—
+ᾗ frantia simplicis negationis, quae fit
+ogismo. Et prim0, ostendit in quibus
+habeatur talis ignorantia ex necessitate3 secun-
+do, probat * propositum; ibi: Siquidem addisci-
+mus '¹‘ etc.
+
+2. Dicit ergo primo quod si alicui deficiat ali—
+
+  
+
+α) Quod deficiat ei scientia propriorum sensibilium illius sensus.
+Puta etc.—- lta legit edit. Piana cum codd., et ita legendum est, ut ex se
+est manifestum. Codex B mendosus est: necesse est quod deficiat ei
+scientia de coloribus. Et sic etc.- Aliud mendum eiusdem codicis est
+in fine n. 4, ad illa verba, manifestatur in principio Metaphysicaet
+post quae, reliquis omnibus oscitanter omissis, immediate prosequitur:
+videtur autem quod hoc locum non habeat etc. Ex iterata citatione, in
+principio Metaphyskae, amanuensis occasionem sumpsit errandi.-1n
+principio seq. num. 5, cod. A: Sed magis,· AlGo: hoc dubium videtur
+(Ο, vid. esse); CEMNQST: hoc videtur dubium3 P: vid. hoc dubium.
+
+Non autem dicit s. Thomas quod deficiat, in facta hypothesi, scientia
+sensibilium, sed propriorum sensibilium illius sensus, qui deficit. Sen-
+sibile enim distinguitur in scholis in sensibile proprium, commtme, et
+per accidens. Sensibile per accidens proprie loquendo non attingitur a
+sensu, sed quia in concreto est coniunctum sensibili proprio (et ex hoc
+praecise dicitur per accidens— Cf. lect. iv, n. 4, et lect. xvi, not. ν), sen-
+sus, qui concrete sentit obiectum, per accidens dicitur sentire etiam obie-
+ctum unitum obiecto proprio. Hinc, licet videamus oculis solum co-
+lorem pomi, dicimus tamen videre pomum, hoc est substantiam pomi,
+in quo color existit. Non respectu huius obiecti dicit s. Thomas quod,
+deficiente sensu, deficiat cognitio sensibilis: patet enim quod deficiente
+sensu visus, obiectum per accidens, pomum, quod attingebatur ab illo
+sensu, potest aeque attingi tum a sensu gustus, tum a sensu tactus.
+—Sed neque deficiente uno sensu, eo ipso deficit cognitio sensibilis
+communis; quo nomine significatur obiectum commune pluribus sensi-
+bus, quatenus scilicet plures sensus illud sentire possunt. lta extensio,
+e. g. ‚ et tactu sentitur et oculis videtur. Qua de causa ut cognitio huius
+obiecti communis deficiat, necesse est ut non unus sensus solummodo,
+sed omnes illi desint, quibus obiectum illud percipi potest. -Recte ergo'
+s. Thomas ad sensibile proprium contraxit assertum, videlicet ad obie-
+ctum illud, quod ita sentitur ab uno sensu, ut a nullo alio percipi possit.
+
+strationem. Est autem demonstratio quidem ex univer-
+salibus, inductio autem ex his, quae sunt secundum par-
+tem; impossibile est autem universalia speculari, nisi
+per inductionem: quoniam et quae ex abstractione di-
+cuntur, est per inductiones nota facere, quia insunt in
+unoquoque genere quaedam, et si non separabilia sint,
+secundum quod huiusmodi unumquodque est. Induce-
+re autem non habentes sensum impossibile est. Singu-
+larium sensus est enim: non enim contingit accipere
+ipsorum scientiam. Neque enim ex universalibus est sine
+inductione, neque per inductionem sine sensu.
+
+aliquo non possunt inductionem facere de singularibus pertinen-
+tibus ad sensum illum, neque proinde cognoscere universalia,
+quae per inductionem praefatam habentur. - 7. Duo corollaria:
+1⁰⁰¹, Ergo nos non habemus scientiam de rebus per species
+participatas ab ideis, ut Plato posuit; — 211111, Ergo non pos-
+sumus in hac vita cognoscere spirituales substantias separatas,
+intelligendo quidditates seu essentias earum, ut contendebat
+Avempace.
+
+quis sensus, puta visus aut auditus, necesse est
+quod deficiat ei scientia propriorum sensibilium
+illius sensus ’ἢ Puta, si cui deficit sensus visus,
+necesse est quod deficiat ¹² ei scientia de coloribus.
+Et sic habebit de coloribus ignorantiam negatio-
+nis, omnino * ignorans colorem. Sed hoc intelli-
+gendum est quando nunquam habuit sensum
+visus, sicut patet in caeco nato. Si quis enim*
+amittat visum prius habiturn, non propter hoc
+
+Sed his declaratis, aliae manent distinctiones faciendae. Nam alla
+est cognitio specifica et propria alicuius rei, alia cognitio generice 'et
+communis eiusdem; alia insuper est cognitio directa et immediata, alia
+mediata seu deducta. Loquor modo, ut quisque per se videt, de cognitione
+prout est in nobis, animalibus quidem sed rationalibus, hoc est sensibus
+et ratione utentibus. Distinctiones praefatae exemplo erunt manifestae.
+Lucem et sonum possum cognoscere vel quatenus sunt talia sensibilia,
+specifice distincta a ceteris sensibilibus, puta sapore, odore, duro vel
+molli etc.; vel solummodo quatenus sunt sensibilia, hoc est, quantum
+ad illud solum quod lux et sonus commune habent cum sapore, odo-
+re, etc. Porro manifestum est quod, deficiente sensu sensibilis proprii,
+non propterea est impossibilis cognitio generica eiusdem obiecti, sed
+negatur solummodo cognitio specifica: quia cum singulare sensibile in se
+habeat commune, unde sumitur eius genus, et proprium. ex quo habetur
+species, deficiente sensu proprii, non potest species haben-13 sed genua
+habetur, quia individua alia ab aliis sensibus percipiuntur, quae, non
+secus ac obiectum proprium sensus deficientis, exhibent genus illius.
+
+Haec cum perspicua satis videantur, ultimo loco dicendum est de
+cognitione immediata et de cognitione deducta, in eadem hypothesi quod
+aliquis sensus deficiat. Patet autem imprimis 'non posse in facta hypo-
+thesi immediatam cognitionem haberi per abstractionem directam ex sen·
+sibili proprio, quod non datur. Igitur nonnisi per deductionem ex aliis
+sensibilibus cognitio haberi potest. Et quidem si haec sensibilia in speeie
+convenirent cum sensibili proprio sensus deficientis, concedendum esset
+quod notio specifica posset obtineri, quasi sensus ille adesset. Quia n-
+men oppositum accidit (non enim lux, e. g., est eiusdem speciei cum
+sono), notio specifica unius obiecti proprii ex specie obiecti proprii alte-
+rius sensus obtineri non potest. Erit igitur notio generice, quia in genere
+obiecta ipsa conveniunt, ut dictum est, vel erit aiam notio plus minusve
+analoga, seeundum quod maior vel minor analogia nictit inter obiecta
+sensibilia.
+
+Text. 33.
+
+· mamonae-r ε
+decit.
+
+ztcpdg. (πε. vogn
+
+amissa}
+
+τ om. qnia.
+
+¹<*¹.·
+

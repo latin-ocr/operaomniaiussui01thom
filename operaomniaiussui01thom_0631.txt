@@ -1,0 +1,159 @@
+CAP. XIX, LECT. XXXI
+
+261
+
+LECTIO TRIGESIMAPRIMA
+
+QUAESTIONES MOVENTUR AN SIT STARE IN EXTREMIS
+ET MEDIIS SYLLOGISMI DEMONSTRATIVI, VEL SIT POSSIBILIS
+PROCESSUS IN INFINITUM
+
+Ἔστι δὲ πᾶς συλλογισμὸς διά τριῶν ὅρων, καὶ ὁ μὲν
+δεικνύναι δυνάμενος ὅτι ὑπάρχει vd A τῷ Γ διά τὸ
+ὑπάρχειν τῷ Β καὶ τοῦτο τῷ Γ, ὁ δέ στερητικός,
+τήν μὲν ἑτέραν πρότασιν ἔχων ὅτι ὑπάρχει τι ἄλλο
+ἄλλῳ, τήν δ’ ἑτέραν ὅτι οὑχ ὑπάρχει.
+
+Φανερόν οὖν ὅτι αἰ μὲν ἀρχαὶ καὶ αἱ λεγόμεναι ὑποθέ-
+σεις αὑταί εἰσι· λαβόντα γάρ ταῦτα οὕτως· ἀνάγκη
+δεικνύναι, οἷον ὅτι τὸ Α τῷ Γ ὑπάρχει διά τοῦ Β,
+πάλιν δ’ ὅτι τὸ Α τῷ Β δι’ ἄλλου μέσου, καὶ ὅτι
+τὸ Β τῷ Γ ὡσαύτως.
+
+Kar& μέν οὖν δόξαν συλλογιζομένοις καί μόνον διαλε-
+κτικῶς δῆλον ὃτι τοῦτο μόνον σκεπτέον, εἰ ἐξ ών
+
+’” ἐνδέχεται ἐνδοξοτάτων γίνεται ὁ συλλογισμός, ὥστ’
+εἰ καὶ μή ἔστι τι τῇ ἀληθεία τῶν A Β μέσον, δοκεῖ
+δὲ εἶναι, ὁ διά τούτου συλλογιζόμενος συλλελόγι
+σται διαλεκτικῶς· πρὸς δ’ ἀλήθειαν ἐκ τῶν ὑπαρχόν-
+των δεῖ σκοπεῖν.
+
+Ἔχει δ’ οὕτως· ἐπειδή ἔστιν ὃ αὑτὸ μὲν κατ’ ἄλλου
+κατηγορεῖται μή κατά συμβεβηκός, λέγω δὲ *ro* κατά
+συμβεβηκός, οἷον τὸ λευκόν ποτ’ ἐκεῖνό φαμεν εἶναι
+ἄνθρωπον, οὑχ ὁμοίως λέγοντες καὶ τὸν ἄνθρωπον
+λευκόν· ὀ μέν γάρ οὑχ ἕτερόν τι ὢν λευκόν ἐστι, τὸ
+δὲ λευκόν, ὅτι συμβέβηκε τῷ ἀνθρώπῳ εἶναι λευκῷ.
+Ἔστιν οὖν ἔνια τοιαῦτα ὥστε καθ’ αὑτοὶ κατηγο-
+ρεῖσθαι.
+
+Ἔστω δὲ τὸ Γ. τοιοῦτον, ὃ αὑτό μὲν μηκέτι ὑπάρχει
+ἄλλῳ, τούτῳ δὲ τὸ Β πρώτῳ, καὶ οὑκ ἐ’στιν ἄλλο
+μεταξύ· καὶ πάλιν τὸ Ε τῷ Ζ ὡσαύτως, καὶ τοῦτο
+τῷ Β· ἆρ’ οὑν τοῦτο ἀνάγκη στῆναι, ἦ ἐνδέχεται
+εἰς ἄπειρον ὶέναι;
+
+Καὶ πάλιν εἰ τοῦ μέν Α μηδὲν κατηγορεῖται καθ’ αὑτό, τὸ
+δέ A τῷ Θ ὑπάρχει πρώτῳ, μεταξυ δὲ μηδενὶ προτέρῳ,
+καὶ τὸ Θ τῷ Η, καὶ τοῦτο τῷ Β, οἷρα καὶ τοῦτο
+ἵστασθαι ἀνάγκη, ἦ καὶ τοῦτ’ ἐνδέχεται εἱς ἄπειρον
+ἰέναι; Διαφέρει δὲ τοῦτο τοῦ πρότερον τοσοῦτον, ὅτι
+τὸ μέν ἐστιν, ἄρα ἐνδέχεται ἀρξαμένῳ ἀπὸ τοιούτου
+ὃ μηδενὶ ὑπάρχει ἑτέρῳ ἀλλ’- ἄλλο ἐκείνῳ, ἐπὶ τό ἄνω
+εἰς ἄπειρον ἱέναι, θάτερον δέ ἀρξάμενον ἀπὸ τοιού-
+του ὂ αὐτὸ μὲν ἄλλου, ἐκείνου δὲ μηδὲν κατηγορεῖται,
+ἐπὶ τὸ κάτω σκοπεῖν εἰ ἐνδέχεται εἰς ἄπειρον ἰε’ναι.
+
+Ἔτι τά μεταξὺ ἄρ’ ἐνδέχεται ἄπειρα εἶναι ὡρισμένων
+τῶν ἄκρων; λέγω δ’ οἷον εἰ τὸ Α τῷ Γ ὑπάρχει, με’-
+σον δ’ αὐτῶν τὸ Β, τοῦ δὲ Β καὶ τοῦ A ἕτερα, τού-
+των δ’ ἄλλα, οἷρα καὶ ταῦτα-εὶς ἄπειρον ἐνδέχεται
+ἰέναι, ἦ άδύνατον;
+
+Ἔστι δὲ τοῦτο σκοπεῖν ταὺτὸ καὶ εἰ αἱ ἀποδείξεις εἰς
+ἄπειρον ἔρχονται, καὶ εἱ ἔστιν ἀπόδειξις ἅπαντος,
+ἦ πρὸς ἄλληλα περαίνεται.
+
+Ὁμοίως δὲ λέγω καὶ ἐπὶ τῶν στερητικῶν σνλλογισμῶν
+καὶ προτάσεων, οἷον εἰ τὸ A μή ὑπάρχει τῷ Β μη-
+δενί, ἤτοι πρώτῳ, ἦ ἔσται τι μεταξύ ᾦ προτέρῳ
+οὐχ ὑπάρχει, οἷον εἱ τὸ Η, ὃ τῷ Β ὑπάρχει παντί,
+καὶ πάλιν τούτου ἔτι ἄλλῳ προτέρῳ, οἷον εἱ τὸ Θ,
+ὃ τῷ Η παντὶ ὑπάρχει. Καὶ γάρ ἐπὶ τούτων ἧ ἄπειρα
+οἷς ὑπάρχει προτέροις, ἦ ἵσταται.
+
+Ἐπὶ δέ τῶν ἀντιστρεφόντων οὐχ ὁμοίως ἔχει. Οὑ γάρ
+ἔστιν έν τοῖς κατηγορουμένοις οὗ πρώτου κατηγο-
+ρεῖται ἦ τελευταίου· πάντα άρ πρὸς πάντα ταύτῃ
+γε ὁμοίως ἔχει, εἴτ’ ἐστὶν πειρα τά κατ’ αὑτοῦ
+κατηγορούμενα, εἴτ’ ἀμφότερά ἐστι τά ἀπορηθέντα
+ἄπειρα· πλήν εἰ μή ὁμοίως ἑνδέ εται ἀντιστρέφειν,
+
+v
+
+ἀλλὰ v& μὲν ὠς συμβεβηκός, τὸ ὠς κατηγορίαν.
+
+*Est autem omnis syllogismus per tres terminos; et hoc
+quidem demonstrare possibile est quoniam est A in C,
+propter id quod est in Β et hocin C; sed privativus
+est alteram quidem propositionem habens quoniam est
+aliud in alio, alteram autem quoniam non est.
+
+Manifestum igitur est quod principia et dictae suppositiones
+hae sunt: accipientes enim hoc, sic necesse est demon-
+strare, ut quia A sit in C per B; iterum autem quia
+A sit in B per aliud medium, et quod B sit in C si-
+militer.
+
+Secundum quidem igitur opinionem syllogizantibus et so-
+lum dialectice, manifestum est quod hoc solum inten-
+dendum sit, ex quibus contingit verisimilis fiat syllo-
+gismus: quare et si est aliquod in veritate eorum quae
+sunt A B medium, videtur autem non, per hoc syllo-
+gizans, syllogizatus est dialectice: ad veritatem autem
+ex his quae sunt oportet intendere.
+
+Habet autem se sic: quoniam est quod ipsum quidem de
+alio praedicatur non secundum accidens: dico autem
+secundum accidens, ut album aliquando illud dicimus
+hominem esse, non similiter dicentes et hominem al—
+bum: quod quidem enim, cum non alterum aliquod sit,
+album est; album autem est homo quoniam accidit
+homini esse album. Sunt igitur quaedam huiusmodi,
+quae secundum se praedicantur.
+
+Sit igitur C huiusmodi quod ipsum quidem non sit in alio,
+in hoc autem B sit primo et non est aliud medium,
+iterum F in E sit similiter et hocin B; nunquid igitur
+hic necesse est stare, aut contingit in infinitum ire?
+
+Et iterum si de A quidem nihil praedicatur per se, A au-
+tem in C est primo, medium autem in nullo priori, et
+item C sit in 1 et hocin B, nunquid et in hoc stare
+necesse est, aut in hoc contingit in infinitum abire?
+Differt autem hoc a priori: quoniam hoc quidem est,
+nunquid contingit incepturum ab huiusmodi, quod in
+nullo est altero, sed aliud in illo, in sursum in infinitum
+abire? alterum autem incepturum ab huiusmodi quod
+ipsum quidem de alio, de illo autem nihil praedicatur,
+in deorsum intendere, si contingit in infinitum ire?
+
+Amplius media numquid contingit infinita esse, determinatis
+terminis? dico autem, ut si A in C sit, medium autem
+ipsorum sit B, ab ipso autem B ad A alterum, sed
+horum alia, nunquid et hoc in infinitum contingit abire,
+aut impossibile est?
+
+Est autem hoc intendere idem et si demonstrationes in
+infinitum veniunt, et si est demonstratio omnis rei, aut
+ad invicem includantur.
+
+Similiter autem dico et in privativis syllogismis et propo-
+sitionibus, ut si A non inest nulli Β primo, aut aliquid
+infra, cui priori non inest A, ut ipsi C, quod est in
+omni B; et iterum hoc etiam in alio priori, ut si C
+est quod sit in omni I. Et namque in his, aut infinita
+sunt in quibus non inest prioribus, aut statur.
+
+Sed in convertibilibus non similiter se habet. Non enim
+est in aeque praedicabilibus de quo primo praedicatur,
+aut ultimo: omnia enim ad omnia sic similiter se ha-
+bent,sive sunt infinita de ipso praedicantia, sive utraque
+sunt praedicta infinita: nisi similiter non contingat con-
+verti, sed hoc quidem sicut accidens, illud vero sicut
+praedicamentum.
+
+⁶ Cap. xtx.
+Text. 34.
+

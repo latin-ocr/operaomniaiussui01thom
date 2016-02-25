@@ -1,0 +1,154 @@
+” Num. 4.
+
+· Num. 6.
+
+¹ tiones fiunt de contingentibus. — 5. Solvitur. Ex contingentibus
+
+⁴procedere ex principiis necessariis, sed etiam esse de conclusionibus
+
+· quae sunt per se. Et circa etc. Hanc ipsam lectionem habent Venetae
+
+CAP. Vl, LECT. XIV 193
+
+LECTIO DECIMAQUARTA
+
+DEMONSTRATIO EST DE HIS ET EX HIS QUAE SUNT
+PER SE
+
+Τῶν δὲ συμβεβηκότων μη καθ’ αὐτοί, ὃν τρόπον διωρί- * Accidentium autem non per se, quomodo determinatum·
+
+σθη τοὶ καθ αὐτοί, οὐκ ἔστιν ἐπιστήμη ἀποδε ικτική. est per se quidem esse, non est scientia demonstrativa.
+Οὐ γάρ ἔστιν ἔξ ἀνάγκης ὸεῖξαι τὸ συμπέρασμα· τὰ Νοιι enim est ex necessitate demonstrare conclusionem3
+συμβεβηκὸς γάρ ἐνδέχεται μη ὑπάρχειν· περὶ τοιού· accidens enim contingit non esse: de tali enim dico
+του ἀρ λέγω συμβεβηκότος. accidente.
+
+Καίτοι απορησε ειεν ρῖν τις· ἴσως τίνος ενεκοι ταῦτα δεῖ Et tamen opponet fortassis aliquis, cuius causa haec opor-
+ἐρωτᾶν περὶ τουτων, εἰ μη ἀνάγκη τό συμπε ’ρασμα < tet interrogare de iis, si non necesse est conclusionem
+ειναι· οὐδὲν γοὶρ διάφέρε ι εἴ τις ἐρόμενος τοὶ τυ- esse; nihil enim differt si aliquis interrogatus contingen-
+
+οντα, εἶτα εἴπειεν τὸ συμπε 'panop-oc. tia, postea dicat conclusionem.
+
+Δεΐχὸ’ ἐρωτᾶν οὐχ ὠς ἀναγκαῖον εἶναι διαὶ τά ηρωτη- Oportet autern interrogare, non tanquam necessarium esse
+μένα, ἀλλ’ ὅτι λε’ εγειν ἀνάγκη τῷ ἐκεῖνα, λέγοντι, propter interrogata; sed quia dicere necesse est illa di-
+καὶ ἀληθῶς Ηλέγειν, ὲαν ἀληθῶς ᾗ ὑπάρχοντα. centi‚ et vera dicere, si vera sunt, quae sunt.
+
+Ἐπεὶ δ’ ἑξ ἀνάγκης υπαρχει περὶ ἕκαστον γένος ὅσοι * Quoniam autem cx necessitate sunt circa unumquodque ·
+
+” καθ’ αὐτοὶ υποίρκει, καὶ ῃ ἕκαστον, φανερὸν ὅτι περὶ genus quaecumque per se sunt, et secundum quod unum—
+τῶν καθ’ αὐτοὶ υποι ρχόντων αἱ ἑπιστημονικαὶ ἀπο- quodque est, manifestum est quoniam de his, quae
+δείξεις καὶ ἐκ τῶν τοιούτων εἰσίν· τοὶ μὲν γάρ συμ- per se sunt, demonstrativae scientiae et ex talibus sunt;
+βεβηκότα οὐκ ἀναγκαῖα· ὥστ’ ουκ ἀνάγκη τὰ συμ- accidentia enim non necessaria sunt. Quare non est
+πέ ἀσμα, εἰδέναι διότι ὑποίρχε ι, οὐδ’ εἰ ἀεὶ εἴη, μη necessarium conclusionem scire propter quid sit neque
+nug* αὐτὰ δὲ ε, οἷον οἱ διαὶ σημείων συλλογισμοί. T6 si semper sint, non per se autem, ut sunt per signa
+γάρ καθ’ αὐτὸ οὗ καθ’ αὐτὰ ἑπιστησε ται, ουδὲ διότι. syllogismi. Hoc enim per se, non per se scit, neque
+τὸ δὲ διότι ἐπίστασθαι ἔστι τὸ διά τοῦ αἰτίου ἑπί- propter quid; propter quid autem scire, est per causam
+στασθαι. Δι αὐτὸ ἄρα δεῖ καὶ τὸ μέσον τῷ τρίτῳ scire. Propter ipsum ergo oportet et medium tertio, et
+καὶ τὸ πρῶτον τω μεσῳ ύποίρχε ιν. primurn medio inesse.
+
+Smorms. — 1. Argumentum textus. - Demonstratio est de
+his et ex his quae sunt per se -ε, Eorum quae sunt per ac-
+cidens non potest esse demonstratio, quia, cum de necessitate
+non insint subiecto, non potest de ipsis haberi conclusio neces-
+saria.- 3. Solvitur obiectioa- -.4 Dubitatio ex eo quod interroga-
+
+praemissis non est necessitas absoluta consequentis, sed neces-
+sitas consequentiae-— -.6 Probatur directe demonstrationem fieri
+ex his quae sunt per se; quia est ex necessariis et de necessariis. -
+7. Confirmatur3 quia etiamsi procedatur exiis quae sunt semper
+et necessaria et vera, si tamen non proceditur ex iis quae sunt
+per se, nescitur propter quid, seu nescitur causa conclusionis.
+
+per se, sicut determinatum est per se superius ⁷,
+scilicet quod accidens per se est* in cuius defi--
+nitione ponitur subiectum; sicut par aut impar
+est per se accidens numeri ὅ. Album autem ani-
+malis non est per se accidens· quia animal non
+ponitur in eius definitione. Quod autem de huius-
+modi accidentibus, quae non sunt per se, non possit
+esse demonstratio, sic probat. Accidens, quod non
+est* per se, contingit non inesse ⁴⁶* (de hoc enim
+accidente loquimur); si ergo * demonstratio fieret
+de accidente, quod non est per se, sequeretur quod
+conclusio demonstrationis non esset necessaria:
+
+7, necessariis ‚consequenter ostendit quod
+
+- ., 5¹²¹ est de his, quae sunt per se et ex his,
+quae sunt per se ⁶⁶. Et circa hoc tria facit: primo,
+ostendit quod demonstratio est de his, quae sunt
+per se, idest quod conclusiones demonstrationis
+sunt per se,· secundo, movet dubitationem et solvit;
+ibi: Et tamen opponet '¹‘ etc: ‚tet-tio, ostendit quod
+demonstratio est ex his, quae sunt per se β, idest
+quod principia demonstrationis oportet per se esse;
+ibi: Quoniam autem ex necessitate* etc.
+
+2. Dicit igitur primo quod demonstrativa scien-
+
+ 
+
+α) Demonstratio est de necessariis etc. Hanc lectionem in sua in-
+tegritate exhibent codd. ABDIKLQT, et videtur lectio germana et reti-
+nenda. Quae enim supra ostensa sunt, demonstrationem probant nedum
+
+quae insunt per se.— —In his atque similibus locutionibus Aristoteles ge-
+neratim habet ὑπάρχειν, hoc est inesse, et καθ’ αὐτά, secundum se, seu
+per se. Scholastici autem indifferenter habent. inesse vel esse per se,
+inesse vel esse secundum se.— Cod. C: tertio dicit quod demonstratio-
+nes sunt ex his, quae etc. Et, demonstrationes sunt ex his (M, ex
+iisdem) habent etiam codd. MNS.
+
+γ) Determinatum est per se superius. Est lectio codd. CDEHIKL
+MNOQRST: determinatum est per se superius. Quae lectio pressius
+reddit textum graecum: ὃν τρόπον διωρίσθη τὰ καθ’ αὗτά. -Ρ demon-
+stratum est de per se superius; ABG: demonstratum est per se (B, per
+se esse) superius.
+
+δ) Sicut par aut impar est per se accidens numeri. —Cum codd.
+legimus. aut imputa· CMS: vel impam POR. et impar.- -Deinde co-
+dices habent: est per se accidens; P: sunt per se accidens,· CMRS:
+per se est accidens numeri. ·- L legit cum aliis codicibus, forma'm tamen
+
+necessariis. -Hic autem, ut immediate additur· in divisione textus, osten-
+dendum suscipitur per demonstrationem ratiocinari ex iis quae sunt
+per se, et inferri etiam conclusiones quae per se sunt. Editio Piana: de-
+monstratio est ex necessariis.- consequenter ostendit quod est de his
+
+editiones et codd. ENR. -Codices etiam CHMOS videntur stare cum Ρ. —-
+CHMS: consequenter ostendit quod demonstratio (H om. demonstratio)
+est ex his etc„ ut Ρ; &consequenter ostendit de his quae sunt per
+se. Et circa etc. -Cod. G: ostendit quod est de his, quae sunt per se,
+et non ex his quae non sunt per se. At prima vice (et non ex his),
+particula non ex secunda manu apposita est.—- Notandum denique quod
+in prima parte cod. M omittit verba et ex necessariis; N et prima manu
+S om. de necessariis et.
+
+β) Est ex his quae sunt per se. lta codd. -.Ed Piana: estex his per se.
+
+ΟΡΡ. D Τιιοιιιιιι Τ. Ῑ. “ 25*
+
+mutat et forte melius habet: est accidens per se numeri.- quam for-
+
+, ostquam ostendit Philosophus quod tia non potest esse accidentzum, quae non sunt
+mam imitantur immediate infra codd. AGIOQRST: non est accidens
+
+Seq. cap. vt et
+text. 18.
+
+Text. ¹9·
+
+Υ
+Lect. x, n. 4.
+
+ὃ
+
+'corn inest.
+
+'ms: conting.
+non esse; 1-1: con-
+ting. esse et non
+esse.
+· o non recte:
+cum enim de-
+monstr.
+
