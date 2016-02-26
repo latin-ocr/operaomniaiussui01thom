@@ -1,0 +1,165 @@
+284
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+' LEcT10 TRIGESIMASEXTA
+COROLLARIA Q'UAEDAM EX DICTIS
+
+Δεδειγμὲνων δὲ τούτων φανερὸν ὅτι, ἐάν τι τὸ αὖτὸ
+δυσὶν ὑπάρχῃ, οἷον τὸ Α τῷ τε Γ καὶ τῷ Δ, μη
+κατηγορουμένου θατέρου κατοί θατέρου, ἦ μηδαμῶς
+ἦ μή κατά παντός, ὅτι οὑκ ἀεὶ κατοὶ κοινόν τι
+ὑπάρξει. x ν
+
+Οῖον τῷ ἱσοσκελεῖ καὶΙ τῷ σκαληνῷ τὸ ὸυσὶν ορθαῖς ἴσας
+ἔχειν κατοὶ κοινόν τι ὑπάρχει· ᾗ γάρ σχῆμά τι,
+ὑπάρχει, καὶ οὐχ ᾖ ἕτερον. Τοῦτο δ οὐκ ἀεὶ οὕτως
+ἔ ει.
+
+”Eo-tt} γοὶρ τὸ Β καθ’ ὃ τὸ Α τῷ Γ Δ ὑπάρχει· δῆλον
+τοίνυν ὅτι καὶ τὸ Β τῷ Γ καὶΙ τῷ Δ κατ’ ἄλλο κοι-
+νόν, κάκεῖνο καθ’ ἕτερον, ὥστε δὺο ὅρων μεταξύ
+ἄπειροι ἄν ἐμπίπτοιεν ὅροι. Ἀλλ’ ἀδύνατον. Koa-0¹2
+μὲν τοίνυν κοινόν τι ὑπάρχειν οὐκ ἀνάγκη ἀεὶ τό
+αὐτὸ πλείοσιν, ἐπείπερ ἔσται α”μεσα διαστήματα.
+
+Ἐν μέντοι τῷ αὐτῷ γένει καὶ ὲκ τῶν αὐτῶν ἀτόμων
+ἀνάγκη τούς ὅρους εἶναι, εἴπερ τῶν καθ’ αὑτοὶ ὑπαρ-
+χόντων ἔσται τὸ κοινόν· οὐ γάρ ’ἦν ἐξ ἄλλου γενους
+εἰς ἄλλο διαβῆναι τά δεικνύμενα. ” Ι
+
+Φανερόν δὲ καὶ ὅτι, ὅταν τὸ Α τῷ Β ὑπάρχῃ, εἰ μεν
+ἐστί τι μέσον, ἔστι δεῖξαι ὅτι τὸ Α τῷ Β ὑπάρχει-
+Kal στοιχεῖα τούτου ἐστὶ ταῦτα καὶ τοσαῦθ’ ὅσα
+μέσα ἐστίν· αἱ άρ ἄμεσοι προτάσεις στοιχεῖα, ἦ
+πᾶσαι ἦ αἱ καθολου. Ei δέ μή ἐστιν, οὐκέτι ἔστιν
+ἀπόδειξις, ἀλλ’ ἡ ἐπὶ τοὶς ἀρχάς ὁδὸς αὕτη ἐστίν.
+
+Ὁμοίως δέ καὶ εἰ τὸ Α τῷ Β μη ὑπάρχει, εὶ μὲν ἔστιν
+ἦ μέσον ἦ πρότερον ᾧ οὑχ ὑπάρχει, ἔστιν ἀπόδειξις·
+εἰ δέ μή, οὐκ ἔστιν. Ἀλλ’ ἀρχή καὶ στοιχεῖα το-
+σαῦτ’ ἐστὶν ὅσοι ὅροι· αἰ γάρ τούτων προτάσεις ἁρ-
+χαὶ τῆς ἀποδείξεώς εἰσιν. Καὶ ὥσπερ ἔνιαι ἀρχαί
+εἰσιν ἀναπόδεικτοι, ὅτι ἔστι τόδε τοδὶ καὶ ὑπάρχει
+τόδε τῳδί, οὕτω καὶ ὅτι οὐκ ἔστι τόδε τοδὶ οὐδ’
+ὑπάρχει τόδε τῳδί· ὥσθ’ αἱ μὲν εἷναί τι, αἱ δὲ μή
+εἶναί τι ἔσονται ἀρχαί.
+
+’Ὀταν δὲ δέῃ δεῖξαι, ληπτέον ὃ τοῦ Β πρῶτον κατηγο-
+ρεῖται· ἔστω τόὗΓ, καὶ τούτου ὁμοίως τὸ Α. Καὶ
+οὕτως ἀεὶ βαδίζοντι οὐδέποτ’ ἐξωτέρω πρότασις οὐδ’
+ὑπάρχον λαμβάνεται τοῦ Α ἐν τῷ δεικνύναι, ἀλλ’
+ἀεὶ το“ μέσον πυκνοῦται, ἕως ἀδιαίρετα γένηται καὶ
+ἐ’ν. Ἔστι δ’ ἕν, ὅταν ἄμεσον γένηται καὶ μία πρό-
+τασις ἁπλῶς ’ἡ ἄμεσος.
+
+Καὶ ὥσπερ ὲν τοῖς ἄλλοις ἠ ἀρχή ἁπλοῦν, τοῦτο δ’ οὗ
+ταύτὸ πανταχοῦ, ἀλλ’ ἐν βαρει μὲν μνᾶ, ἐν δὲ με’λει
+δίεσις, ἄλλο δ’ ὲν ἄλλῳ, οὕτως ὲν συλλογισμῷ τὸ ἓν
+πρέτασις ἄμεσος, ἑν δ’ ἀποδείξει καὶ ἐπιστήμῃ ὁ
+νους.
+
+Ἐν μὲν οὖν τοῖς δεικτικοῖς συλλογισμοῖς τοῦ ὑπάρχοντος
+οὐδὲν ἔξω πίπτει,
+
+ἐν δὲ τοῖς στερητικοῖς, ἔνθα μὲν ὃ δεῖ ὑπάρχειν, οὐδὲν
+τούτου ἔξω πίπτει, οἷον εἰ τό Α τῶ Β διά τοῦ Γ μή.
+Εἰ γάρ τῷ μὲν Β παντὶΙ τὸ Γ, τῷ δὲ Γ μηδενὶ τὸ Α,
+πάλιν ἄν δέῃ ὅτι τῷ Γ τὸ Α οὐδενὶ ὑπάρχει, μέσον
+ληπτέον τοῦ Α καὶ Γ, καὶ οὕτως ἀεὶ πορεύσεται.
+
+Ἐάν δὲ δέῃ δεῖξαι ὅτι τὸ Δ τῷ Ε οὐχ ὑπάρχει τῷ τό Γ
+τῷ μὲν Δ παντὶ ὑπάρ ειν, τῷ δὲ Ε μηδενὶ ἦ μη
+παντί, τοῦ Ε οὐδέποτ’ εξω πεσεῖται· τοῦτο δ’ ἐστὶν
+qi οὑ δεῖ ὑπάρχειν.
+
+Ἐπὶ δὲ τοῦ τρίτου τρόπου, οὔτε ἀφ’ οὑ δεῖ οὔτε ὃ δεῖ
+στερῆσαι οὐδέποτ’ ἔξω βαδιεῖται.
+
+SYNox’srs. — 1. Argumentum et divisiones textus. - 2. Non
+oportet ut illud quod praedicatur de duobus, quorum unum
+aut nullo modo aut non universaliter de alio praedicatur, insit
+utrique secundum aliquod commune, et hoc semper, idest in in-
+
+* Monstratis autem his, manifestum est quod si aliquod idem
+duobus insit, ut A et in C et in D, non praedicante
+altero de altero, aut nullo modo aut non de omni,
+quod non semper secundum commune aliquid inerit.
+
+Ut scaleno et isosceli duobus rectis aequales habere secun—
+dum commune aliquid inest: secundum enim quod fi-
+gura quaedam est, et non secundum alterum, inest.
+Hoc autem non semper sic se habet. ¹
+
+Sit enim B, secundum quod est A, in C D: manifestum
+igitur est quod B in C D secundum commune est; et
+illud secundum alterum; quare duorum terminorum in
+mediis infiniti utique incident termini. Sed hoc est im-
+possibile. Secqndum igitur commune aliquid esse non
+necesse est semper idem in pluribus, quoniam vere
+erunt immediata spatia.
+
+ln eodem quidem genere et ex eisdem atomis necesse est
+terminos esse, si quidem his, quae per se sunt, erit com-
+mune: non enim erit ex alio genere in aliud descen-
+dentem demonstrare.
+
+* Manifestum autem est quoniam et cum Α in B sit, si qui-
+dem est aliquod medium, est demonstrare quod A in B
+sit. Et elementa huiusmodi sunt haec, et tot quot media
+sunt: immediatae enim propositiones sunt elementa, aut
+omnes aut universales. Si vero non est medium, non
+amplius erit demonstratio; sed in principia via haec est.
+
+Similiter autem erit et si A in B non sit. Si quidem enim
+
+aut erit medium, aut prius, cui non inest, erit demon-⁴
+
+strati03 si vero non, non est. Sed principium et ele-
+menta tot sunt quot termini: horum enim propositiones
+principia demonstrationis sunt. Et sicut quaedam prin-
+cipia sunt indemonstrabilia quod sit hoc illud, et quod
+sit hoc in illo, sic et quod non erit hoc illud, nec quod
+sit hoc in illo; quare haec quidem esse aliquid, alia
+autem non esse aliquid, erunt principia.
+
+Cum autem oporteat· demonstrare aliquid, accipiendum est
+quod de B pn'mum praedicetur, et sit C, et de hoc si-
+militer A. Et sic semper eunti nequaquam extra pro-
+positio cadet, neque extra esse ipsius A accipietur ut
+demonstretur; sed semper medium condensatur quousque
+indivisibilia fiant et unum. Est autem unum, cum im-
+mediatum fiat, et una propositio, simplex et immediata.
+
+Et quemadmodum in aliis est principium simplex, hoc au-
+tem non idem ubique, sed in gravi quidem uncia, in
+melodia autem tonus, aliud autem in alio; sic est in
+syllogismo unum propositio immediata, in demonstra-
+tione autem et scientia, intellectus.
+
+In demonstrativis quidem igitur syllogismis eius quod est,
+nihil cadit extra;
+
+in privativis autem, ubi quidem oportet esse, nihil extra
+hoc cadat, ut si A non est in B per C. Si enimin B
+omni quidem est C, in nullo C autem est A; item si
+indigeat quod in C A nullo sit; medium accipiendum
+est ipsius A et C, et· sic semper procedet.
+
+Si vero oporteat demonstrare quod D in E non sit, eo
+quod est C in D quidem omni, in E autem nullo
+aut non in omni; nunquam extra E cadet: hoc autem
+est, cui oportet non inesse.
+
+ln tertio autem modo, neque a quo oportet, neque quod
+oportet privari, nequaquam extra ibit.
+
+finitum procedendo. - 3. Manifestatur hoe assertum exemplo spe-
+cierum trianguli- 4. Probatur assertum ex eo quod inter duo
+extrema non possint dari infiniti termini medii. - 5. Mens ,ΑΠ-
+stotelis declaratur. -6, Obiectio solvitur: Quia in demonstratione
+
+''l' e(2¹:¹1.>.3x7xtn.
+
+γ’ Text. 38.
+

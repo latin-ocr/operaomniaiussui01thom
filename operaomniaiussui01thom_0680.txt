@@ -1,0 +1,228 @@
+⁶ Lect. seq.
+
+· Lect. praeced.
+{¹³¹1c2213: - ρ , ..0-
+sunt.
+
+' Cap. v. - Com-
+ment. s.Th. lect.
+vm.
+
+' Num. 4.
+
+⁸Cf. lectam, n.8.
+
+· Lect. x11=,n.1o.
+
+' Etiam ex codd.
+
+⁸ Cf. lect. xm,
+
+· n. cit.
+
+    
+  
+
+0„ ostquam Philosophus assignavit ratio-
+hnem unitatis et diversitatis scientia-
+’1 rum ex parte generis subiecti, et ex
+‘parte principiorum, hic de utrisque
+prosequitur. Et primo, de subiectis de quibus est
+scientia; secundo, de principiis; ibi: Eadem au-
+tem principia etc. * Circa primurn considerandum
+est quod supra '¹‘ duas conditiones posuerat ³²* ge-
+neris, quod est subiectum scientiae; quarum una
+est ut componatur ex primis, alia est ut partes
+et passiones sint eius per se. Quarum conditio-
+num una deest in his quae sunt a fortuna3 quia
+non eveniunt per se, sed per accidens, et praeter
+intentionem, ut probatur in ΙΙ Physicorum ³¹³. Alia
+vero conditio deest in his quae per sensum co-
+gnoscuntur, quae sunt prima in nostra cogni-
+tione. Et ideo primo ostendit ‘¹‘ quod scientia non
+est eorum quae sunt a fortuna3 secundo ostendit
+quod non est eorum quae cognoscuntur per sen-
+sum; ibi: Neque per sensum est scire ²¹³ etc.
+
+2. Dicit ergo primo, quod demonstrativa scien-
+tia non potest esse de eo quod est a fortuna,
+quod est per accidens eveniens. Et hoc probat
+sic. Omnis syllogismus demonstrativus aut pro-
+cedit ex propositionibus necessariis, aut ex pro-
+positionibus quae sunt verae ut frequenter *. Ex
+propositionibus autem necessariis sequitur con-
+clusio necessaria, utsupra *probatum est. Et si-
+militer ex propositionibus quae sunt verae sicut
+frequenter, sequitur etiam* conclusio quae est vera
+ut frequenter; vel forte etiam necessaria, secun-
+dum quod ex contingenti potest sequi necessa-
+rium, ut ex falso verum ³¹². Nunquam autern ex
+
+  
+
+αι) Et ideo primo ostendit.— lta editio Piana cum codd„ ex quibus ad-
+dimus primo‚ quod in eadem deest editione. - Cod. A: primo ostendit
+quod eorum quae sunt a fortuna non potest esse scientia demonstra-
+tiva ‚· secundo, ostendit quod non potest esse eorum etc.; N: quod scien-
+tia non est fortuitorum5 secundo etc.
+
+β) Neque est necessarium-lta codd„ exc. B, qui om. verba Sed id
+usque ad sequens sicut frequenter inclusive, et M, qui om. neque est
+necessarium. P: non est necess.·-1tem cum codd. legimus, neque est
+(ΗΟ om. est) sicut (GHM, ut) frequenter, sed accidit ut in pauciori-
+bus. P: neque quod verum ut frequenter, sed accidit in paucIoribus.
+
+γ) Unde sic docet etc. - AMNO: Unde sicut docet5 EQ: Unde
+docet ,¹ codd„ exc. GH: docet ibi Arist. ‚· P om. ibi.
+
+δ) Nisi impediatur. — Quae in hoc numero perstringit s. Thomas,
+ab eodem copiose declarantur in Comm. super 11 lib. Hysia—Lech vnt
+definit, Necessarium... quod in sui natura habet, quod non possit non
+esse.- eique opponitur contingens ut frequenter, quod potest non esse.
+Unde reiicit opinionem dicentium quod necessarium sit id quod non
+habet impedimentum5 contingens vero ut frequenter, quod potest im-
+pediri n'n paucioribus.- nam, addit, hoc quod est habere impedimentum
+vel non habere, est contingens. Natura autem non parat impedi-
+mentum ei quod non potest non esse, quia esset superfluum—Deinde
+lect. xv, distinguens necessarium absolutum seu a priori et necessarium
+hypotheticum seu a posteriori (de quibus mentio est in hoc numero),
+haec habet: ‹ Necessitas quae dependet ex causis prioribus, est neces-
+» sitas absoluta, ut patet ex necessario quod dependet ex materia: ani-
+» mal enim esse corruptibile est necessarium absolute; consequitur
+» enim ad hoc quod est animal esse compositum ex contrariis. Simi-
+» liter etiam quod habet necessitatem ex causa formali est necessarium
+t absolute, sicut hominem esse rationalem, aut triangulum habere tres
+» angulos aequales duobus rectis; quod reducitur in definitionem tri-
+» anguli. Et similiter quod habet necessitatem ex causa efficiente est
+» necessarium absolute, sicut necessarium est esse alternationem noctis
+ι et diei propter mot-um solis.- Quod autem habet necessitatem ab eo
+» quod est posterius in esse, est necessarium ex conditione vel sup—
+» positione; ut puta si dicatur, necesse est hoc esse, si hoc debeat
+» fieri]- et huiusmodi necessitas est ex fine, et ex forma in quantum
+» est finis generationis. —- Quaerere igitur utrum in rebus naturalibus
+» sit necessarium simpliciter aut ex suppositione, nihil aliud est quam
+² quaerere, utrum in rebus naturalibus necessitas inveniatur ex fine aut
+ι ex materia. »
+
+Reiecta opinione dicentium generationem rerum naturalium prove-
+
+POSTERIORUM ANALYTICORUM LIB. 1
+
+propositionibus quae sunt verae ut frequenter,
+sequitur*propositio quae est vera ut in paucio-
+ribus; quia sequeretur quod aliquando *proposi-
+
+' Codd. - r: se-
+quetur,· Q om.
+· A: quod omnes
+p.;n: quod am-
+
+tiones essent verae et conclusio falsa, quod est iae...
+
+impossibile, ut supra* ostensum est. Necesse est
+
+ergo quod conclusio syllogismi demonstrativi vel * ⁶
+
+sit necessaria, vel sit ³² vera sicut frequenter. Sed id
+quod est a fortuna neque est necessarium β, neque
+est sicut frequenter, sed accidit ut in paucioribus,
+ut in II Physicorum * probatur. Ergo demonstrativa
+scientia non potest esse de eo quod est a fortuna.
+3. Est autem considerandum quod de his qui-
+dem * quae sunt sicut frequenter, contingit esse
+demonstrationem, in quantum in eis est aliquid
+necessitatis. Necessarium autem, ut dicitur in II
+Physicorum ²³, aliter ³¹⁶* est in naturalibus, quae
+sunt vera ut frequenter *, et deficiunt in minori
+parte3 et aliter in disciplinis, idest in ⁶ mathema-
+ticis, quae sunt semper vera. Nam in disciplinis *
+est necessitas a priori; in naturalibus autem* a
+posteriori (quod tamen * est prius secundum natu-
+ram), scilicet a fine et forma *. Unde sic docet ibi
+Aristoteles ⁷ ostendere propter quid, ut si hoc de-
+beat esse, puta quod oliva generetur, necesse est *
+hoe praeexistere, scilicet semen olivae; non autem
+ex semine olivae generatur oliya ex necessitate,
+quia potest impediri generatio * per aliquam cor-
+ruptionem. Unde si fiat demonstratio ex eo quod
+est prius in generatione, non concludet ¹² ex ne-
+cessitate; *nisi forte accipiamus hoc ipsum esse
+necessarium, semen olivae ut frequenter esse ge-
+nerativum olivae *, quia hoc facit secundum pro-
+prietatem suae naturae, nisi impediatur ὃ.
+
+nire ex necessitate materiae, s. Thomas cum Aristotele respondet directe
+ad propositam quaestionem, sapienter concludens, in rebus naturalibus
+esse quidem necessitatem ex parte materia03 attamen hanc necessitatem
+inesse materiae non ut materia est, sed ex forma seu ex fine, qui pro·
+prie est ratio praefatae necessitatis. proindeque si finis obtinendus est,
+materia est necessario ponenda, et qualiter a fine posmlatur3 at si ι finis
+consequutione praescinditur, materiae necessitas nulla est. Igitur haee
+materiae necessitas non est absoluta, sed ex suppositione finis, non a
+priori, sed a posteriori. α Sic ergo patet quod in rebus naturalibus est
+2 necessarium ex suppositione, sicut et in rebus artificialibu53 sed non
+» ita quod id quod est necessarium sit nictit finis, quia id quod neees-
+» sarium est ponitur ex parte materiae, sed ex parte finis ponitur rufio
+› necessitatis. Non enim dicimus quod necessarium sit esse talem finem
+ι (puta secare lignum, vel domum construere), quia materia talis est
+» (e. g. serra, vel 1apides); sed potius econtn quia finis et forma talis
+> futura est, necesse est materiam esse talem. Et sic necessitas 9φηίωὲ
+» ad materiam, sed ratio necessitatis ad finem. s Hinc planum est quod
+in hoc numero addit s. Thomas de necessario a posteriori, scilicet quod
+est prius secundum naturam.- necessisse enim ista in rebus naturalibus
+ex fine desumitur, qui est forma speciei, ut infra in hoc ipso loc. Hyrie.
+dicitur; finis autem est principium, non quidem actionis, sed ratioci-
+nationis, quia a fine incipimus ratiocinari de iis quae sunt ad finem.
+
+Reliquum est ut quae Angelicus hoc loco tangit de similitudine et
+differentia inter necessitatem in scientiis naturalibus et metaphysicis,
+exponantur. Ea autem declarata habemus a s. Doctore in eadem lect-xv
+super 11 Physic.: « Aliquo modo, inquit, similiter invenitur necessarium
+s in scientiis demonstrativis, et in iis quae generantur secundum natu—
+» ram. Invenitur enim in scientiis demonstrativis necessarium a priori,
+s sicut si dicamus quod, quia definitio recti anguli est talis, necesse eat
+» triangulum esse talem, scilicet habere tres angulos aequales duabu
+s rectis. Ex illo ergo priori, quod assumitur ut principium, provedt ek
+ι necessitate conclusio. Sed non sequitur econtra, si conclusio est, 'quod
+› principium sit; quia aliquando ex falsis propositionibus potest syllo-
+ι gisari conclusio vera (cf. lect. xm, n. ιο). Sed tamen sequitur quodsi
+ι conclusio non est. quod neque principium praemissum ιίις qn'u fi}-
+ι sum nunquam syllogizatur nisi ex falso (Cf. ibid. et lect. mma· 1).-
+» Sed in iis quae fiunt propter aliquid (propter finem), sive nandum
+» artem sive secundum naturam, e contra se habet. Quin. ti fini& ‘fit ⁸1²1
+ι est, necesse est quod eat ante finem sunu-um esse aut σακε ni vero id
+» quod est ante finem non est, neque finis erit3 sicut in dommum,
+s si non sit conclusio, non erit principium. Sic igitur petet quod iniis
+
+'Lem-xxvmn. .-
+Su ra ex co d.
+el om. Α.
+
+” Sit om. o.
+
+β
+
+· Loe. cit.
+
+'Quidem oman.
+
+§assess-
+·· Ahter om. Α.
+
+· cf. lectam, n.8,
+not. ξ.
+
+· In om. Α.
+
+⁸ nt ιἰι mathema-
+ticis est.
+
+*Auem ex codd„
+exc. so.
+
+· Quod... soma
+9¹:2²} καὶ soma.
+
+Υ
+· En ex codd.
+

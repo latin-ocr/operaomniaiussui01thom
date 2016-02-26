@@ -1,0 +1,209 @@
+“ Cf. lib. 1, lect.
+xxxvt, not. ο.
+
+· Cf. lib.1, lect.
+vm, nott. p, τ.
+a: et in figura.
+'¹ o: uia. - In
+ex co d.
+
+· croto om. ets
+In ex codd.
+‘ Codd.- r: nec.
+
+340 .
+
+enim in Posterioribus analyticis docetur resolutio
+usque ad principia prima, ita etiam in Prioribus
+analyticis fit resolutio ad prima quaedam sim-
+plicia s pertinentia ad dispositionem syllogismi in
+modo et figura 2‘.
+
+3. Quod autem per viam divisionis non possit
+aliquid syllogizari, probat per hoc, quod ⁹⁵ in via
+divisionis non· ex necessitate sequitur conclusio,
+existentibus praemissis (quod requiritur ad ratio—
+nem syllogismi): sed ita se habet in via divisionis,
+sicut et ²¹³ in via inductionis. Ille enim qui in-
+ducit per singularia ad universale, non * demon-
+strat neque syllogizat ex necessitate. Cum enim
+aliquid syllogistice probatur, non est necessarium
+ulterius quod vel syllogizans interroget β de con-
+
+β) Vel syllogizans interroget etc-Addimus syllogizans ex codd.—
+AH om. vel ; L: vel syllogizans adhuc interroget.-BCDEFGHKLM: det
+ei; P: ei det. - De interrogationibus propriis dialecticae et demonstrationi,
+videantur quae s. Thomas disseruit lib. l, lect. xx1.-Processum per viam
+divisionis maxime adhibuit Plato in Dialogis3 unde non immerito graecis
+Interpretibus visum est Platonis Ponticum, V, et sophistam reprehendi
+hoc loco ab Aristotele (Cf. Philopon. in h. loc.; item Waitz, 11 Foster„
+Comment. in cap. v, pag. 386 et seq.;Trende1emburg Hem. log„ adnot„
+ξ 58; Sanseverino Logic. Ρ, 11, cap. 111, art. v).
+
+γ) Si entium etc.-Q om.s1',· ABHMOS (et p. m. CD?) corrupte:
+
+puta scientium.—-BHMNO om. et,· P: et aliud est inanimatum codd„
+
+exc. CO om. est.
+
+ὃ) Satis conuenienter comparavit divisionem inductioni. - Simili-
+tudo, quam hoc loco ponit Aristoteles inter syllogismum inductivum et
+syllogismum divisivum, in eo iuxta s. Thomam consistit,quod in utroque
+syllogismo oportet supponere quod accepta sint omnia quae continentur
+sub aliquo communi. —- Huic s.Th0mae sententiae contradicit Aegidius
+in 11 Foster„ ἓ Sed sicut neque inducens etc„ sol. 106, col. 3: quia,
+inquit, ε hoc videtur accipere quod est per accidens. Nam in inductione
+ι hoc est per se quod oportet supponere partes sub toto esse suffi-
+» cienter acceptas, et quia non est notum nobis quod non sunt alia
+» particularia sub illo toto quam particularia accepta: sed in divisione
+ιι hoc est per accidens quod non sit notum partes evacuare totum; nam
+» divisio si bona sit, debet fieri per opposita, opposita autem sufficienter
+ιν dividunt ipsum totum. ι
+
+Ad quam Aegidii animadversionem respondet imprimis Dominicus a
+Flandria in ΙΙ Foster„ qu. ιν, artic. 11, quod Aegidius ideo contradicit,
+quia non distinguit inter divisionem immediatam et divisionem media-
+tam. Illa est per opposita contradictoria, et ideo est bimembris, ut cum
+dicitur animalium aliud est rationale, aliud irrationale: de hac divisione
+loquitur Aegidius. Divisio mediata non est, formaliter loquendo, bimem-
+bris, et ideo non est per opposita formaliter, ut ipsemet Aegidius ib.
+concedit. De hac divisione loquitur s. Thomas, dum cum Aristotele eam
+assimilat inductioni, quia in utraque necesse est supponere quod accepta
+sunt omnia quae continentur sub communi.
+
+Caietanus in 11 Foster„ cap. ιν, ξ Circa similitudinem assignatam etc„
+fol. 79, col. 2 et seqq.‚ tria expendenda suscipit: 1¹¹, quot modis acci-
+piatur divisio, seu syllogismus divisivus; 2', penes quid attendatur si—
+militudo inter divisionem et inductionem 3·‚ quomodo salvetur in eis
+talis similitudo. - Quia res gravis momenti est in philosophia, quippe
+quod sit quaestio de methodo ipsa philosophandi, hoq est de vi et ex-
+tensione ratiocinationum nostrarum, ideo ducimus tria illa enunciata cum
+ipso Caietano heic expendere.
+
+Quoad primum, tria nomine divisionis possumus intelligere-a) Primo
+quidem, purum syllogismum divisivum, cuius meminit Aristoteles in
+1 Hierum analyticorum, cap. xxvnr (Ed. Did. cap. xxxi), et qui fit
+assumendo pro medio commune divisum, puta animal, et concludendo
+disiunctim de aliquo inferiori membro divisi differentias totius divisi.
+Ex. g.: Omne animal est rationale vel irrationale ,· homo est animal: ergo
+homo est vel rationalis vel irrationalis. Si divisio in hac lectione assu-
+matur hoc sensu, planum est quod ipsa est inutilis ad definitionem con-
+cludendam , et caret necessitate consequentiae, et est petitio principii, et
+intentum, hoc est quod quid, non demonstrat. Ratio est, quia definitionis
+est assignare non quidem utramque differentiam divisi, sed alteram de-
+terminate. Non autem possibile est per praefatum syllogismum hanc de—
+terminatam differentiam concludere, quia medium assumptum (animal)
+universalius est qualibet sua differentia, hoc est rationali et irrationali ‚·
+et consequenter ex ipso non potest ex necessitate concludi determinate
+neque quod homo ait rationalis, neque quod sit irrationalis. Si ergo
+concluditur per talem processum differentia determinata, petitur princi-
+pium, supponendo quod est probandum (hominem nempe esse animal
+rationale), et non demonstratur intentum.- bl Secundo, sumi potest divi-
+sio pro syllogismo divisivo, ut supra, sed addita negatione alterutrius par-
+tis (vel plurium, si habeat) illationis,· et concludendo partem quae ex illa
+negatione relinquitur. Ex. g.: Omne animal est rationale vel irrationale ;
+homo est animam homo est vel rationalis vel irrationalis.- homo non est
+irrationalis,- ergo homo est rationalis. Si in hoc secundo sensu accipiatur
+
+POSTERIORUM ANALYTICORUM LIB. Il
+
+elusione, nec quod respondens det ei conclusio-
+nem: sed necesse est quod conclusio sit vera,
+praemissis existentibus veris. Hoc autemnon ac-
+cidit in via divisionis, sicut manifestat per exem-
+pla. Proceditur enim via ’¹‘ divisionis cum, accepto
+aliquo communi quod per multa * dividitur, re-
+moto uno, concluditur * alterum. Puta si entium ⁷
+aliud est animal et aliud inanimatum, habito quod
+homo non sit inanimatum, concluditur quod sit
+animal: sed ista conclusio non sequitur, nisi re-
+
+spondens det quod homo vel sit animal vel ina-
+nimatum.
+
+4. Et est attendendum quod satis convenien-
+ter comparavit divisionem inductioni ⁸. Utrobique
+enim oportet supponere quod accepta sint* omnia
+
+divisio, de qua est sermo in hac lectione, etiam perspicuum est quod
+per ipsam non demonstratur definitio rei. Quamvis enim iuxta regulas
+logicae habeatur necessitas consequentiae ex vi disiunctivae per nega·
+tionem unius membri (irrationalis) ad affirmationem alterius ( ratio-
+nalis), vim tamen probativam non habet. Et revera, duplex petitio
+principii offenditur. Una inevitabiliter quando ex negatione unius membri
+infertur alterum: idem enim est quoad totum divisum (animal) negare
+quod sit irrationale, et affirmare quod sit rationale (esto adsit diffe-
+rentia in vocabulis); et aeque dubium est aut ignotum post conclusio-
+nem disiunctam (homo est rationalis vel irrationalis) an sit rationalis
+vel irrationalis, ut de se patet. Alia petitio principii offenditur in maiori
+propositione praefati syllogismi, omne animal est rationale vel irratt'o-
+nale. Haec enim propositio, prout hic assumitur, nec probatur nec pro-
+bari potest3 et propterea sufficiens non est ad probandum intentum. cui
+enim probandum esset hominem esse animal rationale, probandum
+etiam esset omne animal esse rationale vel irrationale, et deinde ho-
+minem non esse animal irrationale. — Haec tamen petitio principii vitari
+potest, si sufficientia divisionis sit per se nota: Addendum quod in hoc
+processu deficit vis probativa a priori, quia non infert alteram partem ι
+priori, sed ex sola negatione oppositi: non enim ideo homo est ratic>
+nalis quia non est irrationalis, ut inferebatur in supraposito exemp103 sed
+ex opposito quia est rationalis, ideo non est irrationalia—0) Tertio de-
+nique, nomine divisionis intelligi potest discursus formaliter divisivas,
+quatenus nempe in maiori assumitur divisio ipsius communis. Ex. gn:
+Animalium aliud est volatile, aliud aquaticum, aliud gressibilef homo
+est animal, et non est animal volatile, neque aquaticum ‚· ergo homo
+est animal gressibile. Si hoc tertio sensu accipiatur divisio, manifestum
+etiam est quod per eam nequeat syllogistice concludi defit-litim quia non
+adest necessitas consequentiae, nisi ex suppositione quod omnin mem-
+bra quae continentur sub communi diviso, sint sufficienter enumerem,
+ut late explicat s. Thomas hoc loco. Sed accidit quoque, ait Caietanus,
+petitio principii in negatione aliorum membrorum, et defectus medii a
+priori, non secus acin syllogismo divisivo in secunda significatione
+sumpto.
+
+Ad secundam quaestionem dicendum quod Aristoteles dixit divisio-
+nem ·similem esse inductioni in hoe quod divisio non habet necessita-
+tem consequentiae, et inductio non demonstrat. Quae similitudo potest
+tripliciter intelligi. - a) Uno modo accipiendo τὸ demonstrat latiori
+sensu, prout idern est ac τὸ syllogizan et sic similitudo inter divi-
+sionem et inductionem consistit in eo quod neutn habet necessita-
+tem consequentiae, ad veram demonstrationem necessario requisitum.
+- b) Alio modo accipiendo τὸ demonstrat proprie, prout nempe dl-
+stinguitur a τῷ syllogizat, sicut species distinguitur a genere; et aie
+similitudo praedicta est proportionalis, in hoc scilicet consistens,
+sicut in inductione deficit vis demonstrativa, ita in divisione deficit vis
+illativa. ·- c)'1'ertio modo iterum accipiendo τὸ demonstrat proprie, et
+prouti complectitur tum vim demonstrativam, tum necessitatem εοῐιιο-
+quentiae. Quo sensu duas istas differentias attendendo, potest secundum
+ipsas comparari divisio inductioni, quia una et altera carent praefi-tis
+differentiis demonstrationis propriis.
+
+Ad tertiam quaestionem dicendum quod Aristoteles in textu expresse
+dicit divisionem carere necessitate consequentiae. Ergo in primo et ter-
+tio sensu explicato divisionem accepisse videtur. ln u erum, ut
+dictum est, deest necessitas consequentiae3 in secundo non simpliciter
+quidem deest necessitas illa, sed tamen non est sine petitione princi-
+pii. Inter primum autem processum divisivum et inductionem similitudo
+consistit in hoc, quia utrobique non necessario intentum concluditur ex
+praemissis: quod in inductione verificatur qt'ioties non est completa,
+seu quando multa particularia contenta su communi enumerantur,
+sed non omnia. — inter secundum autem processum divisivum et l·-
+ductionem est maior similitudo, quoniam utrobique non εει necessi&
+consequentiae nisi cum petitione principii. Et hoc verificatur de indu-
+ctione completa, quam constat petere princi ium, eo Quod accipit
+omnia singularia ad universale concludendum. ·- ertius nutem processus
+divisivus simillimus est inductioni, quoniam utrobique necessitas conae-
+quentiae incerta est ex eadem causa; scilicet quia utraque via, divisiva
+et inductiva, a divisis partibus incipit: divisio autem, ut sic, eet-titudinem
+
+⁸ naq: in vla.
+
+¹ n: plura.
+
+ἑπῖηῗξ ἓὲεῈὶιεῖ
+tur.
+Υ
+
+⁸ on: sunt.
+
+ 
+

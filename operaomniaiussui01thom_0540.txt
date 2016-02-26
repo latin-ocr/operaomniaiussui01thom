@@ -1,0 +1,208 @@
+' Codd. - rs: et
+altera praemis-
+aarum.
+
+· idest ex codd..
+exc. κ.
+
+·· Lib. 11, cap. vi
+
+' Et omitt. cx.
+
+⁸ Et omitt..⁴u0n.
+
+170
+
+ex alterutris, idest circulariter, omnia quaesita,
+idest conclusionem ex duabus praemissis et utram-
+libet praemissarum ex conclusione et altera '¹‘
+conversa, sicut ostensum est in his ‚ quae sunt
+de syllogismo, idest '¹‘ in libro Priorum **, in
+quo agitur de syllogismo simpliciter. Quod sic
+patet. Sumantur tres termini convertibiles, scilicet
+risibile, animal rationale mortale, et * homo, et
+syllogizetur sic: Omne animal rationale mortale
+est risibile‚· omnis homo est animal rationale mor-
+tale,· ergo omnis homo est risibilis. - Et '¹‘ ex hac
+conclusione potest iterum concludi tam maior
+quam minor. - Maior sic: Omnis homo est risibi-
+lis‚· omne animal rationale mortale est homo,-
+ergo omne animal rationale mortale est risibile.-
+
+“ Minor sic: Omne risibile est animal rationale mor-
+
+' Lib. ΙΙ, cap. vr
+fthldd. - P :fig.
+α prima.
+
+⁸* ou : concludi.
+
+tale‚· omnis homo est risibilis; ergo omnis homo
+est animal rationale mortale.
+
+9. Ostensum est autem in libro Priorum * quod
+in aliis figuris ⁹⁵, scilicet in secunda et tertia,
+aut non fit circularis syllogismus, scilicet per
+quem ex conclusione possit syllogizari* utraque
+praemissarum: aut si fiat, non erit ex acceptis,
+
+paratim—4²¹ Medius terminus saltem in una praemissarum sit univer-
+saliter sumptus, ut habeatur comparatio extremorum cum uno termino
+in eadem significatione: terminus enim particulariter acceptus potest di-
+versa significare (Cf. I Per-iherm„ lect. x, n. 13, et lect. x1‚ n. 2, 7). —
+Quatuor etiam sunt leges, quae regunt praemissas propositiones in syllo-
+gismis: 1a Ambae praemissae non debent esse negativae: secus nulla
+est proprie comparatio, nulla conclusio: ex eo enim quod duo non con-
+veniunt cum tertio, non sequitur quod conveniant vel quod non con-
+veniant inter se.- 2²¹ Ex duabus praemissis affirmativis non potest sequi
+conclusio negativa, iuxta axioma enunciatum in principio huius notae.—
+3³ Ex duabus praemissis particularibus, nulla sequitur conclusio: patet
+ex secunda et quarta regula assignata pro terminis-4² Si una prae-
+missarum est negativa. conclusio debet esse negativa, iuxta secundum
+axioma enunciatum3 et insuper si una praemissarum est particularis, et
+particularis debet esse conclusio, iuxta secundam et quartam regulam
+traditam pro terminis. Placuit Scholasticis praefatas regulas hisce octo
+versiculis comprehendere:
+
+l
+
+Hisce regulis communibus nituntur speciales leges quibus singulae
+figurae syllogismi conformari debent. Hinc in prima figura maior prae-
+missa debet esse universalis, et minor affirmativa;—in secunda figura
+una praemissarum debet esse negativa, et maior debet esse univcrsalis; —-
+in tertia denique figura minor sit affirmativa, et conclusio particularis.
+Quae leges sequentibus continentur:
+
+1. Terminus esto triplex, maior, mediusque, minorque.
+
+2. Latius hos quam praemissae, conclusio non vult.
+ἓ 3. Nequaquam medium capiat conclusio oportet.
+
+4. Aut semel aut iterum medius generaliter esto.
+
+6. Ambae affirmantes nequeunt generare negantem.
+7. Nil sequitur geminis ex particularibus unquam.
+8. Peiorem sequitur semper conclusio partem.
+
+Pro proposit-Pro terminis
+
+ἓ 5. Utraque si praemissa neget, nihil inde sequetur.
+
+1a fig.-Sit minor affirmans, maior vero generalis.
+2‘¹ fig-Una negans esto, nec maior sit specialis.
+3³ fig.-Sit minor affirmans, conclusIo particularis.
+
+Syllogismus non observans leges suae respectivae figurae, eo ipso
+contrariatur legibus generalibus syllogismi, et in paralogismum dege-
+nerat. Nam si in prima figura non sit minor affirmativa, unus ex ter-
+minis extremis magis late patet in conclusione quam in praemissis, con-
+tra secundam regulam; et si maior sit particularis, medius terminus
+in nulla praemissarum universaliter sumitur contra quartam regulam. Ex.
+1: Οηιηε animal est sulastanticu nullus lapis est animal,- nullus lapis
+est substantia-2: Aliquod animal est rationale,· omnis asinus est
+animal ,¹ omnis asinus est rationalis. In primo syllogismo substantie: in
+conclusione est praedicatum propositionis negativae, et consequenter
+universaliter sumitur, ita ut sit sensus: nullus lapis est ulla substantia:
+contra in maiori, quia praedicatum propositionis affirmativae, sumitur
+particulariter (Cf. Per-ih„ lect. x, n. 23). ln altero syllogismo medius ter·
+minus animal bis particulariter sumitur.——ln secunda autem figura. si
+duae praemissae sunt affirmativae, medius terminus, quia est semper
+praedicatum, non distribuitur; si vero maior sit particularis, maius ex-
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+sed ex aliis propositionibus, quae non sumuntur
+in primo syllogismo. Quod sic patet. -In secunda
+figura non est conclusio nisi negativa: oportet au-
+tem ‘⁸ alteram praemissarum esse negativam, et
+alteram affirmativam. Non enim ex duabus nega-
+tivis potest aliquid concludi, nec ex duabus af-
+firmativis potest concludi negativa. Non est ergo
+possibile quod ex conclusione et ²* praemissa
+negativa concludatur affirmativa. Si ergo debet
+affirmativa probari, oportet quod per alias pro-
+positiones probetur, quae non sunt sumptae ³².
+Similiter in tertia figura non est conclusio nisi
+
+particularis. Oportet autem alteram praemissarum*
+
+{t (elqdd. amno .-
+
+' a: syllogizatum
+
+ad minus esse universalem. Si autem in praemis· .’
+
+sis sit aliqua particularis, non potest concludi uni-
+versalis. Unde non potest esse quod in 'tertia
+figura ex conclusione syllogizetur utralibet prae-
+m1ssarum.
+
+Et eadem ratione apparet quod nec in prima
+figura talis circularis syllogismus potest fieri, per
+quem utraque praemissarum concludatur, nisi in
+
+primo modo τ, in quo solo concluditur univer· ,
+
+salis affirmativa. Nec etiam * in hoe modo potest
+
+tremum distribuitur in conclusione, et non in praemissis. Ex. 1: Omnis
+homo est animast omne sensibile est animal ‚· omne sensibile est homo. -
+2: Aliqua substantia est homo‚· nullus lapis est homo,· nullus lapis est
+substantion— Denique in tertia figura si minor sit negativa, unum extre-
+morum distribuitur in conclusione et non in praemissis ς si autem con-
+clusio sit universalis idem offenditur inconveniens. Ex. 1 ε Omnis planta
+est νίνεηε; nulla planta est animal ,¹ aliquod animal non est vivens.—
+2: Nullum animal est lapis: omne animal est substantia,- nulla substan-
+tia est lapis—Sed est vera conclusio: Aliqua substantia non est lapis·
+
+l-laec supposita a s.·Th0ma ut cognita ex loc. cit. Hierum analytico-
+rum duximus novitio declaranda, ut quae tum in praesenti tum tu se-
+quentibus lectionibus disseruntur facile percipiat—Ad figuras sequuntur
+modi syllogismi, de quibus infra not. τ.
+
+o) Oportet autem alteram etc. —- Est lectio omnium codd. ·-· 1²:
+unde oportet alteram praemissarum etc. —- Praeter codd. unanImem
+consensum, s. Thomas infra (in tertia figura... oportet autem ) indicat
+lectionem, quam adoptavimus.—Quia in secunda figura conclusio debet
+esse negativa, sequitur quod altera praemissarum in hac figura debeat
+esse negativa (nam ex duabus affirmativis non ‘potest concludi uega÷
+tiva). Sed utraque praemissa non potest esse negativa (non enim ex
+duabus negativis potest aliquid concludi )'.·- Unde recte a s. Thema con-
+cluditur: non est ergo possibile (nempe in secunda figura) quod ex con-
+clusione (negativa, quam eadem figura requirit) et ex praemissa nega-
+tiva (et ideo ex duabus praemissis negativis) concludatur affirmativa.
+Atque per hoc concluditur quod susceptum est probandum, nempe quod,
+si affirmativa etc.
+
+τ) Nisi in primo modo, hoc est in syllogismo primae figurae cf.
+supra not. ρ) cuius duae propositiones praemissae sunt universales -
+mativae, et universalis affirmativa est etiarn conclusio.-Cod. M imme-
+diate ante (per quem etc.) habet non recte: quod secundum quemlibet
+modum utralibet praemissarum etc.-O omittit,per quent utraque prae-
+missarum concludatur, et legit, potest fieri conclusio, nisi etc. Lectio
+mendosa.- Sed de modis syllogismi aliqua sunt declaranda in gratiam
+novitiorum, aut saltem delibanda, ut quae hucusque cum Aristotele dis—
+seruit s. Thomas de syllogismo circulari plenius intelligantur.
+
+ln omni syllogismo, sicut iam diximus supra (lect. ι, not. η), requi·
+runtur tres termini, duo extremi et alter medius, qui sunt materia re-
+mota syllogismi3 requiruntur insuper tres propositiones, duae praemittat
+et tertia conclusa, quae eiusdem syllogismi sunt materia proxima. Ροίτο
+dispositio extremorum cum termino medio constituit figuram syllo-
+gismi, ut supra in nota citata dictum est; modus autem syllogismi est
+determinata forma et quantitas propositionum praemissarum, ut ex
+eis sequatur conclusio, seu est dispositio praemissarum inter se secun-.-
+dum earum extensionem, nempe universalitatem vel particularitatem
+
+(Cf. Per-ih„ lib. 1, lect. x). et secundum earum sormam, videlicet affir- .
+
+mationem et negationem (Cf. ib., lect. cit. n. ιο, et lect. vm, n. 19). Qui-
+bus positis, si quaeras quot sint modi quibus potest fieri syllogismus, in
+promptu est responsio. In prima figura possibiles sunt sexdecim modi,
+quos videre est in sequenti schemate: in quo per litteram A designa-
+mus propositionem universalem affirmativam, per Ε universatem ne-
+gativam. per 1 particularem affirmativam, per Ο particularem negati—
+vam. -Nota quod in dispositione litterarum, prima in ordine significat
+maiorem propositionem3 altera propositionem minorem: tertia denique,
+quam parenthesi claudimus, conclusionem.
+

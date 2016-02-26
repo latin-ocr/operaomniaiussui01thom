@@ -1,0 +1,202 @@
+⁴ ro: ei.
+
+⁶ n : poterit.
+
+⁸ m. ε sit.
+
+‘Etiam ex codd. ‚
+exc. o.
+
+CAP. v,
+
+quae continentur sub aliquo communi: alioquin
+nec inducens poterit ex singularibus acceptis con-
+cludere universale, nec dividens ex remotione qua-
+rumdam partium poterit concludere aliam. Patet
+igitur quod inducens, facta inductione quod So-
+crates currat et Plato et Cicero, non potest ex
+necessitate concludere quod omnis homo currat,
+nisi detur sibi '¹‘ a respondente quod nihil aliud con-
+tineatur sub homine quam ista quae inducta sunt.
+Similiter etiam nec dividens, si probaverit quod
+hoc coloratum non sit album nec pallidum, non
+potest* ex necessitate concludere quod sit nigrum,
+nisi detur sibi a respondente quod nihil aliud
+contineatur sub colorato nisi ea quae assumpta
+sunt in divisione. Et quia investigantibus quid est*
+homo, oportet accipere non solum genus, quod est
+animal, sed etiam ’Β differentiam3 ulterius in suo
+exemplo procedit quod, si omne animal aut gressi—
+bile est aut aquaticum ¹, et accipiat quod homo,
+
+⁷ quia non est aquaticum animal, sit totum hoc
+
+⁴ Vere om. η.
+
+quod est animal gressibile, non ex necessitate se-
+quitur ex dictis; sed oportet quod hoc etiam sup-
+ponat datum sibi a respondente, scilicet quod
+animal sufficienter dividatur per gressibile et aqua-
+ticum. Et quia quandoque per plures divisiones
+proceditur ad accipiendum? quod quid est alicuius
+rei, ideo, praemissis duabus divisionibus in suo
+exemplo, subdit quod nihil differt quod sic pro-
+cedatur in multis aut in paucis. Eadem enirn est
+ratio in omnibus. Et sic ⁴* ulterius concludit quod
+procedentes per viam divisionis, etiam ²¹² circa ea
+quae contingit syllogizari, non utuntur probatione
+syllogistica.
+
+5. Deinde cum dicit: Quid enim prohihet hoc
+verum etc., inducit duas rationes proprias ei
+quod quid est. Quarum prima est, quia non omne
+quod vere * praedicatur de aliquo, praedicatur
+in eo quod quid est, ⁴nec significat essentiam eius.
+Si ergo detur quod per viam divisionis suffi-
+
+non habet, quia ab uno et ente declinando in incertum pergin etconse-
+quenter, nisi utrobique vsupponatur omnes partes acceptas esse, non
+sequitur necessario intentum. (Et hoc modo exposuit s. Thomas divi-
+sionem in hoc loco, et similitudinem inter divisionem et inductionem). -
+Postremo, inter omnes et quemlibet horum processuum et inductionem
+haec est similitudo, quod nunquam a priori proceditur. et semper pe-
+titur principium, si per unam vel alteram viam aliquis conetur probare
+rei alicuius definitionem.
+
+Si quis autem primum et secundum modum processus divisivi in-
+timius consideret, magis dixerit processus disiunctivos quam divisivos.
+Assumitur enim in hanc formam propositio: homo aut est animal ra-
+tionale aut irrationale, utin exemplis adductis videre est: quae forma
+est proprie disiunctiva. In tertio autem forma assumpta (animalium
+aliud est volatile, aliud aquaticum, aliud gressibile) est per enume-
+rationem partium, et ideo est formaliter divisiva. Qua de causa s. Tho-
+mas, intuitus quod in divisione est proprium et formale ipsius, et per
+quod a disiunctione formaliter distinguitur, accipit eam in tertio sensu,
+qui est formalis.
+
+ε) Aut aquaticum, et accipiat etc.- A: aut aquale; FI: accipiunt ,·
+K: accipitur: B: accidit-H: aut aquaticum (cet. om.) animal quod
+sit totum idest quod sit animal gressibile,· L: aut aquaticum (cet. om.)
+quod sit totum hoc etc.; Q: et accipiat quia homo non est aquaticum
+animal hoc quod est gressibile animal, non ex etc.; cet. codd.: quod
+homo, quia non est aquaticum animal (l om. animal), quod sit (A, non
+sit) totum (G, manifestum) hoa-P: homo, qui non est animal quod
+est aquaticum, sit totum hoc. Legimus cum codd„ expuncto tamen
+quod ante sit, quia inutilis repetitio
+
+ζ) Quae obiecta sunt, ex eo etc. -Mendosam lectionem habet F:
+quae obiecta sunt eo quod quid est et ita per consequentiam divisio-
+nem saciant id etc. ›- Cum codicibus, exc. Q, legimus quod quid est,
+iuxta textum graecum, ἐν τῷ τί ἐστι, et nostram versionem: P om. est.—
+AN om. ita; L: per consequens; Q: et ita addendo ad divisionem sa-
+
+LECT. IV
+
+341
+
+cienter probetur quod toturn hoc, scilicet animal
+gressibile, vere praedicetur ²¹² de homine; non ta-
+men propter hoc erit probatum quod praedice-
+tur de eo in eo quod quid est, vel ostendat quod
+quid erat esse, idest quod demonstrat essentiam
+rei *.
+
+6. Secundam rationem ponit ibi: Amplius quid
+prohibet aut apponere etc. * Essentia enim cuius—
+libet rei declaratur per aliqua certa, quibus nec
+addere oportet nec subtrahi ²²². Nihil autem pro-
+hibet quin ille qui procedit per viam divisionis,
+aut apponat aliquid supra ea quae sufficiunt ad
+ostendendum quod quid est, aut auferat aliquid
+eorum quae ad hoc sunt necessaria, aut etiarn
+quod supergrediatur vel excellat * essentiam rei,
+utpote si sit communius quam ipsa res; quod fit
+dum subtrahuntur differentiae ultimae, quibus ea
+quae sunt communia contrahuntur *. Unde per
+divisionem non probatur sufficienter quod quid
+est. Et hoc est quod * concludit, quod in via di-
+visionis praetermittuntur praedictae conditiones;
+ut scilicet id quod concluditur, praedicetur, in eo
+quod quid est, et quod nec excedat nec exce-
+datur.
+
+7. Deinde cum dicit: Contingit autem solvere in
+accipiendo etc„ excludit quamdam solutionem *. Et
+primo, proponit eam3 seeundo, excludit* ipsam;
+ibi: Sed syllogismus tamen ’¹‘ etc. Dicit ergo primo
+quod contingit solvere ea quae obiecta sunt, ex
+eo ζ quod aliquis dicat quod dividendo accipiat
+omnia quae praedicantur in eo quod quid est; etita
+per consequentiam ad divisionem faciat id quod
+primo intenditur, ut scilicet constituat definitionem
+significantem quod quid est, et nihil relinquat eo-
+rum quae requiruntur ad definiendum. Et si haec
+duo faciat, scilicet quod omnia, quae accipit per
+divisionem, praedicentur in eo quod quid, et omnia
+huiusmodi cadant in divisione, ita quod nihil de-
+sit, necessarium est quod id* quod est inventum
+
+ciat id etc.—BCDEKMNOQST: quod primo intenditur.- quam lectio-
+nem adoptavimus‚ utpote quae magis conformis sit textui Aristotelis,
+αἰτούμενον τὸ πρῶτον, postulatum primo. Antiqua versio in Plana: quae
+fiunt prius; sed recte s. Thomas: quod primo intendam,- Boethius:
+quaesitum prius,· et ita noster codex Raffasinus. P: intendit ‚· F: ostem
+ditum-A: definitionem assignantem,· E: defin. cum significantem,· 0:
+defin. praedicantem in eo quod etc..- FlQ: nihil relinquatur; G: relin-
+uitur.
+q η) Necessarium est quod id etc.— Codd.— P: necessarium est id quod
+est inventum sit quod (F1: sit id quod) quid est; M: necessarium est
+quod id quod est in eo quod quid est inventum sit quod quid est.·- Infra
+s. Thomas habet: nullo derelicto, iam id etc. Iam ponitur a s. Thoma ex
+textu graeco ἦδη; quae lectio probatur Casaubono (Opp. Arist„ Tom. Ι,
+pag. 132- Aureliae Allobrogum 1605) et Du—-Vallio‚ Op. cit. pag. 236.
+Eamdem lectionem praebet Pacius, cuius versio generatim adhibetur ab
+hisce Auctoribus. Verum in alia Opp.Aristot. ed. Aureliae Allobrog. 1607,
+cum Praefatione eiusdem Pacii (cui proinde ex inadvertentia tribuimus
+in praecedentibus versionem adnexam, quae est Nicolai Gruchii, uti
+
+⁸ Autronio, t prae-
+dicatur.
+
+“’ Cf. lect. praec.
+not. ζ.
+
+· Codd.- P: Quae
+talis est. Essen-
+tia enim.
+
+'¹ 1 ε ami-ahi.
+
+⁶ ao: excedat.
+
+' nocuerint-uoq:
+subtrahuntur. s
+hab. lac.
+
+LlEst quod om.
+
+'r erron.: conclu·
+sionem. cf. n. 1.
+
+⁸ Codd.- Ρ er-
+ron.: concludit.
+· Num. seq.
+
+ζ
+
+monetur in Indice) recipitur lectio εῗδει, quae est etiam Edit. Basil. “
+
+pag. 8ο, lin. 39. Praeterea in versione Boethii et nostra ponitur specie.
+Item Waitz loco ἤδη habet ε’ἷδει (specie), atque in Comment. ait: ‹ Le-
+» ctionem ε’ἷόει, quam etiam Brandisius (in ed. Boruss. Foster. reti-
+2· netur ἤδη) probavit in Variet. lect. Ariston, quum ἤδη alienae cor-
+» rectionis speciem habeat, Boethii et vet. intp., cuius codex Gothan.
+» certe totum locum talem exhibet qualem nos dedimus, auctoritatem
+» secuti praetulimus i· (Ed. cit„ pag. 388). Philoponus bis adducit hunc
+Aristotelis textum, et bis omittit tum ἤδη, tum ε’ἱδειι ἄτομον γὰρ, in-
+quit, δεῖ εἶναι (Ed. cit., pag. 203—4). Anonymus (Ed. cit„ pag. 263) habet
+ἤδη. Β. Albertus Magn. utrumque ponit: ‹ Id in quo ultimo stat (di-
+, visio), iam oportet esse individuum sive indivisibile specie, hoc est,
+s secundum formam, quod formaliter ulterius non possit dividi » (ln
+ll Foster„ Tract. 11, cap. 111, pag. 620, col. ι). Ut ut res sit, id unum
+

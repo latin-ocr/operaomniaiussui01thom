@@ -1,0 +1,177 @@
+⁸ o: oportet.
+“ o: in suo toto.
+
+⁸ AB: tamen. et
+om. aliquidgi :
+etiam ,- x: emm,-
+(m om.
+
+[J-
+
+³ Num. seq.
+
+ν
+
+· Termino om. Λ.
+
+252
+
+A ι; quae tamen supponitur esse falsa, utpote con-
+traria huic immediatae propositioni: Omne Β estA.
+
+4. Deinde cum dicit: Sed et eam etc., ostendit
+quomodo minor sit vera, maiori existente falsa.
+Et dicit κ quod propositio C-B, scilicet minor, po-
+test esse vera, cum maior sit falsa. Quia enim
+haec propositio: Omne Β est A, cuius contra-
+ria debet ‘⁴²² concludi, est immediata, necesse est
+quod B sit in A sicut pars in toto *, sicut albedo
+in colore. Potest autem ’⁵‘ accipi aliquid aliud, in
+quo etiam sit B sicut in toto, non tamen imme-
+diate, et sit illud qualitas, quae sit C. Necesse est
+ergo, secundum praedicta, quod horum duorum,
+scilicet A et C, alterum sit sub altero, idest color
+sub qualitate. Si ergo aliquis accipiat A in nullo C
+esse, ut puta, si dicat: Nulla qualitas est color,
+falsa erit propositio. M'nor autem erit vera, scili-
+cet: Omnis albedo est qualitas. Conclusio autem
+erit falsa, et immediatae contraria λ, scilicet: Nulla
+albedo est color. Sic ergo manifestum est quod po-
+test fieri syllogismus ignorantiae negativus in pri-
+ma figura, et altera propositione falsa et utrisque.
+
+5. Deinde cum dicit: Sed in media figura ete.,
+ostendit quomodo syllogismus ignorantiae negati-
+vus fiat in secunda figura. Et primo μ, quando utra—
+que est falsa; secundo, quando altera tantum; ibi:
+Similiter autem et alteram esse falsam * etc. Dicit
+ergo primo quod in media figura non contingit
+utrasque propositiones esse totas falsas. Et dicit
+totas falsas illas, quae sunt contrariae propositio-
+nibus veris. Et hoc probat. Quia cum debeamus
+concludere negativam falsam contrariam affirma-
+tivae immediatae, necesse est accipere quod haec
+sit vera et immediata, Omne Β est A, puta, Omnis
+albedo est color. Sic autem ⁹ se habentibus termi-
+nis, non potest inveniri aliquis medius terminus,
+qui universaliter praedicetur deuno termino *,
+et universaliter removeatur ab altero. Detur¹ enim
+quod ille terminus C universaliter removeatur
+ab A, et universaliter praedicetur de B; erit ergo
+haec vera: Nullum A est C ; quare et conversa
+erit vera: Nullum C est A,· sed Omne Β est C,
+
+Si ergo etiam haec sit vera etc.: quod dici nequit, nisi in prima parte
+dicatur: Datur autem haec esse vera, et non salsa.
+
+ι) Nullum Β est A,· quae tamen etc. - Est lectio omnium codicum,
+uno G excepto; P: Nullum B est A. Quod tamen est inconveniens in
+syllogismo ignorantiae, qui debet concludere salsam,· quae tamen etc.—
+Verba haec habentur etiam in edd. Venetis saeculi XV, necnon in co-
+dice G.-Attamen sententia magis perspicua est si propositioni, Nul-
+lum Β est A, immediate connectatur, quae tamen supponitur etc. Hac
+igitur de causa, ct stante codicum unanimitate, praefata verba a textu
+expungimus.
+
+κ) Et dicit ete—A: Et ostendit etc.; G: quod propositio, scilicet
+C—-B minor; H: quod propositio &C minor etc.; l: quod propositio,
+scilicet B-C, si potest esse.—-Formula B-C magis ordinate quam 0-ss
+enunciat propositionem minorem suppositam in praecedentibus syllogis-
+mis, et quae hic iterum ponitur: omne Β est C. Attamen dispositionem
+0-ss retineo, quia eam habent codices, versio nostra latina, et ipsemet
+textus graecus.
+
+ln hoc numero probatur ultima pars primi membri huius lectionis,
+quod est de syllogismo ignorantiae negativo in prima figura, quo con-
+cluditur falsum. —- Syllogismus enim iste potest negativam conclusionem
+falsam inferre 1. ex duabus praemissis falsis (n. 2.); 2. ex maiori vera
+et minori saisa (n. 3); 3. ex maiori falsa et minori vera (n. 4). Exclu-
+ditur autem possibilitas syllogismi ignorantiae ex duabus praemissis veris
+(n. 3, Secundo), quia ex veris non potest falsum concludi.
+
+λ) Et immediatae contraria. - Cod.1 legit et immediata contrariae ‚·
+sed haec lectio non videtur acceptanda. Sermo enim est in praesenti
+lectione de syllogismo ignorantiae, per quem concluditur negativa falsa
+contraria affirmativae immediatae. Ο om. contraria,· BH: immediata
+
+ 
+
+POSTERIORUM ANALYTICORUM LlB. I
+
+ergo Nullum B est A,· cuius contrarium fuit suppo-
+situm. Similiter '¹‘ etiam non potest esse quod uni· >¹² Et sint..- e-
+versaliter removeatur a B ἔ, et universaliter prae· mm οἳ π’
+dicetur de A; quia si haec est vera: Omne A est C,
+et conversa erit vera: Quoddam C est A. Si autem
+haec est vera: Nullum Β est C, et conversa erit
+vera: Nullum C est B. Sic ergo ex his duabus pro-
+positionibus: Quoddam C est A; Nullum C est B,-
+sequitur, Quoddam B non est A, quae est contra-
+dictoria eius, quae supponebatur, Omne B est A.
+Relinquitur ergo quod impossibile est inveniri
+aliquod medium, quod, praedicto modo se haben-
+tibus A et B, de uno praedicetur, et ab alio re-
+moveatur. Et tamen oportet, si debeat fieri syl-
+logismus in secunda figura, ut ⁵⁴² medium de uno «eodm-mma.
+extremorum praedicetur *, et de alio negetur. Et ἰτ affirmetur-
+ideo si ambae sunt '⁴⁹ falsae totaliter, oportet quod *mn mr.
+earum contrariae sint verae3 quod est impossibile,
+ut probatum est. Nihil tamen '⁸ prohibet utram· &coda-m: ε.
+que propositionem esse falsam particulariter. Puta, ''m'' ξ
+si accipiamus quoddam '¹‘ medium, quod particula- ⁴ 10: ataeqwa.
+riter praedicetur de A et deB *, puta masculus, *metaneae
+quod * particulariter praedicatur de animali et de ffe‘ffiiss'e'd‘d
+homine. Si ergo *accipiatur C esse in omni A, pu· letigum..
+ta, si accipiamus: Omne animal esse * masculum,· · n: est.
+et accipiamus C in nullo B esse, puta si dicamus:
+Nullus homo est masculus ,· utraque propositio est
+falsa, non tamen totaliter, sed particulariter. Et
+eadem ratio est, si e converso * maior sit negativa, mmmm. 1..-
+et minor affirmativa. Ut si dicamus *ε Nullum ani· visitati...
+mal est masculum,· Omnis homo est masculus. '¹¹¹¹'
+
+6. Deinde curn dicit: Similiter autem alteram etc.,
+ostendit quomodo contingit alteram esse falsam.
+Et primo in secundo modo secundae figurae; se—
+cundo in primo; ibi: Similiter autem fit transpo-
+sito ⁵ etc. Dicit ergo primo quod contingit in hac wamm-
+figura alteram propositionem esse falsam indiffe-
+renter„ quaecunque sit illa ²³². Quod patet ex hoc, qu.¹ 02... codd.
+quia cum supponatur ⁰ A perse et immediate ο
+praedicari de B, quidquid est in omni A est in ν
+omni B; sicut omne quod universaliter praedicatur
+de animali, praedicatur universaliter de homine.
+
+contraria,· P: immediate contraria. - In fine huius numeri H omittit
+et altera usque ad utrisque inclusive; Gi: et utraque propositione salsa
+et altera. Deinde etc.; O: et altera propositione existente salsa, et
+utrisque.
+
+μ) Et primo etc.·- A: et primo quando contingit utramque esse
+salsam,· secundo quando alteram tanturm· ibi .- altera tamen esse sa!-
+sam etc. -- Immediate infra inversionem lectionis codd. adoptavi; PB:
+quod non contingit in r'nedia figura. —- Praeterea A: utrasque proposi-
+tiones esse totas esse salsas,· G: in toto esse salsas5 1: esse in toto
+salsas,· KMO: totas esse salsas,- R om. essa-PB: Et dicit totas illas
+salsas‚· cui lectioni praefero lectionem adoptatam ex codd.; G: a dicit
+in toto esse salsas illas ; 1: Et dicit in toto salsas, inae.
+
+ν) Sic autem se habentibus. - A: Contrarie autem se habentibus,-
+et contrarie etiam legitur in Β, sed eadem manu apponitur in nota sie,
+submissis punctis vocabulo contrarie. Et optima est correctio et ad
+lectiqpem aliorum codd.: τὸ enim contrarie nihil ad propositum hoc loeo
+signi cat.
+
+Ε) Removeatur a B.—- C p. m. et Β s. rn.: removeatur a C: at C
+in codice C corrigitur altera manu in B: imo in codice etiam B abrasio
+quaedam est, supra quam eadem manu signatur C.— Et ita infra, cod. C:
+se habentibus A et C .· quam tamen ultimam lectionem habent etiam ΑΒ
+DEHOQST; 1: A et BC, sed Β expungitur. - Retinenda tamen eat lectio
+Pinna. A et B, cum qua tandem etiam codices concordant infn: prae-
+dicetur de A et de Β. - Cf. supra et nn. seqq.
+
+ο) Quia cum supponatun- Est lectio ABDGHKLMST, quibus ac-
+cedunt alii. C: quia cum ponatur-5 E: ex hoc cum supponatur-5 INQ:
+quod cum supponatur,· O: quod supponatur σιω»,- R: quia supponatur.
+—‹ P: quod supponatur.
+

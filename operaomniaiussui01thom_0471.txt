@@ -1,0 +1,122 @@
+CAP. XI, LECT. Vl 101
+
+de qua fit sermo, cum dicitur, homo est bonus, denominat
+artem citharisticam, neque e converso. Cum enim bo-
+num sit aequivocum, licet a consilio, alia ratione dicitur
+de perfectione citharoedi, et alia de perfectione hominis.
+Quando namque dicimus, Socrates est bonus, intelligimus
+bonitatem moralem, quae est hominis bonitas simpliciter
+(analogum siquidem simpliciter positum sumitur pro po-
+tiori); cum autem infertur, citharoedus bonus, non boni-
+tatem moris sed artis praedicas: unde terminorum iden—
+titas non salvatur. sufficienter igitur et subtiliter Aristo-
+teles eamdem de utrisque protulit sententiam, quia eadem
+est haec, et ibi ratio etc.
+
+8. Nec praetereundum est quod, cum tres consequentias
+adduxit quaestionem proponendo, scilicet; est animal et
+bipes; ergo est animal bipes: et, est homo et albus; ergo
+est homo albus: et, est citharoedus et bonus; ergo est
+bonus citharoedus; et duas primas posuerat esse bonas,
+tertiam vero non; huius diversitatis causam inquirere vo-
+lens, cur solvendo quaestionem nullo modo meminerit
+secundae consequentiae, sed tantum primae et tertiae.
+Indiscussum namque reliquit an illa consequentia sit bona
+
+ἡ unhailai. - Et ad hoc videtur mihi dicendum quod ex his
+
+paucis verbis etiam illius consequentiae naturam insi-
+nuavit. Profundioris enim sensus textus capax apparet
+cum dixit quod, non sunt unum album et musicum etc„ ut
+scilicet non tantum indicet quod expositum est, sed etiam
+eius causam, ex qua natura secundae consequentiae elu-
+cescit. Causa namque quare album et musicum non in-
+ferunt coniunctam, praedicationem est, quia in praedica-
+tione coniuncta oportet alteram partem alteri supponi,
+ut potentiam actui, ad hoc ut ex eis fiat aliquo modo
+unum, et altera a reliqua denominetur (hoc enim vis
+coniunctae praedicationis requirit, ut supra diximus de
+partibus definitionis); album autern et musicum secundum
+se non faciunt unum per se, ut patet, neque unum per
+accidens. Licet enim ipsa ut adunantur in subiecto uno
+sint unum subiecto per accidens, tamen ipsamet quae
+adunantur in uno, tertio subiecto, non faciunt inter se
+unum per accidens: tum quia neutrum informat alterum
+(quod requiritur ad unitatem per accidens aliquorum inter
+se, licet non in tertio); tum quia non considerata subiecti
+unitate, quae est extra eorum rationes, nulla remanet inter
+ea unitatis causa. Dicens ergo quod album et musicum
+non sunt unurn, scilicet inter se, aliquo modo, causam
+expressit quare coniunctim non infertur ex eis praedica-
+tum. Et quia oppositorum eadem est disciplina, insinuavit
+per illamet verba bonitatem illius consequentiae. Ex eo
+enim quod homo et albus se habent sicut potentia et actus,
+(et ita albedo informet, denominet atque unum faciat cum
+homine ratione sui), sequitur quod ex divisis potest inferri
+coniuncta praedicatio; ut dicatur: est homo et albus ; ergo
+est homo albus. Sicut per oppositum dicebatur quod ideo
+musicum et album non inferunt coniunctum praedicatum
+quia neutrum alterurn informabat.
+
+9. Nec obstat quod album faciat unum per accideris
+cum homine: non enim dictum est quod unitas per ac-
+cidens aliquorum impedit ex diversis inferre coniunctum,
+sed quod unitas per acccidens aliquorum ratione tertii
+tantum est illa quae impedit. Talia enim quae non sunt
+unum per accidens nisi ratione tertii, inter se nullam ha-
+bent unitatem; et propterea non potest inferri coniun-
+ctum, ut dictum est, quod unitatem importat. Illa vero
+quae sunt unum per accidens ratione sui, seu inter se, ut,
+homo albus, cum coniuncta accipiuntur, unitate necessaria
+non carent, quia inter se unitatem habent. Notanter autern
+apposui ly tantum: quoniam si aliqua duo sunt unum per
+accidens, ratione tertii subiecti scilicet, sed non tantum ex
+hoc habent unitatem, sed etiam ratione sui, ex hoc quod
+alterum reliquum informat, ex istis divisis non prohibetur
+inferri coniunctum. Verbi gratia, optime dicitur: est quan-
+tum et est coloratum; ergo est quantum coloratum: quia
+color informat quantitatem.
+
+10. Potes autem credere quod secunda illa conse-
+quentia, quam non explicite confirmavit Aristoteles re-
+spondend0‚ sit bona et ex eo quod ipse proponendo
+quaestionem asseruit bonam, et ex eo quod nulla istantia
+reperitur. Insinuavit autem et Aristoteles quod sola talis
+unitas impedit illationem coniunctam, quando dixit quae-
+cunque secundum accidens dicuntur vel de eodem vel alteru-
+trum de altero. Cum enim dixit, secundum accidens de eo-
+dem, unitatem eorum ex sola adunatione in tertio posuit
+(sola enim haec per accidens praedicantur de eodem,
+ut dictum est); cum autem addidit, vel alterutrum de al-
+tero, mutuam accidentalitatem ponenS, ex nulla parte in-
+ter se unitatem reliquit. Utraque ergo per accidens ad-
+ducta praedicata, in tertio scilicet vel alterutrum, quae im-
+pediant illationem coniunctam, nonnisi in tertio unitatem
+habent.
+
+1 1. Deinde cum dicit: Amplius nec etc.‚ satisfacit instan-
+tiis in probatione adductis, et in illis in quibus explicita
+committebatur nugati0‚ et in illis in quibus implicita; et
+ait quod non solum inferre ex divisis coniunctum non
+licet quando praedicata illa 'sunt per accidens, sed nec
+etiam quaecunque insunt in alio: idest, sed nec hoc licet
+quando praedicata includunt se, ita quod unum includa-
+tur in significato formali alterius intrinsece, sive eprIcitc,
+ut album in albo, sive implicite, ut animal et bipes in
+homine. Quare neque album frequenter dictum divisim
+infert coniunctum, neque homo divisim ab animali vel
+bipede enunciatum, animal bipes *, coniunctum cum ho-
+mine infert; ut dicatur, ergo Socrates est homo bipes, vel ani—
+mal homo. Insunt enim in hominis ratione, animal et bi-
+pes actu et intellectu, licet implicite. Stat ergo solutio
+quaestionis in hoc, quod unitas plurium per accidens in
+tertio tantum et nugati0‚ impediunt ex divisis inferri con-
+iunctum3 et consequenter, ubi neutrum horum invenitur,
+ex divisis licebit inferre coniunctum. Et hoc intellige
+quando divisae sunt simul verae de eodem etc.
+
+ 
+
+⁶ Ed. c: animal
+νεΙ bipes.
+

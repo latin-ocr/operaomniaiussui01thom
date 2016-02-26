@@ -1,0 +1,157 @@
+· Ed. c: dietin-
+ctione.
+
+i
+
+ 
+
+CAP. xi,
+
+quo suum significatum distractum est. Ad utrunque au-
+tem insinuandum Aristoteles duo dixit, et quod habent
+oppositionem quarn sequitur contradictio, attendens signi-
+ficata eorum secundum se, et quod etiam ex eis forma-
+tur una vera enunciatio cum dicitur, Socrates esthomo mor-
+tuus, attendens coniunctionem eorum alterius corrupti-
+vam. Unde patet quid dicendum sit ad dubitationes. Ad
+utramque siquidem dicitur, quod non enunciantur duo
+contradictoria simul de eodem, sed terminus ut stat sub
+distractione *‚ seu transmutatione alterius‚cui secundum se
+esset contradictorius.
+
+5. Dubitatur quoque circa id quod ait: Inest aliquid
+oppositorum quae consequitur contradicam superflue enim vi-
+detur addi illa particula, quae consequitur contradictio. Omnia
+enirn opposita consequitur contradictio, ut patet discurren-
+do in singulis; pater enim est non filius, et album non ni-
+grum, et videns non caecum etc.
+
+Et ad hoc dicendum estquod opposita possunt du-
+pliciter accipi: uno modo formaliter, idest secundum sua
+significata; alio modo denominative, seu subiective. Verbi
+gratia, pater et filius possunt accipi pro paternitate et
+⁴ fiiiatione, et possunt accipi pro eo qui denominatur pater
+vel filius. Rursus cum omnis distinctio fiat oppositione
+aliqua, ut dicitur in X Metaphysicae, supponatur omnino
+distincta esse opposita. Dicendum ergo est quod, licet ad
+omnia opposita seu distincta contradictio sequatur inter
+se formaliter sumpta, non tamen ad omnia opposita se-
+quitur contradictio inter ipsa denominative sumpta. Quam-
+vis enim pater et filius mutuam sui negationem inferant
+inter se formaliter, quia paternitas est non filiatio, et fi-
+liatio est non paternitas3 in relatione tamen ad denomi-
+natum, contradictionem non necessario inferunt. Non
+enim sequitur, Socrates est pater; ergo non est filius ; nec e
+converso. Ut persuaderet igitur Aristoteles quod non quae-
+cunque opposita colligata impediunt divisam illationem
+(quia non illa quae habent contradictionem annexam for-
+maliter tantum, sed illa quae habent contradictionem et
+formaliter et secundum rem denominatam), addidit: quae
+consequitur contradictio, in tertio scilicet denominato. Et
+usus est satis congrue vocabulo, scilicet, consequitur: con-
+tradictio enim ista in tertio est quodammodo extra ipsa
+opposita.
+
+6. Deinde cum dicit: Vel etiam quando est etc„ decla·
+rat quod ex non oppositis in tertio coniunctis secun-
+dum unum praedicatum, non universaliter possunt in-
+ferri partes divisim. Et primo, hoc proponit quasi emen-
+dans quod immediate dixerat, subiungens: Vel etiam quan-
+do est, scilicet oppositio inter terminos coniunctos, falsum
+est semper, scilicet inferre divisim; quasi diceret: dixi quod
+quando inest oppositio, non verum sed falsum est inferre
+divisim; quando autem non inest talis oppositio, verum
+est inferre divisim. Vel etiam ut melius dicatur, quod
+quando est oppositio, falsum est semper, quando autem
+non inest talis oppositio, non semper verum est. Et sic
+modificavit supradicta addendo ly semper, et, non semper.
+Et subdens exemplum quod non semper ex non oppo-
+sitis sequatur divisio, ait: Ut, Homerus est aliquid ut poeta,·
+ergo etiam est? Non. Ex hoc coniuncto, est poeta, de Ho-
+mero enunciato, altera parS, ergo Homerus est, non se-
+quitur; et tamen clarum est quod istae duae partes col—
+ligatae, est et poeta, non habent oppositi0nem, ad quam
+sequitur contradictio. Igitur non semper ex non oppo-
+sitis coniunctis illatio divisa tenet etc.
+
+7. Deinde cum dicit: Secundum accidens etc„ probat
+hoc, quod modo dictum est, ex eo quod altera pars istius
+compositi, scilicet, est, in antecedente coniuncto praedica-
+tur de Homero secundum accidens, idest ratione alte-
+rius, quoniam, scilicet poeta, praedicatur de Homero, et
+
+LECT. VII
+
+103
+
+non praedicatur secundum se ly est de Homero; quod ta-
+men infertur‚ cum concluditur: ergo Homerus est. - Con-
+siderandum est hic quod ad solvendam illam conclusionem
+negativam , scilicet, -non semper ex non oppositis con-
+iunctis infertur divisim, -sufficit unam instantiam suae
+oppositae universali affirmativae afferre. Et hoc fecit Ari-
+stoteles adducendo illud genus enunciationum, in quo
+altera pars coniuncti est aliquid pertinens ad actum ani-
+mae. Loquimur enim modo de Homero ‚vivente in poe-
+matibus suis in mentibus hominum. In his siquidem
+enuntiationibus partes coniunctae non sunt oppositae in
+tertio, et tamen non licet inferre utramque partem divi-
+sim. Committitur enim fallacia secundum quid ad sim-
+pliciter. Non enim valet, Caesar est laudatus, ergo est: et
+simile est de esse in e'ffectu dependente in conservari.
+Quomodo autem intelligenda sit ratio ad hoc adducta
+ab Aristotele in sequenti particula dicetur.
+
+8. Deinde cum dicit: Quare in quantiscunque etc„ re-
+spondet parti affirmativae quaestionis, quando scilicet ex
+coniunctis licet inferre divisim. Et ponit duas conditio-
+nes oppositas supradictis debere convenire in unum, ad
+hoc ut possit fieri talis consequentia; scilicet, quod nulla
+inter partes coniuncti oppositio sit, et quod secundum
+se praedicentur. Unde dicit inferendo ex dictis: Quare in
+quantiscunque praedicamentis, idest praedicatis ordine quo-
+dam adunatis, neque contrarietas aliqua, in cuius ratione
+ponitur contradictio in tertio (contraria enim sunt quae
+mutuo se ab eodem expellunt), aut universaliter nulla op-
+positio inest, ex qua scilicet sequatur contradictio in ter-
+tio, si definitiones pro nominibus sumantur. Dixit hoc, quia
+licet in quibusdam non appareat oppositio, solis nomini-
+bus positis, sicut, homo mortuus, et in quibusdam ap-
+pareat, ut, vivum mortuum; hoc tamen non obstante,
+si, positis n‘ominum definitionibus loco nominum, oppo-
+sitio appareat, inter opposita collocamus. Sicut, verbi gra-
+tia, homo mortuus, licet oppositionem non praeseferat,
+tamen si loco hominis et mortui eorum definitionibus
+utamur, videbitur contradictio. Dicemus enim corpus ani—
+matum rationale, corpus inanimatum irrationale. In quan-
+tiscunque, inquam, coniunctis nulla est oppositio, et se-
+cundum se, et non secundum accidens praedicantur, in his
+verum erit dicere et simpliciter, idest divisim quod fuerat
+coniunctim enunciatum.
+
+9. Ad evidentiam secundae conditionis hic positae,
+nota quod ly secundum se potest dupliciter accipi: uno
+modo positive, et sic dicit perseitatem primi, secundi,
+universaliter, quarti modi; alio modo negative, et sic
+idem sonat quod non per aliud.- Rursus considerandum
+est quod cum Aristoteles dixit de praedicato coniuncto
+quod, secundum se praedicetur, ly secundum se potest ad
+tria referri, scilicet, ad partes coniuncti inter se, ad totum
+coniunctum respectu subiecti, et ad partes coniuncti re-
+spectu subiecti. Si ergo accipiatur ly secundum se posi—
+tive, licet non falsus, extraneus tamen a mente Aristo-
+telis reperitur sensus ad quodcunque illorum trium re-
+feratur. Licet enim valeat, est homo risibilis, ergo est
+homo et est risibilis, et, est animal rationale, ergo est ani-
+mal et est rationale ,· tamen his oppositae inferunt similes
+consequentiaS. Dicimus enim, est albus musicus, ergo est
+musicus et est albus: ubi nulla est perseitaS, sed est con-
+iunctio per accidens, tam inter partes inter se, quam inter
+totum et subiectum, quam etiam inter partes et subie-
+ctum. Liquet igitur quod non accipit Aristoteles ly secun-
+dum se positive, ex eo quod vana fuisset talis additio, quae
+ab oppositis non facit in hoc differentiam. Ad quid enim
+addidit, secundum se, et non, secundum accidens, si tam
+illae quae sunt secundum se, modo exposito, quarn illae
+quae sunt secundum accidens ex coniuncto, inferunt di—
+

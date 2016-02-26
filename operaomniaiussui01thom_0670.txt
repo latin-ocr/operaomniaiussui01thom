@@ -1,0 +1,241 @@
+· Lib.1, capanna.
+n. ι.
+
+‘n- solum ex,- ε
+etp. m n: solis
+etiam affirm.
+
+Codd.- -Ρ, cs sut
+
+⁴ r: hic,·A p. m.
+om.; ι (om. hoel:
+considerare.
+
+· 1: demonstra-
+tionis.
+
+'nzxuuoqsr et p.
+m. c: huius ,sci-
+licen L: sit'ltu-
+ius, scil.
+
+' Est cx codd.
+
+⁸ 1 : occurrit.
+
+· nactur-unq et
+p. m. n. est D.
+ἰ. secundum.
+
+' Lect. xxvi.
+
+300
+
+niam ostensum est etc., et inducitur ’¹ haec secunda
+ratio ad confirmationem primae, quae poterat vi-
+deri deficiens ex hoc quod non assumebatur sub
+maiori propositione eo modo quo probabatur. Et
+ideo, ut omnis calumnia excludatur, addit hanc
+secundam rationem ad confirmationem primae.
+Ostensum est enim in libro Priorum* , quod ex
+duabus propositionibus negativis non potest fieri
+syllogismus, sed oportet ad minus unam propo—
+sitionem⁰ esse affirmativam et alteram negativam.
+Ex quo aperte apparet quod propositiones affir-
+mativae habent maiorem efficaciam ad syllogi-
+zandum quam negativae. Unde sequitur quod
+demonstratio affirmativa, quae procedit ex solis*
+affirmativis, sit ’⁸ potior quam demonstratio nega-
+tiva, quae procedit ex affirmativa et negativa.
+7. Tertiam rationem ponit ibi: Amplius iuxta
+hoc etc., et dicit quod secundum consequentiam
+praemissarum rationum possumus hoc ’¹‘ accipere,
+quod quando demonstratio augmentatur, scilicet
+per resolutionem propositionum '³‘ in sua principia,
+necesse est esse plures propositiones affirmativas,
+sed negativas impossibile est esse plures quarn
+unam. Sit enim talis demonstratio negativa: Nul-
+lum Β est A‚· omne Cest Β; ergo nullum Cest A.
+Augeatur ergo demonstratio quantum ad utram-
+que propositionem‘ , si utraque sit mediata, acci-
+piendo medium utriusque3 et medium quidem
+maioris propositionis, scilicet nullum B estA, sit D,
+medium autem minoris propositionis, scilicet *
+omne C est Β, sit E. Et quia haec propositio, omne
+C est B, est θ’ affirmativa, ad quam concludendam
+non concurrit * aliqua negativa, necesse est quod
+eius medium, quod est E, sit affirmativum ad
+utramque extremitatem; et sic sumuntur duae pro-
+positiones affirmafivae, scilieet omne E est Β,
+omne C est Ε, ex quibus concluditur, omne C
+est B. Sed maior propositio est negativa, scilicet
+nullum B est A*: negativa autem non concluditur
+ex duabus negativis; sed in prima figura, per *
+quam maxime fit demonstratio secundum prae-
+missa ²¹², maiorem oportet esse negativam et mino-
+rem affirmativam. Unde oportebit quod hoc me-
+dium D sit affirmativum per comparationem ad B,
+sit autem negativum per comparationem ad A, tali
+demonstratione facta: Nullum D est Α,· omne B
+est D; ergo nullum Β est A. Sic igitur ⁸ augmen-
+tata demonstratione negativa per resolutionem pro-
+positionum in sua principia, erunt quatuor propo-
+
+η) Et inducitur etc.-A: Et inducitur secundo secunda etc-3 CDE
+KLMQST om. haec‚· 1: et inducitur haec ratio ad confirmationem pri-
+mae: poterat enim videri etc.; et, poterat enim, etiam B. L: ad con-
+
+firmandum primam. ·- Cum quarta linea huius numeri desinit lacuna
+
+cod. N (Cf. lect. praeced. n. 4 not. ι).
+
+θ) Unam propositionem etc.-· Q non recte: sed oportet ad minus
+unam esse negativam. Ex quo etc. Cett. codd.. unam proposit. esse
+affirmat. et (AD om. ια) aliam negativam. P: unam quidem proposit.
+esse etc.
+
+ι) Ad utramque propositionem, si etc.— CS: ad utramque proposi-
+tionum, si etc.; D; ad utramque partem propositionum ,· 1: ad utramque
+partem, si etc.; O non recte: ad utramque demonstrationem, si utra-
+que cst etc.
+
+κ) Sic igitur etc.-H non recte: Si igitur... negativa propositione
+et affirmativa per resolutionem in sua principia.— AEKLMNQ et p. m.
+CDS. Sic.. .quod negativa,· B om. negativas C a. m.: quae est nega-
+tiva51: cum negativa‚· Τ. patet quod negativa.
+
+POSTERIORUM ANALYTICORUM LIB. 1
+
+sitiones, quarum ’³ una sola est negativa, scilicet
+nullum D est A,· tres autern ’¹‘ aliae erunt affir-
+mativae, scilicet omne B est D, omne E est Β,
+omne C est E. Et idem est in omnibus aliis syl-
+logismis, quia semper necesse est medium per
+quod affirmativae propositiones probantur, esse
+affirmativum* ad ambo extrema. Medium autem
+per quod probatur negativa propositio *, necesse
+est esse negativum solum ad unam extremitatem;
+et ita sequitur * quod una sola propositio sit ne-
+gativa, aliae omnes affirmativae ³. Ex quo patet
+quod propositio negativa maxime demonstratur
+per affirmativas ²⁸. Si ergo illud per quod aliquid ⁹*
+demonstratur, est notius et credibilius eo quod
+per ipsum demonstratur, cum negativa propositio
+maxime demonstretur per affirmativam ²¹³, non au-
+tem e converso, sequitur ’¹‘ quod affirmativa pro-
+positio sit prior et notior et credibilior quam nega-
+tiva. Unde demonstratio affirmativa erit * dignior.
+
+8. Quartam rationem ponit ibi: Amplius si prin-
+cipium syllogismi etc., et dicit quod principium
+syllogismi demonstrativi est propositio universalis
+immediata; ita tamen quod affirmativi syllogismi
+est principium proprium affirmativa propositio,
+negativi autem syllogismi proprium * principium
+est ⁴* negativa propositio universalis. Sed nobilioris
+principii* nobilior est effectus. Ergo secundum pro-
+portionem propositionis affirmativae ad negativam,
+est* proportio demonstrationis affirmativae ad ne-
+gativam. Sed affirmativa propositio est potior quam
+negativa: Quod probat dupliciter: primo quidem,
+quia affirmativa est prior * et notior, cum per
+affirmativam probetur negativa, et non e converso;
+secundo, quia affirmatio* · praecedit naturaliter ne-
+gationem 1⁴¹, sicut esse prius est quarn non esse.
+Quamvis enirn in uno ” et eodem, quod de non esse
+in esse procedit, non esse sit prius tempore, esse
+tamen est prius natura, et simpliciter prius etiam
+tempore *· ,quia non entia non producuntur 1n esse,·
+nisi ab aliquo ente. Ergo patet quod affirmativa
+demonstratio est potior quam *negativa
+
+9. Quintam rationem ponit ibi: Adhuc et prin-
+cipalior etc., quae talis est. Illud ex quo aliud
+dependet, est principalius. Sed demonstratio ne.—
+
+gativa dependet ex * affirmativa3 quia non potest ·
+
+esse negativa demonstratio sine affirmativa pro-
+positione, quae non probatur nisi per affirmativam
+
+demonstrationem *. Ergo demonstratio affirmativa m.
+
+est principalior ²⁸ quarn negativa.
+
+affirmativae omnes (Q, omn. affirm.); D: omnes aliae affirma 0: aliae
+omnes sint a rm.
+
+μ) Αῇἱνηιξΐῖίο praecedit naturaliter negationem etc.- B: affirmativa
+procedit (corrupte loco praecedit) naturaliter negativam. sicut ωας
+DQ. universaliter praecedit negationem (Q, negativam); EST: natu-
+raliter praecedit negationem,· 1: procedit universaliter negationem et
+naturaliter.
+
+ν) Quamvis enim in uno etc.— Addimus enim ex codd.- ·Quam-
+vis... procedit, sit pm'us non esse ipso esse, tamen esse est etc-3 Βῦε Quam—
+vis... quod dicunt (corrupte pro de non) esse in esse (marg. edd. per*-
+ducitur), non esse etc.; H: Quamvis.. .quod de non esse ducitur ad
+esse, prius sit non esse quam esse quod ducitur esse in esse prout non
+esse prius sit tempore, tamen est prius natura, et simpliciter tempore,
+quia non esse non producitur in esse, nisi ab etc.; KLMT et p. m. DS.
+quamvis enim in uno et eodem quod dicunt esse in esse (T, tnesm L om.)
+prout (corrupte pro procedit) non esse sit (T, est) prius tempore. esse
+tamen etc.; Q: Quamvis enim in uno et eodem non esse praecedat esse
+
+λ) Sit negativa etc.- Sit ex codd„ exc. 1; P: est.— ΒΩ· aIiae autem tempore, esse tamen prius est vera et simplicite& quia non entia etc.
+
+” Quar. om. ι,
+
+· Autem ex codd-
+
+(3.1(1 MQT- ns: af-
+
+firmative, Anus
+
+aar “sc
+
+ὀρ om. propos.
+
+⁸* Et om.A.- νς se·
+quetunx
+
+ζὲἷί. ‘ww‘
+ἑοαὲωέἔ ἔξ...
+κς aliud
+
+ξιὲἳιῖἓὲ ¹' ‘ff'
+
+Codd. -:r ee-
+queretur.
+
+ὀε eet.
+
+⁸ ιιι om.pmp.
+⁸ Est ex codd.
+“ Prtndp. om. ο.
+
+“ 0: requr't'ur.
+
+»Q non recte:
+ponor.
+
+legifvtin mlta,
+
+not. β.
+μ
+
+ν
+
+ις ε Lente-
+{lynea-uuerde&
+
+Quam ex codd„
+exc. ι.
+
+a: ab.
+
+--ιρνορωωο-
+
+· ις ponor et om.
+quan.
+

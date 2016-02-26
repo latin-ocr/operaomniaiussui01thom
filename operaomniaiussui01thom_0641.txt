@@ -1,0 +1,147 @@
+CAP. XXII, LECT. XXXIII
+
+27¹
+
+LECT 10 TRIGESIMATERTIA
+
+LOGICE OSTENDITUR DEMONSTRATIONES NON POSSE PROCEDERE
+IN INFINITUM IN PRAEDICATIS QUIDDITATIVIS.-PRAENOTAMINA
+QUAEDAM AD SOLVENDAM UNIVERSALITER QUAESTIONEM
+DE PROCESSU IN INFINITUM IN PRAEDICATIS AFFIRMATIVIS
+
+Ὀτι δ’ ἐπ’ ἐκείνων, λογικῶς μὲν θεωροῦσιν ὦδε φανερόν.
+Ἐπὶ μὲν οὖν τῶν ἐν τῷ τί ἑστι κατηγορουμένων δῆ-
+λον· εἱ γαῖρ ἔστιν ὁρίσασθαι ἦ εἰ γνωστὸν τὸ τί ἦν
+εἶναι, τοὶ δ’ ἄπειρα μή ’ἐστι διελθεῖν, ἀνάγκη πεπε-
+
+σίνθαι τοὶ ἐν τῷ τί ἐστι κατηγορούμενα.
+
+Κα όλου δὲ ὦδε λέγομεν. Ἔστι γαρ εἰπεῖν ἀληθῶς τὸ
+λευκὸν βαδίζειν καὶ τὸ μέγα ἐκεῖνο ξύλον εἶναι, καὶ
+ποίλιν τὸ ξύλον μέγα εἶναι καὶ τόν ἄνθρωπον βαδί-
+ζειν. ’Ἕτερον δή ἐστι τὸ οὕτως εἰπεῖν καὶ τὸ ἐκείνως.
+
+s Ὅταν μὲν γάρ τὸ λευκὸν εἶναι φῶ ξύλον, τότε λέγω
+ὅτι ᾧ συμβέβηκε λευκῷ εἶναι ξύλον ἐστίν, ἀλλ’ οὐχ
+ὠς τὸ ὑποκείμενον τῷ ξύλῳ τὸ λευκόν ἐστι· καὶ γάρ’
+οὔτε λευκὰν ὃν οὔθ’ ὅπερ λευκόν τι ἐγένετο ξύλον,
+ὥστ’ οὐκ ἔστιν ἀλλ’ ἧ κατοὶ συμβεβηκός. Ὅταν δέ
+‘cti ξύλον λευκὸν εἶναι φῶ, οὐχ ὅτι ἕτερόν τί ἐστι
+λευκόν, ἐκείνῳ δὲ συμβέβηκε ξύλῳ εἶναι, οἷον ὅταν
+τὸν μουσικόν λευκᾶν εἶναι φῶ· τότε γοὶρ ὅτι ὁ ἄνθρω-
+πος λευκός ἐστιν, ᾦ συμβέβηκεν εἶναι μουσικῷ, λέγω·
+ἄλλα τὸ ξύλον ἐστὶ το“ ὑποκείμενον, ὅπερ καὶ ἐγέ-
+νετο, οὐχ ἕτερόν τι ὃν ἦ ὅπερ ξύλον ἦ ξύλον τι. Εἰ
+δή δεῖ νομοθετῆσαι, ἔστω το οὕτω λέγειν κατηγορεῖν,
+τὸ δ’ ἐκείνως ἦτοι μηδαμῶς, ἦ κατηγορεῖν μὲν μη
+οἱπλῶς, κατ-οὶ συμβεβηκὸς δὲ κατηγορεῖν. Ἔστι δ’ ὠς
+μὲν τᾶ λευκὸν τὸ κατηγορούμενον, ὠς δέ τὸ ξύλον
+τὸ οὗ κατηγορεῖται. ’Υποκείσθω δη vd κατηγορούμε-
+νον κατηγορεῖσθαι ἀεί, οὖ κατηγορεῖται, ἁπλῶς, ἄλλα
+
+’ti κατα συμβεβηκός· οὕτω γάρ αἱ ἀποδείξεις ἀπο-
+εικνυουσιν.
+
+’Ὦστε ἦ ἐν τῷ τί ἐστιν ἦ ὅτι ποιὸν ἦ ποσὸν ἢ πρός τι
+ἦ ποιοῦν ἦ πάσχον ἦ ποῦ ἦ ποτέ, ὅταν ἓν καθ’ ἑνός
+κατηγορηθῆ-
+
+Ἔτι τοὶ μὲν οὐσίαν σημαίνοντα ὅπερ ἐκεῖνο ἢ ὅπερ ἐκεῖνό
+τι σημαίνει, καθ’ οὗ κατηγορεῖται· ὅσα δὲ μη οὐσίαν
+σημαίνει, ἀλλα κατ’ ἄλλου ὑποκειμένου λέγεται, ὃ
+μή ἐστι μήτε ὅπερ ἐκεῖνο μήτε ὅπερ ἐκεῖνό τι, συμ-
+βεβηκότα,
+
+οἷον κατα τοῦ ἀνθρώπου τὸ λευκόν. Ού γάρ ἐστιν ὁ ἄν-
+θρωπος οὔτε ὅπερ λευκὸν οὔτε ὅπερ λευκόν τι· ἀλλα
+ξῷον ἴσως· ὅπερ γάρ ζῷόν ἐστιν ὁ ἄνθρωπος. ’Ὀσα
+ε’ μὴ οὐσίαν σεμαίνει, δεῖ κατοί τινος ὑποκειμένου
+κατηγορεῖσθαι, καὶ μή εἶναί τι λευκόν, ὃ οὐχ ἕτερόν
+τι ὃν λευκόν ἐστιν.
+Τὰ γάρ εἴδη χαιρέτω· τερετίσματσί τε γάρ ἐστι, καὶ εἱ
+ἔστιν, οὐδέν πρὸς τὸν λόγον ἐστίν· αἰ γάρ ἀποδεί-
+ξεις περὶ τῶν τοιούτων εἰσίν.
+
+ΞΥΝοΡειε. - 1. Argumentum et divisio textus. - 2. Thesis
+prima: ostenditur in demonstrationibus affirmativis non posse
+procedi in infinitum in praedicatis, ex quibus constituitur definitio:
+quia secus nihil posset definiri: definitio enirn omnia superiora
+et inferiora praedicata quidditativa rei definitae complectitur. -
+3. Thesis alterat Idem universaliter est dicendum quoad omnia
+praedicata affirmativa sive substantialia sive accidentalia.— 4. Prae-
+notamen quoddam. De tribus modis verae praedicationis in prae-
+dicatis per accidens, seu accidentalibus: vel accidens praedicatur
+de accidente; vel subiectum de accidente; vel accidens praedica-
+tur de subiecto. Quae praedicationes ad invicem differunt: quia
+cum praedicatur accidens de subiecto, non praedicatur per ali-
+quod aliud subiectum; at praedicatio subiecti de accidente, vel
+
+* Quod autem in illis, si logice quidem speculemur, sic ma· ' Cap. xxn.
+mfestum sit. In his quidem igitur, quae in eo quod quid Text. 35·
+
+est praedicantur, patens est: si enirn est definire, aut si
+notum est quod quid erat esse, infinita autem non est tran-
+sire, necesse est finiri in eo quod quid est praedicantia.
+
+Universaliter autem sic dicimus. Est enim vere dicere al-
+bum ambulare, et magnum illud lignum esse; et ite-
+rum lignum magnum esse, et hominem ambulare. Al-
+terum igitur est sic dicere aut illo mod0. Cum enim
+quidem album esse dico lignum, tunc dico' quod, cui
+accidit album esse, lignum est: sed non quod subiectum
+ligno album sit; et namque neque quod album est,
+neque quod vere album aliquid, factum est lignum:
+quare non est hoc secundum se, sed secundum ac-
+cidens. Cum vero huiusmodi lignum album esse dico,
+non quod alterum aliquod sit album, illi autem accidit
+lignum esse, ut cum musicum esse album dico: tunc
+enim quoniam homo est albus, cui accidit musicum
+esse, dico; sed lignum est subiectum, quod vere factum
+est album, non quod alterurn aliquod sit, quam quod
+vere lignum est, aut lignum aliquod. Si igitur oportet
+nomina ponere, sit sic dicere praedicari: sed illo modo
+aut nequaquam est praedicari, aut praedicari quidem non
+simpliciter, sed secundum accidens praedicari. Est autem
+tanquam album quidem, quod praedicatur; sed sicut
+lignum est, de quo praedicatur. Subiiciatur igitur prae-
+dicatum praedicari semper, de quo praedicatur, simpli
+citer, sed non secundum accidens: sic enim demon-
+strationes demonstrant.
+
+Quare autem in quod quid est, aut quoniam quale, aut
+quantum, aut ad aliquid, aut faciens, aut patiens, aut
+ubi, aut quando, cum unum de uno praedicabitur.
+
+Amplius substantiam quidem significantia, quod vere illud
+est, aut quod vere illud aliquid est, significant, de quo
+praedicantur: quaecunque vero non substantiam signi-
+ficant, sed de aliquo subiecto dicuntur, quod neque vere
+illud est, neque quod vere illud aliquid est, acciden-
+tia sunt,
+
+ut de homine est album. Non enim est homo neque quod
+vere album est, neque quod vere album aliquid est3
+sed animal forsitan: quod vere enim animal est, homo
+est. Quaecunque vero non substantiam significant, opor-
+tet de quodam subiecto praedicari, et non esse aliquod
+album, quod non, cum aliquid alterum sit, album est.
+
+Species enim gaudeant, monstra enim sunt; et si sint, nihil
+ad rationem sunt: praemonstrationes enirn de huius-
+
+modi sunt.
+
+accidentis de accidente, est ratione eius quod subiicitur termino
+posito in subiecto. - 5. Aliud praenotamen. In probanda thesi
+quoad praedicata affirmativa universaliter, assumenda est sola
+praedicatio in tertio mod03 nempe praedicatio quae est sicut
+accidentis de subiecto, et quae sola praedicatio simpliciter dici-
+tur.- 6. Praenotamen tertium. De differentia in praedicatis per
+se, seu simpliciter ,· et primo de distinctione praedicatorum ad
+invicem secundum diversa genera, seu praedicamenta. - 7. De-
+inde de differentia inter praedicata substantialia et accidentalia.
+Illa enim sunt quoties subiectum aut curn ipsis convertitur, ut
+in definitionibus, aut est pars subiectiva praedicati. Aliter, sunt
+praedicata accidentalia. - 8. Haec differentia ostenditur per exem-
+pla. - 9. Solvitur obiectio petita ex ideis seu speciebus platonicis.
+

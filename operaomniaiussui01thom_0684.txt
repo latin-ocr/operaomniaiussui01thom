@@ -1,0 +1,225 @@
+· o: omn. singu-
+lorum sy
+'¹' Et ex co
+Α om. hoc.
+'' Cf. lect. xxxin,
+n. 2.
+
+· Hoc om. Ε.
+
+a-
+
+*Num 9.
+
+· Num. 4.
+
+¹⁸ Num. 5.
+
+· Num. 3.
+
+⁶ c : cavillare ‚-
+
+314
+
+que eadem principia sunt verorum syllogismorum; et prima ratio
+sumitur ex diversis principiis rerum propriis. Rerum enim ge-
+nere diversarum, de quibus fiunt syllogismi, diversa sunt prin-
+cipia propria, quae inter se non conveniunt. Syllogismi autem
+qui sunt ex eisdem principiis, conveniunt vel in medio, vel
+sursum ascendendo versus maiorem extremitatem, vel deorsum
+descendendo versus minorem extremitatem. -· 6. Altera ratio su-
+mitur ex principiis communibus: narn non possunt esse aliqua
+principia communia, ex quibus solum omnia syllogizentur3 sed
+curn sint diversa entium genera, oportet principiis communibus
+coassumere principia propria ad concludendum in qualibet ma-
+teria. - 7. Tertia ratio sumitur ex comparatione praemissarum ad
+conclusiones. Quia enim ex terminis finitis possunt indefinitae
+conclusiones fieri, quae sunt sive per se sive per accidens, conclu-
+siones autem inferuntur ex principiis3 sequitur quod haec sint
+indefinita, et ideo diversa, sicut conclusiones-8. Quarta ratio
+sumitur ex diversitate necessarii et contingentis. Diversa sunt con-
+
+   
+     
+
+   
+
+· „ostquam Philosophus prosecutus est
+- Ξῖ) ξ’ de illis quorum est scientia, hic pro-
+} {71⁴3ss sequitur de principiis scientiarum,
+«ἰ Ws'st'i‘s ostendens non esse eadem principia
+omnium ’l‘ syllogismorum. Et ²¹⁶* primO, ostendit
+hoc logice ³⁸, idest per rationes communes omni-
+bus syllogismis; secundo, ostendit hoc ’¹‘ analytice,
+scilicet per rationes proprias demonstrationis; ibi:
+Si vero aliter '²‘ etc. Circa primum tria facit: primo,
+ostendit propositum per differentiam syllogismo-
+rum falsorum a veris οι; secundo, per differentiam
+falsorum ad invicem; ibi: Postea neque falsae* etc.;
+tertio, per differentiam syllogismorum verorum ad
+invicem3 ibi: Neque verorum ’¹‘ etc. Circa primurn
+duo facit3 primo, ostendit propositum; secundo,
+excludit quamdam obviationem; ibi: Et si namque
+sit verum ²⁸ etc.
+
+2. Dicit ergo primo quod, primo logice specu-
+lando, manifestum est quod non possunt esse
+eadem principia omnium syllogismorum, propter
+hoc quod quidam syllogismi sunt falsi, idest con-
+cludentes falsum, et quidam veri, idest conclu-
+dentes verum. Syllogismorum autem falsorum
+et verorum sunt diversa principia. Nam syllogis-
+morum verorum sunt principia vera3 syllogismo-
+rum autem falsorum sunt principia falsa. Non ergo
+omnium syllogismorum sunt eadem principia.
+
+3. Deinde cum dicit: Et si namque sit verum etc.,
+excludit quamdam obviationem. Posset enirn ali-
+quis dicere ’¹‘ quod etiam syllogismorum verorum
+
+ἒ sue-'¹⁴'
+
+ 
+
+  
+   
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+tingentia et necessaria. Sed syllogismorum quaedam principia sunt
+necessaria, quaedam contingentia. Ergo etc. —9. Deinde eadem
+thesis probatur analytice, nempe per rationes proprias principiis
+quibus scientiae demonstrant. - Prima ratio sumitur ex distinctione
+scientiarum3 quae non distinctae sed una et eadem essent, si ea-
+dem haberent principia: nam principia sunt quodammodo eadem
+cum conclusione, seu scientia. - 10. Ratio altera sumitur ex re
+demonstrata: non enirn quodlibet ex quolibet principio demon-
+stratur. - 11. Excluditur obiectio. -— Non ex solis communibus
+principiis possunt omnia demonstrari3 sed, ut dictum est n. 6,
+oportet coassumere primum principium proprium unicuique ge-
+-neri scibilium. - 12. Quia ergo ex quolibet non concluditur quod-
+libet, sequitur quod ex principio ex quo concluditur haec con-
+clusio, non concludatur alia3 proindeque diversarum scientiarum
+sunt diversa principia. - 13. Tertia ratio sumitur ex diversis ge·-
+neribus rerum. Diversorum enirn generum, ut dictum est n. 5,
+sunt diversa principia propria.
+
+missas propositiones ss, necesse erit ²⁸* quod illi ·
+syllogismi procedant ex falsis, quia ex veris non
+concluditur falsum *t etita in sola prima syllogi-
+zatione * ex falsis concluditur verum. Et hoc ma-
+nifestat per exemplum. Sit enim haec propositio
+vera, omne * C estA: accipiatur autem ad utram-
+que extremitatem medium falsum, quod est B, ita
+scilicet quod neque A insit B, neque B insit C.
+Si *accipiantur aliqua media ad probandum prae-
+missas propositiones, omnes propositiones falso-
+rum syllogismorum erunt falsae: quia omnis con-
+clusio falsa concluditur ex falsis, sed conclusio *
+vera potest concludi ex omnibus veris. Unde quan-
+do “propositiones praemissae sunt verae, ex qui-
+bus concluditur verum, non oportebit devenire
+ad aliquod falsum. Sic igitur, cum aliae sint pro-
+positiones verae, et *⁶ aliae falsae, sequitur quod
+alia sunt principia verorum syllogismorum et alia
+falsorum.
+
+4. Deinde cum dicit: Postea neque falsae ex
+eisdem etc., ostendit quod nec etiam* falsorum
+syllogismorum sunt eadem principia. Contingit
+enim conclusiones falsas esse contrarias ad invi-
+cem, et incompossibiles sibi esse ⁸. Sicut haec.
+conclusio, iustitia est iniustitia, est incompossibilis
+huic conclusioni, iustitia est timor, cum utraque
+sit falsa. Timor enim sicut differt genere a iustitia,
+ita etiam ab iniustitia. Similiter etiam ζ hae duae
+conclusiones falsae sunt contrariae et incompos-
+
+cossopos. om.
+'' Codd. - rm et-
+
+· Cf. leet. xxm,
+
+{aaz} illatione ‚· ο
+
+’ Omne om. n.
+
+‘sfflz‘ffiffi
+accip. ’ ’
+
+· Codd. - με sal-
+sis, consolantem
+n oin. concl-
+
+· Etex codd.
+
+⁶ Codd - r: ne-
+alsy-aupaci:
+
+w
+
+:UCodd--ezenlm
+sibiles, homo est equus, et, homo est bos. Et simi· 2¹03? ‘mmm'
+
+liter hae duae propositiones sunt incompossibiles, 4⁸:252ssss ι’ἷῖ
+
+aequale est maius, et, aequale est minus. Oportet mm
+
+uQ: credere ‚· nx
+p. m. om.: s. m.
+it in interl. ut c,
+marg. ut Ρ.
+
+sunt principia falsa, quia contingit ex falsis syllogi-
+
+zare verum *. Sed hoc excludit dicens quod quam- *εοαα.ἰ»;ω...
+
+ei'nt.
+
+:mcci ’ω’ '‘¹¹'' vis contingat β syllogizare verum ex falsis, tamen autem ’¹² concludere ²¹²* sic esse ex aliquibus, quibus ζ ξη-ζκςξξτῶξ
+β hoc solum contingit semel ⁷ in primo syllogismo, positis, ista sequuntur*: unde oportet quod sieut* {ogggiia-e'xe G
+γ quo ex falsis concluditur verum. Sed si oporteat ista sunt contraria et incompossibilia *, ita etiam *¹⁸ 2523 ilion· 'et
+
+{uss‘ssf’d·'⁹²“'¹² alios * syllogismos inducere ad probandum prae· principia ex quibus concluduntur η. η
+
+α) Α veris etc. -Cod. O loco a veris habet erronee analytice ‚· sicut
+immediate infra legit erronee: per differentiam syllogismorum, om. cum
+p. m. A salsorum,· C‘: per differentiam syllogismorum salsorum (Cf.
+infra, n. 4 .
+
+β) Quizmvis contingat syllogizare etc. -Textus graecus qui lectioni
+praefigitur: καὶ γὰρ ἔστιν, quam lectionem sequitur Wait23 attamen in
+Commentar. sup. cap. xxxii, pag. 374—5 , notat: ‹ Brandisius (Variet-
+» lect. Arist.) legi mavult κᾶν γὰρ εἴη, quod Boethius videtur habuisse,
+» qui vertit, et si enim sit verum. » —- Sed et hanc Boethii lectionem
+habet Philoponus: εἷ καὶ ἐνδέχεται ἐκ ψευδῶν ἀληθὲς συμπέρασμα συνα-
+γαγεῖν (Ed. cit., pag. 178). Et ita s. Thomas. Lectionem Brandisii habent
+Pacius, 1 Foster„ cap. xxv1, pag. 222; Du—Vallius, l Foster„ cap. xxxu,
+pag. 2273 Ed. Basil. 1539, 1 Foster„ pag. 77, lin. 42.
+
+γ) Hoc solum confingit ete—Codd. BCEGKLMST et s. m. D: hoc
+solum contingit semel (D p. m. solis) in etc. 0: semel, idest in etc-3
+P om. semel. - G et s. m. K: quod ex salsis; Q: quando ex sals. H
+om. tamen hoc... quo ex salsis.
+
+ὃ) Unde quando etc. - AC: Unde quia5 EGHKLM et p. m. DNT:
+Unde quae. -Az non oportebat devenire,· G: non oportet tendes-e,- et
+tendere etiam EQ3 H: non oportebit tenere ut ad‚· et tenere ut vir-
+dentur habere corrupte codd. CL et p. m. ΚΤ.
+
+ε) Incompossibiles sibi esse. — O: impossibiles, et cum A et p. m.
+B om. sibi. et cum P om. esse ‚· GH: incompossibiles sibi invicem. Sicut.-
+lnfra in boc num. cod. M: impossibilis (les, lia).
+
+ζ) Similiter etiam etc. -η Codd., exc. ΑΒτ Similiter et ,· Α om. etiam
+hae. —- G: hae duae propositiones sunt incompossibiles. — 0 infra: Β
+similiter hae duae conclusiones sunt etc.; Q om. propositiones.
+
+η) Ita etiam principia ex quibus commarcarum-Plana est ratio-
+cinatio Aristotelis, uti exponitur a s. Thomn- 'rhesis probanda est: Fa!-
+sorum syllogismorum non sunt eadem principia. Probatur autem hoc
+modo. Dantur conclusiones falsae, quae sibi invicem contrarie opponuntur
+et ideo sunt incompossibiles. ut, iustitia est iniustitia, iustitia est timon·
+homo est equus, homo est bos ,· aequale est maius, aequale est minias.
+Atqui falsae conclusiones oppositae et incompossibiles non possunt in-
+

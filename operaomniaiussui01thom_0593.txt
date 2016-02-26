@@ -1,0 +1,204 @@
+⁸ Num. 3.
+
+* x: ent talis.
+
+⁴ [Λα. praee.- r:
+m oureus.
+
+CAP. XII, LECT. XXII
+
+numero et in sequentibus tertiae quaestioni. - In scientiis demon-
+strativis non est paralogismus in dictione.- probatur exemplo
+dictionis aequivocae. - 6. Praemittitur quod in demonstrativis
+non potest fieri instantia nisi universalis. - 7. In scientiis de-
+monstrativis non potest fieri paralogismus extra dictionem. -
+8. Paralogismus secundum fallaciam consequentis. — 9. In scien-
+tiis demonstrativis non accidit deceptio ex hac fallacia. — ιο. Pro-
+batur imprimis ex eo quod in demonstrativis scientiis impos-
+
+ 
+
+* ³ s terrogationes, responsiones et disputa-
+
+.- '. tiones3 hic ostendit quod in qualibet
+scientia sunt propriae deceptiones et ignorantiae.
+Et dividitur in partes duas: in prima, movet quas-
+dam quaestiones3 in secunda, solvit; ibi: Secun-
+dum geometriam vero * etc.
+
+2. Ponit ergo primo tres quaestiones, quarum
+prima cst *. Cum sint quaedam interrogationes
+geometricae, ut ostensum est ²¹³, nonne sunt etiam
+quaedam non geometricae? Et quod quaeritur de
+geometria α, potest de qualibet alia scientia quaeri.
+- Secundam quaestionem ponit3 ibi: Et secundum
+unamquamque etc., quae talis est. Utrum inter-
+
+- rogationes quae sunt secundum ignorantiam, quae
+
+est in unaquaque scientia, possint dici geome-
+tricae, et similiter alicui alii scientiae propriae?
+Dicuntur autem interrogationes secundum igno-
+rantiam alicuius scientiae, quando interrogatur de
+his, quae sunt Ρ contra veritatem scientiae illius.-
+Tertiam quaestionem ponit3 ibi: Et utrum secun-
+dum ignorantiam etc„ quae talis est. In unaqua-
+que quidem scientia accidit ⁷ decipi per aliquem
+syllogismum, quem vocat secundum ignorantiam.
+Contingit autem per aliquem syllogismum dece-
+ptionem accidere dupliciter ⁸: uno modo, quia
+
+α) H quod quaeritur de geometria—Hanc lectionem codd. praetu—
+limus Pianae et codd. GI (et quod de geometria dicitur) ,· quia requi-
+ritur ab immediate sequentibus.—- Praeterea codices (exc. ΑΜΕ) sequi-
+mur legendo: potest Δκίε-Ἴ et (exc. R) de qualibet alia ; PAMR: potest
+etiam de...; PR omittunt alia.
+> β) Quando interrogatur de his, quae sunt etc.- Est lectio codd„
+exc. GK. -Ρι quando de his interrogatur etc.; G legit: quando de his,
+quae sunt circa (corrupte pro contra) ueritatem illius, quaeritur. - Unus
+ood- K: quando interrogatur de oppositis (marg. add. idest) de Ῑιίς, quae
+sunt etc.
+
+γ) In unaquaque quidem scientia etc.— Ita codices, exc. Gt, qui cum P
+legunt: in... contingit decipi. — Praeterea PHKLNR om. quadem,- CDE
+QS: scientia quidem. - Denique G infra: quem vocat syllogismum se-
+cundum ignorantiam.
+
+ὃ) Contingit autem per aliquem etc.-Unus G contra P et ceteros
+codices legit: convenit autem syllogismum per aliquam deceptionem
+accidere dupliciter. Quae est lectio non sustinenda. Accidere autem ha-
+bent etiam codd. alii, exc. 1, qui cum Ρ legit πεῖρεν-ε.- Codd., exc. G,
+prosequuntur: uno modo; PG: uno quidem modo. -· Magis autern sunt
+notandae variantes lectiones, quae sequuntur. Lectio a nobis adoptata est
+codd„ paucis exceptis, quae notantur; scilicet: Unus C semel et iterum
+pro quia peccat, habet quod peccat5 B: debitum modum et sormam;
+H: non seruando debitam sormam syllogisticam, scilicet debitam fi-
+guram et modum ,· N: non servando debitum modum figurarum. Lectio
+codicis H magis dilucida' est, sed non potest adoptari contra auctoritatem
+aliorum codicum. ·- PG ordine inverso legunt: uno quidem modo quando
+(G: quia) peccat in forma, non servando debitam sormam ( G: sigu-
+ram) syllogismi (G om. syllog.) et modim,- alio modo, quando (G:
+quia) peccat in materia, procedens ex falsis. Quae inversio non est
+secundum ordinem eorum, quae immediate a s.Thoma adduntur. Deinde
+forma syllogismi est quasi genus complectens tum figuram tum modum
+(Cf. lect. 1, not. η); et ideo improprie dicitur, non servando sormam
+syllogismi et modum, quasi modus ad formam syllogismi non per-
+tineat. Recte codices: non seruando debitam figuram et modum, seu,
+ut H legit: non servando debitam sormam, scilicet debitam figuram
+et modum. in quae forma dividitur.
+
+ε) Unde et in 1 Topicorum etc. —0 Codex A omittit verba, qui est
+syllogismus, et de peccante in forma ‚· sed est mendum, ut ex dicendis
+erit manifestum. -- Loc. cit. ex Topicis, Aristoteles praemittit definitionem
+
+223
+
+sibile est syllogizari verum ex falsis: ex vero autem nonnisi
+verum sequi potest, sine ulla deceptione. - 1 ι. Deinde probatur
+ex eo quod demonstratio procedit ex iis quae ut plurimum sunt
+convertibilia, quia scientiae demonstrativae accipiunt pro medio
+definitiones. — 12. Tertio probatur ex eo quod demonstratio
+procedit ex principiis determinati53 et ideo ex conclusionibus
+potest rediri in principia, sicut ex determinato in determina-
+tum.
+
+peccat in materia, procedens ex falsis3 alio modo,
+quia peccat in forma, non servando debitam
+figuram et modum. Et est differentia inter hos
+modos duos *z quia ille qui peccat in materia,
+syllogismus est, cum observentur omnia *, quae
+ad formam syllogismi pertinent. Ille autem qui
+peccat in forma non est syllogismus *, sed paralo-
+gismus, idest apparens syllogismus. In dialecticis
+quidem utroque modo contingit deceptionem fieri.
+Unde et in l T opicorum ⁴‘ Aristoteles facit men-
+tionem de litigioso, qui est syllogismus, et de
+peccante in forma, qui non est syllogismus, sed
+apparens ’. Est ergo quaestio, utrum syllogis-
+mus ignorantiae, qui fit in scientiis demonstrati-
+vis, sit syllogismus ex oppositis scientiae, idest
+ex falsis procedens, aut ²⁵ paralogismus, scilicet
+peccans in forma: qui non est syllogismus, sed.
+apparens.
+
+3. Deinde cum dicit: Secundum geometriam etc.,
+solvit praedictas quaestiones: et primo, solvit pri—
+mam3 secundo, secundam; ibi: De geometria
+autem * etc.; tertio, tertiam3 ibi: In doctrinis
+autem ²³⁴ etc. Dicit ergo primo quod interrogatio
+omnino non geometrica ζ est illa, quae omnino fit
+ex alia arte, sicut ex musica. Ut si quaeratur in
+geometria, utrum tonus possit dividi in duo se-
+mitonia aequalia*; talis interrogatio est omnino
+
+syllogismi in genere, dicens quod syllogismus est oratio, in qua, po-
+sitis quibusdam, aliud quiddam a positis (seu praemissis) diversum
+(nempe conclusio) necessario efficitur per ea quae posita sunt: Ἔστι ’δὴ
+συλλογισμὸς λόγος ἐν ᾧ τεθέντων τινῶν ἔτερόν τι τῶν κειμένων ἐξ ἀνάγκης
+συμραινει διὰ τῶν κειμένων (cap. 1, n. 3). Haec definitio respicit sormam
+syllogismi, hoc est ordinem consequentiarum ad praemissa (Cf. lect. nr,
+not. γγ). Praeter sormam autem, quae eadem est semper, in syllogismis
+consideratur materia, hoc est tres termini et propositiones, ex quibus
+species syllogismi desumuntur: si enim conclusio infertur ex veris et
+primis, habetur s llogismus demonstrativus: Ἀπόδειξις μὲν οὖν ἐστίν,
+ὅταν ἐξ ἀληθῶν και πρώτων ,ὁ συλλογισμὸς ᾖ, ἢ ἐκ τοιούτων ἃ διά τινων
+πρώτων καὶ ἀληθῶν τῆς περὶ αὑτὰ γνωσεως τὴν ἀρχὴν εἴληφεν (ib. n.4.—- ef.
+lect. w, n.'14 et nonu). Dialecticus autem, qui etiam sophisticus ab Aristotele
+quandoque vocatur per oppositionem ad syllogismum demonstrativum
+(Cf. supra, lect. xm, n. 7), nonnisi ex probabilibus procedit et probabilia
+
+'⁵ Modos om. cn
+ειιυικοριιεη n
+om. duos ,· a: in-
+ter hos duos syl-
+logismos.
+
+⁸ c: ibi omnia.
+⁸ Codd.- 1²:517!-
+Iogtsmus qui em
+non est.
+
+⁸ Cap. ι.
+
+“ nenuuoqn: aut
+εἰη εις an sit.-
+Codd.: idest pec-
+cans.
+
+⁶ Num. 4.
+
+' Nurn. 5.
+
+ζ
+
+‘ (Ξορἀ - r: duos
+semntonos ae-
+quales. ·
+
+concludit: Διαλεκτικὸς δὲ συλλογισμὸς ὁ ἔξέν δόξων συλλογιζόμενος (ib. n.5). .
+
+Denique contentiosus seu litigiosus syllogismus dicitur qui procedit ex iis
+quae probabilia videntur, non tamen sunt, et qui ex probabilibus, aut
+ex his quae probabilia apparent, concludere videtur, nec tamen concludit:
+Ἐ zanab< δ’ ἐστὶ συλλογισμὸς ὁ ἐκ φαινομένων ἐνδόξων, μὴ ὄντων δέ,
+και ὀ ἐξ ἐνδᾶξων ἥφαινομένων &vastum φαινόμενος (ib. n. 8.- Cf. loc. cit.).
+lgitur syllogismus contentiosus duplex est. Etenim vel peccat in materia
+quatenus assumit propositiones praemissas, quae probabiles videntur nec
+tamen sunt probabiles: et hoc sensu vere syllogismus dici potest: 'O
+μὲν οὖν πρότερος τῶν ῥηθέντων ἐριστικῶν συλλογισμῶν καῖ συλλογισμὸς
+λεγέσθω (ib. ). Vel peccat in forma, quatenus concludere videtur ex pro-
+babilibus, sed non concludit: ‘O δὲ λοιπὸς ἔριστικὸς μὲν συλλογισμός,
+συλλογισμὸς ’δ’ οὗ, ἐπειδὴ φαίνεται μὲν συλλογίζεσθαι, συλλογίζεται δ’
+ol'» (ib. ). syllogismus peccans in forma dicitur paralogismus, hoc est
+apparens non verus syllogismus, qui cum sit falsus, dicitur etiam pseu-
+dographus (Cf. Sylvestr. Maur. in 1 Topicorum, cap. ι).
+
+ζ) Interrogatio omnino non geometrica.—-Codd.AL omittunt omnium·
+D non recte: non omnino geometrica5 E: interrogatio omnino non
+geometrica est ita non geometrica quod sit omnino ex alia arte. Quae
+lectio non recta est: nam s. Thomas definitionem dat interrogationis non
+geometricae, dicens quod sit illa quae fit ex alia arte: ἢ ἐξ ἄλλης τέχνης
+formam autem definitionis haud habet lectio E, sed potius subaudit.
+Cod. 1: Dicit ergo quod secundum quod interrogatio erit non geome-
+trica, sed omnino erit ex alia arte. Lectio ad‘minus intricata.
+

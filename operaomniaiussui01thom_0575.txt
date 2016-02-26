@@ -1,0 +1,218 @@
+⁸ mutuno ε
+
+sufficit.
+
+¹ Bryso.
+
+ἓ nmooqns:
+
+⁴ codd.: aliquod
+lu, aliua) autm.
+⁸ x: aad extra
+
+ter-ibitur: ⁸ ΑΜΕ
+
+Rimata
+
+CAP. 1x, LECT. xvn
+
+·codd.-m‹1uod et immediatis, sed oportet ulterius quod ²¹² demon-
+
+ulterius dem.
+⁸ Princip. om.
+codd„ exc. n.
+
+stretur ex principiis ¹⁸ propriis.
+
+2. Secundo; ibi: Est enim sic demonstrare etc„
+probat propositum, scilicet quod non sufficiat * ex
+veris et immediatis aliquid demonstrare, quia sic
+contingeret aliquid demonstrare, sicut Bryso de-
+monstravit tetragonismum, idest quadraturam cir-
+culi, ostendens aliquod quadratum esse circulo ae-
+quale per aliqua principia communia, hoc modo:
+In quocunque genere est invenire aliquid maius * et
+minus alicui, in eodem est invenire et illi aequa1e;
+in genere autem quadratorum est invenire ali-
+quod quadratum minus circulo, quod scilicet scri-
+biturintra circulum, et aliquod * maius circulo, in-
+tra quod circulus * describitur3 ergo est invenire
+aliquod quadratum circulo aequale. Haec quidem
+probatio est secundum commune: aequale enim,
+et maius ⁸, et minus, excedunt genus quadranguli
+
+γ) Non scit secundum quod illud est.- Est lectio codd. ABDEGILO
+QRST; et est melior P, iuxta dicta lect. xi. - H: secundum quod illud
+quod est,· ΜΝ et C prima manu: secundum illud est; P: secundum
+illud quod est.
+
+δ) mximum esse secundum genus conclusioni.-A: secundum eius
+conclusionem ,- BDGH: secundum consequens conclusionem, vel forte,
+conclusioni ‚· K: secundum genus conclusionum,· 0: secundum antece-
+dens (alius habet consequens) conclusioni.—Verba, alius habet conse·
+quens, sunt in codice, sed intra parenthesim clausimus, quia videntur
+marginalis additio, quam, retenta simul priori lectione (antecedens),
+amanuensium imperitia textui postea inseruit. Ed. a: secundum quod
+genus consequens conclusioni. Sed sunt lectiones non curandae. -Thesis
+qmd demonstratio propter· quid (de hac enim, ut saepe monuimus, est
+sermo in hac prima parte de demonstrationis natura) debeat procedere
+ex principiis non communibus sed propriis rei demonstratae, datur ab
+Aristotele quasi corollarium eorum, quae in praecedentibus lectionibus
+detenninata sunt, quod nempe demonstratio sit ex his et de his, quae
+sunt per se et secundum quod ipsum (lect. ιι), et quod non liceat
+transire de genere in genua, sed quod in eodem genere debeant esse
+extrerm et medium conclusionis (lect. xv, n. 6 et not. μ). Quocirca in
+expendendo processu argumentativo ad probandam thesim huius lectionis
+lector prae mente habeat ea quae in praecedentibus lectionibus fuerunt
+declarata.
+
+Unum tamen dubium oritur ex hac ipsa thesi, quod hoc loco sol·
+vendum est. Saepe enim dicitur turn ab Aristotele, tum a s. Thoma,
+tum ab omnibus philosophis, quod principia propria metaphysicae ita
+'aunt propria huius scientiae, ut etiam sint communia aliis scientiis (Cf.
+infra, n. 4). Ex quo sequi videtur ad demonstrationes non de necessitate
+requiri quod principia assumpta sint propria rei demonstratae: principia
+'enim propria veritatem non habent nisi ex principiis universalior-ibus,
+et, propter quod unumquodque tale, i11ud magis (lect. vr, n. 3).
+
+Ad solvendum hoc dubium praenoto ι’, principia communia hocloco
+sumi non prouti distinguuntur a singularibus (demonstratio enim, ut con-
+· atat ex dictis lect. praeced„ nonnisi ex communibus, hoc est universalibus,
+, procedit), sed prouti distinguuntur a propriis, ut est manifestum ex dictis
+in hac lectione. · Praenoto 2⁶, principia communia hoc loco sumi non
+in sensu absoluto, respectu nempe cuiusque demonstrationis, sed in sensu
+relativo, respectu nempe subiecti huius vel alterius scientiae. Quod ideo
+dico, quia ea, quae sunt communia respectu unius scientiae, possunt esse
+propria alterius: quo in casu haec secunda scientia procedit ex principiis
+communibus, non ut communia sunt, sed ut sunt sibi propria. Exemplo
+sit metaphysica, quae considerat ut propria, principia aliis scientiis infe-
+rioribus communia (Cf. infra, n. 4).—Praenoto 3¹¹, dupliciter aliquid esse
+alterum, et illud conn'nere in suo conceptu, nempe virtualiter vel formali-
+ter. Quam distinctionem ut perspicue declaremus (ab ea enim pendet
+recta intelligentia thesis), sistamus in conceptu aliquo generico. Substan-
+tia, e. g„ est de essentia et de definitione viventis, et vivens est de ra-
+tione et definitione animalis. et animal est de essentia et definitione homi-
+nis. Atqui si quaeratur, utrum substantia sit formaliter vivens, vel vivens
+formaliter animal, vel animal formaliter homo, respondetur negative et
+merito: secus enim omnis substantia esset vivens, et omne vivens esset
+
+animal, et omne animal esset homo. Ratio autem negationis est quia·
+
+quamvis genus sit de essentia speciei, quia est eius pars metaphysica,
+tamen genus constituitur species per differentiam (e. g. animal constituitur
+homo per rationalitatem) quae est extra conceptum et naturam generis;
+et ideo quamvis genus sit pars essentialis speciei, quia tamen non est
+differentia (quae est altera pars, et quidem formalis speciei, ut dictum
+est 1 Per-ih„ lect. vm, n. 9), non potest dici formaliter species. —Nihil-
+ominus genus est, ut diximus, de essentia seu conceptu speciei (sicut
+animal est de essentia hominis) ut pars essentialis ipsius, trahiturque
+ad speciem per susceptam differentiam: ita scilicet ut genus concipia-
+tur veluti quoddam potentiale et indeterminatum, quod actuatur et de-
+
+205
+
+et circuli. Unde patet quod huiusmodi rationes
+demonstrant* secundum aliquod commune, quia
+medium alteri inest, quam ei de quo fit demon-
+stratio; et ideo huiusmodi rationes * conveniunt
+aliis, et non conveniunt istis, de quibus dantur,
+tanquam proximiS. Unde patet quod *³ qui scit per
+huiusmodi rationes, non scit secundum quod illud⁷
+est, idest per se, sed per accidens tantum. Si enim
+esset* secundum se, non conveniret demonstratio ⁸
+in *¹ aliud genuS. Unumquodque enim scimus secun-
+dum accidens, cum non cognoscimus illud secun-
+dum quod est ex principiis illius, idest secundum
+quod est ex principiis per se. Sicut habere tres
+angulos aequales duobus rectis inest per se trian-
+gulo, idest* secundum quod est ex principiis illius. ⁸
+Quare si per se inesset medium acceptum con-
+clusioni, necesse esset in eadem proximitate esse,
+idest proximum esse secundum genus conclusioni δ.
+
+terminatur per differentiam. Aliis verbis, genus est non quidem forma-
+liter, ut dictum est, sed virtualiter ipsa species. —- Praenoto 4⁰, ex hoc
+tertio praenotamine sequi necessario quod qui cognoscit solummodo
+genus, cognoscit quidem speciem, at non secundum quod est species,
+hoc est formaliter, sed secundum quod genus est species, hoc est
+virtualiter: aliis verbis, qui cognoscit communia, non cognoscit pro-
+prium speciei, quod est ipsa specifica differentia, qua species et consui
+tuitur in sua essentia, et distinguitur a ceteris rebus positis sub eodem
+genere.— Si (intellectus), inquit apposite s. Thomas, cognosceret bovem
+per speciem asini, cognosceret eius essentiam imperfecte, scilicet quan-
+tum ad genus tantum ,⁴ magis autem imperfecte si cognosceret per·
+lapidem, quia cognosceret per genus magis remotum (Compend.Theol.,
+cap. cv.—-Cf. p. 1, qu. LxxxV, artic. ¹113 Qq. dispp. De veritate, qu. vin,
+De cognitione angelorum, artic. ι),
+
+His praenotatis, iam patet via ad solutionem propositi dubii. Nam
+in demonstratione principia possunt considerari respectu conclusionis
+demonstratae sicut genera et specieS, tum quia definitio assumitur ut
+principium demonstrationis propter quid, ut iam dictum est (lect.x111‚
+n. 3, et xw, n. 5) et infra plenius ostendetur (lib. ΙΙ), definitio autem
+est ipsa natura generis vel speciei definita; tum quia ideo praedicatum
+in demonstratione propter quid concluditur esse de ratione subiecti,
+quia in maiori est de ratione medii sub quo in minori affirmatur com-
+prehensum ipsum subiectum conclusionis, iuxta ea quae lect. ix dicta
+sunt quoad principium dici de omni (Cf. etiam lect. xm, n. 3); tum de-
+nique quia principiorum veritas participatur a peculiaribus veritatibus
+conclusis, non secus>ac namra generis participatur a sibi subiectis spe-
+ciebus. Ergo 1”, sicut genus ingreditur naturam speciei, et est virtualiter
+species, ita principia communia (obiecta propria metaphysicae) ingre-
+diuntur principia propria peculiarum scientiarum, et sunt virtualiter ipsa
+propria principia; sed ι’, sicut per cognitionem generis habetur quidem
+virtualis, non tamen formalis seu propria cognitio speciei (quia genus
+non est formaliter species), ita per principia communia habetur cognitio
+virtualis principiorum peculiarium scientiarum, non autem formalis seu
+propria eorumdem, et consequenter neque propria cognitio rei demon-
+stratae, quia principia communia non sunt formaliter principia illa se-
+cundaria (Cf. lect. 111); ergo 3⁰, sicut ad cognoscendam speciem non
+sufficit cognitio generis, scd requiritur cognitio proprii, seu differentiae
+specificae, ut sciatur non solum quid per se insit rei ut est genus, sed
+quid ipsimet insit per se ut est species; ita ad cognitionem conclusionis
+demonstratae non sufficit cognoscere principia communia, sed est ne-
+cessaria cognitio principiorum quae sunt propria subiecti de quo de-
+monstratur passio: secus concluditur illud quod est per se subiecti quoad
+genus. non autem quoad speciem.
+
+Exinde patet cur male processerit Bryso, qui contendit demon-
+strare quadraturam circuli. Ponit hoc principium: In quocunque genere
+est invenire magis et minus respectu alicuius, in eodem genere est in-
+venire etiam illi aequale.—- Deinde subsumit: Atqui in genere quadra-
+torum est aliquod quadratum minus et aliquod quadratum maius cir-
+culo.- Ergo, concludit, est invenire quadratum circulo aequale.·- Porro
+principium assumptum est ontologicum, et consequenter, ut probavi-
+mus, qon continet nisi virtualiter conclusionem geometricam, quae est
+de subiecto quantitativo. Et quia ex hoc principio, non proprio geo-
+metriae sed omnibus rerum generibus communi, procedit Bryso, non
+potest concludere geometricam veritatem. Ut concluderet necesse ipsi
+fuisset assumere principium illud geometrice, nempe: Si est invenire
+quadratum maius et minus circulo, est etiam invenire quadratum cir-
+culo aequale. Atqui etc. (ut supra). Ergo etc. (ut supra).·- Processus
+iste esset revera ex propriis principiis; at labor incumberet Brysoni ad
+antecedens syllogismi probandum.
+
+Sed dices: Recte procedit geometra cum in demonstrationibus suis
+assumit hoc principium: Si ab aequalibus aequalia demas, quae re-
+manent sunt aequalia; et alia huiusmodi principia: quae tamen non
+
+''unm-P: de-
+monstrantur.
+
+⁸ n : demonstra-
+tiones.
+
+'¹ Fatet quod
+omittit x.
+
+n: conveniret,-
+1: esset demon-
+strare.
+
+⁶ x: ad.
+
+Ides! omitt.
+codd.
+
+0!
+

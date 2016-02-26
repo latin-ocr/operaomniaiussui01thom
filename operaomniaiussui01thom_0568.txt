@@ -1,0 +1,223 @@
+198
+
+unum genus, quando assumitur circa subiectum
+aliqua differentia extranea a natura illius gene-
+ris; sicut visuale est extraneum a genere lineae,
+
+'Estextraneus et sonus est extraneus '¹‘ a genere numeri. Nu-
+
+ex codd.
+
+· Βωῑιιωακετ.
+- r: sonorus.
+
+merus ergo simpliciter, qui est genus subiectum
+arithmeticae, et numerus sonorum ³¹², qui est genus
+subiectum musicae, non sunt unum genus sim-
+
+·1221mp1.,.=ea pliciter *. Similiter autem nec linea simpliciter,
+
+sic (Cf. supra).
+
+² Ertrernitas ex
+codd. - er: est
+subiectum.
+
+·· Cf. lect. vm,
+not. ρ.
+
+· c: in eodem ge—
+nere.
+
+'¹ Num. 4.
+
+t
+
+· Codd.: demon-
+strationibus. ef.
+princip. huius
+num.
+
+quam considerat geometra, et linea visualis, quam
+considerat perspectiVUS. Unde patet quod quando
+ea, quae sunt lineae simpliciter, applicantur ad
+lineam visualem, fit quodammodo descensus in
+aliud genus: non autem quando ea, quae sunt
+trianguli, applicantur ad isoscelem ⁰.
+
+6. Secundo3 ibi: Ex eodem enim genere etc.,
+ostendit propositum hoc modo. Oportet in de-
+monstratione eiusdem generis esse medIa et ex-
+trema. Extrema autem in conclusione continentur.
+Nam maior extremitas in conclusione est prae-
+dicatum; minor vero extremitas ⁸ subiectum **;
+medium autem in praemissis continetur. Oportet
+igitur principia et conclusiones circa idern* genus
+sumi. Cum autem huic coniunxerimus quod di-
+versae scientiae ⁴⁸ sint circa diversa genera sub-
+iecta ¹; ex necessitate sequitur quod ex principiis
+unius scientiae non concludatur aliquid in alia
+scientia, quae non sit sub ea posita.
+
+Quod autern in demonstratione* oporteat media
+et extrema unius generis esse, sic probat. Detur
+enim quod mediumsit alterius generis ab extre-
+mis, sicut si extrema sint triangulus et habere tres
+
+geometra de triangulo procedat ad demonstrandum aliquid de isoscele
+(etiam Q, de isoscele) vel de aliqua specie triangu1i; R: si quis per
+principia demonstrantia aliquid de triangulo etc.-Cod.'M verba se-
+cundum quid autem etc. usque ad aliqua differentia inclusive omittit.
+Sed est mendum manifestum.
+
+θ) Unde patet etc. —- Manifestum est ergo quod ea quae sunt numeri
+demonstrantur ab arithmetica per principia sibi propria, sicut ea quae
+sunt lineae simpliciter demonstrantur a geometria per principia propria
+geometriae. At contra ea quae sunt musicae et perspectivae non sunt
+obiecta propria et simpliciter arithmeticae et geometriae, nec tamen de-
+monstrantur per principia propria musicae et perspecfivae, sed per prin-
+cipia supposita et accepta ut certa ex arithmetica et geometria. Porro
+hoc pertinet ad subalternationem scientiarum ita nempe ut scientia, quae
+accipit sua principia ab altera scientia superiori, dicatur subalternam
+alteri ex qua accipit principia, et quae ideo vocatur subalternans respe-
+ctu suae) subalternatae (Cf. s. Th. p. 1, qu. 1, artic. n, cum Commentar-
+Caietani .
+
+ι) Cum autem huic coniunxerimus...; ex necessitate sequitur etc.—
+Hanc lectionem praetulimus Pianae: cum autem superius dixerimus...
+ex necessitate : sequitur etc.- Etenim codd. ABCDHKNOST legunt: cum
+autem huic coniunxerimus (S secunda manu expungitur huic, et coniun-
+xerimus corrig. in coniunximus) quod diversae scientiae sunt eirca di-
+versa genera subiecta3 ex necessitate sequitur etc. Quae lectio est certe
+aliorum codd., quamvis aliquantulum corrupta. EL: cum autem huic
+contingimus: G: cum autem huic coniunximus; 1: cum adhuc coniun-
+xerimus: MQ: cum autem hic coniungimus.—- Hinc lectio: cum autem
+huic coniunxerimus etc., mihi visa est adoptanda ex codd. auctoritate;
+praecipue vero quia magis videtur connecti cum conclusione immediate
+ante illata: Oportet igitur erm-Venetae edd. 1477 et 1496 concordant
+cum Piana. ·- Codd. CELR infra legunt: quod non sit sub ea posita.
+Quae lectio, uti iacet, adoptanda non est: utrum vero amanuenses scri-
+pserint quod pro quae, vel contra posita pro positum, et consequenter
+innuant in codicibus, ex quibus sumpserunt, hanc lectionem: quoa non
+sit sub ea positum, penes lectores sit iudicium.
+
+a) Per* se inesset aeneo etc. —- Cod. O omittit per se ,· sed erronee:
+nam in illis verbis facienda est vis, ut patet ex ipso exemplo de trisn-
+gulo, et ex declarata namra demonstrationis, quae est de passione, quae
+concluditur inesse per se subiecto, et non per accidens-H loco aeneo
+ponit medio. - codd. (exc. GH): aut aliquid huiusmodi ‚· GH: ve! aliquid
+huiusmodi ,· P: vel aliquid aliud huiusmodi. — Denique BD: quoniam
+per accidens etc.; K: et quod per accidens etc. - Cum codd. autem ex-
+ρυιγυιίῐὲὶιῖιῐιίἶ aliud P, et adoptavimus inesset triangulo. loco inest trian-
+gu.o .
+
+λ) Quod passio vel non per se insit medio etc. Codd. 01: quod
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+angulos* aequales duobus rectis. Manifestum est ⁴
+
+quod passio conclusa de triangulo, per se inest
+ei; non autem per se inest aeneo. Et si e con-
+trario passio* per se inesset aeneo , puta sonorum
+esse, vel aliquid huiusmodi, palam est quod per
+accidens inesset triangulo ²². Unde patet quod
+oportet omnino, si subiectum conclusionis et me-
+dium sint penitus alterius generis, quod passio
+vel non per se insit medio vel non per se insit
+subiecto ²: etita oportet quod alteri eorum insit
+per accidens. Et si quidem insit medio per ac-
+cidens, erit per accidens in ⁴* praemissis; si autem
+subiecto, erit in conclusione: et hoc * ex parte pas-
+sionis. Sed * utroque modo oportebit per accidens
+esse in praemissis, quantum ad hoc quod subie-
+ctum accipitur sub medio: sicut si triangulus ac-
+cipiatur sub aeneo aut e converso. Ostensum est
+autern quod in demonstrationibus tam conclusio,
+quam praemissae sunt per se et non per accidens.
+Oportet ergo in* demonstrationibus medium *et
+extrema eiusdem generis esse μ.
+
+7. Deinde cum dicit: Propter hoc geometriae etc.,
+infert duas conclusiones ex praemissis. Quarum
+prima est quod nulla scientia demonstrat aliquid
+de subiecto alterius scientiae, sive sit scientiae
+communioris sive alterius scientiae disparatae ”;
+sicut geometria non demonstrat quod contrario-
+rum eadem est scientia *ε contraria enim pertinent
+ad scientiam communem, scilicet ad * philoso—
+phiam primam vel dialecticam. Et similiter geo-
+metria non demonstrat quod duo cubi sint * unus
+
+passio vel non per se insit subiecto vel non per se insit medio ; 0:
+quod passio vel non per se insit medio, vel (marg. add„ medium non)
+per se insit subiecto. Alii codices stant pro Piana.
+
+μ) Oportet erg-o... medium et extrema eiusdem generis esse. Ad
+intelligentiam ratiocinii ex quo haec conclusio infertur, recolat novitius
+ea quae supra (lect. praeced.) declarata sunt, scilicet demonstrationem
+esse ex his et de his quae sunt per se. Per se autem dicuntur quae
+sunt de essentia seu de ratione eorum de quibus per se dicuntur, vei
+eamdem essentiam consequuntur-5 et quia essentia vel ratio vel definitio
+unius generis vel speciei non potest esse, ut patet, essentia alterius
+generis vel speciei, sequitur quod ea quae per se conveniunt alicui
+generi subiecto vel alicui speciei non possunt per se alteri-speciei vai
+generi convenire. Insuper eatenus passio (maius extremum) in demon—
+stratione concluditur de subiecto (minori extremo), quatenus in praemi·-
+sis, idem maius extremum est passio medii; et medium est passio al—
+terius extremi (idest minoris). Nempe semper implicite vel explicite
+habetur haec formula primi modi primae figurae (in syllogismis positi-
+vis): M est Ε; E· est M; E' est E. Eatenus in conclusione E affirmatur
+per se de E', quia M in praemissis est per se affirmatum de ipso, et
+
+E per se affirmatum est de M (Cf. lect. tx, not. λ). Ponatur ergo quod
+
+M non sit eiusdem generis cum E'; ergo M non per se affirm-tur de
+E'; ergo neque in conclusione E potest per se affirmari de Εἰ et non
+erit demonstratio. - Ponatur secundo quod Ε non sit eiusdem generi·
+cum E’; ergo non potest Ε affirmari per se de E’, et ideo in praemis—
+sis Ε non affirmatur per se de M. Quod est contra naturam demonstra-
+tionis, cuius est esse ex praemissis per se.··- Ponatur denique quod M
+non sit eiusdem generis cum E; ergo E non per se affirmatur de M,
+et ideo neque in conclusione E per se affirmatur de 13⁹. Nempe con-
+clusio neque esset per se neque ex his quae per se sunt. - Manifestum.
+est ergo quod in demonstrationibus medium et extrema debent esse in
+eodem genere. ,
+
+ν) Sive sit scientiae communioris, sive alterius scientiae dispara-
+tae. —- Cod. 0 haec omnia-verba omittit, sed est mendum. Alii codices:
+siue sit (ΑΒΝ om. sit) scientiae (MR om. scientiae; Q om. siue sit
+scientiae) communioris (R, prioris), sive (M, sive sit ,· N, sive sint) alte·
+rius scientiae disparatae (ELQRST, D sec. man„ et S prima man. eor—
+rupte , dispartitae ,· et corrupte ctiam N et D pr. mam, desperatae). Ergo
+scientiae communioris et scientIae disparatae est lectio communis codd„
+et connexior videtur praecedentibus. Plana enim est ΐοτιιιι dicendi: uuna
+scientia demonstrat aliquid de subiecto alterius scientiae, sive tale subie-
+ctum sit subiectum communioris scientiae, sive scientiae disparatae.
+Quibus verbis eadem argumentationem s.Tbomae proponit Dominicua
+a Flandria in 1 Poster„ qu. xx, artic. 1.- P: sive sint scientiae commu·
+niores, sive sint scientiae disparatae.
+
+co gitidngulos ex
+
+· n: aliqua pae-
+sio.
+
+’t
+
+λ
+
+⁸ o: etiam in.
+· Hoc omitt. ι.-
+
+’ωοε si.
+
+}nCodd. - r: σε
+
+· m: anapa-
+
+Ξῖῃὸοὲἀα. (exe. ar)
+
+· u: non mnae&
+noa est error.
+

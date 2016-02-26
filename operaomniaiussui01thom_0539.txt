@@ -1,0 +1,225 @@
+ 
+
+CAP. III, LECT. VIII
+
+formam argumentandi praemissam ostendit quod
+in circulari demonstratione concluditur idem per
+idem, sumptis duobus terminis tantum. Erit enim
+dicere: Si est A, est B; et reflectendo (quod est
+circulariter demonstrare): Si est B, estA' ⁹. Ex qui-
+bus duobus sequitur, secundum formam arguendi
+praemissam, Si est A, est A. Quod sic patet. Si-
+cut enim in prima deductione, quae fiebat per
+tres terminos, ad B sequebatur C; ita in dedu-
+ctione reflexa duorum terminorum, ad B sequi-
+tur A. Ponatur ergo quod idem significet A in
+secunda deductione reflexa, quod C significabat
+in prima· directa, quae est per tres terminos. Igi-
+
+·, tur dicere in secunda deductione, Si est Β, est A,
+
+ξ
+
+'nnn-netis,-
+οε etiam in.
+
+*Codd. (exc. ιιι
+nl: nonno-are.
+
+'codex-mlum:
+putantum.
+,515 ’
+
+est hoc ipsum quod erat dicere in prima dedu-
+ctione, Si est B, est C. Sed cum dicebatur ε in
+prima deductione, Si est Β, est C, sequebatur, Si
+est A, est C. Ergo in ⁴⁵ deductione circulari sequi-
+tur, Si est A, est A: quia C cum A idem ponitur. Et
+italeve erit demonstrare ⁴* omnia, ut dictum est.
+7. Tertiam rationem ponit; ibi: At vero nec hoc
+possibile est etc. Quae talis est *. Ponentes omnia
+posse sciri per ‘demonstrationem , quia demon-
+stratio est circularis, necesse habent dicere quod
+
+idem, seu est petitio principii: aliis enirn verbis idern est ac dicere:
+Petrus est homo quia est animal rationale‚· Petrus est animal rationale,
+quia est homo ‚· seu, A est A, quia est A.
+
+ν) Erit enim dicere etc. Est lectio omnium codd. quoad transposi-
+tionem, quam adoptamus. — P: est (et ita codd. MNOQRST) enim... et
+reflectendo: si est Β est A: quod est circulariter demonstrare. — Cod. Ο
+eaquae sequuntur, ex quibus etc usque ad si est A est A, omittit. Sed
+est mendum manifestum.
+
+ξ) Sed cum dicebatur... Ergo etc. Forma huius argumenti hoc modo
+legitur in ed. Piana et in codd.‚ exc. BGL.— Diminuta refertur lectio a
+cod. B: sed in prima deductione sequebatur, si est A, est C‚· ergo et
+in deductione circulari sequitur, si est A, est A, quia C cum A idem
+ponitur. —- Cod.L est magis imperfectus quam B: omittit enim verba
+omnia, sed cum etc. usque ad sequebatur exclusive.·- Cod. G omittit
+verba dicebatur et sequebatur.-Praeterea cum codd.‚ exc. HKQT, le-
+
+'mus paulo infra: quia C cum A idem ponitur, loco Pianae: cum A
+dem ponatur quod C.- Codd. HKQT mendosi sunt: quia (H, quod)
+cum (T, quia est)Aidem ponatur. Et ita etc.—Tom. quia C cum A.
+
+o) Hoc autem non potest fieri.-G: hoc... nisi ex his, quae se in-
+vicem conver-tuntum· et quae se invicem convertuntur habent etiam
+codd. ACDELOQRST.— Codd. HN: quae sibi invicem convertuntur5 1:
+quae in se invicem etc.; KM: quae inter se invicem etc.—Denique‚
+idest convertibilia etc. Codd. CDEHKLMQRST: idest convertibilia,
+sicut sunt propria,- ABGINO: idest convertibilia sunt, sicut sunt pro-
+prta.
+
+Addit s. Thomas, sicut propria. ln omni re duo sunt consideranda,
+scilicet essentia, et ea quae consequuntur essentiam (sicut capacitas
+sciendi et risibilitas in homine), quae non sunt ipsa substantia seu es·-
+sentia rei, sed accidentia eius, non quidem separabilia, sed inseparabilia,
+dicta propterea accidentia per· se. Et dicuntur etiam propria, quia cum
+consequantur essentiam determinatam, ita sunt propria illius, ut nullo
+pacto in alia essentia inveniantur Cf. lect. 11, not. α) -Hinc sicut de-
+finitio essentialis convertitur cum efinito, et vere dicimus: omnis homo
+est animal rationale. omne animal rationale est homo ; ita vere etiam
+dicimus: omnis homo est risibilis ,· omne risibile est homo. De conver-
+sione propositionum vide supra n. 2, nota α. ”
+
+π) Secundum positionem istorum (H, ipsorum) ete-lta omnes co—
+dices.- P: secundum positionem istorum patet: quia ostensum est etc.
+
+p) Monstrare in prima figura. —- Figura syllogismi est dispositio ex-
+tremorum cum tertio, quod dicitur medius terminus seu simpliciter me-
+aium, ut videatur an simul cum isto extrema conveniant, an unum
+conveniat et alterum non (Cf. lect. 1, not. η); et sic inferatur eadem ex-
+trema inter se convenire vel non convenire, vi illorum axiomatum: quae
+sunt eadem uni tertio, sunt eadem inter se,·-—duo, quorum unum con-
+venit cum tertio et alterum non convenit, non conveniunt inter se.—
+Quibus positis facile est intelligere quod dispositio extremorum cum
+medio, triplex esse potest. Supponuntur M terminus medius, E unum ex-
+tremum, E' alterum extremum; et en variae dispositiones.
+
+1⁸. M est E
+E' est M
+E' est E
+
+In hac dispositione medius terminus M est subiectum in maiori, et
+praedicatum in minori: et quoties syllogismus habeat extrema disposita
+
+Opp. D. Tnonna T. 1.
+
+169
+
+omnia possunt demonstrari demonstratione cir-
+culari3 et ita necesse habent dicere quod in de-
+monstratione circulari ex copclusione possit con-
+cludi ⁹⁶ utraque praemissarum. Hoc autem non
+potest fieri nisi in his, quae ad se invicem conver-
+tuntur ⁰, idest convertibilia sunt, sicut propria.
+Sed non omnia sunt huiusmodi. Ergo vanum est
+dicere quod omnia possunt demonstrari, propter
+hoc quod demonstratio est circularis.
+
+8. Quod autem oporteat in demonstratione cir-
+culari omnia esse convertibilia secundum positio—
+nem istorum, sic ostendit π. - Ostensum est in libro
+Priorum*quod, uno posito, non sequitur ex ne—
+cessitate aliud ⁷²³3 nec posito uno termino, nec po-
+sita una propositione tantum. Nam omnis syllo-
+gismus est ex tribus terminis et * duabus propo-
+sitionibus ad minus. Oportet ergo accipere tres
+terminos convertibiles in demonstratione circula-
+
+ri, scilicet A, B, C *3 ita quod A insit omni B et -
+
+omni C, et haec scilicet B et C inhaereant sibi
+invicem, ita quod omne Β sit C, et omne C sit
+B, et iterum haec * insint ipsi A, ita quod omne
+A sit B, et omne A sit C. Et ita se habentibus
+terminis , contingit * monstrare in prima figura Ρ
+
+hoc modo cum medio dicitur syllogismus in prima figura. —Notandum
+quod maior syllogismi proprie dicitur, non illa quae primo pronuncia—
+tur seu ponitur, sed quae continet praedicatum conclusioniS, minor autem
+illa est, quae habet eiusdem conclusionis subiectum (Cf. infra lect. xv,
+n. 6). E. g., Omne animai est substantia‚· omnis homo est animal;
+omnis homo est substantia. Praedicatum huius conclusionis (substantia)
+est in prima propositione (omne animal etc.). Haec igitur est maior
+enunciati syllogismi: Maior, inquam, est, etiamsi materialiter primo loco
+non poneretur, ut puta si diceretur: Omnis homo est animal ,· omne
+animal est substantia ; omnis homo est substantia-Hinc extremorum
+terminorum alius dicitur maior extremus (ex quo dicitur maior propo-
+sitio), alius dicitur minor extremus (unde minor propositio). Ratio
+est quia praedicatum propositionis generatim habet maiorem extensio-
+nem, seu universalitatem quam subiectum.
+
+112. E est M
+E’ non est M
+E' non est E
+
+In hac secunda dispositione, M, seu terminus medius, est praedicatum
+in utraque praemissa3 et syllogismus dicitur in secunda figura.
+
+111³. M est E
+M est E'
+E' est Ε
+
+In hac tertia dispositione Μ, seu terminus medius, est subiectum in
+utraque praemissa ; et syllogismus dicitur in tertia figura.
+
+His additur a nonnullis quarta dispositio, quae vulgo dicitur figura
+Galenica, quasi a Galerio inventa, et est quando medius terminus prae-
+dicatur in maiori et subiicitur in minori, nempe:
+
+Νι. E est M
+M est Ε
+Ε’ est E
+
+Sed haec quarta figura commode reduci potest ad primam figuram
+indirectam, in qua conclusio infertur, sed eius terminis conversis. Ex. gr.
+figura directa est: Omne animal est sensitivam omnis homo est ani-
+ma1‚· omnis homo est sensitivus. Indirecta (et quarta) figura evadit, si
+ordinem praemissarum invertas, ac dicas: ergo aliquod sensitivam est
+homo. - Hanc igitur quanam figuram, nec non caeteras figuras indirectas
+missas facimus, et de legibus cuique figurae directae praefixis dicen-
+dum suscipimus (Videsis Aristotelem, Priorum analyticorum, lib. 1,
+cap. ιν, seqq.).
+
+Sciunt omnes syllogismum non pro lubito formari posse, sed ad
+recte inferendam conclusionem, ad quod assumitur, suis legibus regi,
+intra quas contineri debet. Et quia in syllogismo et termini habentur
+et propositiones, ex utraque parte leges assignantur.- Quatuor sunt leges
+pro terminis: 18 In omni syllogismo sint tres termini tantum: nam fit
+comparatio extremorum cum medio ad deprehendendam eorum inter se
+convenientiam vel non convenientiam, ut in principio huius notae dictum
+est.- 2⁸ Extrema non habeant maiorem extensionem in conclusione quam
+in praemissis: quia eadem omnino debet esse in conclusione exn-emo-
+rum comparatio, quae suit eorum comparatio in praemissis cum termino
+medio. - 3⁸ Medius terminus debet excludi a conclusione ; quia assumi-
+tur solummodo in praemissis ut cum eo instituatur extremorum com-
+
+22*
+
+· 1: ex conci.
+concludatur.
+
+0
+
+π
+
+’ Cap.xx11 (al. 23),
+
+3‹enciiiot-ncaliquid.
+
+· Λευῑιαετ : et
+ex.
+
+mmmm· ε
+et C.
+
+⁶ naboan: haec
+iterum.
+
+¹⁵ Codd. (excmnk
+continget.
+
+Ρ
+

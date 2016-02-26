@@ -1,0 +1,152 @@
+' Num. n.
+
+¹ Num. 7.
+
+100 PERI HERMENEIAS LIB. 11
+
+ratim quod, est homo albus albus, verum dices et congrue
+quod est albus, et secundum hoc, si iterum hoc repetes
+separatim, a veritate simili non discedes, et sic in infini-
+tum sequetur, Socrates est homo albus, albus, albus in in-
+finitum. Simile quod ostenditur in alio exemplo. Si quis
+de Socrate dicat quod, est musicus, albus, ambulans, cum
+possit et separatim dicere quod, est musicus, et quod,
+est albus, et quod, est ambulans; sequetur, Socrates est
+musicus, albus, ambulans, musicus, albus, ambulans. Et
+quia pluries separatim, in eodem tamen tempore, enun-·
+ciari potest, procedit nugatio sine fine.
+
+Deinde deducit ad implicitam nugationem‚ dicens,
+cum de Socrate vere dici possit separatim quod, est
+homo, et quod, est bipeS, si coniunctim inferre licet,
+sequetur quod, Socrates sit homo bipes. Ubi est impli-
+cita nugatio. Bipes enim circumloquens differentiam ho-
+minis actu et intellectu clauditur in hominis ratione. Unde
+ponendo loco hominis suam rationem (quod fieri licet,
+ut docet Aristoteles ΙΙ Τορίεοναηι), apparebit manifeste
+nugatio. Dicetur enim: Socrates est homo , idest, animal
+bipes, bipes. Quoniam ergo plurima inconvenientia se-
+quuntur si quis ponat complexiones, idest, adunationes
+praedicatorum fieri simpliciter, idest, absque diversitate
+aliqua, manifestum est ex dictis. Quomodo autem facien-
+dum est, nunc, idest, in sequenthus dicemus. Et nota
+quod iste textus non habetur uniformiter apud omnes
+quoad verba, sed quia sententia non discrepat, legat qui—
+cunque ut vult.
+
+3. Deinde cum dicit: Eorum igitur etc„ solvit propo-
+sitam quaestionem. Et circa hoc duo facit: primo, respon-
+det instantiis in ipsa propositione quaestionis adductis;
+secundo, satisfacit instantiis in probatione positis; ibi:
+Amplius nec quaecumque * etc. Circa primum duo facit:
+primo namque, declarat veritatem; secundo, applicat ad
+propositas instantias; ibi: Quocirca* etc. Determinat ergo
+dubitationem tali distinctione. Praedicatorum sive subie-
+ctorum plurium duo sunt genera: quaedam sunt per ac-
+cidens, quaedam per se. Si per accidens, hoc dupliciter
+contingit, vel quia ambo dicuntur per accidens de uno
+tertio, vel quia alterum de altero mutuo per accidens
+praedIcatur. Quando illa plura divisim praedicata sunt
+per accidens quovis modo, ex eis non sequitur coniun-
+ctim praedicatum; quando autem sunt per se, tum ex
+eis sequitur coniuncte praedicatum. Unde continuando
+se ad praecedentia ait: Eorum igitur quae praedicantur, et
+de quibus praedicantur, idest subiectorum, quaecumque
+dicuntur secundum accidens (et per hoc innuit oppositum
+membrum, scilicet per se), vel dc eodem, idest acciden-
+
+taliter concurrunt ad unius tertii denominationem, velv
+
+alterutrum de altero, idest accidentaliter mutuo se deno-
+minant (et per hoc ponit membra duplicis divisionis),
+haec, scilicet plura per accidens, non erunt unum, idest
+non inferent praedicationem coniunctam.
+
+4.Et explanat utrumque horum exemplariter. Et primo,
+primum, quando scilicet illa plura per accidens dicuntur
+de tertio, dicens: Ut si homo albus est et musicus divisim.
+Sed non est idem, idest non sequitur adunatim, ergo homo
+est musicus albus. Utraque enim sunt accidentia eidem
+tertio. Deinde explanat secundum, quando solum illa
+plura per accidens de se mutuo praedicantur, subdens:
+Nec si album musicum verum est dicere, idest, et etiamsi
+de se invicem ista praedicantur per accidens ratione sub-
+iecti in quo uniuntur, ut dicatur, homo est albus, et est
+musicus, et album est musicum, non tamen sequitur quod
+album musicum unite praedicetur, dicendo, ergo homo est
+albus musicus. Et causam assignat, quia album dicitur de
+musico per accidens, et e converSO.
+
+5. Notandum est hic quod cum duo membra per
+
+accidens enumerasset, unico tamen exemplo utrumque
+membrum explanavit, ut insinuaret quod distinctio illa
+non erat in diversa praedicata per accidens, sed in eadem
+diversimode comparata. Album enim et musicum, com-
+parata ad hominem, sub primo cadunt membro; com-
+parata autem inter se, sub secundosDiversitatem· ergo
+comparationis pluralitate membrorum, identitatem autem
+praedicatorum unitate exempli astruxit.
+
+6. Advertendum est ulterius, ad evidentiam divisionis
+factae in littera, quod, secundum accidens, potest dupli-
+citer accipi. - Uno modo, ut distinguitur contra perseita-
+tem posterioristicam, et sic non sumitur hic: quoniam,
+cum dicitur plura praedicata secundum accidens, - aut
+ly secundum accidens determinaret coniunctionem inter se,
+et sic manifeste esset falsa regula; quoniam inter pri-
+ma praedicata, animal bipes, seu, animal rationale, est
+praedicatio secundum accidens hoc modo (differentia
+enirn in nullo modo perseitatis praedicatur de genere, et
+tamen Aristoteles in textu dicit ea non esse praedicata
+per accidens, et asserit quod est optima illatio, est animal
+et bipes, ergo est animal bipes); - aut determinaret coniun-
+ctionem illarum ad subiectum, et sic etiam inveniretur fal· ·
+sitas in regula: bene namque dicitur, paries cst coloratus, et
+est visibilis, et tamen coloratum visibile non per se inest pa-
+rieti. — Alio modo, accipitur ly secundum accidens, ut distin-
+guitur contra hoc quod dico, ratione sui, seu, non propter
+aliud, et sic idem sonat, quod, per aliud: et hoc modo
+accipitur hic. Quaecunque enim sunt talis naturae quod
+non ratione sui iunguntur, sed propter aliud, ab illatio-
+ne coniuncta deficere necesse est, ex eo quod coniuncta
+illatio unum alteri substernit, et ratione sui ea adunata de-
+notat ut potentiam et actum. - Est ergo sensus divisionis,
+quod praedicatorum plurium, quaedam sunt per accidens,
+quaedam per se, idest, quaedam adunantur inter se ratione
+sui, quaedam propter aliud. Ea quae per se uniuntur
+inferunt coniunctum, ea autem quae propter aliud, ne-
+quaquam.
+
+7. Deinde cum dicit: Quocirca nec citharoedus etc„ ap-
+plicat declaratam veritatem ad partes quaestionis. Et pri-
+mo, ad secundam partem, quia sc'licet non sequitur: est
+bonus et est citharoedus; ergo est bonus citharoedus, di-
+cens: Quocirca nec citharoedus bonus etc.; secundo, ad aliam
+partem quaestionis, quare sequebatur: est animal et est
+bipes; ergo est animal bipes: et ait: sed animal bipes etc.
+Et subiungit huius ultimi dicti causam, quia, animal bipes,
+non sunt praedicata secundum accidens coniuncta inter
+se aut in tertio, sed per se. Et per hoc explanavit alte-
+rum membrum primae divisionis, quod adhuc positum
+non fuerat explicite. Adverte quod Aristoteles, eamdem
+tenens sententiam de citharoedo et bono et musico et
+albo, conclusit quod album et musicum non inferunt
+coniunctum praedicatum; ideo nec citharoedus et bonus
+inferunt citharoedus bonus simpliciter, idest coniuncte.
+Est autem ratio dicti, quia licet musica et albedo dissi·
+miles sint bonitati et arti citharisticae in hoc, quod bo-
+nitas nata est denominare et subiectum tertium, puta ho-
+minem et ipsam artem citharisticam (propter quod falsitas
+manifeste cernitur, quando dicitur: est bonus et citharoe-
+dus; ergo bonus citharoedus), musica vero et albedo sub-
+iectum tertium natae sunt denominare tantum, et non se
+invicem (propter quod latentior est casus cum procedi-
+tur: est albus et est musicus; ergo est musicus albus),
+licet, inquam, in hoc sint dissimiles, et propter istam
+dissimilitudinem processus Aristotelis minus sufficiens vi-
+deatur; attamen similes sunt in hoc quod, si servetur
+identitas omnimoda praedicatorum quarn servari oportet,
+si illamet divisa debent inferri coniunctim, sicut musica
+non denominat albedinem, neque contra, ita nec bonitas,
+

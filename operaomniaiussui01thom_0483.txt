@@ -1,0 +1,161 @@
+ 
+
+CAP. XIII, LECT. X
+
+non necesse non esse. Et probat hunc consequentiae
+modum esse malum in primo ordine. Cognita enim ma-
+litia primi, 'facile est secundi ordinis agnoscere defectum.
+Probat autem hoc tali ratione ducente ad impossibile. Ad
+necessarium esse sequitur possibile esse: aliter sequere-
+tur non possibile esse, quod manifeste implicat; ad pos-
+sibile esse sequitur non impossibile esse, ut patet; ad non
+impossibile esse, secundum antiquos, sequitur in primo
+ordine non necessarium esse; ergo de primo ad ultimum,
+ad necessarium esse sequitur non necessarium esse: quod
+est inconveniens, quia est manifesta implicatio contradi-
+ctionis. Relinquitur ergo quod male dictum sit, quod non
+necessarium esse consequatur in primo ordine. Ait ergo
+et certe impossibile est poni sic secundum consequen-
+tiam, ut antiqui posuerunt, necessarii contradictiones, id-
+est illas duas enunciationes de necessario, quae sunt ne-
+gationes contradictoriae aliarum duarum de necessario.
+Nam ad id quod est, necessarium esse, sequitur, possibile
+est esse: nam si non, idest quoniam si hanc negaveris
+consequentiam, negatio possibilis sequitur illam, scilicet,
+necesse esse. Necesse est enim de necessario aut dicere,
+idest, affirmare possibile, aut negare possibile: de quo-
+“libet enim est affirmatio vel negatio vera. Quare si dicas
+quod, ad necesse esse, non sequitur, possibile esse, sed,non
+possibile est esse; cum haec aequivaleat illi quae dicit, im-
+possibile est esse, relinquitur quod ad, necesse esse, sequi-
+tur, impossibile esse, et idem erit, necesse esse et impos-
+sibile esse: quod est inconveniens. Bona ergo erat prima
+illatio, scilicet, necesse est esse, ergo possibile est esse.
+Tunc ultra. Illud quod est, possibile esse, sequitur, non
+impossibile esse, ut patet in primo ordine. Ad hoc vero,
+scilicet, non impossibile esse, secundum antiquos eodem
+primo ordine, sequitur, non necesse est esse (quare con-
+tingit de primo ad ultimum); ad id quod est, necessarium
+esse, sequitur, non necessarium esse: quod est inconve—
+niens, immo impossibile.
+
+12. Dubitatur hic: quia in I Priorum dicitur quod ad
+possibile sequitur non necessarium, hic autem dicitur
+oppositum. Ad hoc est dicendum quod possibile sumi-
+tur dupliciter. Uno modo in communi, et sic est quod-
+dam superius ad necessarium et contingens ad utrun-
+que, sicut animal ad hominem et bovem; et sic ad pos-
+sibile non sequitur non necessarium, sicut ad animal non
+sequitur non homo. Alio modo sumitur possibile pro
+una parte possibilis in communi, idest pro possibili seu
+contingenti, scilicetrad utrunque, scilicet quod potest esse
+et non esse; et sic ad possibile sequitur non necessarium.
+Quod enim potest esse et non esse, non necessarium est
+esse, et similiter non necessarium est non esse. Loqui-
+' mur ergo hic de possibili in communi, ibi vero in speciali.
+
+13. Deinde cum dicit: At vero neque necessarium etc.‚
+determinat veritatem intentam. Et circa hoc tria facit: pri-
+mo, determinat quae enunciatio de necessario sequatur ad
+possibile; secundo, ordinat consequentias omnium moda-
+lium; ibi: Sequuntur enim etc. Quoad primum, sicut duabus
+viis reprehendit antiquos, ita ex illis duobus motivis in-
+tentum probat. Et intendit quod, ad possibile esse, sequitur,
+non necesse non esse. - Primum motivum estper locum
+a divisione. Ad, possibile esse, non sequitur (ut probatum
+est), non necesse esse, at vero neque, necesse esse, neque,
+necesse non esse. Reliquum est ergo ut sequatur ad eam,
+non necesse non esse: non enim dantur plures enuncia-
+tiones de necessario. Huius communis divisionis primo
+proponit reliqua duo membra excludenda, dicens: At vero
+neque necessarium esse, neque necessarium non esse, sequitur
+ad, possibile non esse ; secundo probat hoc sic. Nullum for-
+male consequens minuit suum antecedens: tunc enim op-
+positum consequentis staret cum antecedente; sed utrun-
+
+Opp. D. 'snorum T. Ι.
+
+113
+
+que horum, scilicet, necesse esse, et, necesse non esse, mi-
+nuit possibile esse; ergo, etc. Unde, tacita maiore, ponit
+
+minoris probationem dicens: Illi enim, scilicet, possibile ,
+
+esse, utraque, scilicet, esse et non esse, contingit accidere3
+horum autem, scilicet, necesse esse et necesse non esse,
+utrumlibet verum fuerit, non erunt illa duo, scilicet, esse
+et non esse, vera simul in potentia. Et primum horum
+explanans ait: cum dico, possibile esse, simul est possibile
+esse et non esse. Quoad secundum vero subdit. Si vero
+dicas, necesse esse vel necesse non esse, non remanet
+utrunque, scilicet, esse et non esse, possibile: si enini ne-
+cesse est esse, possibilitas ad non esse excluditur; et si
+necesse est non esse ‚ possibilitas ad esse removetur.
+Utrunque ergo istorum minuit illud antecedens, possibile
+esse, quoniam ad esse et non esse se extendit, etc. Tertio
+subdit conclusionem: relinquitur ergo quod, 1non neces-
+sarium non esse, comes est ei quae dicit, possibile esse;
+et consequenter haec ponenda erit in primo ordine.
+
+14. Occurrit in hac parte dubium circa hoc quod dicit
+quod, ad possibile non sequitur necessarium, cum superius
+dixerit quod ad ipsum non sequitur non necessarium. Cum
+enim necessarium et non necessarium sint contradictoria
+opposita, et de quolibet sit affirmatio vel negatio vera, non
+videtur posse evadi quin ad possibile sequatur necessarium,
+vel, non necessarium. Et cum non sequatur necessarium,
+sequetur non necessarium, ut dicebant antiqui. - Augetur et
+dubitatio ex eo quod Aristoteles nunc*usus est tali ar-
+gumentationis modo, volens probare quod ad necessarium
+sequatur possibile. Dixit enim: Nam si non negatio possibilis
+consequatur. Necesse est enim aut dicere aut negare.
+
+15. Pro solutione huius, oportet reminisci habitudi-
+nis quae est inter possibile et necessarium, quod scilicet
+possibile est superius ad necessarium, et attendere quod
+superius potestate continet suum inferius et eius opposi-
+tum, ita quod neutrum eorum actualiter sibi vindicat, sed
+utrunque potest sibi contingere; sicut animali potest ac-
+cidere homo et non homo: et consequenter inspicere de-
+bes quod, eadem est proportio superioris ad-habendum
+affirmationem et negationem unius inferioris, quae est ali-
+cuius subiecti ad affirmativam et negativam futuri contin-
+gentis. Utrobique enim neutrum habetur, et salvatur po-
+tentia ad utrumlibet. Unde, sicut in futuris contingentibus
+nec affirmatio nec negatio est determinate vera, sed sub
+disiunctione altera est necessario vera, ut in fine Primi*
+conclusum est; ita nec affirmatio nec negatio inferioris
+sequitur determinate affirmationem vel negationem supe-
+rioris, sed sub disiunctione altera sequitur necessario.
+Unde non valet, est animal, ergo est homo, neque, ergo
+non est homo, sed, ergo est homo vel non est homo. -
+Quia ergo possibile superius est ad necessarium, ideo
+optime determinavit Aristoteles neutram contradictionis
+partem de necessario determinate sequi ad possibile. Non
+tamen dixit quod sub disiunctione neutra sequatur; hoc
+enim est 'contra illud primum principium: de quolibet est
+affirmatio vera vel falsa.
+
+Ad id autem quod additur, ex eadem trahitur radice
+responsio. Quia enim necessarium inferius est ad possibile,
+et inferius non in potentia sed in actu includit suum
+superius, necesse est ad inferius determinate sequi suum
+superius: aliter determinate sequetur eius contradicto-
+rium. Unde per dissimilem habitudinem, quae est inter
+necessarium et possibile et non possibile, ex una parte,
+et inter possibile et necessarium et non necessarium, ex
+altera parte, ibi optimus fuit processus ad alteram contra-
+dictionis partem determinate, et hic optimus ad neutram
+determinate.
+
+16. Oritur quoque alia dubitatiuncula. Videtur enim
+quod Aristoteles difformiter accipiat ly possibile in prae-
+
+15*
+
+' Ed. c: nunc
+nunc.
+
+· Lect. xin.
+

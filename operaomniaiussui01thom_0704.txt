@@ -1,0 +1,225 @@
+* on om. eius.
+
+⁸ 1-*rrz dicit.
+
+“ lam ex codd.‚
+
+exc. anu.
+‘¹‘ Num. 5.
+
+Ε
+
+” Lect. xvr. nn. 4,
+5.- An: principio.
+
+'Lect.xxxr, seqq.
+
+π
+
+’ Codd.-r›: eius,-
+κε et eiusde hab.
+
+lac.
+
+‘eodm - r: par.
+
+Cf. text.
+
+'⁴⁸ Est ex codd.‚
+exc. noso om.
+
+etiam.
+
+334
+
+quibus sunt demonstrationes, non sunt substantiae,
+nec per modurn substantiae significantur, sed per
+modum accidentium, scilicet secundum inesse ali-
+quid alieui. Unde concludit non esse possibile quod
+definitio sit omnis eius ‘³‘ cuius est demonstratio,
+
+8. Deinde cum dicit: Quid autem cuius est de-
+
+finitio etc„ inquirit an e converso demonstratio sit
+
+omnis eius cuius est definitio. Et ostendit ⁷²² quod
+non, duplici ratione; quarum prima iam '¹‘ supra ²¹²*
+tacta est. Unius enim, in quantum est unum ξ, vi-
+detur esse una scientia, idest unus modus cogno-
+scendi. Unde si id quod est demonstrabile, vere
+scitur per hoc quod habetur demonstratio de eo,
+sequitur quoddam impossibile si per definitionem
+sciri possit; quia habens definitionem ⁰ sciret ali-
+quid demonstrabile absque hoc quod haberet de-
+monstrationem: quod videtur inconveniens. Et
+haec ratio fuit secundo posita inter praemissas
+
+9. Secundam rationem ponit ibi: Amplius prin-
+cipia demonstrationum etc. Definitiones enim sunt
+principia demonstrationum, ut in primo * habiturn
+est; sed principia non sunt demonstrabilia, quia
+sic sequeretur quod principiorum essent principia,
+et quod demonstrationes in infinitum procede-
+rent; quod est impossibile, ut in primo *ostensum
+est. Unde sequitur quod definitiones sint inde-
+monstrabiles, tanquam quaedam prima principia
+in demonstrationibus. Et sic non omnium quo-
+rum est definitio, est demonstratio.
+
+10. Deinde curn dicit: Sed utrum sinon omnis etc„
+inquirit utrum sit possibile π quod alicuius eiusdem
+sit definitio et demonstratio, etsi non omnis eius-
+dem *. Et ostendit ¹quod non, tribus rationibus. Qua-
+rum prima est, quia definitio est manifestativa eius
+quod quid est et substantiae, idest essentiae cuius-
+libet rei. Demonstrationes autem hoc non manife—
+stant, sed supponunt; sicut in mathematicis de-
+monstrationibus arithmeticae supponitur quid est
+unitas et quid est impar *3 et simile est *³⁸ etiam
+in aliis demonstrationibus. Ergo non est eiusdem
+demonstratio et definitio.
+
+1 1 . Secundam rationem ponit ibi: Amplius omnis
+
+ξ) Unius enim, in quantum est unum eta-Circa hanc propositionem
+notandum cum Caietano (Op. et loc. cit„ col. 3) quod propositio vera
+est, loquendo de scientia quam res scibilis ex se exigit, seu generat in
+nobis (cf. 1 Perih.¹ lect. 111, n. 7, et not. η); nam res sicut se habet ad
+esse, ita se habet ad cognosci (rem enim esse, et esse cognoscibilem,
+idem sunt realiter, quamvis rationis distinctione differant). Et propterea
+si res una est, ut sic unicum exigit cognitionis suae modum. Hoc sensu
+intelligenda est propositio enunciata a s. Thoma cum Aristotele.—Ex
+parte autem nostri nihil prohibet quominus multiplicentur modi cogno-
+scendi unam et eamdem rem, puta a priori vel a posteriori, per ra-
+tionem vel per auctoritatem, etc. Unde non de cognitionis modo ex parte
+nostra loquitur hic s. Thomas.
+
+ο) Quia habens definitionem etc.—ACDFGlLS et p. m. KN: quia
+habere ‚· E: quod qui haberet,· H: quod habere demonstrationem,· 0:
+quod habens; N s. m. expung. habere ; Q: et habens. — Pro sciret, C
+et s. m. D: est scire; s. m. K: posset scire: F GIS et p. m. DK: scire.
+
+π) Inquirit utrum sit possibile etc.—Haec est tertia disputatio de
+definibili et de demonstrabili‚ quae principaliter movetur in hac lectione.
+ordinatissime autem et ad leges logicae ducitur haec disputatio. Etenim
+primo quaeritur utrum omne demonstrabile sit definibile (n. 3); et con—
+clusum est (n. 4 et seqq.) non omne demonstrabile esse definibile. —
+Sed ex hac resolutione enascitur dubium oppositum. Nam sicut ex eo
+quod non omne animal est homo, non sequitur quod non omm's homo
+sitanima15 ita ex eo quod non omne demonstrabile est definibile,
+non sequitur quod non omne definibile sit demonstrabile, nisi pro-
+betur haec conversio, Hinc disputatio altera: utrum omne definibile sit
+demonstrabile (n. 8). Disputando resolvitur negative (nn. 8, 9). Sed ex
+
+POSTERIORUM ANALYTICORUM LIB. ΙΙ.
+
+demonstratio etc.; quae talis est. In eo quod per
+demonstrationem concluditur ²², praedicatur aliquid
+de aliquo vel affirmative vel negative: sed in de-
+finitione non praedicatur Ρ aliquid de aliquo; sicut
+in hac definitione, homo est animal bipes, neque
+animal praedicatur de bipede, neque bipes de ani-
+mali. Et similiter in hac definitione, circulus * aut
+triangulus est figura plana, nec planum praedicatur
+de figura, neque e converso. Si enim partes defini-
+tionis adiungerentur sibi invicem, oporteret quod
+praedicatio intelligeretur per modurn convenientem
+definitioni, scilicet in eo quod quid est *. Hoc au-
+tem* non videmus. Nec enim genus praedicatur ‘
+in eo quod quid est de differentia, neque e converso.
+Non ergo eiusdem est definitio et demonstratio.
+
+12. Tertiam rationem ponit ibi: Amplius alte-
+rum estquod quid est etc.; et dicit quod alterum
+est manifestare quod quid est et quia est, ut patet
+in differentia quaestionum supra posita*: sed de-
+finitio ostendit* de aliquo quid est‚· demonstratio
+autern '⁸ ostendit affirmative vel negative aliquid
+esse de aliquo vel non esse, Videmus autem quod
+alterius rei alia est demonstratio , nisi illa duo
+se habeant ad invicem sicut totum et pars; quia
+tunc una et eadem esset demonstratio de utroque.
+Sicut demonstrato quod triangulus habet tres an-
+gulos aequales duobus rectis, similiter*etiam osten-
+sum est de isoscele, qui se habet ad triangulum si·
+cut pars ad toturn. Sed non ita est in his duobus,
+quia est et quid est: neutrum enirn est pars alterius.
+
+13. Ostensum est igitur *quod nec omnis cuius
+est definitio, sit demonstratio, neque e converso.
+Et ex hoc ulterius concludi potest quod nullius
+eiusdem sint3 et quod definitio et demonstratio
+neque sint* idem, neque unum sit in alio sicut
+pars subiectiva '¹ in suo toto; quia oporteret quod
+etiarn ea quorum sunt, se haberent per modum
+totius et partis, ita scilicet quod omne definibile
+esset demonstrabile, aut e converso. Quod supra ⁸
+improbatum est.
+
+Ultimo epilogando *¹ concludit usque ad hoc
+processum esse opponendo *.
+
+hac secunda resolutione non completa adhuc est disputatio de defini-
+bili et demonstr-abili. Nam non sequitur: non omne definibile est demon-
+strabile: ergo aliquod definibile non est demonstrabile: non omne de·
+monstrabile est definibile; ergo aliquod demonstrabile non est defini·
+bile. Quocirca, negatis propositionibus universaliter sumptis, videndum
+est an etiam sint negandae respectivae propositiones particulares. Hinc
+tertia disputatio (n. ιο), in qua negantur etiam ieme particulare· eon-
+clusiones, inferendo nullum demonstrabile esse definibile, et ideo nullum
+definibile esse demonstrabile (n. ιο et seqq.): et per hunc modum di-
+sputatio expletur.
+
+ρ) Νοη praedicatum—EG et s. m. CKMN: omnino non praed-,- 11,
+et p. m. CDKMN : omnino, om. non ,· S hab. ru. - Quoad ea quae hic
+de definitione asseruntur cf. supra not. χ.
+
+o) Genus praedicatur etc. - Fl: genus praedicatur de di
+eo quod quid, neque etc. - Est om. etiam alii codd.‚ exc. HM .
+
+τ) Definitio ostendit etc.-N et p. m. Α om. de,· BDEGIKLOQST
+et p. m. C: de ⁰¹1⁰: F: de quo,· N: alio modo‚· PAFHlxNQstqutd est,-
+alii codd.: quod quid est ,· FI om. est.
+
+υ) Neque unum ete-Nomine partis subiectis-ae nignifientur apodes
+(cf.1 Per-ih„ lect. Ι, ιι. 7), quae concipitur contineri nub genere quui
+pars in suo toto potentiali (cf. num. praee). Genus enim virtualiter σοι·
+tinet species, et in eae dividitur sicut totum in uuas partes: e. g„ animal
+dividitur in species, quae aunt homo et brutum. Vult ergo dicere ι. ’Πιο-
+mas quod neque definitio est species demonstrationis, neque demon-
+stratio est species definitionis.-M: demonstratio neque sicut unum sit
+in alio ,· codd.‚ exc. DO: in toto, om. ³⁸⁴⁰? item codd.‚ exc. KM: quia η
+etiam oporteret,- BMQ om. nequens etiam.
+
+ticin
+
+'nt
+
+quaeritur,-
+c om.
+
+⁸ n: omnic circ.
+
+⁸ Est om. codd.‚
+⁵¹521‘f‘2‘a. ο.
+
+· m partam.
+
+¹· nn: demonstr.
+aliter. - n: vel
+
+affirmative.
+
+· nato-r: οὰυιια.
+
+· eoae: enin.
+
+‘eodm-m.-
+
+⁸ Num. 8.
+
+⁸ on: Uitam au-
+tem epi& u: ult.
+gicaepgim, n. 3,
+not. η.
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaiussui01thom/operaomniaiussui01thom_0023.png"; bbox 0 0 2560 4308; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 631 1494 1864 1561">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 631 1494 1864 1561">
+     <span class='ocr_line' id='line_1_1' title="bbox 631 1494 1864 1561; baseline -0.002 -1"><span class='ocrx_word' id='word_1_1' title='bbox 631 1494 1252 1561; x_wconf 86' lang='lat' dir='ltr'>PHILOSOPHIA</span> <span class='ocrx_word' id='word_1_2' title='bbox 1303 1494 1864 1560; x_wconf 82' lang='lat' dir='ltr'>CHRISTIANA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 144 1776 2357 1916">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 144 1776 2357 1916">
+     <span class='ocr_line' id='line_1_2' title="bbox 144 1776 2357 1916; baseline -0.002 -25"><span class='ocrx_word' id='word_1_3' title='bbox 144 1780 701 1894; x_wconf 77' lang='lat' dir='ltr'>SANCTI</span> <span class='ocrx_word' id='word_1_4' title='bbox 772 1778 1437 1891; x_wconf 76' lang='lat' dir='ltr'>THOMAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 1510 1776 2357 1916; x_wconf 74' lang='lat' dir='ltr'>AQUINATIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 884 1995 1617 2047">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 884 1995 1617 2047">
+     <span class='ocr_line' id='line_1_3' title="bbox 884 1995 1617 2047; baseline -0.004 -1"><span class='ocrx_word' id='word_1_6' title='bbox 884 1995 1243 2047; x_wconf 90' lang='lat' dir='ltr'>DOCTORIS</span> <span class='ocrx_word' id='word_1_7' title='bbox 1276 1996 1378 2045; x_wconf 94' lang='lat' dir='ltr'>AN</span> <span class='ocrx_word' id='word_1_8' title='bbox 1381 1995 1617 2046; x_wconf 90' lang='lat' dir='ltr'><strong>GELICI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1011 2306 1489 2321">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1011 2306 1489 2321">
+     <span class='ocr_line' id='line_1_4' title="bbox 1011 2306 1489 2321; baseline -0.008 -9"><span class='ocrx_word' id='word_1_9' title='bbox 1011 2306 1364 2321; x_wconf 49' lang='lat' dir='ltr'><strong>—P-v-</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1367 2306 1489 2309; x_wconf 21' lang='lat'>-----</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,280 @@
+'Dua om. codd.‚
+exc. ε.
+
+‘⁸ Codd. - p: non
+insit B: accip.
+ἴ Codd. -Ρε acci-
+piamus.
+
+⁸ ο : sumitur.
+
+’ ΑΒ : comprehen-
+sum.
+
+β
+
+302
+
+strationis negativae et ducentis ad impossibile. Si
+ergo accipiatur quod A in nullo B sit, et B sit
+in omni C, et concludatur A esse in nullo C, erit
+demonstratio negativa.
+
+3. Deinde cum dicit: Quae vero est ad impos-
+sibile etc., manifestat quae sit demonstratio du-
+cens ’²‘ ad impossibile. Et dicit quod demonstratio
+ducens ad impossibile hoc modo se habet. Sit
+ita quod oporteat demonstrare quod A non sit in
+B, et * accipiamus oppositum eius quod probare
+volumus, scilicet omne Β εει A, et accipiatur ²⁸
+quod B sit in C per hanc propositionem, omne
+C est B‚· ex quibus sequitur ’⁸‘ conclusio, omne C
+est A: et sit ita quod notum sit et concessum '³‘
+apud omnes quod hoc est impossibile β. Et ex
+hoc concludimus primam propositionem esse fal-
+sam, scilicet omne Β εει Α. Et ita oportebit vel
+quod nullum B sit A, vel saltem quod quoddam
+
+Δ Β non sit A. Sed hoc tamen intelligendum est,
+
+⁴· o erron.: si mm
+manifestum.
+
+⁴ L: hanc pro-
+positionem esse.
+
+Υ
+
+, · Conclus. om. A.
+
+⁸ HLQ: altera ,· ι)
+p. m. om.
+
+Lect. xxvii,
+seqq. - ο om.
+supra.
+
+⁴* 0: similitudine,
+et om. ordin.; B
+om. simili.
+
+⁶ Prop. om. o.
+
+δ
+‘Haec om.codd..
+cxc. uo.
+
+Ε
+
+' Hoc orn. ι..
+
+quod sequitur A non esse in B, quando mani-
+festum est Β εεεε in C: quia si ⁴‘ manifestum esset
+hanc '¹‘ esse falsam, omne C est A, et non esset
+manifestum ⁷ hanc esse veram, omne C est B, non
+esset per consequens manifestum hanc esse fal—
+sam, omne B est A,· quia falsitas conclusionis * po-
+terat procedere ex alterutra * praemissarum, ut ex
+supra ⁹⁶* dictis patet.
+
+4. Deinde cum dicit: Termini quidem simi-
+liter etc., concludit comparationem utriusque de-
+monstrationis praemanifestatae. Et primo ostendit
+in quo conveniunt, quia in simili* ordinatione
+terminorum. Nam sicut in demonstratione nega-
+tiva accipitur B medium inter A et C, ita in ea
+quae ducit ad impossibile. Secundo autem osten-
+dit differentiam, quia differt in utraque demon—
+stratione quae negativa propositio sit notior, utrum
+scilicet ista propositio *, nullum B est A, vel ista,
+nullum C est A: quia in demonstratione ducente
+ad impossibile accipitur ista propositiO, C non
+εει A, ut notior; quia ex hoc quod est A non
+esse in C δ, ostenditur A non esse in B, unde
+haec ³¹², C non est A, sumitur ut notior. Sed
+quando illa quae ponitur ut praemissa in syllo-
+gismo, accipitur ut notior ¹, tunc est demonstra-
+tiva, idest ostensiva demonstratio negativa.
+
+5. Deinde cum dicit: Natura autem prior
+est etc., ostendit propositum hoc modo. Ista propo-
+sitio, B non est A, est naturaliter prior quam ista
+propositio, C non est A. Et hoc * probat per hoc,
+
+β) Quod hoc est impossibile etc.- Addimus hoc ex codicibus.—-C addit
+in margine superiori: scilicet omne C est A. Quae nota explicativa ad
+textum non pertinet.— O verba et sit ita omittit usque ad est impos-
+sibile inclusive.— Codd., exc. 13: Et ex hoc concludemus ,· P orn. pro-
+positionem, quod addimus ex codicibus. AELM, p. m. CDN et s. m. Κ
+erronee: esse veram,· OT et s. m. C: non esse veram,· Q corrup.: esse
+firmam, pro esse salsam. B: Et ex hoc excludet-emus propriam propos.
+esse veram.— Retinernus salsam cum Hs, p. m. K et s. m. DN.
+
+γ) Et non esset manifestum. - Codd., exc. H. PH: ει εἰ non εε-
+set etc.; Q om. et.-ABCDELMNOQST: omne Β (Μ, omne D) est C
+(A, est AC), non esset etc. K p. m. legit cum A, sed corrigitur ut
+PH, et bene: nam manifestum est ex praecedentibus quod minor syl—
+logismi, de qua agitur, non est omne B est C, sed omne C est B.
+
+praemissarum,· M: aliquid praemissarum-P et codd.: non
+
+POSTERIORUM ANALYTICORUM LIB. 1.
+
+quod praemissa, ex quibus infertur conclusio, sunt
+naturaliter priora conclusione. Sed in ordine ’¹‘ syl-
+logismi, C non est A ponitur ut conclusio, sed
+B non est A ponitur ut id ex quo conclusio in-
+fertur; ergo Β ηοη εει A est naturaliter prior.
+
+6. Consequenter curn dicit: Non enim si con-
+tingit etc., removet quamdam obviationem. Pos-
+set enim aliquis dicere quod etiam ista negativa,
+C non est A, est id ex quo concluditur in de-
+monstratione ad impossibile quod B non est A.
+Sed hoc excludit, dicens quod per hoc quod con-
+clusio interimitur et ex eius interemptione inte-
+rimitur aliquod praemissorum, non efficitur quod
+id quod prius ζ erat conclusio sit principium et
+e converso, simpliciter et secundum naturam, sed
+solum quoad aliquem ⁴⁵. Nam ista est habitudo
+conclusionis et principiorum, quod interempta
+conclusione, interimitur principium. Sed illud qui-
+dem est * sicut principium, ex quo syllogismus
+procedit, quod se habet ad conclusionem ut *
+totum ad partem; et conclusio se habet ad prin—
+cipium ut pars ad totum. Nam subiectum con-
+clusionis negativae sumitur sub subiecto primae
+propositionis. Non autem ita se habent A C et
+A B propositiones ad invicem *, quod A C com-
+paretur ad A B * ut totum ad partem. Non enim
+B A accipitur ⁸⁸ sub C A, sed potius e converso.
+Unde relinquitur quod licet interempto C A, con-
+cludatur interemptio eius quod est B A ⁴⁶, natura-
+liter tamen C A est conclusio et B A est * princi-
+pium; et per consequens B non εει Α est natu-
+raliter notior ⁹ quam C non εει A.
+
+7. Et ex hoc sic argumentatur. Illa demonstra-
+tio est dignior, quae procedit ex notioribus * et
+
+prioribus. Sed demonstratio negativa ²⁸ procedit ex :naum
+
+notiori et priori * quarn demonstratio ** ducens
+ad impossibile. Utraque enim facit scire per ali-
+quam negativam propositionem; sed demonstra-
+tio * negativa procedit ad faciendam fidem ex hac
+propositione negativa. Β non εει A, quae est na—
+turaliter prior; demonstratio autem ducens * ad
+impossibile procedit ad faciendum fidem ex hac
+propositione negativa, C non est A, quae est po·
+sterior * naturaliter. Relinquitur ergo quod demon-
+
+stratio * negativa sit potior ea quae ducit ad im· 20... ”ew
+
+possibile. Sed affirmativa est potior negativa *, ut
+supra '¹‘ ostensum *³¹² est; ergo demonstratio affir-
+mativa ostensiva est multo potior ea quae ducit
+ad impossibile.
+
+non εει Α,· at dicere, est impossibile A non esse in C, idem eat tq„
+
+si diceretur: necessarium εει C esse A (Cf. ll Perih„ lect. x, n. ¹8),
+nempe habetur propositio affirmativa contra hypothesim. Ergo autreti-
+nenda est lectio Ρ, aut legendum cum T et s. m. DK: εει impossibile A
+esse in C.
+
+ε) 1η syllogismo, accipitur ut notior; — Codd. ABCELMNQST et
+p. m. DK: ἰη syllogismo, scilicet (B ets. m. D, idest) quae εει (Β et
+p. m. A om. εει) praemissa, accipitur. — De demonstratione osten-iv·
+ac de demonstratione ducente ad impossibile cf.1 Pri‘orum analytie„
+cap. xx1x, et 11, cap. xiv.
+
+ζ) Inter-imitar· aliquod, praemissorum etc.-HN: interimitur al
+entur
+
+quod prius: at in C, ante prius recte apponitur in nota id quo , ut le-
+
+ὃ) Quod est A non esse in C. — Codices (exc. H, qui hab. lacunam) gatur sicut nos legimus, et sicut videtur revera legendum ex ipsa forma
+unanimiter habent: quod εει impossibile, et, exc. T et ε. m. DK: A non locutionis. Adde quod omissio praefata in codd. explicari facile potest
+
+esse in C. Quae duo qua ratione stare possint in casu non videtur. Ac-
+
+ex recursu fere immediato eiusdem vocis quod.-O: erat conclusiofiat
+
+cipitur propositio negativa, C non εει A, ex qua infertur negativa, B sicut principium T: fit principium.
+
+u
+
+n: ordinatione.
+
+ζ
+
+“ Βουῑικοατ et p·
+ῗιὶιῖἇιῖὦῖῗῗῖ
+aliquia.
+
+ι
+
+Est om. Α.
+o: sicat, et ita
+
+infru.
+
+a
+
+Ad inn'c. ex
+
+fode.
+
+Ρ
+u
+
+codd.. umor.-
+attinet:
+
+cipit
+
+¹· Codd., exc. o:
+
+A
+
+υ
+
+ἔτι om. ι.
+
+*exp-lor.
+
+ι
+
+⁸
+
+ο : dignior-ibn.
+u: dem. neg.
+
+..exam
+
+bue ee priora-u
+a'‘''''1>.·.... οη. t.
+
+u: dei-‚oeten-
+
+siva nee.
+
+Ι.
+
+‘Antea dunum.
+
+'ot ert-onnpnbr.
+
+υ
+
+u: mm
+euml-NH:
+
+uam nee.
+
+Leet. praeced.
+ι : possm.
+
+ 
+

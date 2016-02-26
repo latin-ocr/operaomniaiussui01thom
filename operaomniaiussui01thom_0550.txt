@@ -1,0 +1,223 @@
+POSTERIORUM ANALYTICORUM LIB. I
+
+praedicata, prout hic sumuntur, ex necessitate in—
+sunt rebus, de quibus praedicantur.
+5. Tertio; ibi: Per se autem etc„ ne aliquis
+
+180
+
+*az sed sec-m: conveniunt eis per se, et '¹‘ secundum quod ipsa ὃ.
+ἓῖτῖῗιῖοἱκ’“8εᾱ Sicut omnis lapis coloratus est; non tamen '¹‘ se-
+*Tamenom.en. cundum quod lapis ³¹⁶, sed secundum quod *²1*
+
+· o: lapis, est
+coloratus, sed.
+·” Codd.-r: quod
+ipsum est etc.
+
+' Codd.· ru: de.
+⁶ Lect. praeced„
+θ’. ξἓὶοάἀ. (exc. aa
+unsl: unde ma-
+ggae< sed non
+
+0
+est superficiem habens.
+
+4. Secundo; ibi: Manifestum igitur etc„ infert
+quoddam corollarium ex dictis, dicens quod, ex
+quo universale est, quod per se inest3 quae au-
+tem per se insunt ex * necessitate insunt, ut supra
+ostensum est ’²⁴; manifestum ³⁸* est quod universalia
+
+δ) Non conveniunt eis etc. Haec lectio integra datur a cod. M, earn-
+que adoptamus, tum quia indicatur a s.Thoma: de aliquibus, tum
+quia erui potest ex aliis codicibus. -P: non conveniunt ei per se, et
+secundum quod ipsum est. Sed est omittitur a codd„ exc. N, qui habet:
+non conveniunt subiecto per se et secundum quod ipsum est. Hanc le-
+ctionem adoptarem si alii codices consentirent.- HK legunt partim cum
+M, nempe, non conveniunt eis, partim cum aliis codd.‚ videlicet, se-
+cundum quod ipsum. ·
+
+α Patet, inquit b. Albertus Magn„ quod hoc quod dico de omni et
+› per se conditiones sunt praedicati relatae tamen ad subiectum3 id au-
+» tem secundum quod ipsum est, est condictio subiecti: ut sit sensus,
+x quod universale sit alicuius subiecti praedicatum de ipso quoad omnes
+2» partes subiecti, non secundum quod partes sunt, sed secundum quod
+› univocantur et uniuntur in forma speciei communis; et per se, sive
+» essentialiter, ita convenit omnibus partibus subiecti, quod cuilibet con-
+» venit in quantum stat sub forma speciei, et non secundum quod est
+:o determinata in substantia et forma partis» (ln I Foster. analytic„
+tract. ll, cap. 111, in princ.-Opp. tom. l, pag. 541 ).
+
+ε) Ne aliquis crederet etc.— GQ: ne quis crederet etc.; L: ne ali-
+quis crederet quod in definitione universalis dixerat aliud esse per
+se etc.; M: ne aliquis crederet aliud quod etc.; N: ne aliquis crede-
+ret diversum esse quod etc. Retinemus Pianam, quae est lectio aliorum
+codd. . q
+ζ) Et e converso triangulo etc.—- Cod. A: et ita.·-BCDEGHIKL
+MOST: et e converso (R om. e converso) triangulo etc. ; N: secundum
+quod linea. Similiter primo triangulo insunt duo recti etc. ; P: et si-
+militer triangulo etc. Praetulimus e converso codd. τῷ similiter PNQ
+et τῷ ita cod. Α.- Etenim s. Thomas exponit Aristotelem probantem
+per exempla per se et secundum quod ipsum idem esse. ln primo ergo
+exemplo dicit quod punctum inest lineae per se, in primo modo dicendi
+per se, et ipsi inest rectitudo vel curvitas in secundo modo dicendi per
+se, quia tum punctum turn rectitudo insunt lineae secundum quod ipsa,
+seu secundum quod linea est.- ln secundo exemplo dicit quod triam
+gulo secundum quod ipsum, seu secundum quod triangulus est, convenit
+habere tres angulos valentes duos rectos, quia habere tres angulos
+duobus rectis aequales per se inest triangulo. Ex quibus tacite conclu-
+ditur quod per se et secundum quod ipsum idem sunt. Quod erat pro-
+bandum. Sed nota quod in primo exemplo per se infertur ex secundum
+quod ipsum. in secundo autem exemplo secundum quod ipsum infertur
+ex per se. Ergo e converso est legendum, magis quam similiter.
+
+ln gratiam novitiorum subnectimus Schema omnium modorum di-
+cendi quibus utebantur scholastici in ordinandis propositionibus, quae
+demonstrationi inserviunt.
+
+‚scuEMA
+
+1. Dici de omni, prout eo utitur demonstratio, est quando praedi-
+catum ita subiecto universali tribuitur, ut absolute non sit accipere ali-
+quod subiectum sub illo universali positum, cui ipsum praedicatum non
+conveniat necessario (Lect. ix, n. 4, seq.). '
+
+ll. Dici per se est quando in propositione praedicatum dicitur de
+subiecto ratione ipsius subiecti, vel secundum rationem existendi, vel
+secundum rationem causae formalis, materiam, efficientis aut cuiuscun-
+que alterius (Lect. x, n. 2).-Sunt ergo quatuor modi dicendi per se.
+
+1. Parmos nonus dicendi per se est quando de subiecto dicitur prae-
+dicatum quod est vel eius definitio (homo est animal rationale ),· vel ali-
+quid de eius definitione (homo est animan· vel, homo est rationalis).
+
+N. Β. Quae praedicantur in hoc primo modo non sunt accidentia
+subiecti, sed constitutiva eius essentialia.—Primus iste modus dividitur
+in duos.
+
+a) Primus modus dicendi per se primo est quando non solum prae-
+dicatum est de definitione subiecti, sed ita adaequat subiectum ut sit
+convertibile cum eo. Ex.: Homo est rationalis; rationale est convertibile
+cum homine, quia, Omne rationale est homo.
+
+b) Primus modus dicendi per se secundo est quando praedicatum
+est quidem de definitione subiecti, sed non est convertibile cum eo.
+Ex.: Homo est attinnt-⁴15 non convertitur: Omne animal est homo.
+
+2. Sacnnnns nonos dicendi per se est quando subiectum est de de-
+finitione praedicati. E. g„ Par est numerus habens mediant,- subiectam
+est numerus,'et ingreditur definitionem paris.
+
+N. B. Quae praedicantur in hoc secundo modo non sunt constitutiva
+essentiae subiecti, sed ex essentia derivant, hoc est, sunt eiusdem sub-
+iecti passiones propriae, seu propria accidentia-Secundus etism iste
+modus dividitur in duos.
+
+a) Secundus modus dicendi per se primo est quando praedicatum
+
+crederet aliud esse quod in definitione universalis
+dixerat‘ per se, et secundum quod ipsum est*, osten-
+dit *quod per se et secundum quod ipsum est, idem
+est *. Sicut lineae per se inest punctum primo mo-
+do, et rectitudo secundo modo: narn utrunque
+inest ei secundum quod linea est. Et e converso ζ
+
+convertitur cum subiecto, quod ponitur in. definitione eius. Ex.: Homo
+est risibilis ; convertitur: Omne risibile est homo.
+
+b) Secundus modus dicendi per se secundo est quando praedicatum
+non convertitur cum subiecto, quod ponitur in eius definitione. Em:
+Isosceles habet tres angulos aequales duobus rectis ‚- non convertitur:
+Omne habens tres angulos aequales duobus rectis est isosceles.
+
+3. ”rrimus nonus dicendi per se est modus existendi, non modus ’
+
+praedicandi (Lect. x, n. 6); quatenus nempe significat aliquid esse in se
+et non in alio tanquam in subiecto.
+
+4. Quam-us nonus dicendi per se, qui dicitur secundum rationem
+causalitatis, est quando aliquid tribuitur alicui effective, in quantum tale
+seu formaliter. Ex.: Medicus sanat: sanat enim quatenus medims et
+non quatenus albus, musicus etc.
+
+N. B. Etiam in secundo modo subiectum quod ponitur in definitione
+praedicati, est causa praedicati ; unde quandoque secundus et quartus
+modus dicendi per se coincidunt. Distinguuntur tamen formaliter, quia ⁴
+in secundo modo attenditur ratio praedicationis fundata in definitione
+praedicati includentis subiectum ; sed in quarto modo attenditur rafio
+causalitatis, quatenus nempe praedicatum dependet in suo esseaproprio
+subiecto, ut a causa (Lect. praeced„ n. 7, not. ρ).
+
+111. Dici ut universale, seu universaliter (in hoc metam) est quando
+praedicatum dicitur de subiecto ut de omni, ut per se, et secundum
+quod ipsum.
+
+a) Praedicatum tunc dicitur de subiecto secundum quod ipsum subss
+lectum est, quando est cum eo convertibile. Ex.: Homo est rationalis,-
+homo est risibilis ,· convertuntur: Omne rationale, vel, omne risibile est
+homo.
+
+b) Ergo secundum quod ipsum distinguitur a per se absolute sum-
+pto, non quidem re, sed formaliter et ratione (sicut e. g. homo et ani-
+mal distinguuntur in nobis), qula secundum quod ipsum dicit, sicut
+dicit per se absolute sumptum, praedicatum esse. de ratione subiecti,
+vel subiectum esse de ratione praedicati, et insuper, quasi differentiam
+suam propriam, addit convertibilitatem praedicati cum subiecto: eo modo
+quo homo addit rationale supra animal.
+
+c) Ergo secundum quod ipsum, neque re, neque ratione distinguitur
+a primo et secundo *modo dicendi per se primo. Quo sensu dixit An·-
+stoteles‚ quern a. Thomas sequitur (Cf. n. 5), quod per se et secundun·
+quod ipswn idem est.-Et hinc est quodid quod convenit subiecto so-
+cundum quod ipsum seu universale dicitur a s. 'rhome et ι Scholasticis
+eidem primo convenire (Cf. n. 6, seq.) “
+
+d) Distinguitur igitur secundum quod ipsum a primo et seeundo
+modo dicendi per se secundo.
+
+Haec ex praesenti ac praecedentibus lectionibus recolligenda esse
+censuimus ut formae dicendi scholasticae tyronibus innotescant: quse qui-
+dem formae non ad vanas subtilitates adinventae sunt, sed ut in scientiis
+accuratus sermo adhibeatur, qui quantum conferat sd perspicuitatem
+idearum et ad veritatis consequutionem nemo ignorat. Quae ne gratis
+asserere videamur, exemplum ex s. Thomu afferimus. In secundo >libro
+Contra Gentiles, cap. κν, Angelicus ponit hanc thesim: Ovnnt'a quae
+sunt quocunque modo, a Deo sunt. Ad quam probandam affert primo
+hane rationem profundissimam. ‹ Omne quod alicui convenit non se·
+› cundum quod ipsum est, per aliquam causam convenit ei, sicut
+s album homini. Nam quod causam non habet, primum et immedia-
+» tum est. Unde necesse est quod sit per se et secundum quod ipsum
+» Impossibile est autem aliquod unum duobus convenire, et utrique
+» secundum quod ipsum. Quod enim de aliquo secundum quod ι’]ιειιηι
+» dicitur, ipsum non excedit ; sicut habere tres angulos duobus rectis
+ι aequales non excedit triangulum (Cf. supra na), de quo praedicatur,
+» sed est eidem convertibiliter. Si igitur aliquid duobus conveniat, non
+» convenit utrique secundum quod ipsum est. Impossibile est igitur (νί
+n principii positi in initio probationis: omne quod etc.) aliquod unum
+» de duobus praedicari, ita quod de neutro per causam dicatum sed
+ι oportet, vel unum esse alterius causam (sicut ignis est musa cs-
+» loris corpori ntisto, cum tamen utrunque calidum dicatur), vel oportet
+» quod aliquod tertium sit causa utrique (sicut duabus candelis igni
+ι est eausa lucendi). Esse sutem dicitur de omni eo quod est. tmpu-
+» sibile est igitur esse aliqua duo, quorum neutrum habeat “usam
+:v essendi3 sed oportet utrunque acceptorum esse pur musam„ vel
+ιι alterum alteri esse cauum essendi. Oportet igitur quod sb illo,
+» cui nihil est emsa essendi, sit omne illud quod quocunque modo
+ι est. Deum sutem supra ostendimus (Lib. 1, cap. xm) huiusmodi Eas
+
+s esse, cui nihil sit causa essendi. Ab οο igitur est omne quodquo— ·
+
+ι cunque modo est. ι - Haec s. Thomas ratio habet in sem-aromati-
+cam evidentiam, sed parum intelligitur, si nmen intelligitur, ab his
+qui proprietatem verborum scientifimm ignorant. ’
+
+' Codd. (exc. q)
+omitt. esn- etita
+infra codd. cuo.
+' Codd. (exc. Al:
+dicit.
+
+¹* acauno-r: sunt.
+

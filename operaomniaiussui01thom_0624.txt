@@ -1,0 +1,156 @@
+254
+
+POSTERIORUM ANALYTICORUM LIB. 1
+
+LECTIO VIGESIMANONA
+DE SYLLOGISMO IGNORANTIAE IN PROPQSITIONIBUS MEDIATIS
+
+Ἐν δὲ τοῖς μη άτόμως ὑπάρχουσιν ἦ μή ὁπάρρουσιν,
+ὅταν μὲν διά τοῦ οἰκείου μέσου γίνηται τοῦ ψεύδους
+ὁ συλλογισμός, οὐχ οἷόντε ἀμφοτέρας ψευδεῖς εἶναι
+τάς προτάσεις, ἀλλά μόνον τήν πρὸς τῷ μείζονι
+ἄκρῳ. Λέγω δ’ οἰκεῖον μέσον δι’ οὗ γίνεται τῆς άν-
+τιφάσεως ὁ συλλογισμός. ’Υπαρχέτω γάρ τὸ A τῷ Β
+διά μέσου τοῦ Γ. Ἐπεὶ οὖν ἀνάγκη τήν Γ Β κατα-
+φατικην λαμβάνεσθαι συλλογισμοῦ γινομένου, δῆλον
+ὅτι ἀεὶ αὕτη ἔσται άληθῆς· οὗ γάρ ἀντιστρέφεται.
+Ἠ δὲ A Γ ψευδής· ταύτης γάρ ἀντιστρεφομένης ἐναν-
+τίος γίνεται ὀ συλλογισμός.
+
+Ὁμοίως δέ καὶ εὶ ἐξ ἄλλης συστοιχίας ληφθείη τὸ μέσον,
+οἷον τὸ Δ εἰ καὶ ἐν τῷ A ὅλῳ ἐστὶ καὶ κατά τοῦ Β κα-
+τηγορεῖται παντός· ἀνάγκη γάρ τήν μέν Δ Β πρότα-
+σιν μένειν, την δ’ ἑτέραν ἀντιστρέφεσθαι, ὥσθ’ ’ἦ μὲν
+ἀεὶ ἀληθής, ἡ δ’ ἀεὶ ψευδής. Καὶ σχεδὸν ἥ γε τοιαύτη
+ἀπάτη η αὐτη ἐστι τῇ διά τοῦ οἰκείου μεσου.
+
+Ἐοὶν δὲ μή διά τοῦ οἰκείου μέσου γίνηται ὀ συλλογι-
+σμός, ὅταν μέν ὑπὸ τὸ A ᾗ τὸ μέσον, τῷ δέΒ μη-
+δενὶ ὑπάρχῃ, ἀνάγκη ψευδεῖς εἶναι ἀμφοτέρας, Λη-
+πτέαι γάρ ἐναντίως ἦ ὠς ἔχουσιν αἱ προτάσεις,. εἰ
+μέλλει συλλογισμὸς ἔσεσθαι· οὕτω δὲ λαμβανομένων
+ἀμφότεραι γίνονται ψευδεῖς. Οἶον εἰ τὸ μέν A ὅλῳ
+τῷ ὑπάρχει, τὸ δέ Δ μηδενὶ τῶν Β· άντιστραφέν-
+των γάρ τούτων συλλογισμός τ’ ἔσταικαὶ αἱ προτάσεις
+ἀμφότεραι ψευδεῖς. Ὅταν δὲ μη ᾖ ὑπὸ τὸ Α τὸ μέ..
+σον, οἷον τὸ Δ, ἡ μέν A Δ άληθης ἔσται, ἡ δὲ Δ Β
+ψευδής. Ἠ μὲν γάρ A Δ ἀληθής, ὅτι ουκ-ἧν ἑν τῶ Α
+τό Δ, ἡ δὲ Δ Β ψευδής, ὅτι, εἰ ἥν ἀληθής, κᾶν’τεὶ
+συμπέρασμα ἦν ἀληθές· ἀλλ’ ’ἦν ψεῦδος.
+
+Διά δὲ τοῦ μέσου σχήματος γινομένης τῆς ἀπάτης, άμ-
+φοτέρας μὲν οὐκ ἐνδέχεται ψευδεῖς εἶναι τοὶς προτά-
+σεις ὅλας (ὅταν γάρ ᾗ τὸ Β ὑπὸ τὸ A, οὐδέν ἐνδέχε-
+ται τῷ μὲν παντὶ τῷ ’δὲ μηδενὶ ὑπάρχειν, καθάπερ
+ἐλέχθη καὶ πρότερον), τήν ἑτέραν δ’ ἐγχωρεῖ, καὶ
+ὁποτέραν ἔτυχεν. Εἰ γάρ τὸ Γ καὶ τῷ A καὶ τῷΒ
+ὑπάρχει, ἐάν ληφθῇ τῷ μὲν A ὑπάρχειν, τῷ δέ Β μη
+ὑπάρχειν, η μέν A Γ ἀληθής ἔσται, ή δ’ ἑτέρα ψευδής.
+Πάλιν δ’ εἰ τῷ μέν Β ληφθείη τὸ Γ ὑπάρχον, τῷ δὲ A
+μηδενί, ’ἦ μὲν Γ Β ἀληθής ἔσται, ἡ δ’ ἑτέρα ψευδής.
+Ἐάν μὲν οὖν στερητικός ᾗ τῆς ἀπάτης ὁ συλλογι-
+σ .ο’ς, εἴρηται πότε καὶ διά τίνων ἔσται ἡ ἀπάτη·
+
+ὲοὶν ge καταφατικός, ὅταν μὲν διά τοῦ οἰκείου μέσου,
+ἀδύνατον ἀμφοτέρας εἶναι ψευδεῖς· ἀνάγκη γάρ τήν
+Γ Β μένειν, εἴπερ ’έσται συλλογισμός, καθάπερ ἑλέ θη
+καὶ πρότερον. Ὥστε ἡ Γ A ἀεὶ ἔσται ψευδης· αὕτη
+γάρ ἐστιν ἡ ἀντιστρεφομένη.
+
+Ὀμοίως δέ καὶ εἰ ἐξ α”λλης συστοιχίας λαμβάνοιτο τὸ
+μέσον, ὥσπερ ἐλέχθη καὶ ἐπὶ τῆς στερητικῆς ἀπά-
+της· ἀνάγκη γάρ την μὲν Δ Β μένειν, τήν δ’ A Δ
+ἀντιστρέφεσθαι, καὶ ή ἀπάτη η αὐτή τῇ πρότερον.
+
+Ὅταν δὲ μή διά τοῦ οἰκείου, ἐάν μὲν ᾗ τὸ Δ ύπὸ ‘ro‘ A,
+αὕτη μὲν ἔσται ἀληθής, *ti ἑτέρα δὲ ψευδής· ἐγχωρεῖ
+γάρ τὸ A πλείοσιν ύπᾶρχειν, οἳ οὐκ ἔστιν ὑπ’ ἄλ-
+ληλα. Ἐάν δὲ μη ᾗ ‘cd Δ ὑπὸ τὸΙ A, αὕτη μὲν ἀεὶ
+δῆλον ὅτι ἔσται ψευδής (καταφατική άρ λαμβάνε-
+ται), την δέ Β Δ ἐνδέχεται καὶ ἀληθῆ εἶναι καὶ
+ψευδῆ· οὐδὲν γάρ κωλύει τὸ μέν A τῷ Δ μηδενὶ ὑπάρ-
+χειν, τό δὲ Δ τῷ Β παντί, οἷον ζῷον ἐπιστήμῃ, ἑπι-
+στημη δὲ μουσικῇ. Οὐδ’ αὖ μήτε τὸ A μηδενὶ τῶν Δ
+μήτε τό Δ μηδενὶ τῷ Β. Φανερὸν οὖν ὅτι μη“ ὄντος
+τοῦ μέσου ὑπὸ τόΑ καὶ ἀμφοτέρας ἐγχωρεῖ ψευδεῖς
+εἶναι καὶ ὁποτέραν ἐ’τυχεν.
+
+Ποσαχῶς μέν οὖν καὶ διά τίνων ἐγχωρεῖ γίνεσθαι τάς
+κατά συλλογισμὸν ἀπάτας ἔν τε τοῖς ἀμέσοις καὶ
+ἐν τοῖς δι’ ἀποδείξεως, φανερόν.
+
+* In his autem, quae non individua sunt, cum quidem per
+proprium medium fiat falsitatis syllogismus, non pos-
+sibile est utrasque falsas esse propositiones: sed solum
+quae est ante maius ultimum. Dico autern proprium
+medium, per quod fit contradictionis syllogismus> Sit
+enim A in B per medium C. Quoniam igitur necesse
+est, quae est C Β, affirmativam accipi syllogismo facto,
+manifestum est quod semper haec est vera, non enim
+convertitur. Sed quae est A C falsa; hac enim conversa,
+e contrario fiet syllogismus.
+
+Similiter autem est, et si ex alia ordinatione accipiatur me-
+dium, ut D, si et in toto A sit, et de B praedicetur omni:
+necesse enim est, *quae quidem B D, propositionem
+manere, alteram autem converti, quare haec quidem
+semper vera, illa vero semper falsa. Et fere huiusmodi
+deceptio eadem est ei, quae fit per proprium medium.
+
+⁸ Cap. xvu.
+Seq. text. 3²·
+
+Si vero non per proprium medium fiat syllogismuS, cum ’
+
+quidem sub A sit medium, in B autern nullo est; ne-
+cesse est utrasque falsas esse. Recipiendae enim utique e
+contrario sunt, quam se habent, propositiones, si debet
+syllogismus fieri; sic autem acceptis, utraeque fiunt fal-
+sae. Ut si A quidem in toto D, D autem in nullo B:
+conversis enim his, syllogismus quidem erit, et utrae-
+que propositiones falsae. Cum vero non sit sub A me·
+dium, ut D, quae quidem est A D, vera erit, quae vero
+est D B falsa3 quae enim est A D vera est, quia non
+erit in A D, quae vero est D B falsa, quia si esset vera,
+et conclusio esset vera3 sed erat falsa.
+
+Sed per mediam figuram facta deceptione, utrasque qui-
+dem non contingit falsas esse propositiones totas (cum
+enim sit B quidem sub A, nihil contingit in hoc omni
+quidem, in illo autem nullo esse, sicut dictum est prius),
+altera vero falsa potest esse, et quaecunque contingit.
+Si enim C et in A et in Β est, si accipiatur C in A
+quidem esse, in B vero non esse, quae quidem est A
+C vera erit, altera autem falsa. Iterum autem si in B
+quidem accipiatur C esse, in A autem nullo, quae qui-
+dem est C B vera erit, altera autern falsa. Si quidem
+igitur sit privativus deceptionis syllogismus, dictum est
+quando, et per quae erit deceptio.
+
+Si vero sit affirmativus, tunc quidem per proprium rne-
+dium impossibile utrasque esse falsas. Necesse enim est
+quae est B C manere, si quidem erit syllogismus, sicut
+dictum est prius. Quare A C semper erit falsa3 haec
+emm est conversa.
+
+Similiter autem et si ex alia ordinatione accipiatur medium,
+sicut dictum est et in privativa deceptione; necesse est
+enim quae quidem est D B manere, quae vero est A
+D converti; et haec deceptio est eadem priori.
+
+Cum vero sit non per proprium, si quidem sit D sub A,
+haec quidem erit vera, altera autem falsa3 potest enim
+A in pluribus esse, quae non sunt sub invicem. Si vero
+non sit D sub A, haec quidem semper manifestum est
+quoniam erit falsa (affirmativa enim accipitur): quae
+vero est D B, contingit et veram esse et falsam nihil
+enim prohibet A quidem in D nullo esse, D autem in
+omni Β, ut animal, scientia, musica: neque utique
+A in nullo D, neque D in nullo B. Manifestum igitur
+est quoniam, cum non sit medium sub A, et utraeque
+possunt falsae esse, et quaecunque contingit.
+
+Quot quidem igitur modis, et per quae possunt fieri per syl-
+logismum deceptiones, et in his quae sunt sine medio, et
+in his quae sunt per demonstrationem, manifestum est.
+

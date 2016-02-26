@@ -1,0 +1,162 @@
+*Dernomtnomn
+
+uit.
+· ⁴ Lect. xxv.
+
+CAP. XIII, LECT. XXIII
+
+LECTIO VIGESIMATERTIA
+
+DE DIFFERENTIA INTER DEMONSTRATIONEM QUJA ET PROPTER QUID
+IN EADEM SCIENTIA; AC DE DEMONSTRATIONE
+QUJA PER EFFECTUM
+
+Τό δ’ ὅτι διαφέρει καὶ τό διότι ἐπίστασθαι, πρῶτον
+μὲν ἑν τῇ αὐτῇ ἐπιστήμῃ, καὶ ἐν ταύτῃ διχῶς, ἕνα
+μὲν τρόπον &etv μή δι’ ἀμέσων γίνηται ὁ συλλογι-
+σμός (οὗ γάρ λαμβάνεται τὸ πρῶτον αἴτιον, ή δὲ
+τοῦ διότι ἐπιστήμη κατά τὸ πρῶτον αἴτιον), ἄλλον
+δὲ εἰ δι’ ἀμέσων μέν, άλλοὶ μή διά τοῦ αἰτίου, ἀλλά
+τῶν ἀντιστρεφόντων διά τοῦ γνωριμωτέρου. Κωλύει
+γάρ οὐδὲν τῶν ἀντικατηγορουμενων νωριμώτερον
+εἶναι ἐνίοτε τό μή αἴτιον, ωστ’ ἔσται διά τούτου ή
+ἀπόδειξις,
+
+οἷον ὅτι ἐγγύς οἱ πλάνητες διοὶ τοῦ μή στίλβειν. Ἔστω
+
+,ἐφ’ ᾦ Γ πλάνητες, ἑ ' ᾧ Β τὸ μή στίλβειν, ἐφ’ ᾧ Α
+τό ἐγγύς εἶναι. Ἀληθές δή τό Β κατά τοῦ Γ εἰπεῖν·
+οἱ γάρ πλάνητες οὐ στίλβουσιν. Ἀλλά καὶ τό Α
+κατά τοῦ Β· τὰ γάρ μή στίλβονὲ γός ἐστι· τοῦτο
+δ’ εἰλήφθω δι’ ἐπαγωγῆς ἦ δι’ αἱσ ήσεως. Ἀνάγκη
+οὖν τό Α τῷ Γ ὑπάρχειν, ὥστ’ ἀποδέδεικται ὅτι οἱ
+πλάνητες ἐγγύς εἰσιν. Οὗτος οὖν ὁ συλλογισμὸς οὗ
+τοῦ διότι, ἀλλὰ, τοῦ ὅτι ἐστίν· οὐ άρ διά τὸ μή
+στίλβειν ἐγγύς εἰσιν, ἀλλά διά,τὸ εγγιὶς εἶναι οὗ
+στίλβουσιν.
+
+Ἐγζωρεῖ δὲκαὶ διά θατέρου θάτερον δειχθῆναι, καὶ
+εσται τοῦ διότι ή ἀπόδειξις, οἷον ’έστω τό Γ πλά-
+νητες, ἐφ’ ᾤ Β τὸ ἐγγύς εἶναι, τό Α τό μή στίλ-
+βειν· ὑπάρχει δή καὶ τό Β τῷ· Γ, καὶ τὸ Α τῷ Β τὸ
+
+ἢ στίλβειν, ὥστε καὶ τῷ Γ τό Α. Καὶ ἔστι τοῦ
+ιότι ὁ συλλογισμός· εἴληπται γάρ τό πρῶτον αἴτιον.
+
+Πάλιν ὥς τήν σελήνην δεικνύουσιν, ὅτι σφαιροειδής, διά
+τῶν αὖξήσεων· εὶ γάρ τὸ αὐξανόμενον οὕτω σφαι-
+
+οειδές, αὐξάνει δ’ η σελήνη, φανερόν ὅτι σφαιροει-
+δής. Οὕτω μὲν οὖν τοῦ ὅτι γέγονεν ὀ συλλογισμός·
+ἀνάπαλιν δὲ τεθέντος τοῦ μέσου τοῦ διότι· οὗ γάρ
+διά τοὶς αὐξήσεις σφαιροειδής ἐστιν, ἀλλά διαὶ τὸ
+σφαιροειδής εἶναι λαμβάνει τοὶς αὐξήσεις τοιαύτας.
+Σ,ελήνη ἐφ’ ᾦ Γ, σφαιροειδής ἐφ’ ᾧ Β, αὔξησις ἐφ’
+
+Ἐφ“ῳῶν δὲ τοὶ μέσα μή ἀντιστρέφει καὶ ἔστι γνωριμώ-
+ἒερον τὸ ἀναίτιον, τό ὅτι μὲν δείκνυται, τό διότι
+
+ου.
+
+Smorsts. — 1. Argumentum et divisio textus. - 2. Quoniam
+differt scire de re aliqua quia est et propter quid est, ideo, cum
+demonstratio sit syllogismus faciens scire, differt demonstratio
+quia a demonstratione propter quid. - 3. Probatur asserta dif-
+ferentia in eadem scientia; et primo ex eo quod demonstratio
+propter quid procedit ex immediatis principiis rei quae de-
+monstratur. Quod non accidit in demonstratione quia.- 4. De·
+inde probatur. ex eo, quod demonstratio quia, etiamsi fiat per
+immediata, non fit tamen ex immediatis causis, sed ex effectibus
+convertibilibus et immediatis, qui sunt quid prius et notius
+quoad 1105, sed non quoad se: oppositum probatum est de de-
+
+. ·,= ostquam Philosophus determinavit de
+’ἢ ξ’ demonstratione propter quid ‚ hic
+'⁴ ’ξ ostendit differentiam inter demonstra-
+α 2 ‘'¹1'‘ tionem quia, et demonstrationem ³⁸
+propter quid. Et circa hoc duo facit: prim0, osten-
+
+   
+
+·coaa.-1›1:po- dit* differentiam utriusque in eadem scientia; se-
+
+cundo, in diversis; ibi: Alio autem modo * etc.
+
+* Sed quia differt et propter quid scire; primum quidem in
+eadem scientia, et in hac dupliciter3 uno quidem modo,
+si non per non medium fiat syllogismus (non enim
+accipitur prima causa; sed quae propter quid scientia
+est secundum primam causam); alio vero modo si per
+non media quidem, sed non per causam, sed per con·
+vertentia et per notius. Prohibet enim nihil aeque
+praedicantium notius esse aliquando non causam: qua-
+re per hanc erit demonstratio,
+
+ut quod prope sunt planetae per id quod non scintillant.
+Sint C planetae, in quo B non scintillare, in quo A
+prope esse. Verum igitur est B de C dicere, planetae
+enim non scintillant. Sed et A de B, non scintillans
+enim prope est; hoc autern accipitur per inductionem,
+aut per sensum. Necesse est ergo A ipsi C inesse; qua-
+re monstratum est quod erraticae prope sunt. Hic igi-
+tur syllogismus non est propter quid, sed quia: non
+enim ex eo quod non scintillant prope sunt, sed pro-
+pter id quod prope sunt non scintillant.
+
+Contingit autem et per alterum alterum monstrare; et erit
+propter quid demonstratio; ut sit C erraticae, in quo
+B prope esse, A non scintillare; est igitur et B in C:
+quare et in C A, et in B A, quod est non scintil-
+lare. Et erit propter quid syllogismus; accepta est enim
+prima causa.
+
+Item sic lunam demonstrant quia per incrementa circula-
+ris sit. Si enim quod augetur sic, circulare quidem sit,
+augetur autem sic luna, manifestum quoniam circula-
+ris. Sic quidem igitur ipsius quia factus est-syllogis—
+mus; e converso autem posito medio, ipsius propter quid
+fit; non enim propter augmenta circularis est: sed quia
+circularis est, accipit augmenta huiusmodi. Luna in
+quo C, in quo B augmentum sit, in quo A circu-
+laris.
+
+In quibus autem media non convertuntur, sed transcen-
+dunt, et est notius quod non est causa, quia demon-
+stratur quidem, sed propter quid, non.
+
+monstratione propter quid. - 5. Textus subdivisiones. - 6. Decla-
+ratur differentia utriusque demonstrationis exemplo demonstra-
+tionis quia per effectum convertibilem. - 7. Attamen haec de-
+monstratio quia per effectum convertibilem potest converti in
+demonstrationem propter quid, mutando maiorem extremitatem
+in medium, et medium in maiorem extremitatem.- Quod exemplo
+declaratur. - 8. Alio exemplo idipsum probatur. - 9. Quando au-
+tem medium non convertitur cum extremis, et assumitur ut rne-
+dium quod est notius quoad nos, idest quando medium non
+est causa, sed magis effectus non convertibilis, est demonstratio
+quia, sed non potest esse propter quid.
+
+Circa primum duo facit: primo, ponit duplicem
+differentiam utriusque demonstrationis in eadem
+scientia; secundo, manifestat per exempla; ibi:-
+Ut quod prope sint planetae * etc.
+
+2. Dicit ergo primo: superius ’¹‘ dictum est quod
+demonstratio est syllogismus faciens scire, et
+quod * demonstratio ex causis rei procedit et
+
+229
+
+⁸ Cap. xm.
+Text. 30.
+
+7?ae 2!ss
+
+⁸ Num. 5.
+
+· Lect.1v.-n:quod
+sup.;1:qu1a sup.
+
+· o (om. et).- quia,-
+x: et quia.
+

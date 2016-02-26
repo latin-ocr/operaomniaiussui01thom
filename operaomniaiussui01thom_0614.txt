@@ -1,0 +1,219 @@
+244 POSTERIORUM ANALYTICORUM ΜΒ. 1
+
+5. Deinde cum dicit: Sicut autem esse etc., do-
+cet quomodo propositio negativa possit esse irn-
+
+terit quod A sit in nullo B. Ut sit A * substantia, · alneum: ut..
+
+A stt.
+
+B linea, D quantitas; et fiat ³⁹ syllogismus in prima · o: et sistat-
+
+Codd.,exc. p. m.
+›c-r: omneA. -
+Cf. text.
+
+¹ n: sit.
+'¹ a: et.
+
+'¹ ot: probatur.
+
+¹⁸ Sit om. an et
+
+Βιῗίἱιῗιῖ 8.
+
+⁴* Num. seq.
+
+¹ Primo om. aaa.
+
+¹ aaa ε extremi-
+
+“ Codd. exc. EG. -
+p: genere diver-
+
+* Codd. -Ρε sci-
+reest. -
+lncssad. - p: c
+aulem
+
+⁴⁵ Enim ex codd..
+fgoci‘d„ pa: nul-
+{¹727ss ex codd.
+
+⁴ L erronee: ma-
+1'or,·o: si minor
+extremitas.
+
+mediata. Et circa hoc duo facit. Primo, proponit
+intentum, dicens quod sicut contingit A*esse in B
+individualiter, idest immediate, sic et conceditur
+non esse, idest ita potest concedi quod propo-
+sitio significans A non esse in B sit immediata.
+Unde exponit, quid est * individualiter esse vel *²¹*
+non esse, scilicet quando affirmativa vel negativa
+non habet medium per quod probetur *.
+
+6. Secundo; ibi: Cum igitur autA quidem etc.,
+manifestat propositum. Et circa hoc duo facit:
+primo, ostendit quomodo propositio negativa sit
+mediata; secundo, quomodo sit* immediata; ibi:
+Si vero neutrum '¹‘ etc. Circa primurn duo facit:
+primo, manifestat propositum3 secundo, ostendit
+quoddam quod supposuerat; ibi: ’¹‘ Quod autem
+contingit B non esse etc.- Dicit ergo primo *² quod
+cum A, idest maior terminus, aut B, idest minor
+terminus ³³², sunt in quodam toto, sicut species in
+genere, aut etiam ambo sunt sub aliquo gene-
+re *, non contingit A non esse in B primo, id—
+est non contingit quod haec propositio, nullum
+B est A, sit immediata. Et primo manifestat hoc
+quando A est * in quodam toto , scilicet C ”; B
+autem in nullo; ut puta, si A sit homo, C * substan-
+tia, Β quantitas: potest enim ⁴* syllogismus fieri
+ad probandum quod A nulli B insit per hoc, quod
+C omni A inest, Β autem nulli*; ut si fiat syl-
+logismus in secunda figura, talis *z Omnis homo
+est substantia,· nulla quantitas est substantia ,· ergo
+nulla quantitas est Immo.- Et similiter est, si B,
+idest minor ⁴ terminus, sit in quodam toto, ut in
+D, A autem non sit in aliquo toto; syllogizari po-
+
+figura medius terminus in maieri cst infra universalitatem maioris ex-
+tremi, et in minori est supra universalitatem minoris extremi. Est ergo
+revera inter extrema. — Sed in secunda figura est extra seu supra uni-
+versalitatem utriusque extremi, quia utriusque est praedicatum. - Denique
+in tertia figura est subiectum utriusque extremi, et ideo insra utriusque
+extremi universalitatem.
+
+Ad pleniorem autem huius tertiae rationis intelligentiam, praemitten-
+dum est medium in syllogismis demonstrativis a priori esse causam con-
+clusionis, Ex eo enim bis assumpto constituuntur praemissae propo-
+sitiones, quae ad conclusionem se habent sicut causae efficientes ad
+effectum (Cf. lect. 111, n. 1). Quod potissimum in syllogismis primae fi-
+gurae verificatur, ut supra, not. β explicatum est. Praeterea proprium est
+in hisce syllogismis demonstrativis ut procedatur ab his quae sunt per
+se et immediata (Cf. lect. ιν et xiv); et consequenter ideo in conclusione
+passio affirmatur per se de subiecto, quia ipsa affirmata per se est de
+medio in praemissis. Ponatur ergo quod medium C (in primo syllogismo)
+nonnisi mediate sit causa passionis (A) subiecti (E) conclusionis; ex
+
+⁵ consequenti habetur quod non assignetur propter quid immediatum ipsius
+
+conclusionis (Α in E), et restat inquirere το propter quid immediatum
+faciens scire conclusionem ipsam. Optime ergo dicitur a s. Thoma, quod
+oportet ad perfectam scientiam habendam, quod propositiones mediatae
+(quarum nempe praedicatum non est de ratione subiecti), quae su-
+muntur in demonstrationibus, reducantur ad immediatas. Quomodo re-
+ducuntur? Densando et augmentando media.— Densando media, hoc
+est, interponendo alia media inter medium et extrema prioris syllogismi
+mediati quousque ad immediata perveniamus, quae interpositio et auget
+media, ut patet, et quodammodo condensat, ut inter se demum in ali-
+qua immediata propositione copulentur media ipsa et extrema. —- Aug-
+mentando, quando, data minori immediata, medium est mediatum ma·-
+iori, quae ideo est propositio mediata. Tunc enim oportet accipere alia
+media supra medium acceptum, hoc est magis universalia, quibus pro-
+betur praedicatum maioris revera convenire subiecto, ut primum assere-
+batur in maiori propositione mediata. Sit e. g. sequens syllogismus:
+
+Omnes qui ratione potiuntur agunt opera meritoria vel demeritorie:
+Sed homines ratione potiuntur,-
+Ergo homines agunt opera meritoria vel demeritoria.
+
+Minor syllogismi est immediata3 sed non est immediata maior propo-
+sitio. Debet igitur probari de medio (omnes qui ratione potiuntur),
+
+figura sic: Nulla quantitas est substantia ,· omnis
+linea est quantitas; ergo nulla linea est substantia.-
+Eodern autern modo poterit demonstrari conclu-
+sio negativa, si utrumque * sit in quodam tot03
+ut si* sit A linea, C quantitas, Β albedo, et D
+qualitas; potest syllogizari in secunda figura, et
+in prima. In secunda figura * sic: Omnis linea
+est quantitas; nulla albedo est quantitas; ergo nulla
+albedo est linea. In prima figura n sic: Nulla qua-
+litas est linea ,· omnis albedo est qualitas ; ergo nulla
+albedo est linea.- Est autem intelligendum, pro-
+positionem negativam esse mediatam, utroque ter-
+minorum existente in quodam toto, non quidem
+in eodem, sed in diversis. Si enim sint ’ in eodem
+toto, erit * propositio immediata, sicut, nullum ra-
+tionale est irrationale, vel nullum bipes est qua-
+drupes. ’
+
+7. Deinde cum dicit: Quod autem contingit etc.,
+manifestat quod supposuerat, scilicet quod, altero
+extremorum existente in aliquo toto, alterum non
+sit in eodem, dicens quod manifestum est ex coor—
+dinationibus, scilicet ⁴* praedicamentorum *³* diver-
+sorum, quae non commutantur ad invicem. Scilicet
+quia id quod est in uno praedicamento, non est in
+altero, manifestum est ⁰ quod contingat B non esse
+in toto, in quo est A, aut e converso, quia vide—
+licet contingit unum terminorum accipi in uno
+praedicamento, in quo non est alius. Sit enim
+una coordinatio praedicamenti A C D, puta praedi-
+camentum substantiae; et alia coordinatio sit B E F,
+puta praedicamentum quantitatis. Si ergo * nihil ⁹
+eorum, quae sunt in coordinatione A C D ¹ , de
+
+quod sibi conveniat praedicatum. Probatur autem assumendo medium
+aliquod magis universale. Puta:
+
+Omnes, quibus imputantur propriae actiones, agunt opera merito—
+ria vel demeritoria;
+
+Sed omnibus, qui ratione potiuntur, imputantur propricxe actionem·
+
+Ergo omnes, qui ratione potiuntur, agunt opera meritoria uel de-
+meritoria.
+
+Et sic deinceps augerentur media, si maior iterum esset probanda, puta
+ex libero arbitrio etc. Atqui haec densatio et augmentatio (καταπυκνοῢται
+καὶ αὔξεται), quoties agatur de mediatis affirmativis et universalibus
+assumptis in prima figura et probandis per immediatas propositiones,
+nonnisi in ipsa prima figura fieri potest: prima enim figura, quia habet
+medium inter extrema, potest concludere propositiones affirmativas, quae
+simul sint propositiones universales. Formula scilicet reductionis ad im—
+mediata in hypothesi nostra erit, pro maiori: Omne D est A: omne C
+est D; omne C est A. Pro minori autem: Omne Β est C ,¹ omne E
+est B,· omne E est C. Ergo in condensandis et augmentandis mediis, ut
+immediata habeantur, prima figura non indiget aliis.- Oppositum omnino
+se habet in aliis figuris, quoties occurrit reducenda ad immediatam pro-
+positio universalis affirmativa. Nam conclusio affirmativa et universalis
+nonnisi in prima figura fieri potest. Ergo secunda figura indiget prima.
+Tertia autem figura concludit particulariter; ergo si propositio univer-
+salis affirmativa mediata assumatur in praemissis, nonnisi per primam
+figuram probari potest.
+
+η) In prima figura ete—Hoc exemplum in prima figura quod cum
+codd. refert editio Pinna, oscitanter omittit amanuensis cod. B.-Codices
+tamen omittunt figura. —- Supra vero codd. CEGHIMNOQRST: potest
+syllogizari et (et orn. INO) in prima et in secunda figura. In etc.; AB:
+potest... et in prima figura et secunda. In etc.; D: potest... vel in prima
+vel in secunda gur-a. In etc.; KL: potest et in prima figura et in se-
+cunda figura K om. fig). In etc.
+
+Θ) Manifestum est quod contingat etc.-D: quod (marg. add. er-
+ronee: non) contingit B (add. marg.: esse in quodam toto) t'n quo ‚· H:
+quomodo contingat‚· 1: quod non contingit,· LR: quod contingit5 M:
+quod non contingat. —- Codd. (exc. D): Β non esse,- P: Β esse nom—-
+Codd., exc. GK: in quo toto est A,· PGK: in toto, in quo est A.
+
+ι) In coordinatione Α C D, etc. - Codex B est hoc in loco men-
+
+' ‘3⁰5⁶‘ ιιι unum-
+qligi {¹1⁴5ss aneton.
+
+‘ Fi ura om.
+coddg.
+
+⁸ a: sunt,- u: sic
+sint.
+' o: esset.
+
+¹ Scilicet *ex
+codd. ne. a.
+'⁸ cf] leet. xv,
+
+not. β.
+

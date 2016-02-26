@@ -1,0 +1,161 @@
+CAP. XIV, LECT. XXVI
+
+241
+
+LECTIO VIGESIMASEXTA
+
+SYLLOGISMUS DEMONSTRATIVUS MAXIME FIT IN PRIMA FIGURA-
+DE PROPOSITIONE NEGATIVA TUM MEDIATA. TUM IMMEDIATA
+
+Τῶν δὲ σχημάτων ἐπιστημονικὸν μάλιστα τό πρῶτόν
+ἐστιν. A'l τε γάρ μαθηματικαὶ τῶν ἐπιστημῶν διά
+τούτου φέρουσι τάς ἀποδείξεις, οἷον ἀριθμητική καὶ
+γεωμετρία καὶ ὀπτικῆ, καὶ σῦεδόν ὠς εἰπεῖν ὅσαι
+τοῦ διοτι ποιοῦνται τήν σκέιῖιν· ἦ γάρ ὅλως ἦ ὠς
+ἐπὶ τὸ πολὺ καὶ ἑν τοῖς πλείστοις διά τούτου τοῦ
+σχήματος ὀ τοῦ διότι συλλογισμός. ’Ώστε κᾶὶν διά
+τοῦτ’ εἴη μάλιστα ἐπιστημονικόν· κυριώτατον γάρ
+τοῦ εἰδέναι τὸ διότι θεωρεῖν.
+
+Εἶτα τήν τοῦ τί ἐστιν ἐπιστήμην διά μόνου τούτου
+θηρεῦσαι δυνατόν. Ἐν μὲν γάρ τῷ μέσῳ σχήματι οὑ
+γίνεται κατηγορικός συλλογισμός, ’ἢ δὲ τοῦ τί ἐστιν
+ἐπιστήμη καταφάσεως· ἐν δὲ τῷ ἐσχάτῳ γίνεται
+μὲν ἀλλ’ οὑ καθόλου, το“ δὲ τί ἐστι τῶν καθόλου
+ἐστίν· οὑ γάρ πῇ ἐστὶ ζῷον δίπουν ὁ ἄνθρωπος.
+
+Ἔτι τοῦτο μὲν ἐκείνων οὐδὲν προσδεῖται, ἐκεῖνα δέ διά
+
+τούτου καταπυκνοῦται καὶ αὔξεται, ἕως ἂν εἰς τά
+7 ἅμεσα ἔλθῃ. Φανερόν οὑν ὅτι κυριώτατον τοῦ ἐπί-
+στασθαι τὸ πρῶτον σχῆμα.
+
+’Ὠσπερ δὲ ὑπάρχειν τὸ Α τῷ Β ἐνεδέχετο ἀτόμως, οὕτω
+καὶ μή ὑπάρχειν ἐγχωρεῖ. Λέγω δε τὸ ἀτόμως ὑπάρ-
+χειν ἦ μή ὑπάρχειν τὸ μή εἶναι αὑτῶν μέσον· οὑτω
+γάρ οὐκέτι ἔσται κατ’, ἄλλο τὸ ὑπάρχειν ἦ μή ὑπάρ-
+χειν.
+
+., . . .
+
+Οταν μὲν οὑν ἡ τό Α η’ τὸ Β ἐν ὅλῳ τινὶ ᾗ, τὶ καὶ
+ἄμφω, οὑκ ἐνδέχεται τό A τῷ Β πρώτως μή ὑπάρ-
+χειν. Ἔστω γάρ τό A ἐν ὅλῳ τῷ Γ· οὐκοῦν εἰ τὸ Β
+
+’ἡ ἐστιν ἑν ὅλῳ τῷ Γ (ἐγχωρεῖ γάρ τὸ μὲν Α εἶναι
+εν τινι ὅλῳ, τό δὲ Β μή ειναι ἐν τούτῳ), συλλογι-
+σμὸς ἔσται τοῦ μή ὑπάρχειν τὸ Α τῷ B· εἱ γάρ τῷ·
+μὲν A παντὶ τὸ Γ, τῷ δὲ Β μηδενί, οὐδενὶ τῶν Β
+τὸ A. Ὁμοίως δέ καὶ εἰ τό Β ἑν ὅλῳ τινί ἐστιν,
+οἷον ὲν τῷ Δ· τὸ μὲν γάρ Δ παντὶ τῷ Β ὑπάρχει,
+τὸ δὲ A οὐδενὶ τῶν Δ, ὥστε τὸ Α οὐδενὶ τῶν Β
+ὑπάρξει διά συλλογισμοῦ. Τὸν αὑτὸν δέ τρόπον
+δειχθήσεται καὶ εἱ ἄμφω ἑν ὅλῳ τινί ἐστιν.
+
+Ὅτι δ’ ἐνδέχεται τό Β μή εἶναι ὲν ᾧ ὅλῳ ἐστὶ τὸ Α,
+ἦ πάλιν τὸ A ἑν ᾧ τὸ Β, φανερόν ἐκ τῶν συστοι-
+
+ιῶν, ὅσαι μή ἐπαλλάττουσιν ἀλλήλαις. Εἰ γάρ μη-
+§ev τῶν ἑν τῇ A Γ Δ συστοιχίᾳ κατά μηδενὸς κα-
+τηγορεῖται τῶν ἓν τῇ Β Ε Ζ, τό δ’ A ἐν ὅλῳ ἐστὶ
+τῷ Θ συστοίχῳ ὄντι, φανερὸν ὅτι τὸ Β οὑκ ἔσται ἐν
+τῷ Θ· ἐπαλλάξουσι γάρ αἱ συστοιχίαι. Ὁμοίως δὲ
+καὶ εἰ τὸ Β ἐν ὅλῳ τινί ἐστιν.
+
+Ἐάν δὲ μηδέτερον ’ᾖ ἑν ὅλῳ μηδενί, μή ὑπάρχῃ δὲ τὸ A
+τῷ Β, ἀνάγκη άτόμως μή ὑπάρχειν. Εἰ γάρ ἔσται
+τι μέσον, ἀνάγκη θάτερον αὑτῷν ἐν ὅλῳ τινὶ εἶναι·
+ἦ γοὶρ ἐν τῷ πρώτῳ σχήματι ἦ ἑν τῷ μέσῳ ἔσται ὁ
+συλλογισμός. El. μὲν ουν ἐν τῷ πρώτῳ, τὸ Β ἔσται
+ὲν ὅλῳ τινί (κατάφατικὴν γάρ δεῖ τήν πρὸς τοῦτο
+γίνεσθαι πρότασιν), εἰ δ’ ἐν τῷ μέσῳ, ὁπότερον ἔτυ-
+χεν· πρὸς ἀμφοτέροις γάρ ληφθέντος τοῦ στερητι-
+κφῦ ἱγίνεταινσυλλογισμός· ἀμφοτέρων δ’ ἀποφατικῶν
+ουσων ουκ εσται.
+
+Φανερόν οὖν ὅτι ὲνδέ εταί τε ἄλλῳ μη ὑπάρχειν ἀτό-
+μως, καὶ πότ’ ἐνδεχεται καὶ πῶς, εἰρήκαμεν.
+
+8ΥΝοΡ515. - 1. Argumentum et divisio textus. - Thesis: Syllo-
+gismus demonstrativus, hoc est faciens scire, maxime fit in prima
+figura. - 2. Probatur imprimis thesis ex eo quod in prima figura
+
+Opp. D. Tnomn T. 1.
+
+* Figurarum autem magis faciens scire maxime prima est.
+Mathematicae enim scientiae per hanc primam figuram
+demonstrationes ferunt, ut arithmetica, et geometria,
+et perspectiva, et fere dicere est quaecunque propter
+quid faciunt speculationem: aut enim omnino, aut sicut
+frequentius et in pluribus per hanc figuram, qui est
+propter quid, fit syllogismus Quare et propter hoc erit
+maxime faciens scire; propriissimum enim scire propter
+quid speculari.
+
+Postea, ipsius quod quid est scientiam per solam hanc pri-
+mam figuram venari possibile est. ln media quidem
+enim figura non fit categoricus syllogismus, sed ipsius
+quod quid est scientia affirmationis est; in ultima autem
+fit quidem, sed non universaliter, sed quod quid est uni-
+versalium est; non enirn quodam modo est animal bi-
+pes homo. “
+
+Amplius, haec quidem illis nihil indiget, illae autem per
+hanc densantur et augmentantur, quousque utique ad
+immediata veniant. Manifestum igitur est quod maxime
+proprium scientiae prima figura.
+
+* Sicut autem esse A in B contingit individualiter, sic et non
+esse conceditur. Dico autem individualiter esse, aut non
+esse, cum nihil est eorum medium: sic enim non erit
+secundum aliud aut esse aut non esse.
+
+Cum igitur aut A quidem aut B in toto quodam sint,
+aut ambo, non contingit A in B primo non esse. Sit
+enirn A in toto C, igitur si B non est in toto C (po-
+test enim A esse quidem in quodam toto, sed B non
+esse in hoc), syllogismus erit quod non sit A in B. Si
+enim in A quidem omni est C, in Β autem nullo est
+C, in nullo Β est A. Similiter autem est et si B in toto
+quodam est, ut in D. D enim in omui B est: in A
+autem nullo D; quare A in nullo Β erit per syllogis-
+
+⁸ Cap. xiv.
+Text.31.
+
+¹¹ Cap. xv.
+
+mum. Eodem autem modo demonstrabitur, et si utra· ι
+
+que in quodam toto sunt.
+
+Quod autem contingit B non esse in quo toto est A, aut
+iterum A in quo est B, manifestum ex coordinationi-
+bus est‚ quaecunque non commutantur ad invicem. Si
+enim nihil eorum, quae sunt in A C D coordinatione,
+de nullo praedicatur eorum, quae sunt in B E F; A
+autem in toto P sitin coordinatione praeexistenti; ma-
+nifestum est quod B non erit in P: commutarentur
+enim coordinationes. Similiter autem est et si B in toto
+quodam est.
+
+Si vero neutrum sit in aliquo toto, non sit autem A in B,
+necesse est individualiter non esse. Si enim erit me-
+dium, necesse est alterum ipsorum in quodam toto
+esse. Aut enim in prima figura, aut in media erit syl-
+logismus. Si quidem igitur in prima figura, Β erit in
+toto quodam (affirmativam enirn oportet ad hanc fieri
+propositionem); si vero in media, quodcunque con-
+tingit: ad utraque enim posito privativo fit syllogis-
+mus; cum autem utraque negativa sit, non erit syllo-
+gismus.
+
+Manifestum igitur est quod contingit et aliud in alio non esse
+individualiter, et quando contingit et quomodo, diximus.
+
+maxime fit syllogismus propter quid: nam in demonstratione
+propter quid medium est causa passionis, quae praedicatur in
+conclusione de subiect05 hoc autem maxime habetur in prima
+
+31*
+

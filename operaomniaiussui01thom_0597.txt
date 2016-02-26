@@ -1,0 +1,204 @@
+Num. 9.
+
+⁸ Cf. lect. viu.
+
+⁸ Codd. (exc. n)
+
+&propositio-
+*coda -rozsa-
+
+(ζώων.
+
+CAP. XII, LECT. XXII
+
+sumuntur, sint universaliter, et semper, et non
+secundum quid. Circa hoc ergo Ῥ duo facit: primo,
+ostendit· qualiter fiat paralogismus secundum fal-
+laciam consequentis; secundo, quod ex hoc modo
+non accidit deceptio in demonstrativis; ibi: Ali-
+quando quidem * etc.
+
+8. Dicit ergo primo quod quosdam contingit
+non ⁰ syllogistice dicere, idest non servare formam
+syllogismi, propter hoc, quod accipiunt utrisque
+inhaerentia “⁶‘, idest quia accipiunt medium affir-
+mative praedicatum de utroque extremorum 3 quod
+est syllogizare in secunda figura ²* ex duabus propo-
+sitionibus ’²‘ affirmativis3 quod facit fallaciam con-
+sequentis. Sicut fecit * quidam philosophus nomine
+Caeneus ad ostendendum quod ignis sit in mul-
+tiplicata analogia, idest quod in maiori quantitate
+generatur ignis, quam fuerit corpus ex quo gene-
+ratur: eo quod ignis, cum sit rarissimum cor-
+pus ²³, per rarefactionem ex aliis corporibus gene-
+ratm. Unde oportet quod materia prioris corporis
+sub maioribus dimensionibus extendatur, formam
+ignis assumens. Ad hoc autem probandum ute-
+batur tali syllogismo: Quod generatur in multi-
+plicata analogia Ρβ, cito generatum sed ignis cito
+generatur3 ergo ignis generatur in multiplicata
+analogia.
+
+9. Deinde cum dicit: Aliquando quidem igi-
+tur etc.‚ ostendit quod per hunc modum syllo-
+gizandi non accidit deceptio in demonstrativis
+scientiis. Et circa hoc duo facit: primo, manife-
+
+ψ) Circa hoc ergo. ›- Ita codd. - P: circa ergo hoc; Q. om. ergo
+- infra, GKLR: secundo quod hoc modo; M omittit ex hoc modo. —-
+B: non accidit defectus.
+
+ω) Quosdam contingit non syllogistice. Codices (exc. G) habent
+hanc lectionem, quae est secundum versionem latinam, et secundum textum
+graecum: Συμβαίνει ’δ’ ἐνίους ἀσυλλογίστως λέγειν. ν- PG minus bene·
+quosdam non contingit syllogistice; H male: quosdam paralogismos
+non contingit syllogistice etc.
+
+αα) Ηορτεν hoc quod accipiunt utrisque inhaerentia. -In hunc
+modum reformavimus ex codd. lectionem P, quae obscura est: propter
+hoc quod accipiunt utramque inhaerentiam etc. Codd. BCEHIMNQRS
+legunt: utrisque5 D p. m.‚ utrisque, s. m.‚ utrique ‚- OT: utriusque;
+1: propter illud... utrisque. Soli autem codices CIL et s. m. D habent
+inhaerentia. Lectio adoptata pro se habet auctoritatem codicum quoad
+vocabulum utrisque, quo posito sequitur legendum esse inhaerentia
+cum CDIL. Aliunde eadem lectio nedum a versione latina sed a textu
+graeco imponitur. διὰ τὸ λαμβάνειν ἀμφοτέροις τὰ ἑπόμενα (utrisque
+conse nentia).
+
+ββζ Quod)g eneratur in multiplicata analogia.— Legimus hic et infra
+in »nultiplicata cum codicibus, quia supra tum P tum codd. unanimiter
+legunt in multiplicata analogia, iuxta textum graecum: ἐν τῇ πολλα-
+nicalai ἀναλογίᾳ, quem latina versio fideliter exhibet. -P semel et iterum:
+ex muliplicata.—- -M oscitanter omittit verba, sed ignis cito generatur,
+quae constituunt minorem syllogismi3 alii codices: ignis cito, omisso
+sed‚· et CDELMNOQRST legunt: ergo ignis fit, loco, ergo ignis ge-
+neratur.
+
+ln hoc syllogismo, qui ex Caeneo refertur, dicitur esse fallacia con-
+sequentis. Nam medius terminus est cito generatur,- et quia bis prae-
+dicatur in propositionibus affirmativis, sequitur quod tum in maiori tum
+in minori sumitur disiunctive‚ hoc est particulariter. Peccat ergo contra
+illam legem syllogismi, in qua praescribitur quod·medius terminus saltem
+semel debet sumi universaliter seu distributive. Ex qua lege sumitur
+quod, ad evitandam fallaciam consequentis (cf. supra, not. λ) syllogi-
+smus in secunda figura (ut est supra dictus) debet habere unam prae-
+missarum propositionum negativam, et ideo conclusionem negativam.
+. Quae omnia non observantur a Caeneo (Cf. lect. vm).
+
+γγ) Si omnis homo etc.- 1: quod si omnis homo est animal, omne
+animal etc.; ABCGR: Si... quod quidquid sit animal etc.‚· T omittit
+quod quidquid est animal.
+
+ὃὸ) Ita etiam sequitur e converso etc.—Est lectio codd. ABIQ, nisi
+quod Q omittit quod ante si est animala-P: ita etiam sequitur e con-
+verso si est animal rationale mortale, sequitur quod sit homo.— O:
+scilicet, si est animal, cet. ut P ; C loco secundi sequitur P, habet
+εἰς L omitt. sequitur ante quod sit P. ,· HM habent hoc loco lacunam ς
+denique G peculiarem habet lectionem ; scilicet in terminis converti-
+
+227
+
+stat quod ex hoc modo syllogizandi non semper
+accidit deceptio, dicens quod aliquando, secundum
+praedictum* modum arguendi, non contingit syl-·
+logizare ex acceptis, quando scilicet termini non
+sunt convertibiles. Non enim sequitur, Siomnis
+homo est animal ⁷⁷, quod quidquid est animal sit
+homo. —‘ Aliquando ⁴vero contingit syllogizare, scili-
+cet in terminis convertibilibus. Sicut enim sequi-
+tur: Si est homo, est animal rationale mortale ,· ita
+etiam’ sequitur e converso quod, Si est animal ra-
+tionale mortale, est homo ⁸⁸. Sed tamen non vi-
+detur quod sequatur syllogistice, quia non ser-
+vatur debita forma syllogismi.
+
+10. Secundo cum ²⁸ dicit: Si autem esset impos-
+sibile etc.‚ ostendit quod in demonstrativis scien-
+tiis contingit praedicto modo syllogizari absque * ⁴
+deceptione. Et hoc ostendit tripliciter ⁸⁸. Primo
+sic. Secundum praedictum modum syllogizandi
+accidit deceptio ex eo, quod non convertitur con-
+sequentia, quae putatur '¹‘ converti. In quo non ac—
+cideret ⁴* deceptio, si quemadmodum conclusio est
+vera, ita et praemissae sint verae: tunc enim in
+convertendo non accidet deceptio ἕξ. Sicut si di-
+cam de Socrate: Socrates est homo ; ergo Socra-
+tes est animal ,· nulla deceptio falsitatis sequitur,
+sicut si e converso arguatur sic ²⁷²⁰: Est animal ;
+ergo est homo ⁰⁰. Sed si praemissa est '¹‘ falsa
+conclusione existente vera, tunc in convertendo
+accidit deceptio ²¹⁸. Sicut si dicam ¹⁴: Si asinus est
+homo, est animal; ergo si est animal, est homo.
+
+bilibus,·s1'cut, si homo est, animal rationale mortale est; εἰ sit animal
+rationale mortale, est homo. Sed tamen etc.·- Infra legimus cum codd.-
+quia non servatur etc.; Ρ· quando non servatur etc.; Μ. quin sequa-
+tur debita etc.; G om. debitas K: quia non videtur debita forma,
+omisso vocabulo syllogismi.
+
+εε) Et hoc ostendit tripliciteru- Huic lectioni Pianae contradicunt5-
+omnes codiceS, qui legunt: et hoc ostendit dupliciter. Sed codices er-
+rant, quia non duae sed tres rationes afferuntur a S. Thoma, ut constat
+ex hoc numero et duobus sequentibus. -- Codd.ACDE1KOQRST1mme-
+diate prosequuntur: Prono modo sic.
+
+ζζ) Ita et praemissae sint verae etc. —-S. Thomas de praemissis lo-
+
+quens ponit quandoque praemissa in neutro, quandoque vero praemis-
+sas, subintellecto vocabulo propositiones. Hoc in loco codd. DLMNOQT
+legunt: ita et praemissa sint vera5 P: sic praemissae sint verae,· BIK
+R: ita et praemissae sunt (B, sint) verae,· AH: ita etiam praemissae
+sunt (H sint) verae,· G: sic etiam praemissa est vera ,· E: ita et prae-
+missa sint vere; CS: ita et praemissa sit vera. Adoptavimus lectionem
+ita et, quia et melior videtur et datur a codd.; attamen servavimus τὸ
+praemissae.. verae, tum propter assignatam rationem, tum quia codices
+inter se non conveniunt.— -Sequitun tunc enim in convertendo non ac-
+cidet deceptio. Haec verba omnino desunt in omnibus nostris codici-
+bus.— Ea tamen habent curn P Venetae editiones ac (b desunt folia)
+et alia 15263 et retinemus, quia revera rationem assignant curin facta
+hypothesi (si quemadmodum ete.) non accideret deceptio in praedicto
+modo syllogizandi. Hinc si expungerentur ex codd. auctoritate, essent a
+lectore subintelligenda.
+
+ηη) Sicut si dicam etc.·-Codd. legunt: Si enim dicam etc.; et in—
+super, exc. G: Socrates est homo ‚· ergo est animal ,· G: Si enim dicam:
+Socrates est animal homo, Socrates est animal, nulla deceptio falsitatis,
+omisso sequitur. Lectio obscura et non attendenda. — Deinde codd. (exc.
+BG): si (omisso sicut) e conuerso arguatur (BCDEOQRST, arguam) sic.
+
+θθ) Est animal, ergo est homo. - Ita Piana et codices. Excipe tamen
+H, qui immediate addit: fit deceptio. Quae verba quia non habentur in
+aliis codicibus, et aliunde cod. H non est tantae auctoritatis, ut ipsi soli
+contra alios credamus, textui s. Thomae non inserimus. Attamen ad per-
+spicuitatem sententiae conferunt, et certe sunt subintelligenda. Sensus
+enim est: Si dicam de Socrate: Socrates est homo, ergo est animai, nulla
+deceptio falsitatis sequitur; sicut revera deceptio falsitatis sequitur si e
+converso arguatur sic: Est animal, ergo est homo. Hinc retinemus sicut
+cum PBG (quo, ut in praecedenti nota dictum est, ceteri codices carent),
+quia illa particula expuncta, et non admissa lectione H ,sit deceptio, ob-
+scura esset ac fere inintelligibilis s. Thomae sententia. Si vero lectio fit
+deceptio adsumatur, poterit omitti sicut, et legi: si ε converso etc.
+
+ιι) Sicut si dicam.- AB (omisso sicut): Si dicam sic‚· G: Ut si
+dicam sic,· HK om. si dicam,· L. Ut si dicatur.
+
+Codd. - 1²: su-
+pra dictum.
+
+* Codd.-r: Se·-
+cundo ibi, cum.
+
+Cod d.-r: sine
+
+*Co.-d6 -ιιι quam
+putat... In qua:
+G: quam putant
+
+⁹²0¹& fid-fitis
+Cl'fleti Gnt: acci-
+
+, ¹* §lodda eit· tx:
+suit,- 1: sunt.
+
+⁸ ι : fallacia.
+

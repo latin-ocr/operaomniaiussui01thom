@@ -1,0 +1,186 @@
+· Demonstrativi
+ex codd„ exc.x.
+
+⁸ Cf. lect.1v, n. 1.
+
+⁸ aa: demonstr-a-
+tiones.
+
+'¹ Codd. (exc. xi:
+ex immed. esse.
+
+³ Num. 5.
+
+⁶ Codd. - rufi-
+gura ista.
+
+242
+
+figura, in qua medius terminus subiicitur maiori extremitati et
+praedicatur de minori termino. - Hinc scientiae mathematicae, et
+aliae quae demonstrant propter quid, ut plurimum utuntur prima
+figura. - 3. Probatur secundo thesis, quia definitio ’potlssimum
+locum habet in scientiis demonstrativis3 et in sola prima figura
+investigatur definitio, quae praedicatur de definito affirmative et
+universaliter, in sola autem prima figura concluditur universaliter
+et affirmative. -4. Probatur tertio eadem thesis ex eo quod aliae
+figurae, ad hoc ut propositiones universales affirmativae media-
+tae, ex quibus procedunt, reducantur ad immediatas, indigent prima
+figura3 at prima figura aliis ad hoc non indiget quia, ut dictum
+est (n. praeced), in ipsa sola inferuntur-conclusiones affirmati-
+vae simul et universales, et insuper quia in ipsa sola accipitur
+medium inter extrema. - 5. Praedicatum individualiter inesse vel
+non inesse subiecto dicitur in propositionibus affirmativis vel
+
+,2 determinat de forma ipsius *, osten-
+
+. 'nr‘- dens in qua figura praecipue fiat syl—
+logismus demonstrativus. Et dividitur in duas par-
+tes. In prima ostendit quod syllogismus demon-
+strativus maxime fit in prima figura. Et quia-in
+prima figura proceditur etiam ‘³‘ ex negativis, et
+oportet demonstrationem* ex immediatis proce-
+dere *, ostendit in secunda parte quomodo con-
+tingit propositionem negativam esse immediatam
+ibi: Sicut autem esse A in B '¹‘ etc.
+
+2. Primum ostendit tribus rationibus, quarum
+prima talis est. In quacunque figura maxime fit
+syllogismus propter quid, illa figura ⁴* maxime est
+faciens scire, et propter hoc est magis accom-
+moda demonstrationibus3 cum demonstratio sit
+syllogismus faciens scire. Sed in prima figura ma-
+xime fit syllogismus propter quid (quod patet
+ex hoc quod mathematicae scientiae β, ut arith-
+metica et geometria, et quaecunque aliae propter
+quid demonstrant, ut plurimum prima figura
+
+ 
+
+α) Proceditur etiam ex negatIvis. ·— GO et p. m. A omittunt etiam;
+sed est error. Nam quatuor modi sunt concludentes in prima figura,
+quorum duo et praecipui sunt affirmativi (barbara, darii), duo autem
+sunt negativi (Cf. lect. vui, not. ρ). Falsa est ergo propositio, proceditur
+- ex negativis. Unde in cod. Α s. m. additur etiam, quod cum P habent
+alii codices. *- Infra (ostendit in secunda parte ) unus G contra P et
+alios codices legit: ostendit quod oportet propositionem etc. κ Quam
+lectionem non esse acceptandam constat ex sequenti n. 5.
+
+β) Mathematicae scientiae... propter quid demonstrant. ·- Notatu
+digna est methodus qua hic utitur Aristoteles ad thesim probandam.
+Demonstratio est mentis nostrae instrumentum (ut dictum est lect. ιν,
+not. π), cuius proinde ratio desumenda est a fine, propter quem est in-
+stituta (Cf. 1 Pei-ih„ lect. vn, n. 2). Finis autem demonstrationis est scire
+(Cf. lect. w, n. 9); scire autem perfecte tunc dicitur, quando res cogno-
+scitur, et eius causa, seu propter quid sit (ib.‚ n. 5). Quia vero syllo-
+gismus demonstrativus fieri potest in tribus figuris, illa figura erit ma-
+xime demonstrationi propria‚ quae maxime attingit propter quid rei, quod
+per demonstrationem concluditur. Quae quidem figura est prima. -Ari-
+stoteles autem ad probandum quod demonstratio in prima figura maxime
+facit scire, argumentatur a signo, hoc est ab exemplo mathematicae, quia
+scientia ista, quoad nostram cognitionem naturalem, in maximo est cer-
+titudinis gradu. Ratio est quia veritatis conclusae mathesis demonstrat
+propter quid, non solum quoad causam (quod est omni scientiae com-
+
+mune), sed etiam quoad esse (Cf. lect. praeced., not. τ). Si igitur ma· ’
+
+thematica scientia ut plurimum utitur prima figura, signum est quod in
+hac figura maxime fit syllo 'smus propter quid, faciens scire. Neque
+aliud addit Aristoteles. At s. mas rationem adiungit: Causa autem etc.:
+quae ratio petitur ex ipsa natura figurarum syllogismi, et ex principiis
+positis pro syllogismo demonstrativo propter quid, quod scilicet debeat
+esse ex his, quae sunt per se, etc. (Cf. lect. xiv et seqq.). - Sit syllo-
+gismus: Omne habens rationem est capax scientiae,- sed omnishomo
+est habens rationem,· ergo omnis homo est capax scientiae. Medium
+(habens ratitmem) est subiectum in maiori, et praedicatum in minori;
+est ergo syllogismus in prima figura. —Sed medium (habere rationem)
+est causa maioris extremi (capax scientiae), et simul est effectus mi-
+noris extremitatis (omnis homo). Causa autem causae est causa cau-
+sati; ergo cum minor extremitas sit causa medii, et medium sit causa
+maioris extremitatis, sequitur quod minor extremitas, mediante medio,
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+negativis, quando non habent medium per quod probentur. —
+6. Ostenditur quod propositio negativa est mediata, cum aut
+praed1catum est in aliquo toto, seu genere, subiectum autern in
+nullo genere, vel viceversa3 aut cum utrumque est in aliquo ge-
+nere, sed non in eodem. Ratio est, quia in his casibus potest
+fieri syllogismus ad praedictam propositionem demonstrandam. -
+7. Declaratur quod suppositum est in praecedenti numero,nempe,
+confingere quod subiectumknon sit in eodem genere cum prae-
+dicato, et viceversa: nam contingit unum terminorum accipi
+m uno praedicamento, in quo non est alius. - 8. Propositio ne-
+gativa est immediata, si neuter terminorum sit in quodam toto,
+seu sub aliquo genere: hoc enim posito non potest demonstrari.
+Nam demonstratio propter quid accipit pro medio definitionem,
+hoc est genus et differentiam; genus autem assumi non potest
+de extremo, quod non est in aliquo genere.
+
+utuntur); ergo prima figura est maxime faciens
+scire et maxime accommoda demonstrationibus.
+Causa autem, quare demonstratio propter quid
+maxime fit in prima figura, haec est. Nam in
+prima figura medius terminus subiicitur maiori
+extremitati, quae est praedicatum conclusionis,
+et praedicatur de minori termino, qui est subie-
+ctum conclusionis. Oportet autem in demonstra-
+tione *propter quid medium esse causam passio- ·
+nis, quae praedicatur in conclusione de subiecto. ο
+Et unus modus dicendi per se est quando subie-
+ctum est causa praedicati, ut interfectum* inte-
+riit, sicut supra dictum est ”3 et hoc competit pri-⁷ ·
+mae figurae, in qua medium subiicitur maiori
+extremitati, ut dictum est *.
+
+3. Secundam rationem ponit; ibi: Postea tyrius “ ·
+
+quod quid est etc„ quae talis est. Quod quid est*
+potissimum locum in demonstrativis scientiis ha-
+bet, quia, sicut dictum est ²¹³, definitio aut est prin-
+cipium demonstrationis, aut conclusio, aut de-
+monstratio positione differens. Ad investigandum
+autem definitionem sola prima figura convenit.
+
+debeat esse causa maioris extremitatis. Et hoc est praecise quod in conclu-
+sione dicitur: Omnis homo est capax scientiae. Capacitss enim sciendi
+de homine dicitur per se in quarto modo dicendi per se (ef. lect. x, n. 7).
+In prima ergo figura medium est immediata causa maioris extremitatis,
+et consequenter immediata causa cur ipsa maior extremitas insit per se
+minori extremitati in conclusione. Atqui medium esse hoc modo causam,
+hoc est propter quid passionis conclusionis, potissimum accidit in prima
+figura. Nam in secunda medium bis praedicatur, et ideo non potest eme
+causa maioris extremitatis in praemissis, et consequenter neque prae-
+dicati conclusionis. ln tertia vero figura medium bis subiicitur. Ergo est
+causa immediata maioris extremitatis, sed qula non est effectus imme-
+diatus minoris exn-emittitis (ut in prims figura) non potest esse eausa
+immediata cur maior extremitas insit minori extremitati in conclusione.
+
+Quae omnia ut magis sint manifesta, adducimus duos syllogismos,
+quorum unus est in secunda, alter vero in tertia figura:
+
+ln 2· fig. Omne capax scientiae est habens rationem,-
+Nullus equus est habens rationem,-
+Ergo nullus equus est capax scientiae.
+
+In 3· fig. Omnis anima rationalis est capax scientiae ,-
+Omnis anima rationalis est forma materian· ’
+Ergo aliqua forma materiae est capax seleutias.
+
+Prior syllogismus non est propter quid, sed est ex effectu et ι po-
+steriori: non enim habere rationem est ex capacitate scientiae sicut ι
+sua causa, sed ex opposito capacitas scientiae est a ratione. Potest usque
+maior vere inverti hoc modo: Omne habens rationem-est capax nden-
+tiae‚· sed facta hac conversione, syllogismus est in prima figura, et est
+falsus, cum minor eius sit negativa (cf. lect. vm, not. ρ), Adde quod
+stante repetita praedicatione, medium non potest esse causa, <seu pm·
+pter quid conclusionis, ut hic supra dictum est.
+
+ln altero vero syllogismo medium in maiori est quidem caasa praei·
+dicati, sed prout est subiectum minoris non eet nisi cansa remota praedi-
+cati eiusdem minoris. Non enim quatenus formaliter rationalis anima no-
+stra est sonna materiae, sed quatenus est virtualiter corporea. Unde non
+concluditur propter quid. Deinde ob rationem supra assignatam, madium
+non potest esse eausa immediata conclusionis3 quse ideo nonnisi pst-r
+ticulariter inferri potest.
+

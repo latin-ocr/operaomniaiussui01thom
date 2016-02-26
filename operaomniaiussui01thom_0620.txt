@@ -1,0 +1,146 @@
+250 POSTERIORUM ANALYTICORUM LIB. I
+
+LECTIO VIGESIMAOCTAVA
+
+DE SYLLOGISMO IGNORANTIAE,
+QUO IN Ia ET IN 11² FIGURA CONCLUDITUR NEGATIVA FALSA
+CONTRARIA AFFIRMATIVAE IMMEDIATAE
+
+'H δὲ τοῦ μή ὑπάρχειν ἔν τε τῷ πρώτῳ καὶ ὲν τῷ μέσῳ * Quae vero est ipsius non esse, in prima et media figura‘ · Seq, οφ, xv1,
+
+et text. 32.
+
+σχήματι. Πρῶτον οὐν εἴπωμεν ποσαχῶς ἐν τῷ πρωτῳ
+γίνεται, καὶ πῶς ἐχουσῶν τῶν προτάσεων.
+
+Ἐνδέχεται μέν οὖν ἀμφοτέρων ψευδῶν οὐσῶν, οἷον εἰ
+τό Α καὶ τῷ Γ καὶ τῷ Β ὑπάρχει ἀτόμως· ἐάν γάρ
+ληφθῇ τὸ μὲν A τῶ Γ μηδενί, τὸ δὲ Γ παντὶ τῷ Β,
+ψευδεῖς αἱ προτάσεις.
+
+Ἐνὸέχεται δέ καὶ τῆς ἑτέρας ψευδοῦς οὔσης, καὶ ταύτης
+ὁποτέρας ἔτυχεν. Ἐγχωρεῖ γάρ τήν μὲν Α Γ ἀληθῆ
+εἶναι, τήν δὲ Γ Β ψευδῆ, την μὲν A Γ ἀληθῆ ὅτι
+οὑ πᾶσι τοῖς οὖσιν ὑπάρχει τὸ Α, τήν δὲ Γ Β ψευδῆ
+ὅτι ἀδύνατον ὑπάρχει τῷ Β τὸ Γ, ᾦ μηδενὶ ὑπάρχει
+τὸ A·- οὑ γάρ ἔτι ἀληθής ἔσται η Α Γ πρότασις·
+ἅμα δέ, εὶ καὶ εἰσὶν ἀμφότεραι ἀληθεῖς, καὶ τὸ συμ-
+πέρασμα ἔσται ἀληθές.
+
+Αλλά καὶ τήν Γ Β ἐνδέχεται ἀληθῆ εἶναι τῆς ἑτέρας
+οὔσης ψευδοῦς, οἷον εἰ τὸ Β καὶ ἐν τῷ Γ καὶ ἐν τῷ Α
+ἐστίν· ἀνάγκη γάρ θάτερον ὑπὸ θάτερον εἶναι, ὥστ’
+ἂν λάβῃ τὸ A μηδενὶ τῶν Γ ὑπάρχειν, ψευδής ἔσται
+’ἡ πρότασις. Φανερόν οὑν ὅτι καὶ τῆς ἐτέρας ψευ-
+δοῧς οὔσης καὶ ἀμφοῖν ’ἔσται ψευδής ὁ συλλογισμός.
+δὲ τῷ μέσῳ σχήματι ὅλας μέν εἶναι τάς προτάσεις
+ἀμφοτέρας ψευδεῖς οὑκ ἐνδέχεται· ὅταν γάρ τὸ A
+παντὶ τῷ Β ὑπάρχῃ, οὐδὲν ἔσται λαβεῖν ὂ τῷ μὲν
+ἑτέρῳ παντὶ θατέρῳ δ’ οὐδενὶ ὑπάρξει· δεῖ δ’ οὑτω
+λαμβάνειν τάς προτάσεις ὥστε τῷ μὲν ὑπάρχειν τῷ
+δέ μή ὑπάρχειν, εἴπερ ἔσται συλλογισμός. Εἰ οὖν οὕτω
+λαμβανόμεναι ψευδεῖς, δῆλον ώς ἐναντίως ἀνάπαλιν
+ἕξουσι· τοῦτο δ’ ἀδύνατον. Ἐπί τι δ’ ἑκατέραν
+οὐδὲν κωλύει ψευὸἧ εἶναι, οἷον εὶ τὸ Γ καὶ τῷ Α καὶ
+τῷ Β τινὶ ὑπάρχοι· ἃν γάρ τῷ μὲν A παντὶ ληφθῇ
+ὑπάρχον, τῷ δὲ Β μηδενί, ψευδεῖς μὲν ἀμφότεραι αἱ
+προτάσεις, οὐ μέντοι ὅλαι, ἀλλ’ ἐπί τι. Καὶ ἀνά-
+παλιν δὲ τεθέντος τοῦ στερητικοῦ ὡσαύτως.
+
+Τήν δ’ ἑτέραν εἶναι ψευδῆ καὶ ὀποτερανοῦν ἐνδέχεται.
+““0 γά ὑπάρχει τῳ Α παντί, καὶ τῷ Β ὑπάρξει·
+ἐάν ουν ληφθῇ τῷ μὲν A ὅλῳ ὑπάρχειν τὸ Γ, τῷ
+δὲ Β ὅλῳ μή ὑπάρχειν, ἡ μέν Γ A ἀληθής ἔσται, ἡ
+δὲ Γ Β ψευδής. Πάλιν ὃ τῷ Β μηδενὶ ὑπάρχει, οὐδὲ
+τῷ Α παντὶ ὑπάρξει· εἰ γάρ ’τῷ Α, καὶ τῷ Β· ἀλλ’
+οὑχ ὑπῆρχεν. Ἐάν οὖν ληφθῇ τό Γ τῷ μὲν Α ὅλῳ
+ὑπάρχειν, τῷ δέ Β μηδενί, η μὲν Γ Β πρότασις ἀλη-
+θής, η δ’ ἑτέρα ψευδής. ·
+
+Ὁμοίως δὲ καὶ μετατεθέντος τοῦ στερητικοῦ. Ὃ γάρ μη-
+δενὶ ὑπάρχει τῷ A, οὑδὲ τῷ Β οὐδενὶ ὑπάρξει· ἐάν
+οὖν ληφθῇ τὸ Γ τῷ μὲν A ὅλῳ μη ὑπάρχειν, ’τῷ δὲ Β
+ὅλῳ ὑπάρχειν, η μὲν Α Γ πρότασις ἀληθής ἔσται, ’ἦ
+ἑτέρα δέ ψευδής. Καὶ πάλιν, ὃ παντὶ τῷ Β ὑπά χει,
+μηδενὶ λαβεῖν τῷ A ὑπάρχον, ψεῦδος. Ἀνάγκη γ ρ, εἰ
+τῷ Β παντί, καὶ τῷ Α τιν)Ι ὑπάρχειν· ἐάν οὖν ληφθῇ
+τῷ μὲν Β παντὶ ὑπάρχειν τὸ Γ, τῷ δὲ Α μηδενί, ἡ
+μέν Γ Β ἀληθής ἔσται, ἡ δὲ Γ Α ψευδής. Φανερόν οὖν
+ὅτι καὶ ἀμφοτέρων οὐσῶν ψευδῶν καὶ τῆς ἑτέρας μό-
+νον ἔσται συλλογισμὸς ἀπατητικὸς ἐν τοῖς ἀτόμοις.
+
+Ἐν
+
+SYNOPSIS. — 1. Argumentum. - 2. Syllogismus ignorantiae
+in propositionibus immediatis concludens negative in prima fi-
+gura ex duabus praemissis falsis. - 3. Syllogismus negative con-
+cludens in prima figura falsus ex minori falsa. - 4. Syllogismus
+negative concludens in prima figura falsus ex maiori falsa et
+
+est. Primum igitur dicamus quot modis in prima sit,
+et quomodo se habentibus propositionibus.
+
+Contingit quidem igitur utrisque falsis: ut si A et in C et
+in B sit individualiter3 si enim accipiatur A quidem in
+
+C nullo, C autem in omni B, falsae sunt propositiones. ο
+
+Contingit autem et altera falsa, et hac quacunque contin-
+gente. Potest enim quae est A C vera esse, quae vero
+B C falsa esse. Sed quae est A C quidem vera, quo-
+niam non omnibus, quae sunt, inest A; sed quae est B
+C falsa, quoniam impossibile *est esse in B C, in quo
+nullo est A: non enim vera erit quae est A C propo-
+sitio; similiter autem et si sint utraeque verae, conclu—
+sio ent vera.
+
+Sed et eam, quae est C B, contingit veram esse, cum al-
+tera sit falsa, ut si B et in C et in A erit: necesse est
+enim alterum sub altero esse; quare si accipiatur A in
+nullo C esse, falsa erit propositio. Manifestum igitur
+est quoniam et cum altera falsa sit, et in utrisque erit
+falsus syllogismus,
+
+Sed in media figura utrasque quidem propositiones totas
+falsas esse non contingit: cum enim A in omni B sit,
+nihil erit accipere quod in altero quidem omni, in al-
+tero vero nullo; oportet autem sic accipere proposi-
+tiones, et quod in hoc quidem sit, in hoc autem non
+sit, si vere erit syllogismus. Si igitur sic accipiantur
+falsae, manifestum est quod contrariae e converso se ha-
+bebunt; hoc autem impossibile est. In quodam autem
+utramque nihil prohibet falsam esse, ut si C in A,
+et in B quodam est. Si enim C quidem in omni ac-
+cipiatur esse A, in Β autem nullo, falsae quidem utrae-
+que propositiones, non tamen totae, sed in quodam·
+E converso autem posito privativo.
+
+Similiter autem alteram falsam, et quamlibet contingit. Quod
+enim est in A omni, et in B est. Si igitur accipiatur
+
+. in A toto esse C, in B autem vtoto non esse, quae qui-
+dem C A vera erit; sed'quae C B est falsa. Iterum
+quod in B nullo est, neque in A omni erit: si enirn
+in A est, et in B; sed non erat. Si igitur accipiatur C
+in toto quidem A esse, in B autem nullo, B C pro-
+positio vera est, altera vero falsa.
+
+Similiter autem fit transposito privativo. Quod enim in
+nullo est A, neque in B ullo erit. -Si igitur accipiatur
+C in toto quidem A non esse, in B autern toto esse,
+quae quidem est A C propositio vera est, altera autem
+
+κ falsa. Et iterum, quod in omni B est, in nullo acci- ’
+
+pere A esse falsum est. Necesse est enim si in omni
+B est, et in quodam A esse; si igitur accipiatur in
+omni quidem B esse C, in A autem nullo, quae qui-
+dem est B C vera erit, quae autem est C A salsa. Ma-
+nifestum *igitur est, quod utrisque falsis, et altera tan-
+tum, erit syllogismus deceptivus in individuis.
+
+minori vera. - 5. Syllogismus falsus in secunda figura ex utraque
+praemissa falsa. - 6. Syllogismus falsus in secundo modo secun-
+dae figurae ex altera praemissarum falsa. - 7. Syllogismus simi-
+liter falsus in primo modo secundae figurae.
+

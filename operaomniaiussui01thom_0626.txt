@@ -1,0 +1,206 @@
+· m: ul si acetp.
+
+μ
+
+· An: huiusmodi.
+
+ν
+
+· o: esset. et ita
+insra; A orn. e-
+nim.
+
+·Codd.: similiter
+erit,- ι om. erit
+etfalsa.
+
+⁴ Esse om. mezi
+κκΝρετ.
+
+⁸ codd. -ιη ΑΒ.
+
+256
+
+versaliter de B, puta si accipiamus pro medio
+figuram contentam tribus lineis rectis; quta liic
+etiam necesse est minorem propositionem, scili-
+cet D Β, manere sicut erat in syllogismo conclu·
+dente verum, quamvis per proprium medium ,-
+maiorem autem propositionem necesse est trans-
+mutari in contrariam: et ideo semper minor erit
+vera, et maior semper erit falsa ¹. Et quantum
+ad modum arguendi ista deceptio est similis ei,
+quae fit per proprium medium.
+
+4. Deinde cum dicit: Si vero non per pro-
+
+prium etc., ostendit quomodo fit syllogismus ial-
+
+sitatis per medium extraneum, et dissimile proprio.
+Potest autern hoc medium hoc modo accipi ⁸, ut
+contineatur universaliter sub A, et de nullo B prae-
+dicetur. Et in hoc casu oportebit² utrasque pro-
+positiones esse falsas, quia oportebit, ad hoc quod
+fiat syllogismus in prima figura, accipere propo-
+sitiones e contrario, ut scilicet * accipiamus maio-
+rem negativam et dicamus, Nullum D est A, et
+minorem affirmativam, et dicamus: Omne B est
+D.- et sic μ patet utrasque esse falsas. Et haec ‘¹‘
+quidem terminorum habitudo inveniri non potest
+in convertibilibus, sicut in subiecto et passione,
+quae per aliquod medium de subiecto concluditur.
+Manifestum est enim quod non potest accipi ali-
+quid, de quo passio universaliter praedicetur, quod
+a subiecto universaliter removeatur. Sed haec
+habitudo potest inveniri, quando propositio est
+mediata, ex hoc quod superius genus vel passio
+superioris generis praedicatur de ultima specie;
+puta si dicamus: Omnis homo est vivus. Vivum
+enirn potest concludi de homine per medium,
+quod est animal. Si ergo accipiamus aliquid, de
+quo vivum universaliter praedicetur, sicut est
+oliva, quae vere removetur ab homine universali-
+ter ⁹, erit habitudo terminorum, quam quaerimus.
+Haec enim erit * falsa: Nulla oliva es! νὶνα,· et
+minor erit similiter ²¹² falsa: Omnis homo est oliva,-
+et similiter conclusio erit falsa: Nullus homo est
+vivus, quod est contrarium propositioni verae me-
+diatae.
+
+Contingit etiarn maiorem esse veram et mino-
+rem esse ²¹³ falsam; puta si accipiamus pro medio
+aliquid, quod non contineatur sub A, puta lapi-
+dem. Tunc enim maior, quae est A-D ³⁸⁸, erit vera,
+scilicet, Nullus lapis est vivens,· quia lapis non
+continetur sub vivo: sed minor erit falsa, scilicet,
+Omnis homo est lapis. Si enim esset haec vera,
+
+propria-D: quod et D; ABDGHlKNOQT om. etiam, cuius loco (ΖΕ
+LM et s. m. S habent et, quae particula forte legi potest etiam. Cum
+D ponat et ante D, non irrationaliter omisit sequens etiam ; attamen
+placet etiam P, cui codices praecitati consentire videntur.—-Codd. (exc.
+1.MR): universaliter sub A et etc.; P: sub A universaliter et etc.
+
+ι) Semper erit salsa etc. — Unus B: semper salsa etiam quantum
+ad modum argumentandi. Et ista deceptio etc.
+
+κ) Potest autem eta-Estiectio codd., quam adoptavimus loco P:
+potest autem hoc modo medium κείμὴ-ΟΕ om. hoc medium.
+
+λ) Et in hoc casu oportebit utrasque propositiones etc. - BC: Et
+in hoc casu oportebit ad hoc quod fiat syllogismus,- ceteris intermediis
+omissis; sed male, uti patet ex immediate sequentibus.
+
+μ) Et sic patet — Addimus et ex omnibus codicibus, qui prae-
+terea habent semel et iterum C loco D. Variatio nullius momenti
+est, ut patet; ideoque retinemus D, tum quia est in textu Aristotelis,
+tum quia sub D designatum est in numero praecedenti medium ex-
+traneum, de quo etiam in hoc numero sermo est. — Supra unus G:
+
+POSTERIORUM ANALYTICORUM LIB. I
+
+prima existente vera ³⁸, sequeretur quod conclusio
+
+'Vera ex c s.m.;
+Ρ et alii codd.:
+
+esset vera, cum tamen dictum sit quod sit falsa. — sa1sa.- enten-
+
+Non autem potest esse e converso quod minor
+sit vera si sit medium extraneum, quia medium
+extraneum non poterit universaliter praedicari de
+B. Oportet autem semper minorem affirmativam
+accipere in prima figura.
+
+5. Deinde cum dicit: Sed per mediam figu-
+ram etc., ostendit quomodo fit syllogismus igno-
+rantiae negativus in secunda figura. Et dicit quod
+non potest contingere in secunda figura, quod
+utraque propositio sit falsa totaliter *. Si enim de-
+beat concludi haec falsa, Nullum B est A, con-
+traria verae; oportet quod A universaliter prae-
+dicetur de B. Unde non poterit aliquid inveniri,
+quod universaliter praedicetur de uno, et univer-
+saliter negetur ³¹² de alter03 sicut supra dictum est,
+cum agebatur de syllogismo ignorantiae in im-
+mediatis ⁴⁹.
+
+Potest tamen altera tantum * 6556 totaliter falsa,
+quaecunque sit illa. Et hoc ³¹* manifestat primo in
+secundo modo secundae figurae, in quo maior est
+affirmativa et minor negatiVa. Sit ergo medium
+sic se habens ad extrema, ut universaliter de utro-
+que praedicetur, sicut vivum praedicatur univer-
+saliter et de homine et de animali ε. Si ergo acci-
+piatur maior affirmativa, ut dicamus, Omne ani-
+mal est vivum; et accipiatur minor negativa, ut
+dicatur *‚ Nullus homo est vivus; maior erit vera
+et minor falsa, et conclusio falsa. Similiter etiam
+si accipiamus in 'primo modo secundae figurae
+maiorem negativam, ut dicamus *, Nullum animal
+est vivum,· et minorem affirmativam, ut dicamus,
+Omnis homo est vivus‚· erit maior falsa et minor
+vera, et conclusio falsa. Ex his dictis epilogando
+concludit dictum esse quando et per quae possit
+fieri deceptio, si syllogismus deceptivus sit pri-
+vativus.
+
+6. Deinde cum dicit: Si vero sit affirmativus etc.,
+ostendit quomodo fiat affirmativus syllogismus de-
+ceptionis ⁰ in propositionibus mediatis. Et primo,
+quando fit per proprium medium; secundo quan-
+do fit per medium simile proprio; ibi: Similiter
+autem et si ex alia * etc.; tertio, quando fit per
+medium extraneum; ibi: Cum vero fit per non
+proprium ⁴* etc.
+
+Dicit ergo primo quod si fiat syllogismus de-
+ceptionis affirmativus in propositionibus mediatis,
+si accipiatur proprium medium, ut supra expo·
+
+et minor sit affirmativa, ut dicamus; O denique erronee: nuIIum Β
+est etc.
+
+ν) Quae vere etc. — ACDEKLNST: quae vere univ. ab hom. renova
+BH: quae vere ab hom. universaliter (Η om. univ.) remov.‚· G om.
+vere5 1: quae recta ab hom. remon„ et om. cum R, universaliter-,- Q
+om„ quae ver-e universaliter. Quae lectiones GHlQR sunt mendosae. Non
+displicet autem lectio cod. M: quae vere et universaliter ab homine re-
+moveatur,· sed melius removetur Ρ et aliorum codd. - Ο hab. lacunam.
+
+ξ) Universaliter de utroque praedicetur etc. - P: valven-samer
+praedicetur de utroque, sicut universaliter viuum de animali praedi-
+catur et de homine. — De utroque praedicetur legimus cum ABCDELN
+OQST, et praedicatur universaliter cum K et eisdem codd„ exc. 0Q3
+sicut cum BCDEGMQST legimus: et (BDGM om. et) de homine et de
+animali5 AHlKLNO: et (Ο om. et) de animali et de homine. R hab.
+iacun.
+
+ο) Ostendit quomodo etc.—- A: determinat de syllogismo ignoran-
+tiae affirmativo, quaesit in etc.
+
+’Λυιε total. salsa,-
+e: tot. sit falsa.
+
+’σιτ removeatur.
+- n ι ab. (et it· cn)
+alio.
+
+‘Lem-prece„ n.5.
+⁸ Tantum. om n.
+
+‘Hoc ex codd.
+
+⁶ no: dcam.
+
+Ὦωιιιιιωωιιτ.
+-με ut sidia--
+hab. iacun.
+
+⁸ codd. (exc. u) :
+Et his.
+
+· Num. neq.
+
+· Num. 8.
+

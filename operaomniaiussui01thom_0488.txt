@@ -1,0 +1,188 @@
+· Cf. lect. praec.
+
+n. 5.
+
+· Lect. praeced.
+
+n. 2.
+
+'³ Cf. lect. praec.
+
+n. Ι.
+
+· Num. seq.
+
+118
+
+4. Deinde subdit convenientiam inter utrunque possi-
+bile, dicens quod in utrisque potestatibus et possibilibus
+verum est non impossibile esse, scilicet, ipsum ambulare,
+quod iam actu ambulat seu agit, et quod iam ambulabile
+est; idest, in hoc conveniunt quod, sive dicatur possibile
+ex eo quod actu est, sive ex eo quod potest esse, de
+utroque verificatur non impossibile; et consequenter ne-
+cessario verificatur possibile, quoniam ad non impossibile
+sequitur possibile. Hoc est secundum genus possibilis, re-
+spectu cuius Aristoteles supra dixit: Et primum quidem *etc.,
+in quo non invenitur via ad utrunque oppositorum, hoc,
+inquam, est possibile quod ia'm actu est. Quod enirn tali
+ratione possibile dicitur, iarn determinatum est ex eo
+quod actu esse suppositum est. Non ergo possibile omne
+ad utrunque possibile est, sive loquamur de possibili phy-
+sice, sive logice.
+
+5. Deinde cum dicit: Sic igitur possibile etc„ applicat de-
+terminatam veritatem ad propositum. Et primo, conclu-
+dendo ex dictis, declarat habitudinem utriusque possibilis
+ad necessarium, dicens quod hoc ergo possibile, scilicet
+physicum quod est in solis mobilibus, non est verum dicere
+et praedicare de necessario simpliciter: quia quod sim-
+pliciter necessarium est, non potest aliter esse. Possibile
+autern physicum potest sic et aliter esse, ut dictum est.
+Addit autem ly simpliciter, quoniam necessarium est mul-
+tiplex. Quoddam enim est ad bene esse, quoddam ex
+suppositione: de quibus non est nostrum tractare, sed
+solummodo id insinuare. Quod ut praeservaret se ab illis
+modis necessarii qui non perfecte et omnino habent ne-
+cessarii rationem, apposuit ly simpliciter. De tali enim
+necessario possibile physicum non verificatur. Alterum
+autem possibile logicum, quod in rebus immobilibus inve-
+nitur, verum est de illo enunciare, quoniam nihil neces-
+sitatis adimit. Et per hoc solvitur ratio inducta '¹‘ ad par-
+tem negativam quaestionis. Peccabat siquidem in hoc,
+
+quod ex necessario inferebat possibile ad utrunque quod
+
+convertitur in oppositam qualitatem.
+
+6. Deinde respondet quaestioni formaliter intendens
+quod affirmativa pars * quaestionis tenenda sit, quod sci-
+licet ad necessarium sequitur possibile; et assignat cau-
+sam. Quia ad partem subiectivam sequitur constructive
+suum totum universale; sed necessarium est pars subie-
+ctiva possibilis: quia possibile dividitur in logicum et
+physicum, et sub logico comprehenditur necessarium
+ergo ad necessarium sequitur possibile. Unde dicit: Quare,
+quoniam partem, scilicet subiectivam, suum totum univer-
+sale sequitur, illud quod ex necessitate est, idest necessa-
+rium, tamquam partem subiectivam, consequitur posse
+esse, idest possibile, tamquam totum universale. Sed non
+omnino, idest sed non ita quod omnis species possibilis
+sequatur; sicut ad hominem sequitur animal, sed non
+omnino, idest non secundum omnes suas partes subiecti-
+vas sequitur ad hominem: non enim valet: est homo, ergo
+est animal irrationale. Et per hoc confirmata ratione ad-
+ducta ad partem affirmativam, expressius solvit rationem
+adductam ad partem negativam, quae peccabat secundum
+fallaciam consequentis, inferens ex necessario possibile,
+descendendo ad unam possibilis speciem, ut de se patet.
+
+7. Deinde cum dicit: Et est fortasse quidem etc„ ordinat
+easdem modalium consequentias alio situ, praeponendo
+necessarium omnibus aliis modis. Et circa hoc duo facit:
+primo, proponit quod intendit; secundo, assignat causam
+dicti ordinis; ibi: Manifestum est autem* etc. Dicit ergo: Et
+est fortasse principium omnium enunciationum modalium vel esse
+vel non esse, idest, affirmativarum vel negativarum, necessa-
+rium et non necessarium. Et oportet considerare alia, sci·
+licet, possibile contingere et impossibile esse, sicut horum,
+scilicet‚necessarii et non necessarii, consequentia, hoc modo:
+
+PERI HERMENEIAS LIB. ΙΙ
+
+CONSEQUENTIAE ENUNCIATIONUM MODALIUM
+SECUNDUM QUATUOR ORDINES ALIO CONVENIENTI SITU
+AB ARISTOTELE POSITAE ET ORDINATAE:
+
+Primus Ordo Secundus Ordo
+
+Necesse est non esse
+Non possibile est esse
+Non contingens est esse
+Impossibile est esse
+
+Quartus Ordo
+
+Non necesse est non esse
+Possibile est esse
+Contingens est esse
+
+Non impossibile est esse
+
+Non possibile est non esse
+Non contingens est non esse
+Impossibile est non esse
+
+Tertius Ordo
+
+Non necesse est esse
+Possibile est non esse
+Contingens est non esse
+
+Non impossibile est non esse
+
+Necesse est esse Ν
+
+ 
+
+ 
+
+Vides autem hic nihil immutatum, nisi quod neces-
+sariae quae ultimum locum tenebant, primum sortitae
+sunt. Quod vero dixit fortasse, non dubitantis, sed absque
+determinata ratione rem proponentis est.
+
+8. Deinde cum dicit: Manifestum est autem ete., in-
+tendit assignare causam dicti ordinis. Et primo, assignat
+causam, quare praeposuerit necessarium possibili tali ra'·
+tione. Sempiternum est prius temporali; sed necessarium
+dicit sempiternitatem (quia dicit esse in actu, excludendo
+omnem mutabilitatem, et consequenter temporalitatem,
+quae sine motu non est imaginabilis), possibile autem
+dicit temporalitatem (quia non excludit quin possit esse
+et non esse); ergo necesse merito prius ponitur quam
+possibile. Unde dicit, proponendo minorem: Manifestum
+est autem ex his quae dicta sunt etc„ tractando de necessario:
+quoniam id quod 'ex necessitate est, secundum actum est
+totaliter, scilicet quia omnem excludit mutabilitatem et
+potentiam ad oppositum: si enim mutari posset in oppo-
+situm aliquo modo, iam non esset necessarium. - Deinde
+subdit maiorem per modum antecedentis conditionalis:
+Quare si priora sunt sempiterna temporalibus etc. - Ultimo
+ponit conclusionem: et quae actu sunt omnino, scilicet
+necessaria, priora sunt potestate, idest possibilibus, quae
+omnino actu esse non ponunt, licet compatiantur.
+
+9. Deinde cum dicit: Et hae quidem etc., assignat cau-
+sam totius ordinis a se inter modales statuti, tali ratione.
+Universi triplex est gradus. Quaedam sunt actu sine pote-
+state, idest sine admixta potentia, ut primae substantiae, -
+non illae quas in praesenti diximus primas, eo quod
+principaliter et maxime substent, sed illae quae sunt pri-
+mae, quia omnium rerum sunt causae, Intelligentiae sci-
+licet. -Alia sunt actu cum possibilitate, ut omnia mobi-
+lia, quae secundum id quod habent de actu sunt priora
+natura seipsis secundum id quod habent de potentia, li-
+cet e contra sit, aspiciendo ordinem temporis. Sunt enim
+secundum id quod habent de potentia priora tempore
+seipsis secundum id quod habent de actu. Verbi gratia,
+Socrates prius secundum tempus poterat esse philoso-
+phus, deinde fuit actualiter philosophus. Potentia ergo
+praecedit actum secundum ordinem temporis in Socrate,
+ordine autem naturae, perfectionis et dignitatis e con-
+verso contingit. Prior enim secundum dignitatem, idest
+dignior et perfectior habebatur Socrates cum philosophus
+actualiter erat, quam cum philosophus esse poterat. Prae·
+posterus est igitur ordo potentiae et actus in unomet‚
+utroque ordine,scilicet, naturae et temporis attento - Alia
+vero nunquam sunt actu sed potestate tantum, ut motuS,
+tempus, infinita divisio magnitudiniS, et infinita augmenta·
+tio numeri. Haec enim, ut IX Metaphys. dicitur, nunquam
+exeunt in actum, quoniam eorum rationi repugnat. Nun-
+quam enim aliquid horum ita est quin aliquid eius ex-
+pectetur‚ et consequenter nunquam esse potest nisi in po-
+tentia. Sed de his alio tractandum est loco.
+
+9. Nunc haec ideo dicta sint ut, inspecto ordine uni-
+versi, appareat quod illum imitati sumus in nostro ordi-
+
